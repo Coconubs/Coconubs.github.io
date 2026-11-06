@@ -80,6 +80,11 @@ defaults:
     values:
       lang: en
       locale: en_US
+  # File xác minh Google Search Console: giữ nguyên file, chỉ bỏ khỏi sitemap.xml
+  - scope:
+      path: "google529a1e1590484e5f.html"
+    values:
+      sitemap: false
 
 exclude:
   - README.md

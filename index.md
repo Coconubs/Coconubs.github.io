@@ -1,7 +1,7 @@
 ---
 title: Trang chủ
 seo_title: "Coco Cobblemon: server Cobblemon Việt Nam, CocoLauncher và hướng dẫn"
-description: "Coco Cobblemon là server Minecraft Java 1.21.1 chơi Cobblemon cho người Việt, IP coco.ultramc.co. Tải CocoLauncher (Coco Launcher), cách vào server, tính năng, hỏi đáp."
+description: "Coco Cobblemon là server Cobblemon Việt Nam trên Minecraft Java 1.21.1, IP coco.ultramc.co. Tải CocoLauncher (Coco Launcher), cách vào server, tính năng, hỏi đáp."
 nav_order: 1
 permalink: /
 alt: /en/
