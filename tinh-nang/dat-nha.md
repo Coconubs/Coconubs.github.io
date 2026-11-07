@@ -18,7 +18,7 @@ Trên server Coco Cobblemon, bạn giữ nhà bằng cách claim đất theo chu
 - Đứng trong chunk muốn giữ rồi gõ `/claim`. Bỏ claim: `/unclaim`.
 - Mở bản đồ thế giới (Xaero) để thấy đất đã claim; chuột phải trên bản đồ để claim hoặc bỏ claim nhiều chunk một lúc.
 - Mỗi người tối đa 50 chunk (Rank được thêm). Chỉ claim được trong vòng 5 chunk quanh chỗ đứng và chỉ ở Overworld.
-- **Ngoài ±30.000 (theo X hoặc Z) không claim được**, khu đó reset 2 tuần một lần. Muốn xây lâu dài thì chọn chỗ trong ±30.000.
+- **Ngoài ±30.000 (theo X hoặc Z) không claim được** và không đặt được rương, shulker, balo, Pasture; khu đó reset 2 tuần một lần. Muốn xây lâu dài thì chọn chỗ trong ±30.000.
 
 ## Xây chung và khoá đất riêng
 
@@ -55,6 +55,6 @@ Waystone: chuột phải để kích hoạt, rồi dịch chuyển giữa các W
 `/claim` các chunk quanh nhà. Muốn cả thành viên bang khác cũng không vào được thì dùng `/dat khoa`.
 
 **Xây ở đâu cho an toàn?**
-Trong ±30.000 theo X và Z. Ngoài vùng này không claim được và reset 2 tuần một lần.
+Trong ±30.000 theo X và Z. Ngoài vùng này không claim được, không đặt được rương, balo, Pasture, và reset 2 tuần một lần.
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 07/11/2026. Con số có thể đổi theo cập nhật, Menu trong game luôn là bản đúng nhất.*
