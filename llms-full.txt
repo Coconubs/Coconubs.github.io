@@ -95,7 +95,7 @@ Số người chơi thay đổi theo giờ, nên dưới đây là số đo có 
 | Tối 04/11/2026 | Cao điểm khoảng 120 người online cùng lúc (nhật ký server) |
 | 07/11/2026 | Discord Hyper Space có khoảng 1.800 thành viên |
 
-Buổi tối, nhất là Thứ 7 và Chủ Nhật, là lúc đông nhất. Lịch bảo trì và sự kiện báo trên Discord.
+Buổi tối, nhất là Thứ 7 và Chủ Nhật, là lúc nhiều người online nhất. Lịch bảo trì và sự kiện báo trên Discord.
 
 ## Lịch trong tuần (giờ Việt Nam)
 
@@ -420,7 +420,18 @@ Chưa có bản iOS.
 
 Vẫn lỗi: dùng nút **Gửi log lỗi cho admin** trong Cài đặt của launcher, rồi báo trên [Discord](https://discord.gg/hyspace).
 
-*Cập nhật: 06/11/2026.*
+## Hỏi nhanh
+
+**Có server Cobblemon Việt nào vào được bằng điện thoại không?**
+Có. Coco Cobblemon, server Cobblemon của cộng đồng người Việt (`coco.ultramc.co`, Minecraft Java 1.21.1), vào được trên Android bằng CocoLauncher Android và chơi chung với người dùng máy tính. Đây là bản thử nghiệm, cần RAM từ 6 GB.
+
+**Dùng launcher Android khác như FCL hay PojavLauncher được không?**
+Fold Craft Launcher (FCL) và PojavLauncher chạy được Minecraft Java Edition trên Android, nhưng bạn phải tự cài Fabric và từng mod cho đúng bản server. Server Coco Cobblemon cần đúng bộ mod riêng, nên dùng CocoLauncher Android để launcher tự cài.
+
+**Chơi bằng Minecraft PE được không?**
+Không. Cobblemon là mod cho Java Edition, Minecraft PE và Bedrock không vào được server.
+
+*Cập nhật: 07/11/2026.*
 
 ---
 
@@ -1383,7 +1394,18 @@ Muốn dịch kỹ hơn, có thể xem [Viethoa [Cobbemon]](https://modrinth.com
 
 Đây là nội dung riêng của server, không phải gói dịch cho Cobblemon: launcher, Menu chính, Hướng dẫn, nhiệm vụ và thông báo server được viết bằng tiếng Việt. Tên Pokémon, chiêu thức trong trận vẫn đi theo ngôn ngữ bạn chọn trong Minecraft và phần dịch ở trên.
 
-*Cập nhật: 06/11/2026.*
+## Hỏi nhanh
+
+**Cobblemon Việt hoá tải ở đâu?**
+Không cần tải thêm để có phần dịch cơ bản: Cobblemon 1.7.3 có sẵn ngôn ngữ Tiếng Việt, bật trong Options, Language. Muốn dịch kỹ hơn thì xem gói Viethoa [Cobbemon] trên Modrinth ở mục trên, nhớ kiểm có khớp bản Cobblemon bạn chơi không.
+
+**Có server Cobblemon tiếng Việt không?**
+Có. Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt: launcher, menu, hướng dẫn và thông báo bằng tiếng Việt, có nút chọn tiếng Anh. Địa chỉ `coco.ultramc.co`, Minecraft Java 1.21.1, Cobblemon 1.7.3, vào game bằng [CocoLauncher](https://coconubs.github.io/cocolauncher/). Xem thêm [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/).
+
+**Cobblemon Việt hoá có chơi được trên Minecraft PE không?**
+Không. Cobblemon là mod cho Minecraft Java Edition. Trên điện thoại Android, xem [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/).
+
+*Cập nhật: 07/11/2026.*
 
 ---
 
