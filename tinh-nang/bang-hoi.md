@@ -15,6 +15,7 @@ Bang hội dùng Party của Open Parties and Claims. Tạo bang: `/oparties cre
 - **Nâng cấp bang** (5 cấp) bằng GP, tiền và Quỹ Tokens. Cấp càng cao mở thêm công thức chế tạo và quyền lợi.
 - **Hào quang Bang:** bang có từ 3 thành viên online thì mọi thành viên online được +10% EXP trận đấu và +10% tỉ lệ bắt.
 - **Chat bang:** `/banghoi chat` bật, tắt chế độ chat bang.
+- **Quản lý bang bằng lệnh** (từ 07/11/2026): `/banghoi leave` rời bang, `disband` giải tán, `transfer <tên>` chuyển chủ bang, `promote`, `demote` phong, bỏ phó bang, `join` vào bang. Tên tiếng Việt: `roi`, `giaitan`, `chuyenchu`, `phongpho`, `bopho`, `vao`. Gõ `/banghoi help` để xem cách dùng.
 - **Phòng voice Discord:** khi có thành viên online, bot tự tạo phòng voice riêng cho bang.
 
 ## Bang Hội Chiến

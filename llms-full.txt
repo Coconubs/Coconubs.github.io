@@ -573,7 +573,7 @@ Số dư hiện trên scoreboard bên phải màn hình và đầu Menu.
 | Đi lại | `/rtp` tới chỗ ngẫu nhiên xa 5.000-25.000 khối · `/tpa <tên>` · `/tpaccept` · `/warps` |
 | Đất | `/claim` · `/unclaim` · `/dat khoa` khoá đất riêng |
 | Bang | `/banghoi` · `/bangchien` · `/bossbang` |
-| Tiền và Pokémon | `/sell` bán đồ · `/pay` chuyển tiền · `/gts` chợ Pokémon |
+| Tiền và Pokémon | `/sell` bán đồ · `/pay` chuyển tiền · `/gts` hoặc `/ah` Chợ GTS (Chợ Đen) |
 | Hằng ngày | `/nghenghiep` · `/xephang` Đấu Xếp Hạng · `/battletower` · `/cauca` |
 | Khác | `/link` liên kết Discord · `/ngonngu en` đổi sang tiếng Anh · `/help` đủ lệnh |
 
@@ -751,6 +751,7 @@ Bang hội dùng Party của Open Parties and Claims. Tạo bang: `/oparties cre
 - **Nâng cấp bang** (5 cấp) bằng GP, tiền và Quỹ Tokens. Cấp càng cao mở thêm công thức chế tạo và quyền lợi.
 - **Hào quang Bang:** bang có từ 3 thành viên online thì mọi thành viên online được +10% EXP trận đấu và +10% tỉ lệ bắt.
 - **Chat bang:** `/banghoi chat` bật, tắt chế độ chat bang.
+- **Quản lý bang bằng lệnh** (từ 07/11/2026): `/banghoi leave` rời bang, `disband` giải tán, `transfer <tên>` chuyển chủ bang, `promote`, `demote` phong, bỏ phó bang, `join` vào bang. Tên tiếng Việt: `roi`, `giaitan`, `chuyenchu`, `phongpho`, `bopho`, `vao`. Gõ `/banghoi help` để xem cách dùng.
 - **Phòng voice Discord:** khi có thành viên online, bot tự tạo phòng voice riêng cho bang.
 
 ## Bang Hội Chiến

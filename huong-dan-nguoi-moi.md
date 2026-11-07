@@ -48,7 +48,7 @@ Số dư hiện trên scoreboard bên phải màn hình và đầu Menu.
 | Đi lại | `/rtp` tới chỗ ngẫu nhiên xa 5.000-25.000 khối · `/tpa <tên>` · `/tpaccept` · `/warps` |
 | Đất | `/claim` · `/unclaim` · `/dat khoa` khoá đất riêng |
 | Bang | `/banghoi` · `/bangchien` · `/bossbang` |
-| Tiền và Pokémon | `/sell` bán đồ · `/pay` chuyển tiền · `/gts` chợ Pokémon |
+| Tiền và Pokémon | `/sell` bán đồ · `/pay` chuyển tiền · `/gts` hoặc `/ah` Chợ GTS (Chợ Đen) |
 | Hằng ngày | `/nghenghiep` · `/xephang` Đấu Xếp Hạng · `/battletower` · `/cauca` |
 | Khác | `/link` liên kết Discord · `/ngonngu en` đổi sang tiếng Anh · `/help` đủ lệnh |
 
