@@ -3,6 +3,7 @@ title: Server Cobblemon Việt Nam
 seo_title: "Server Cobblemon Việt Nam: Coco Cobblemon, IP, ping, lịch sự kiện"
 description: "Coco Cobblemon là server Cobblemon Việt Nam trên Minecraft Java 1.21.1, IP coco.ultramc.co, máy chủ Singapore ping khoảng 29 ms từ TP.HCM. Lịch sự kiện, cách chọn server."
 nav_order: 4
+alt: /en/vietnam-cobblemon-server/
 ---
 
 # Server Cobblemon Việt Nam: Coco Cobblemon

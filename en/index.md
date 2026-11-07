@@ -81,6 +81,7 @@ Yes. Anyone can download CocoLauncher and join. Most players and most of the cha
 
 ## More pages
 
+- [Cobblemon server in Vietnam: ping, schedule, how to choose](/en/vietnam-cobblemon-server/)
 - [CocoLauncher download](/en/cocolauncher/)
 - [How to join](/en/how-to-join/)
 - [Features](/en/features/)
