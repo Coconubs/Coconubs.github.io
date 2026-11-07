@@ -19,8 +19,8 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 |---|---|
 | [Đấu Xếp Hạng](/tinh-nang/dau-xep-hang/) | Đấu Đôi 4v4 tính Elo (thể thức chính), Đấu Đơn 6v6. Ghép ẩn theo Elo, hạng Đồng tới Cao Thủ, top 5 là Thách Đấu |
 | [BattleTower](/tinh-nang/battletower/) | 555 tầng, đấu 6v6 với NPC, cứ 5 tầng có 1 tầng boss dùng Mega, Dynamax, Tera, Z-Move |
-| Gym, Tứ Thiên Vương, Champion | Mỗi trận có mốc cấp riêng, Pokémon cao hơn mốc được hạ về đúng mốc trong trận (bản sao, Pokémon thật không đổi). Đội NPC IV tối đa, AI mạnh nhất |
-| NPC Tiền Thưởng | Mỗi ngày 1 NPC cấp 100 xuất hiện ngẫu nhiên từ 7:00 tới 22:00, đội được chọn để khắc đội bạn. Tra bằng `/tienthuong` |
+| [Gym, Tứ Thiên Vương, Champion](/tinh-nang/gym-npc/) | Mỗi trận có mốc cấp riêng, Pokémon cao hơn mốc được hạ về đúng mốc trong trận (bản sao, Pokémon thật không đổi). Đội NPC IV tối đa, AI mạnh nhất |
+| [NPC Tiền Thưởng](/tinh-nang/gym-npc/#npc-tien-thuong) | Mỗi ngày 1 NPC cấp 100 xuất hiện ngẫu nhiên từ 7:00 tới 22:00, đội được chọn để khắc đội bạn. Tra bằng `/tienthuong` |
 | [Raid Thế Giới](/tinh-nang/raid/) | Boss chung cả server lúc 9:00 và 19:00, top 5 sát thương được bắt boss |
 
 ## Bắt Pokémon
@@ -53,6 +53,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 | [Câu cá](/tinh-nang/cau-ca/) | 100 loài cá, 7 độ hiếm, sách sưu tập, khung giờ vàng 19:00-22:00 |
 | [Tiền tệ, Shop, Chợ GTS](/tinh-nang/kinh-te/) | CobbleDollars, Tokens, BattleTower Points. Held Item, thuốc EV, Mint, kẹo IV mua bằng Tokens; Chợ GTS mua bán giữa người chơi (`/gts`, `/ah`) |
 | [Breeding](/tinh-nang/breeding/) | Lấy trứng bằng Pasture Block, khoảng 4-8 giờ 1 trứng, nhanh hơn trong đất bang |
+| [Đất, nhà, dịch chuyển](/tinh-nang/dat-nha/) | `/claim` theo chunk, khoá đất riêng `/dat khoa`, `/sethome`, `/rtp`, Waystone. Ngoài ±30.000 không claim được |
 | Túi May Mắn | Rơi khi bắt Pokémon, thắng trận, đào quặng, câu cá |
 | Mini-game | Tiến Lên, Cờ Tỷ Phú, Cờ Vua (tính Elo) |
 
