@@ -76,6 +76,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 - [Launcher nào để chơi Cobblemon](/launcher-cobblemon/)
 - [Cách tải Cobblemon cho Minecraft Java](/cach-tai-cobblemon/)
 - [Cobblemon Việt hoá: chơi bằng tiếng Việt](/cobblemon-viet-hoa/)
+- [Cobblemon PE, Bedrock: có bản cho Minecraft PE không?](/cobblemon-pe/)
 - [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](/pokemon-trong-minecraft/)
 - [Nhật ký cập nhật](/cap-nhat/): Chợ GTS mới, Shop và Ngân hàng trong menu, lệnh bang hội (07/11/2026)
 

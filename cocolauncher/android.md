@@ -69,6 +69,6 @@ Có. Coco Cobblemon, server Cobblemon của cộng đồng người Việt (`coc
 Fold Craft Launcher (FCL) và PojavLauncher chạy được Minecraft Java Edition trên Android, nhưng bạn phải tự cài Fabric và từng mod cho đúng bản server. Server Coco Cobblemon cần đúng bộ mod riêng, nên dùng CocoLauncher Android để launcher tự cài.
 
 **Chơi bằng Minecraft PE được không?**
-Không. Cobblemon là mod cho Java Edition, Minecraft PE và Bedrock không vào được server.
+Không. Cobblemon là mod cho Java Edition, Minecraft PE và Bedrock không vào được server. Gói "Cobblemon PE" trên mạng là addon của người khác, xem [Cobblemon PE, Bedrock](/cobblemon-pe/).
 
 *Cập nhật: 07/11/2026.*
