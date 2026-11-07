@@ -1,0 +1,1897 @@
+# Coco Cobblemon: toàn bộ tài liệu dạng chữ
+
+> Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher.
+
+Bản chữ của các trang https://coconubs.github.io/ (tiếng Việt, kèm phần tiếng Anh ở cuối). Cập nhật 07/11/2026. Bản tóm tắt: https://coconubs.github.io/llms.txt
+
+---
+
+Trang: Coco Cobblemon: server Cobblemon Việt Nam, CocoLauncher và hướng dẫn
+URL: https://coconubs.github.io/
+
+# Coco Cobblemon
+
+Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher.
+
+[Tải CocoLauncher](https://coconubs.github.io/cocolauncher/)
+[Cách vào server](https://coconubs.github.io/cach-vao-server/)
+[Discord](https://discord.gg/hyspace)
+
+---
+
+| | |
+|---|---|
+| **Địa chỉ server** | `coco.ultramc.co` |
+| **Phiên bản** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
+| **Máy chủ** | Đặt ở Singapore, ping khoảng 29 ms từ TP.HCM (đo 06/11/2026) |
+| **Ngôn ngữ** | Tiếng Việt, có nút chọn tiếng Anh trong menu |
+| **Vào game bằng** | CocoLauncher cho Windows, macOS, Android |
+| **Chi phí** | Tải launcher và vào server không mất phí |
+| **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace) (tên server Discord: Hyper Space) |
+
+## Bắt đầu từ đâu
+
+| Bạn muốn | Đọc trang |
+|---|---|
+| Tải launcher cho máy tính | [CocoLauncher (Coco Launcher)](https://coconubs.github.io/cocolauncher/) |
+| Chơi trên điện thoại | [Chơi Cobblemon trên điện thoại Android](https://coconubs.github.io/cobblemon-dien-thoai/) |
+| Vào server lần đầu | [Cách vào server Coco Cobblemon](https://coconubs.github.io/cach-vao-server/) |
+| Biết nên làm gì ngày đầu, lệnh hay dùng | [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/) |
+| Xem server có gì | [Tính năng](https://coconubs.github.io/tinh-nang/) |
+| Launcher báo lỗi | [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/) |
+| Câu hỏi thường gặp | [Hỏi đáp](https://coconubs.github.io/hoi-dap/) |
+
+## Server có gì
+
+- **[Đấu Xếp Hạng](https://coconubs.github.io/tinh-nang/dau-xep-hang/):** Đấu Đôi 4v4 tính Elo, Đấu Đơn 6v6, ghép trận tự động.
+- **[BattleTower](https://coconubs.github.io/tinh-nang/battletower/):** 555 tầng, cứ 5 tầng có 1 tầng boss.
+- **[Bang hội](https://coconubs.github.io/tinh-nang/bang-hoi/):** Bang Hội Chiến từ Thứ 2 tới Thứ 6, Boss Bang mỗi ngày, Quà Bang, khoá đất riêng.
+- **[Raid Thế Giới](https://coconubs.github.io/tinh-nang/raid/):** boss chung cả server lúc 9:00 và 19:00 mỗi ngày.
+- **[Legendary tích luỹ](https://coconubs.github.io/tinh-nang/legendary/):** server càng lâu chưa có Legendary thì tỉ lệ càng tăng, Giờ Vàng cuối tuần 20h-22h.
+- **[Shiny](https://coconubs.github.io/tinh-nang/shiny/):** Dung hợp Shiny, Trứng Pokémon, Raid, Daily Shop.
+- **[Việc hằng ngày](https://coconubs.github.io/tinh-nang/hang-ngay/):** Battle Pass, Nghề nghiệp, Ải Viễn Chinh, Daily Shop, điểm danh.
+- **[Câu cá](https://coconubs.github.io/tinh-nang/cau-ca/):** 100 loài cá, sách sưu tập, khung giờ vàng mỗi tối.
+
+## Tìm hiểu thêm về Cobblemon
+
+- [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/)
+- [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/)
+- [Cách tải Cobblemon cho Minecraft Java](https://coconubs.github.io/cach-tai-cobblemon/)
+- [Cobblemon Việt hoá: chơi bằng tiếng Việt](https://coconubs.github.io/cobblemon-viet-hoa/)
+- [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](https://coconubs.github.io/pokemon-trong-minecraft/)
+- [Nhật ký cập nhật](https://coconubs.github.io/cap-nhat/): Chợ GTS mới, Shop và Ngân hàng trong menu, lệnh bang hội (07/11/2026)
+
+*Cập nhật: 07/11/2026.*
+
+---
+
+Trang: Server Cobblemon Việt Nam: Coco Cobblemon, IP, ping, lịch sự kiện
+URL: https://coconubs.github.io/server-cobblemon-viet-nam/
+
+# Server Cobblemon Việt Nam: Coco Cobblemon
+
+Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Trang này dành cho người đang tìm một server Cobblemon Việt Nam: thông số server, ping từ Việt Nam, số người chơi có ngày đo, lịch sự kiện theo giờ Việt Nam và những điều nên kiểm trước khi chọn server.
+
+## Thông số nhanh
+
+| | |
+|---|---|
+| **Địa chỉ** | `coco.ultramc.co` |
+| **Phiên bản** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
+| **Máy chủ đặt ở** | Singapore. Ping đo ngày 06/11/2026: khoảng 29 ms từ TP.HCM |
+| **Ngôn ngữ** | Tiếng Việt, có nút chọn tiếng Anh trong menu (`/ngonngu en`) |
+| **Vào game** | CocoLauncher cho Windows, macOS, Android |
+| **Giờ sự kiện** | Giờ Việt Nam (UTC+7) |
+| **Chi phí** | Tải launcher và vào server không mất phí. Rank và Battle Pass Premium không bắt buộc |
+| **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace), tên server Discord là Hyper Space |
+
+## Server có đông không
+
+Số người chơi thay đổi theo giờ, nên dưới đây là số đo có ngày, không phải con số cố định.
+
+| Đo lúc | Số liệu |
+|---|---|
+| 20:28 Thứ 7, 07/11/2026 | 110 người đang online (trang trạng thái mcsrvstat.us) |
+| Tối 04/11/2026 | Cao điểm khoảng 120 người online cùng lúc (nhật ký server) |
+| 07/11/2026 | Discord Hyper Space có khoảng 1.800 thành viên |
+
+Buổi tối, nhất là Thứ 7 và Chủ Nhật, là lúc đông nhất. Lịch bảo trì và sự kiện báo trên Discord.
+
+## Lịch trong tuần (giờ Việt Nam)
+
+| Khi nào | Có gì |
+|---|---|
+| Mỗi ngày 0:00 | Làm mới nhiệm vụ Battle Pass, Nghề nghiệp, Ải Viễn Chinh và Daily Shop. Boss Bang mới, phát BattleTower Points |
+| Mỗi ngày 9:00 và 19:00 | [Raid Thế Giới](https://coconubs.github.io/tinh-nang/raid/), mỗi lượt kéo dài 2 tiếng |
+| Mỗi tối 19:00-22:00 | Khung giờ vàng [câu cá](https://coconubs.github.io/tinh-nang/cau-ca/) |
+| Thứ 2 tới Thứ 6, 9:00-22:00 | [Bang Hội Chiến](https://coconubs.github.io/tinh-nang/bang-hoi/), tổng kết lúc 22:00 |
+| Thứ 7, Chủ Nhật | Boss Bang là Legendary, BattleTower Points nhân 3 |
+| Thứ 7, Chủ Nhật, 20:00-22:00 | Giờ Vàng [Legendary](https://coconubs.github.io/tinh-nang/legendary/), tỉ lệ đang tích luỹ nhân 2 |
+
+## Nên kiểm gì trước khi chọn một server Cobblemon
+
+Không có bảng xếp hạng chính thức nào cho server Cobblemon Việt Nam. Nếu đang so vài server, đây là những điểm quyết định bạn chơi có thoải mái không, kèm câu trả lời của Coco Cobblemon.
+
+| Điều nên kiểm | Vì sao | Coco Cobblemon |
+|---|---|---|
+| Phiên bản Minecraft và Cobblemon | Bản ở máy bạn phải khớp server | Java 1.21.1, Cobblemon 1.7.3 |
+| Cách cài mod | Tự cài dễ thiếu mod hoặc lệch bản | CocoLauncher tự cài, mod tự cập nhật theo server |
+| Ping từ Việt Nam | Ping cao làm trận đấu, bay, đào khối bị trễ | Máy chủ Singapore, khoảng 29 ms từ TP.HCM |
+| Ngôn ngữ | Menu, nhiệm vụ, hướng dẫn có đọc được không | Tiếng Việt, có tiếng Anh |
+| Thiết bị | Có server chỉ chơi được trên máy tính | Windows, macOS, Android (thử nghiệm) |
+| Việc để làm lâu dài | Chỉ bắt Pokémon thì nhanh chán | Đấu Xếp Hạng, BattleTower, Bang Hội Chiến, Raid, Legendary tích luỹ |
+| Phần phải trả tiền | Biết trước cái gì miễn phí | Vào chơi không mất phí. Rank và Battle Pass Premium là tuỳ chọn |
+| Hỗ trợ | Lỗi launcher, mất đồ cần người xử lý | Hỏi trên Discord Hyper Space |
+
+## Chơi gì trên server
+
+Người mới thường bắt đầu bằng bắt Pokémon, sau đó mới đánh trận và vào bang. Các hệ thống chính:
+
+- [Đấu Xếp Hạng](https://coconubs.github.io/tinh-nang/dau-xep-hang/): Đấu Đôi 4v4 tính Elo và Đấu Đơn 6v6, ghép trận tự động theo Elo.
+- [BattleTower](https://coconubs.github.io/tinh-nang/battletower/) 555 tầng, Gym và Tứ Thiên Vương, [Ải Viễn Chinh](https://coconubs.github.io/tinh-nang/hang-ngay/#vien-chinh) 3 lượt mỗi ngày.
+- [Legendary tích luỹ](https://coconubs.github.io/tinh-nang/legendary/): server càng lâu chưa có Legendary thì tỉ lệ càng tăng, xem ngay trên HUD.
+- [Bang hội](https://coconubs.github.io/tinh-nang/bang-hoi/): Bang Hội Chiến, Boss Bang, Quà Bang, khoá đất riêng cho từng thành viên.
+- [Raid Thế Giới](https://coconubs.github.io/tinh-nang/raid/) và NPC Tiền Thưởng mỗi ngày.
+- [Việc hằng ngày](https://coconubs.github.io/tinh-nang/hang-ngay/): điểm danh, Battle Pass, Nghề nghiệp, Daily Shop, [câu cá](https://coconubs.github.io/tinh-nang/cau-ca/).
+
+Danh sách đầy đủ ở trang [Tính năng](https://coconubs.github.io/tinh-nang/). Thay đổi mới nhất ghi ở [Nhật ký cập nhật](https://coconubs.github.io/cap-nhat/).
+
+## Khác gì Cobblemon chơi một mình
+
+- **Kinh tế riêng:** CobbleDollars, Tokens và BattleTower Points. Held Item, thuốc EV, Mint, kẹo IV mua ở Shop Tokens thay vì nhặt ngoài thế giới.
+- **Shiny không xuất hiện tự nhiên:** có Shiny qua Dung hợp, Trứng, Raid, Daily Shop và Battle Pass. Xem [Shiny](https://coconubs.github.io/tinh-nang/shiny/).
+- **Breeding chậm hơn bản gốc 5 lần**, nhanh hơn khi đặt Pasture trong đất bang.
+- **Menu tiếng Việt** có Pokédex mô hình 3D, tra cứu và hướng dẫn từng tính năng.
+
+## Vào server thế nào
+
+1. Tải CocoLauncher ở trang [CocoLauncher](https://coconubs.github.io/cocolauncher/).
+2. Nhập tên trong game, bấm **Chơi**. Launcher tự cài Java, Minecraft, Fabric và đúng bộ mod của server.
+3. Vào game, gõ `/menu` để mở Hướng dẫn tiếng Việt.
+
+Chi tiết ở [Cách vào server](https://coconubs.github.io/cach-vao-server/).
+
+## Máy nào chơi được
+
+| Máy | Chơi được? |
+|---|---|
+| Windows 10, 11 | Có |
+| macOS (chip Apple, Intel) | Có |
+| Android | Có, bản thử nghiệm, RAM từ 6 GB. Xem [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/) |
+| Linux | Chưa có bản launcher |
+| iPhone, iPad | Chưa có |
+| Minecraft Bedrock, PE | Không, vì Cobblemon là mod cho Java Edition |
+
+## Tên khác của server
+
+Trong video hoặc bài cũ, bạn có thể gặp các tên dưới đây. Tất cả là cùng một server, Coco Cobblemon:
+
+- **Hyper Space**: tên server Discord của cộng đồng.
+- **Coco's Hyper Space**, **Coco Cobbleverse**: tên trong vài video và bài Facebook cũ.
+
+## Hỏi nhanh
+
+**Có server Cobblemon nói tiếng Việt không?**
+Có. Coco Cobblemon dùng tiếng Việt cho launcher, menu, hướng dẫn và thông báo. Một số chữ của Cobblemon và mod khác vẫn có thể hiện tiếng Anh.
+
+**Ping từ Việt Nam tới server bao nhiêu?**
+Máy chủ đặt ở Singapore. Đo ngày 06/11/2026, ping từ TP.HCM khoảng 29 ms. Ping thật còn tuỳ nhà mạng và nơi bạn ở; trong game, danh sách server của Minecraft có hiện vạch ping.
+
+**Server có chạy cả ngày không?**
+Có. Buổi tối là lúc đông người chơi. Lịch sự kiện và bảo trì báo trên Discord.
+
+**Gặp lỗi khi vào thì hỏi ở đâu?**
+Xem trước [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/), chưa được thì hỏi trên [Discord](https://discord.gg/hyspace).
+
+*Cập nhật: 07/11/2026.*
+
+---
+
+Trang: Cách vào server Coco Cobblemon: IP coco.ultramc.co, 5 bước
+URL: https://coconubs.github.io/cach-vao-server/
+
+# Cách vào server Coco Cobblemon
+
+Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Trang này đi từ lúc tải launcher tới khi mở Menu trong game.
+
+| | |
+|---|---|
+| **Địa chỉ server (IP)** | `coco.ultramc.co` |
+| **Phiên bản** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
+| **Launcher** | [CocoLauncher](https://coconubs.github.io/cocolauncher/) |
+| **Chi phí** | Tải launcher và vào server không mất phí. Có Rank và Battle Pass Premium, đều không bắt buộc |
+
+## 5 bước vào server
+
+1. **Tải launcher:** vào trang [CocoLauncher](https://coconubs.github.io/cocolauncher/), chọn đúng hệ điều hành: Windows, macOS hoặc [Android](https://coconubs.github.io/cobblemon-dien-thoai/).
+2. **Nhập tên:** 3 đến 16 ký tự, chữ không dấu, số hoặc dấu gạch dưới.
+3. **Bấm Chơi:** lần đầu launcher tải Java, Minecraft, Fabric và gói mod, nên dùng mạng ổn định. Những lần sau chỉ tải phần thay đổi.
+4. **Vào game:** launcher tự kết nối tới server. Làm theo hướng dẫn đăng ký trên màn hình.
+5. **Mở Menu:** gõ `/menu` hoặc cầm vật phẩm Menu ở ô cuối thanh công cụ rồi bấm chuột phải. Trong Menu có mục Hướng dẫn tiếng Việt cho từng tính năng.
+
+Xong 5 bước, đọc [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/) để biết nên làm gì ngày đầu.
+
+## Liên kết Discord
+
+Nhiều phần thưởng cần tài khoản đã liên kết Discord, ví dụ điểm danh mỗi ngày và một số mã quà.
+
+1. Vào Discord [discord.gg/hyspace](https://discord.gg/hyspace).
+2. Trong game gõ `/link` để lấy mã.
+3. Trên Discord gõ `/link <mã>` cho bot Coco.
+
+## Tự kết nối bằng launcher khác được không?
+
+Không nên. Server cần đúng bộ mod, launcher khác sẽ thiếu mod hoặc sai phiên bản và bị từ chối khi vào. Gặp lỗi thì xem [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/).
+
+## Chơi bằng Minecraft Bedrock, PE được không?
+
+Không. Cobblemon là mod cho Java Edition. Trên điện thoại Android có thể dùng CocoLauncher Android, bản thử nghiệm chạy Java Edition. Hiện chưa có bản iOS.
+
+*Cập nhật: 06/11/2026.*
+
+---
+
+Trang: CocoLauncher (Coco Launcher): tải launcher Coco Cobblemon cho Windows, macOS, Android
+URL: https://coconubs.github.io/cocolauncher/
+
+# CocoLauncher (Coco Launcher)
+
+CocoLauncher là launcher của server Coco Cobblemon, tự cài Java, Minecraft, Fabric và gói mod để người chơi vào server chỉ bằng một nút. Nhà phát hành là Coconubs.
+
+## Tải CocoLauncher
+
+| Nền tảng | Link tải | Cách cài |
+|---|---|---|
+| Windows 10, 11 (khuyên dùng) | [Microsoft Store](https://apps.microsoft.com/detail/9NPG31VS7T2H?cid=docs) | [Windows](https://coconubs.github.io/cocolauncher/windows/) |
+| Windows, file cài | [CocoLauncher-Setup.exe](https://github.com/Coconubs/cocolauncher-pack/releases/download/launcher/CocoLauncher-Setup.exe) | [Windows](https://coconubs.github.io/cocolauncher/windows/) |
+| macOS M1-M4 và mới hơn (chip Apple) | [CocoLauncher-Mac-AppleSilicon.dmg](https://github.com/Coconubs/cocolauncher-pack/releases/download/launcher/CocoLauncher-Mac-AppleSilicon.dmg) | [macOS](https://coconubs.github.io/cocolauncher/macos/) |
+| macOS Intel | [CocoLauncher-Mac-Intel.dmg](https://github.com/Coconubs/cocolauncher-pack/releases/download/launcher/CocoLauncher-Mac-Intel.dmg) | [macOS](https://coconubs.github.io/cocolauncher/macos/) |
+| Android (thử nghiệm, RAM từ 6 GB) | [CocoLauncher-Android.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android.apk) | [Điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/) |
+| Android trên giả lập PC (MuMu, LDPlayer) | [CocoLauncher-Android-GiaLap.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android-GiaLap.apk) | [Điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/#gia-lap) |
+| iOS, Linux | Chưa có | |
+
+Chỉ tải từ các link trên (Microsoft Store hoặc [GitHub Releases của Coconubs](https://github.com/Coconubs/cocolauncher-pack/releases)). Bản đăng lại ở trang khác có thể đã bị sửa. Cách đối chiếu file ở trang [CocoLauncher có an toàn không](https://coconubs.github.io/cocolauncher/an-toan/).
+
+Trên Google Play có app giao diện điện thoại cũng tên "Coco Launcher". Đó là ứng dụng khác, không liên quan tới Minecraft hay server Coco Cobblemon.
+
+## CocoLauncher làm gì
+
+- **Một nút Chơi:** tự tải và kiểm tra Java, Minecraft 1.21.1, Fabric Loader, gói mod và resource pack của server.
+- **Mod tự cập nhật theo server:** người chơi không phải chép file tay. Mỗi lần chạy, launcher kiểm tra lại gói mod.
+- **Cài đặt:** lưu nhiều tên chơi, chỉnh RAM, độ phân giải, thư mục game.
+- **Tiện ích:** xem số người online, giao diện tiếng Việt và tiếng Anh.
+
+CocoLauncher chỉ dùng để vào server Coco Cobblemon. Muốn chơi Cobblemon một mình hoặc vào server khác, xem [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/).
+
+## Máy cần gì
+
+| | Tối thiểu |
+|---|---|
+| Windows | Windows 10 hoặc 11 bản 64-bit |
+| macOS | Máy Mac chip Apple (M1-M4 và mới hơn) hoặc Intel |
+| Android | RAM từ 6 GB (khuyên 8 GB), chip tầm trung trở lên, trống khoảng 2 GB |
+| RAM máy tính | Launcher mặc định cấp cho game 2 đến 4 GB, nên máy nên có từ 8 GB RAM |
+
+## Các trang về CocoLauncher
+
+- [Cài CocoLauncher trên Windows](https://coconubs.github.io/cocolauncher/windows/)
+- [CocoLauncher cho macOS](https://coconubs.github.io/cocolauncher/macos/)
+- [Chơi Cobblemon trên điện thoại Android](https://coconubs.github.io/cobblemon-dien-thoai/)
+- [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/)
+- [CocoLauncher có an toàn không? Cách kiểm tra file tải](https://coconubs.github.io/cocolauncher/an-toan/)
+
+*Cập nhật: 06/11/2026.*
+
+---
+
+Trang: Cài CocoLauncher trên Windows 10, 11: Microsoft Store hoặc file .exe
+URL: https://coconubs.github.io/cocolauncher/windows/
+
+# Cài CocoLauncher trên Windows
+
+Có hai cách cài CocoLauncher trên Windows 10 hoặc 11 bản 64-bit. Cả hai đều là cùng một launcher của server Coco Cobblemon.
+
+## Cách 1: Microsoft Store (khuyên dùng)
+
+1. Mở trang [CocoLauncher trên Microsoft Store](https://apps.microsoft.com/detail/9NPG31VS7T2H?cid=docs). Nhà phát hành ghi **Coconubs**.
+2. Bấm **Get** hoặc **Tải**, chờ Store cài xong.
+3. Mở CocoLauncher từ menu Start.
+
+Bản Store đi qua bước kiểm tra của Microsoft trước khi phát hành, nên không gặp cảnh báo SmartScreen như file .exe.
+
+## Cách 2: file .exe
+
+1. Tải [CocoLauncher-Setup.exe](https://github.com/Coconubs/cocolauncher-pack/releases/download/launcher/CocoLauncher-Setup.exe) từ GitHub Releases của Coconubs.
+2. Nên [đối chiếu mã SHA-256](https://coconubs.github.io/cocolauncher/an-toan/#sha256) trước khi mở.
+3. Mở file. File .exe chưa có chữ ký số nên SmartScreen có thể hiện "Windows protected your PC". Chỉ bấm **More info** rồi **Run anyway** khi bạn tải đúng từ link trên và mã SHA-256 khớp. Không chắc thì dùng bản Microsoft Store.
+
+## Lần đầu mở launcher
+
+1. Nhập tên trong game: 3 đến 16 ký tự, chữ không dấu, số hoặc dấu gạch dưới.
+2. Bấm **Chơi**. Lần đầu launcher tải Java, Minecraft, Fabric và gói mod, nên dùng mạng ổn định. Những lần sau chỉ tải phần thay đổi.
+3. Game mở và tự kết nối tới server `coco.ultramc.co`. Làm theo hướng dẫn đăng ký trên màn hình, rồi gõ `/menu`.
+
+Các bước trong game ở trang [Cách vào server](https://coconubs.github.io/cach-vao-server/).
+
+## Chỉnh RAM
+
+Launcher mặc định cấp cho game 2 đến 4 GB RAM. Đổi mức RAM ở mục cài đặt của launcher. Máy 8 GB RAM nên để mức mặc định và tắt bớt ứng dụng khác khi chơi.
+
+## Cập nhật
+
+- **Gói mod:** tự cập nhật mỗi khi bấm Chơi.
+- **Trong game báo có bản mới:** bấm **Cập nhật**, thoát game rồi mở lại CocoLauncher.
+
+## Gặp lỗi
+
+Xem [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/#windows).
+
+*Cập nhật: 06/11/2026.*
+
+---
+
+Trang: CocoLauncher cho macOS: chip Apple M1-M4 và Intel
+URL: https://coconubs.github.io/cocolauncher/macos/
+
+# CocoLauncher cho macOS
+
+CocoLauncher có hai bản cho máy Mac. Chọn đúng bản theo chip của máy.
+
+| Máy Mac | File |
+|---|---|
+| Chip Apple: M1, M2, M3, M4 và mới hơn | [CocoLauncher-Mac-AppleSilicon.dmg](https://github.com/Coconubs/cocolauncher-pack/releases/download/launcher/CocoLauncher-Mac-AppleSilicon.dmg) |
+| Chip Intel | [CocoLauncher-Mac-Intel.dmg](https://github.com/Coconubs/cocolauncher-pack/releases/download/launcher/CocoLauncher-Mac-Intel.dmg) |
+
+Không biết máy dùng chip gì: bấm logo Apple ở góc trái, chọn **About This Mac**, xem dòng **Chip** (Apple M...) hoặc **Processor** (Intel).
+
+## Cài đặt
+
+1. Mở file .dmg vừa tải, kéo CocoLauncher vào thư mục **Applications**.
+2. Mở CocoLauncher trong Applications.
+3. Nhập tên trong game, bấm **Chơi**.
+
+## Mở app lần đầu
+
+Bản Mac chưa được Apple công chứng nên macOS sẽ hỏi trước khi mở:
+
+- **macOS 15 trở lên:** mở app 1 lần, chọn **Done**. Vào **System Settings > Privacy & Security**, kéo xuống, bấm **Open Anyway**.
+- **macOS 14 trở xuống:** giữ Control và bấm vào app, chọn **Open**.
+
+Nếu máy báo app "is damaged", tải lại file từ link trên và [đối chiếu mã SHA-256](https://coconubs.github.io/cocolauncher/an-toan/#sha256). Vẫn lỗi thì hỏi trên [Discord](https://discord.gg/hyspace). Đừng tự tắt cơ chế bảo mật của macOS.
+
+## Cập nhật bản Mac
+
+Bản Mac không tự cập nhật launcher. Khi có thông báo bản mới, tải lại file .dmg và kéo đè vào Applications. Dữ liệu game giữ nguyên. Gói mod vẫn tự cập nhật mỗi lần bấm Chơi.
+
+*Cập nhật: 06/11/2026.*
+
+---
+
+Trang: Chơi Cobblemon trên điện thoại Android bằng CocoLauncher Android
+URL: https://coconubs.github.io/cobblemon-dien-thoai/
+
+# Chơi Cobblemon trên điện thoại Android
+
+Cobblemon là mod cho Minecraft Java Edition, nên không cài được vào Minecraft PE hay Bedrock. Muốn chơi Cobblemon trên điện thoại, server Coco Cobblemon có **CocoLauncher Android**: bản thử nghiệm chạy Java Edition ngay trên máy Android và vào chung server với người chơi máy tính.
+
+[Tải CocoLauncher-Android.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android.apk)
+
+## Máy cần gì
+
+- RAM từ 6 GB, khuyên dùng 8 GB trở lên.
+- Chip tầm trung trở lên.
+- Còn trống khoảng 2 GB.
+- Lần đầu tải khoảng 400 MB, nên dùng Wi-Fi.
+
+Máy yếu hơn có thể vẫn mở được, nhưng dễ giật hoặc văng khi vào chỗ đông người.
+
+## Cài đặt
+
+1. Tải [CocoLauncher-Android.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android.apk).
+2. Mở file vừa tải. Máy hỏi thì cho phép trình duyệt cài ứng dụng không rõ nguồn gốc.
+3. Mở CocoLauncher, nhập tên trong game, bấm **Chơi**.
+
+Tải bằng Chrome mà thanh tải đứng ở 100% thì kéo thanh thông báo xuống: thường là Chrome đang chờ bạn xác nhận giữ file .apk.
+
+Bản Android dùng gói **Coco Lite** khoảng 125 mod, nhẹ hơn bản máy tính nhưng vẫn vào chung server.
+
+## Chơi trên giả lập MuMu, LDPlayer
+
+Giả lập trên máy tính dùng bản riêng: [CocoLauncher-Android-GiaLap.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android-GiaLap.apk). Đừng cài file điện thoại vào giả lập. Nếu máy tính chạy được Windows thì nên dùng thẳng [CocoLauncher cho Windows](https://coconubs.github.io/cocolauncher/windows/), nhẹ và ổn định hơn chạy qua giả lập.
+
+## iPhone, iPad
+
+Chưa có bản iOS.
+
+## Mẹo cho máy yếu
+
+- Tắt các app chạy nền trước khi vào game.
+- Giảm khoảng cách hiển thị trong cài đặt đồ hoạ.
+- Máy nóng, giật: giảm độ phân giải trong cài đặt launcher xuống 50 đến 70%.
+- Chơi lâu thì cắm sạc và để máy thoáng. Máy nóng sẽ tự hạ xung và giật hơn.
+
+## Lỗi thường gặp trên Android
+
+| Lỗi | Cách xử lý |
+|---|---|
+| Đen màn hình hoặc văng khi mở game | Trong Cài đặt, mục **Bộ dựng hình** đang Tự động thì thử **LTW** hoặc **Zink** |
+| Văng giữa chừng | Để Bộ nhớ cho game ở mức khuyên dùng, tắt bớt ứng dụng khác |
+| Giả lập bị văng | Dùng file dành cho giả lập, không dùng file điện thoại |
+
+Vẫn lỗi: dùng nút **Gửi log lỗi cho admin** trong Cài đặt của launcher, rồi báo trên [Discord](https://discord.gg/hyspace).
+
+*Cập nhật: 06/11/2026.*
+
+---
+
+Trang: CocoLauncher có an toàn không? Cách tự kiểm tra file tải
+URL: https://coconubs.github.io/cocolauncher/an-toan/
+
+# CocoLauncher có an toàn không?
+
+Không phần mềm nào được bảo đảm tuyệt đối, nên trang này chỉ cách bạn tự kiểm chứng thay vì hứa hẹn.
+
+## Tải đúng nguồn
+
+CocoLauncher chỉ phát hành ở hai nơi:
+
+1. **Microsoft Store**, nhà phát hành Coconubs: [apps.microsoft.com/detail/9NPG31VS7T2H](https://apps.microsoft.com/detail/9NPG31VS7T2H?cid=docs). Bản Store đi qua bước kiểm tra của Microsoft trước khi phát hành. Đây là cách khuyên dùng trên Windows.
+2. **GitHub Releases** của tài khoản Coconubs: [github.com/Coconubs/cocolauncher-pack/releases](https://github.com/Coconubs/cocolauncher-pack/releases). Các file .exe, .dmg, .apk đều nằm ở đây.
+
+Bản đăng lại ở trang tải phần mềm khác, nhóm chat hay link rút gọn có thể đã bị sửa. Đừng dùng.
+
+## Vì sao Windows cảnh báo file .exe
+
+File `CocoLauncher-Setup.exe` chưa có chữ ký số, nên SmartScreen có thể hiện "Windows protected your PC". Cảnh báo này nói Windows chưa biết nhà phát hành, không có nghĩa file có mã độc. Bản Microsoft Store không gặp cảnh báo này.
+
+## Đối chiếu mã SHA-256
+
+Mỗi file trên [GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases/tag/launcher) có mã `sha256` hiện cạnh tên file. Tính mã của file bạn tải rồi so:
+
+**Windows** (mở PowerShell tại thư mục tải):
+
+```powershell
+Get-FileHash CocoLauncher-Setup.exe
+```
+
+**macOS** (mở Terminal tại thư mục tải):
+
+```bash
+shasum -a 256 CocoLauncher-Mac-AppleSilicon.dmg
+```
+
+Hai mã phải trùng từng ký tự. Không khớp thì đừng mở file: tải lại từ link chính thức và báo trên [Discord](https://discord.gg/hyspace).
+
+## Quét thêm
+
+Có thể quét file bằng Microsoft Defender (chuột phải vào file, chọn quét) hoặc tải lên VirusTotal để xem kết quả của nhiều phần mềm diệt virus.
+
+## Launcher lưu gì trên máy
+
+Launcher lưu Minecraft, Java, gói mod và thiết lập của bạn trong thư mục game. Tên chơi và mức RAM lưu ở máy của bạn để lần sau không phải nhập lại.
+
+*Cập nhật: 06/11/2026.*
+
+---
+
+Trang: Sửa lỗi CocoLauncher: game thoát mã 1, SmartScreen, macOS, Android
+URL: https://coconubs.github.io/cocolauncher/sua-loi/
+
+# Sửa lỗi CocoLauncher
+
+Các lỗi đã gặp và cách xử lý theo từng hệ điều hành. Chưa thấy lỗi của bạn ở đây thì hỏi trên [Discord](https://discord.gg/hyspace), kèm ảnh chụp lỗi.
+
+## Windows
+
+| Lỗi | Cách xử lý |
+|---|---|
+| SmartScreen chặn file cài | Cài từ [Microsoft Store](https://apps.microsoft.com/detail/9NPG31VS7T2H?cid=docs), hoặc [đối chiếu mã SHA-256](https://coconubs.github.io/cocolauncher/an-toan/#sha256) trước khi chạy file .exe |
+| Launcher báo game thoát mã 1 ngay sau khi bấm Chơi | Game dừng trước khi nạp mod. Ca đã gặp là ổ đĩa hết dung lượng: dọn ổ rồi thử lại. Chi tiết lỗi nằm ở file `instance/logs/launcher-game-output.log` trong thư mục game |
+| Game chậm hoặc văng | Chỉnh RAM ở mục Cấu hình nhanh trong launcher, tắt bớt ứng dụng khác |
+| Mod lỗi sau khi tự chép file | Bỏ mod đó khỏi thư mục SideMods rồi bấm Chơi. Launcher kiểm tra lại gói mod mỗi lần chạy |
+| Vào server báo sai phiên bản hoặc thiếu mod | Mở lại CocoLauncher và bấm Chơi để launcher tải bản mới. Đừng vào bằng launcher khác |
+
+## macOS
+
+| Lỗi | Cách xử lý |
+|---|---|
+| Máy báo không xác minh được nhà phát triển | macOS 15 trở lên: System Settings > Privacy & Security, bấm **Open Anyway**. macOS 14 trở xuống: Control + click vào app, chọn **Open** |
+| Máy báo app "is damaged" | Tải lại file từ [trang tải](https://coconubs.github.io/cocolauncher/macos/), đối chiếu mã SHA-256. Vẫn lỗi thì hỏi trên Discord, đừng tự gỡ cơ chế kiểm tra bảo mật của macOS |
+| Có bản mới nhưng launcher không tự cập nhật | Bình thường với bản Mac: tải lại .dmg và kéo đè vào Applications, dữ liệu game giữ nguyên |
+
+## Android
+
+| Lỗi | Cách xử lý |
+|---|---|
+| Giả lập bị văng | Dùng file dành cho giả lập (GiaLap.apk), không dùng file điện thoại |
+| Đen màn hình hoặc văng | Trong Cài đặt, mục **Bộ dựng hình** đang Tự động thì thử **LTW** hoặc **Zink** |
+| Máy nóng, giật | Giảm độ phân giải xuống 50 đến 70% |
+| Văng giữa chừng | Để Bộ nhớ cho game ở mức khuyên dùng, tắt bớt ứng dụng khác |
+| Tải .apk đứng ở 100% | Kéo thanh thông báo xuống, Chrome đang chờ xác nhận giữ file |
+
+## Vẫn lỗi?
+
+Gửi ảnh lỗi trên [Discord](https://discord.gg/hyspace). Trên Android dùng nút **Gửi log lỗi cho admin** trong Cài đặt.
+
+*Cập nhật: 06/11/2026.*
+
+---
+
+Trang: Hướng dẫn người mới Coco Cobblemon: việc ngày đầu và lệnh hay dùng
+URL: https://coconubs.github.io/huong-dan-nguoi-moi/
+
+# Hướng dẫn người mới
+
+Trang này tóm tắt mục Hướng dẫn trong Menu của server. Trong game gõ `/menu`, chọn **HƯỚNG DẪN** để xem bản đầy đủ.
+
+## Việc nên làm ngày đầu
+
+1. **Liên kết Discord** (`/link`) và điểm danh mỗi ngày bằng lệnh `;diemdanh` ở kênh Spam Bot trên Discord.
+2. **Mở Battle Pass**, làm 10 nhiệm vụ ngày để lên cấp nhận quà.
+3. **Nhận việc Nghề nghiệp** (`/nghenghiep`) để kiếm CobbleDollars mỗi ngày.
+4. **Làm Ải Viễn Chinh** 3 lượt mỗi ngày để có tiền, Tokens, Rare Candy.
+5. **Leo BattleTower** để nhận BattleTower Points mỗi ngày.
+6. **Claim đất và đặt nhà:** đứng trong chunk muốn giữ, gõ `/claim`, rồi `/sethome`.
+
+## Dùng Menu
+
+- Mở Menu: gõ `/menu` hoặc cầm vật phẩm **Menu** ở ô cuối thanh công cụ (ô 9) rồi bấm chuột phải.
+- Thanh trên cùng: TRANG CHỦ, POKÉDEX (mô hình 3D, hệ, chỉ số, chiêu, tiến hoá, nơi spawn), TRA CỨU, HƯỚNG DẪN. Nút cờ VI/EN ở góc phải để đổi ngôn ngữ.
+- Menu chính chia 4 nhóm: Hằng ngày, Thi đấu và Bang hội, Pokémon, Mua sắm và Giải trí.
+- Ô có chấm đỏ là đang có quà hoặc việc chờ bạn.
+
+## HUD góc trái
+
+Cạnh thanh công cụ có các ô nhỏ báo trạng thái: **tỉ lệ Legendary** lúc này, **Giờ Vàng x2** khi đang diễn ra và **Bùa Huyền Thoại** khi Bùa của bạn còn hiệu lực. Bấm F1 để ẩn.
+
+## Các loại tiền
+
+| Tiền | Dùng để |
+|---|---|
+| CobbleDollars ($) | Tiền chính: bán đồ, Shop, Daily Shop, Dung hợp, phí triệu hồi Legendary |
+| Tokens | Mua Held Item, thuốc EV, Mint, kẹo IV, Bottle Cap ở Shop Tokens |
+| BattleTower Points (BP) | Nhận mỗi ngày theo tầng BattleTower, dùng ở Shop BattleTower |
+
+Số dư hiện trên scoreboard bên phải màn hình và đầu Menu.
+
+## Lệnh hay dùng
+
+| Nhóm | Lệnh |
+|---|---|
+| Cơ bản | `/menu` Menu chính · `/sethome` · `/home` · `/spawn` · `/back` |
+| Đi lại | `/rtp` tới chỗ ngẫu nhiên xa 5.000-25.000 khối · `/tpa <tên>` · `/tpaccept` · `/warps` |
+| Đất | `/claim` · `/unclaim` · `/dat khoa` khoá đất riêng |
+| Bang | `/banghoi` · `/bangchien` · `/bossbang` |
+| Tiền và Pokémon | `/sell` bán đồ · `/pay` chuyển tiền · `/gts` chợ Pokémon |
+| Hằng ngày | `/nghenghiep` · `/xephang` Đấu Xếp Hạng · `/battletower` · `/cauca` |
+| Khác | `/link` liên kết Discord · `/ngonngu en` đổi sang tiếng Anh · `/help` đủ lệnh |
+
+## Đất và nhà
+
+- Đất giữ theo chunk (ô 16×16 khối). Bấm F3 + G để hiện đường kẻ chunk.
+- Tối đa 50 chunk, mỗi bậc rank thêm 5. Chỉ claim ở Overworld, trong vòng 5 chunk quanh chỗ đứng.
+- Mặc định 3 nhà (`/sethome <tên>`), mỗi bậc rank thêm 1.
+- Ngoài ±30.000 (X hoặc Z) không claim được và khu đó reset 2 tuần một lần. Hãy xây nhà trong ±30.000.
+- Vào cùng Bang hội là xây được trong đất của nhau. Muốn chỉ mình bạn dùng: `/dat khoa`.
+
+## Breeding
+
+Cần 1 Pasture Block và 2 Pokémon cùng nhóm trứng (một đực, một cái) hoặc 1 Pokémon với Ditto. Khoảng 4 đến 8 giờ có 1 trứng. Breeding trên server chậm hơn bản gốc 5 lần, đặt Pasture trong đất bang thì bớt 10% thời gian mỗi cấp bang.
+
+*Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026. Con số có thể đổi theo cập nhật, Menu trong game luôn là bản đúng nhất.*
+
+---
+
+Trang: Tính năng Coco Cobblemon: Đấu Xếp Hạng, BattleTower, Bang Hội Chiến, Raid, Legendary
+URL: https://coconubs.github.io/tinh-nang/
+
+# Tính năng Coco Cobblemon
+
+Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt. Trang này tổng hợp các hệ thống chính của server, lấy từ Hướng dẫn trong game.
+
+## Đấu trận
+
+| Tính năng | Tóm tắt |
+|---|---|
+| [Đấu Xếp Hạng](https://coconubs.github.io/tinh-nang/dau-xep-hang/) | Đấu Đôi 4v4 tính Elo (thể thức chính), Đấu Đơn 6v6. Ghép ẩn theo Elo, hạng Đồng tới Cao Thủ, top 5 là Thách Đấu |
+| [BattleTower](https://coconubs.github.io/tinh-nang/battletower/) | 555 tầng, đấu 6v6 với NPC, cứ 5 tầng có 1 tầng boss dùng Mega, Dynamax, Tera, Z-Move |
+| Gym, Tứ Thiên Vương, Champion | Mỗi trận có mốc cấp riêng, Pokémon cao hơn mốc được hạ về đúng mốc trong trận (bản sao, Pokémon thật không đổi). Đội NPC IV tối đa, AI mạnh nhất |
+| NPC Tiền Thưởng | Mỗi ngày 1 NPC cấp 100 xuất hiện ngẫu nhiên từ 7:00 tới 22:00, đội được chọn để khắc đội bạn. Tra bằng `/tienthuong` |
+| [Raid Thế Giới](https://coconubs.github.io/tinh-nang/raid/) | Boss chung cả server lúc 9:00 và 19:00, top 5 sát thương được bắt boss |
+
+## Bắt Pokémon
+
+| Tính năng | Tóm tắt |
+|---|---|
+| [Legendary tích luỹ](https://coconubs.github.io/tinh-nang/legendary/) | Tỉ lệ khởi đầu 0,001%, cứ 20 phút server chưa có Legendary thì +0,001%, tối đa 1%. Giờ Vàng cuối tuần x2 |
+| [Shiny](https://coconubs.github.io/tinh-nang/shiny/) | Không xuất hiện tự nhiên. Có qua Dung hợp Shiny, Trứng, Raid, Daily Shop, Battle Pass |
+| Trứng Pokémon | Ba loại: Thường (cấp 5), Quý (cấp 30), Huyền Thoại (cấp 50) |
+| Trang Phục | Skin đổi ngoại hình Pokémon, không đổi chỉ số. Mở bằng `/trangphuc` |
+
+## Bang hội
+
+| Tính năng | Tóm tắt |
+|---|---|
+| [Bang Hội Chiến](https://coconubs.github.io/tinh-nang/bang-hoi/#bang-hoi-chien) | Thứ 2 tới Thứ 6, 9h-22h. Treo Cờ Chiến, khiêu chiến cướp cờ, Đấu Đôi 4v4. Giữ nhiều cờ nhất lúc 22h là Bá chủ |
+| [Boss Bang](https://coconubs.github.io/tinh-nang/bang-hoi/#boss-bang) | Mỗi ngày 1 boss mới cho mọi bang, mỗi người 3 lượt |
+| [Quà Bang](https://coconubs.github.io/tinh-nang/bang-hoi/#qua-bang) | Thành viên bắt Shiny, Legendary hay vượt mốc BattleTower thì cả bang nhận quà |
+| Khoá đất riêng | `/dat khoa`: chỉ bạn và tối đa 30 người tin cậy dùng được đất của bạn |
+
+## Việc hằng ngày
+
+| Tính năng | Tóm tắt |
+|---|---|
+| [Battle Pass](https://coconubs.github.io/tinh-nang/hang-ngay/#battle-pass) | 100 cấp, 10 nhiệm vụ ngày và 10 nhiệm vụ tuần, pass thường có quà mỗi 5 cấp cho mọi người |
+| [Nghề nghiệp](https://coconubs.github.io/tinh-nang/hang-ngay/#nghe-nghiep) | 8 nghề, mỗi ngày 5 nhiệm vụ mỗi nghề, thưởng 1.000$ tới 10.000$ |
+| [Ải Viễn Chinh](https://coconubs.github.io/tinh-nang/hang-ngay/#vien-chinh) | Gửi Pokémon đi ải 1★ tới 5★, 3 lượt mỗi ngày |
+| [Daily Shop](https://coconubs.github.io/tinh-nang/hang-ngay/#daily-shop) | 7 thẻ Pokémon cấp 50 mỗi ngày, tỉ lệ Shiny 1/2048 |
+| [Điểm danh](https://coconubs.github.io/tinh-nang/hang-ngay/#diem-danh) | Chuỗi ngày liên tiếp nhận Tokens, Trứng, Tinh Thể Shiny |
+| [Câu cá](https://coconubs.github.io/tinh-nang/cau-ca/) | 100 loài cá, 7 độ hiếm, sách sưu tập, khung giờ vàng 19:00-22:00 |
+| Túi May Mắn | Rơi khi bắt Pokémon, thắng trận, đào quặng, câu cá |
+| Mini-game | Tiến Lên, Cờ Tỷ Phú, Cờ Vua (tính Elo) |
+
+## Tiếng Việt
+
+Launcher, Menu và Hướng dẫn của Coco bằng tiếng Việt, kèm nút chọn tiếng Anh. Một số nội dung của Cobblemon và mod khác vẫn có thể hiện tiếng Anh. Xem thêm [Cobblemon Việt hoá](https://coconubs.github.io/cobblemon-viet-hoa/).
+
+*Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
+
+---
+
+Trang: Đấu Xếp Hạng Cobblemon: Đấu Đôi 4v4 tính Elo, Đấu Đơn 6v6 | Coco Cobblemon
+URL: https://coconubs.github.io/tinh-nang/dau-xep-hang/
+
+# Đấu Xếp Hạng
+
+Đấu Pokémon với người chơi khác, ghép trận tự động. Mở bằng ô **ĐẤU HẠNG** ở cột trái Menu chính hoặc lệnh `/xephang`.
+
+## Hai chế độ
+
+| Chế độ | Cách đấu | Tính điểm |
+|---|---|---|
+| **Đấu Đôi 4v4** (thể thức chính) | Mang 6 con, xem đội đối thủ, chọn 4 | Tính Elo, có luật cấm |
+| **Đấu Đơn 6v6** (giao hữu) | Đánh cả 6 con | Đếm Thắng / Thua, cùng 1 đối thủ tính tối đa 3 trận thắng mỗi ngày |
+
+## Vào hàng chờ
+
+- Đội có đủ 6 Pokémon và cả 6 hợp lệ theo luật của chế độ. Tab ĐẤU hiện ngay con nào phạm luật gì.
+- Ghép ẩn theo Elo: bạn không biết đối thủ là ai cho tới khi ghép xong, và ghép xong không được từ chối.
+- Không ghép 2 tài khoản cùng IP. Ghép được trận thì có âm thanh báo.
+
+## Chọn đội (Đấu Đôi)
+
+Hai bên thấy loài 6 con của nhau (không thấy vật phẩm cầm, level, chiêu), chọn 4 con theo thứ tự ra sân rồi bấm **SẴN SÀNG** trong 3 phút. Bỏ chọn hoặc thoát game lúc này bị cấm tìm trận 30 phút, bỏ nhiều lần trong 24 giờ thì thời gian cấm tăng gấp đôi, tối đa 2 giờ.
+
+## Trong trận
+
+- Mọi con về Lv 50 (bản sao, Pokémon thật không đổi).
+- Mỗi lượt 90 giây, hết giờ hệ thống tự chọn.
+- Thoát game hoặc mất mạng giữa trận là thua. Server khởi động lại thì trận bị huỷ, không tính.
+
+## Elo và hạng
+
+- Khởi đầu 1000 Elo, 5 trận đầu là trận định vị, lên xuống nhanh.
+- Hạng: **Đồng, Bạc, Vàng, Bạch Kim, Kim Cương, Cao Thủ**, mỗi hạng 3 bậc III tới I. Top 5 Cao Thủ là **Thách Đấu**.
+- Thắng người mạnh hơn được nhiều Elo hơn. Thắng liên tiếp cùng 1 đối thủ trong 24 giờ thì Elo giảm dần: trận 1-2 tính đủ, 3-4 còn 80%, 5-6 còn 50%, 7-8 còn 25%, từ trận 9 còn 10%.
+- Hết mỗi kỳ xếp hạng, Elo được đặt lại một nửa về 1000.
+
+## Luật Đấu Đôi (Regulation H)
+
+- Chỉ Pokémon thường: cấm Huyền thoại, Thần thoại, Restricted, Paradox, Ultra Beast.
+- Không 2 con cùng loài, không 2 con cầm trùng vật phẩm.
+- Cơ chế: chỉ Mega và Tera. Cấm Dynamax, Z-Move.
+- Chiêu cấm: Baton Pass, Minimize, Double Team.
+- Đặc tính cấm: Wonder Guard, Battle Armor, Battle Bond, Shadow Tag, Arena Trap.
+- Vật phẩm cấm: Star Core và mọi Plate của Arceus.
+
+Đấu Đơn dùng luật riêng, xem tab LUẬT trong game.
+
+## Xem trận
+
+Tab **ĐANG ĐẤU** xem trực tiếp các trận Đấu Đơn (Đấu Đôi không xem trực tiếp để giữ bí mật đội hình). Tab **LỊCH SỬ** xem lại trận của bạn trong 3 ngày.
+
+*Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
+
+---
+
+Trang: BattleTower 555 tầng: luật, tầng boss, phần thưởng | Coco Cobblemon
+URL: https://coconubs.github.io/tinh-nang/battletower/
+
+# BattleTower
+
+Leo **555 tầng**, đấu 6v6 với NPC ở sàn đấu riêng. Cần đủ 6 Pokémon trong party. Lệnh: `/battletower`.
+
+## Cấu trúc tầng
+
+- Cứ 5 tầng có 1 **tầng BOSS**: boss dùng Mega, Dynamax, Tera, Z-Move, từ tầng 50 dùng 2 cơ chế.
+- Cụm 5 tầng Đấu Đơn rồi 5 tầng Đấu Đôi xen kẽ.
+- Tầng bí ẩn **"?"**: không biết trước đội đối thủ.
+- Đối thủ mạnh dần: Lv 50 cộng số tầng (tối đa 100), IV, EV, Held Item tăng dần. Boss có thể dùng Legendary từ tầng 100.
+- Pokémon hợp thể (Calyrex Shadow/Ice Rider, Kyurem Black/White, Necrozma Dusk Mane/Dawn Wings) xuất hiện từ tầng 26, từ tầng 76 luôn có 1 con, từ tầng 151 có 2 con.
+
+## Luật cấm
+
+Từ tầng 15, một số tầng cấm bạn dùng Mega, Dynamax, Tera hoặc Z-Move (xem nhãn trước trận). Tầng 100 trở lên cấm 2 cơ chế, tầng 150 trở lên cấm tất cả.
+
+## Thua thì sao
+
+Thua tụt 5 tầng nhưng không dưới mốc an toàn (25, 50, 75...). Ví dụ: tầng 15 về 10, tầng 26 về 25, tầng 54 về 50. Trên tầng 400, mỗi ngày tự tụt 5 tầng.
+
+## Phần thưởng
+
+- **BattleTower Points (BP)** lúc 0h00 mỗi ngày: (số tầng đã vượt × 2 + 25 BP mỗi mốc 25 tầng) × 2, Thứ 7 và Chủ Nhật × 3. Dùng ở Shop BattleTower.
+- **Lần đầu vượt mốc tầng:** Tokens = số tầng × 10 (tầng 25 được 250, tầng 50 được 500).
+- **Online mỗi giờ:** Tokens = mốc cao nhất đã vượt × 0,5, tiền = mốc × 100$ (mốc 50 được 25 Tokens và 5.000$).
+- Lần đầu vượt mỗi mốc 50 tầng, cả bang của bạn nhận Quà Bang.
+
+Trong sàn đấu không đặt hay đập block, không bay, không PvP, không dùng lệnh dịch chuyển.
+
+*Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
+
+---
+
+Trang: Bang Hội Chiến, Boss Bang, Quà Bang: luật bang hội | Coco Cobblemon
+URL: https://coconubs.github.io/tinh-nang/bang-hoi/
+
+# Bang hội
+
+Bang hội dùng Party của Open Parties and Claims. Tạo bang: `/oparties create`. Mời: `/oparties member invite <tên>`. Lệnh bang: `/banghoi` (info, gop, nangcap, top), `/bangchien`, `/bossbang`.
+
+- **Nâng cấp bang** (5 cấp) bằng GP, tiền và Quỹ Tokens. Cấp càng cao mở thêm công thức chế tạo và quyền lợi.
+- **Hào quang Bang:** bang có từ 3 thành viên online thì mọi thành viên online được +10% EXP trận đấu và +10% tỉ lệ bắt.
+- **Chat bang:** `/banghoi chat` bật, tắt chế độ chat bang.
+- **Phòng voice Discord:** khi có thành viên online, bot tự tạo phòng voice riêng cho bang.
+
+## Bang Hội Chiến
+
+Các bang treo **Cờ Chiến** rồi khiêu chiến nhau để cướp cờ. Tới 22h, bang giữ nhiều cờ nhất là **Bá chủ** hôm nay.
+
+| | |
+|---|---|
+| Thời gian | Thứ 2 tới Thứ 6, 9h-22h (giờ Việt Nam), tổng kết lúc 22h, cờ reset mỗi ngày |
+| Bang | Ít nhất 2 thành viên, tính cả Bang chủ |
+| Người ra trận | Đang online, vào bang từ 24 giờ, có từ 4 Pokémon trong party |
+| Thể thức | Hai bên xem 6 Pokémon của nhau, chọn 4 trong 5 phút, Đấu Đôi 4v4, mọi con về Lv 50 (bản sao) |
+
+**Cách chơi**
+
+1. Mở `/bangchien`, kích hoạt Cờ Chiến.
+2. Chọn một bang đang treo cờ, chọn người ra trận, gửi khiêu chiến.
+3. Bên bị khiêu chiến có 5 phút để đồng ý và cử người. Từ chối hoặc hết giờ tính là thua.
+
+**Thắng, thua**
+
+- Thắng: cướp toàn bộ cờ của đối thủ và có khiên miễn nhiễm 5 phút.
+- Thua: mất hết cờ, nhưng không bị loại, được treo cờ lại sau 1 giờ.
+- Trận lỗi do máy chủ (kick, timeout, tắt server) bị huỷ, không ai mất cờ.
+- Bang phụ cố tình thua để nuôi cờ sẽ bị loại.
+
+**Thưởng mỗi giờ tròn (10h tới 22h):** mỗi thành viên online của bang đang treo cờ nhận 1.000$ và 10 Tokens, 6 Pokémon trong party +200 EXP. Mỗi cờ cướp được +50% thưởng.
+
+**Tổng kết 22h:** nhiều bang bằng cờ nhau thì đấu loại trực tiếp tới khi còn 1. Thành viên bang Bá chủ (vào bang từ 24 giờ) nhận Key Crate Shiny, Key Crate Tỷ Phú, 1.000 Tokens và 5 Trứng. Kết quả được bot báo lên Discord.
+
+**Luật cấm trong trận:** Shedinja; chiêu Fissure, Guillotine, Horn Drill, Sheer Cold, Destiny Bond; đặc tính Wonder Guard, Battle Armor, Battle Bond; không Dynamax và Z-Move (Mega vẫn được).
+
+## Boss Bang
+
+- Mỗi ngày 0:00 có 1 boss mới cho mọi bang, mỗi bang có thanh máu riêng. Mở bằng `/bossbang`.
+- Thứ 2 tới Thứ 6: Pseudo, Paradox, Ultra Beast. Thứ 7, Chủ Nhật: Legendary. Boss Lv 100, có khiên và buff như Raid Thế Giới.
+- Máu boss tính theo số thành viên bang: Pseudo 250, Paradox 300, Ultra Beast 500, Huyền Thoại 750 mỗi thành viên.
+- Mỗi người 3 lượt mỗi ngày, đánh bằng đội hiện tại, vào bang từ 24 giờ mới được đánh.
+- Thưởng theo top sát thương trong bang: Top 1 được 100 Tokens, 25.000$, 1 Tinh Thể Shiny, 1 Trứng Quý và có tỉ lệ nhận Mảnh loài boss. Bang hạ được boss thì cả bang nhận thêm quà.
+- **Kho Mảnh:** đủ 3 (Pseudo), 5 (Paradox, UB) hoặc 10 (Huyền Thoại) mảnh cùng loài thì Bang chủ đổi được 1 con Lv 50.
+
+## Quà Bang
+
+Khi 1 thành viên làm được việc lớn, các thành viên còn lại nhận 1 hộp quà:
+
+| Việc | Quà cho các thành viên khác |
+|---|---|
+| Bắt, nở hoặc dung hợp Shiny | 20.000$ + 50 Tokens |
+| Bắt Legendary, Mythical, UB, Paradox | 10.000$ + 75 Tokens |
+| Lần đầu vượt mỗi mốc 50 tầng BattleTower | 5.000$ |
+| Bang lên cấp | 25.000$ + 50 Tokens + Chìa Raid + Chìa Tỷ Phú + Trứng Quý |
+| Hạ Boss Bang | 25.000$ + 100 Tokens |
+
+Điều kiện: vào bang từ 24 giờ, tối đa 15 hộp mỗi ngày. Offline thì quà giữ 72 giờ.
+
+*Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
+
+---
+
+Trang: Raid Thế Giới Cobblemon: giờ mở, máu boss, phần thưởng | Coco Cobblemon
+URL: https://coconubs.github.io/tinh-nang/raid/
+
+# Raid Thế Giới
+
+Boss chung cho cả server, mở lúc **9:00** và **19:00** mỗi ngày tại Lobby, kéo dài 2 tiếng. Bot Discord báo khi boss xuất hiện.
+
+## Tham gia
+
+- Chuột phải khối Raid ở Lobby hoặc gõ `/raid join`. Mỗi lần vào tốn 1 **Chìa Khoá Raid** (có trong Shop BattleTower và Battle Pass).
+- Mỗi boss có điều kiện đội hình và bảng cấm riêng (Pokémon, chiêu, ability, item). Xem trên hologram khối Raid, ô Boss thế giới trong `/menu` hoặc `/raid`.
+
+## Máu boss
+
+| Loại boss | Máu chung |
+|---|---|
+| Legendary | 5.000 |
+| Sub-legend | 4.500 |
+| Ultra Beast | 3.500 |
+| Paradox | 3.000 |
+| Pseudo | 2.500 |
+
+Mỗi người đấu với 1 bản thể ở sàn riêng. Mọi sát thương vào bản thể bị chia 10, mỗi điểm máu bản thể mất bằng 1 máu chung. Bị hạ vẫn tính phần đã gây.
+
+## Boss mạnh thế nào
+
+- Dựng Khiên ngay lượt đầu, 70% máu tăng thủ, 80% và 40% xoá chỉ số bạn đã tăng, 10% khiên vỡ.
+- Boss không tự gục vì chiêu phản sát thương, chiêu hồi máu cho boss vô hiệu.
+- Boss không dùng Tera, Mega, Dynamax và không đổi dạng.
+
+## Hạ boss
+
+- **Top 5 sát thương** mỗi người 3 lượt bắt, người kết liễu thêm 3 lượt (không dùng Master Ball). Lượt bắt mất khi boss mới xuất hiện.
+- Boss có tỉ lệ Shiny 1/4096, bắt được là Shiny.
+- Người gây sát thương cao nhất thành **Bá Chủ Hội Quán** (danh hiệu và NPC trên khối Raid) cho tới khi boss mới xuất hiện ở khối đó.
+
+## Phần thưởng
+
+| Vai trò | Thưởng |
+|---|---|
+| Sát thương cao nhất | 5 Tinh Thể Shiny + 3 Trứng + 500 Tokens + 1 Chìa Raid |
+| Kết liễu | 2 Tinh Thể Shiny + 200 Tokens + 1 Chìa Raid + 1 Trứng Quý |
+| Mọi người có gây sát thương | 10.000$ + 100 Tokens + 1 Trứng |
+
+*Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
+
+---
+
+Trang: Legendary tích luỹ và Giờ Vàng: cách săn Legendary | Coco Cobblemon
+URL: https://coconubs.github.io/tinh-nang/legendary/
+
+# Legendary tích luỹ
+
+Trên Coco Cobblemon, Legendary xuất hiện tự nhiên theo tỉ lệ **tích luỹ**: server càng lâu chưa có Legendary thì tỉ lệ càng tăng. Tỉ lệ hiện tại luôn hiện ở HUD góc dưới bên trái.
+
+## Tỉ lệ tăng thế nào
+
+- Mỗi lượt Pokémon spawn tự nhiên có thể hoá thành 1 Legendary hợp với nơi đó (đúng biome, giờ, thời tiết, công trình của loài đó).
+- Khởi đầu **0,001%**. Cứ **20 phút** cả server chưa có Legendary xuất hiện tự nhiên thì cộng **0,001%**, tối đa **1%**.
+- Có 1 Legendary xuất hiện tự nhiên ở bất kỳ đâu thì tỉ lệ cả server về lại 0,001%.
+- Triệu hồi bằng Altar, đền, câu cá hay Poké Snack không làm mất phần đã tích luỹ.
+- Thời gian tính theo giờ thật, kể cả lúc server khởi động lại.
+
+## Giờ Vàng và Bùa Huyền Thoại
+
+| | Hiệu lực |
+|---|---|
+| **Giờ Vàng** | Thứ 7 và Chủ Nhật, 20:00-22:00 (giờ Việt Nam): tỉ lệ đang tích luỹ x2, tối đa 2%. Có thông báo trước 10 phút |
+| **Bùa Huyền Thoại** | Trong 60 phút, tỉ lệ quanh bạn (96 block) x2, tối đa 2%. Nguồn: Shop Tokens, Shop BattleTower, Viễn Chinh 5★, Battle Pass |
+
+Bùa và Giờ Vàng không cộng dồn, tối đa x2. Nên đứng ở đúng biome của Legendary bạn muốn săn.
+
+## Triệu hồi và hồi sinh
+
+Altar, Shrine, Legendary Monuments và máy hồi sinh hoá thạch vẫn dùng được nhưng tốn thêm CobbleDollars. Tiền bị trừ khi bấm xác nhận triệu hồi; sau 2 phút Pokémon không xuất hiện thì tự hoàn tiền, kể cả lúc bạn offline.
+
+| Phí | Ví dụ loài |
+|---|---|
+| 5.000.000$ | Bộ 3 chim, bộ 3 chó, các Regi (trừ Regigigas), Latias, Heatran, Cresselia, Tapu, Kubfu, Ogerpon... |
+| 10.000.000$ | Regigigas, Calyrex |
+| 15.000.000$ | Lugia, Ho-Oh, Dialga, Palkia, Reshiram, Zekrom, Xerneas, Yveltal, Solgaleo, Lunala, Koraidon, Miraidon, Terapagos, Zygarde |
+| 20.000.000$ | Latios, Kyogre, Groudon, Rayquaza, Giratina, Kyurem, Necrozma, Zacian, Zamazenta, Eternatus, Mewtwo, Type: Null |
+
+- Pokémon triệu hồi ra không bao giờ là Shiny.
+- Mythical (Mew, Celebi, Deoxys, Darkrai, Arceus...) không xuất hiện tự nhiên và đã bị khoá triệu hồi.
+- Câu cá và Poké Snack không ra Legendary.
+
+## Nguồn Legendary khác
+
+- [Raid Thế Giới](https://coconubs.github.io/tinh-nang/raid/): top 5 sát thương được bắt boss Legendary.
+- Trứng Huyền Thoại: chỉ ra Legendary (không Mythical, UB, Paradox), cấp 50.
+- [Boss Bang](https://coconubs.github.io/tinh-nang/bang-hoi/#boss-bang): đổi Mảnh loài boss lấy 1 con Lv 50.
+
+*Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
+
+---
+
+Trang: Cách có Pokémon Shiny: Dung hợp, Trứng, Raid, Daily Shop | Coco Cobblemon
+URL: https://coconubs.github.io/tinh-nang/shiny/
+
+# Shiny
+
+Trên Coco Cobblemon, **Shiny không xuất hiện tự nhiên** và không ra từ Altar hay Statue triệu hồi. Thay vào đó có nhiều cách chắc chắn hơn để có Shiny.
+
+## Các cách có Shiny
+
+| Cách | Tỉ lệ hoặc điều kiện |
+|---|---|
+| **Dung hợp Shiny** | Biến Pokémon của bạn thành Shiny, tỉ lệ hiện trong màn Dung hợp |
+| **Trứng Pokémon** (thường) | Shiny 1/4096 |
+| **Trứng Quý** | Shiny 1/1024 |
+| **Trứng Huyền Thoại** | Shiny 1/512 |
+| **Raid Thế Giới** | Boss Shiny 1/4096, bắt được là Shiny |
+| **Daily Shop** | Mỗi thẻ có tỉ lệ 1/2048 là Shiny |
+| **Crate Shiny** | Quay bằng Chìa Khoá Shiny (từ sự kiện, Battle Pass, Bá chủ Bang Chiến), khoảng 9% ra Pokémon Shiny |
+| **Battle Pass** | Có Shiny trong phần thưởng |
+
+## Dung hợp Shiny
+
+- Cần: 1 Pokémon trong party (chưa Shiny) + 5 **Tinh Thể Shiny** + phí (gấp 2 giá thẻ Daily Shop cùng độ hiếm).
+- Thời gian chờ 5 phút. Pokémon được giữ trong lò dung hợp và trả lại khi xong.
+- Mỗi lần thất bại trước đó với Pokémon này, tỉ lệ tăng thêm. Dùng thêm 1 Bột May Mắn được +5%.
+- Thất bại: mất tinh thể và phí, Pokémon vẫn được trả lại nguyên vẹn.
+
+**Tinh Thể Shiny** có từ mốc điểm danh chia hết cho 10, Raid, Battle Pass, Boss Bang và NPC Tiền Thưởng.
+
+## Breeding có ra Shiny không
+
+Breeding gần như không ra Shiny, và Ditto Shiny không truyền Shiny cho trứng.
+
+*Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
+
+---
+
+Trang: Battle Pass, Nghề nghiệp, Viễn Chinh, Daily Shop, điểm danh | Coco Cobblemon
+URL: https://coconubs.github.io/tinh-nang/hang-ngay/
+
+# Việc hằng ngày
+
+Các hoạt động làm mới mỗi ngày lúc 0h00 (giờ Việt Nam).
+
+## Battle Pass
+
+- Mỗi kỳ Battle Pass kéo dài 60 ngày, có 100 cấp (1.000 XP mỗi cấp).
+- 10 nhiệm vụ ngày (làm mới 0h00) và 10 nhiệm vụ tuần (làm mới thứ Hai). Mỗi nhiệm vụ có thêm Tokens: ngày +25, tuần +150.
+- Nhiệm vụ đa dạng: chặt gỗ, đào khoáng, thu hoạch, câu cá, bắt hoặc hạ Pokémon, đánh Trainer, tiến hoá, nở trứng, BattleTower, Raid...
+- **Pass thường** (mọi người): quà mỗi 5 cấp gồm tiền, Tokens, Trứng, Chìa Raid, Tinh Thể, Crate Shiny.
+- **Pass Premium** không bắt buộc, có thêm quà ở mọi cấp.
+
+## Nghề nghiệp
+
+Mở bằng `/nghenghiep`. Làm nhiệm vụ nghề, xong bấm **NHẬN** để lấy CobbleDollars.
+
+- 8 nghề: Thợ Mỏ, Thợ Mộc, Nấu Ăn, Bác Sĩ, Ngư Dân, Thợ Săn Tiền Thưởng, Nông Dân, Nhà Nghiên Cứu.
+- Mỗi ngày mỗi nghề có 5 nhiệm vụ: Dễ 1.000$, Thường 2.500$, Khó 5.000$, Cực khó 10.000$.
+- Mỗi người nhận thưởng tối đa 5 việc mỗi ngày. Mỗi nhiệm vụ có số suất giới hạn cho cả server.
+- Mỗi cấp nghề +1% tiền thưởng của nghề đó, tối đa +10%.
+
+## Ải Viễn Chinh
+
+- Mỗi ngày 3 ải (đổi được 5 lần), 3 lượt tham gia. Chọn ải, chọn Pokémon đạt điều kiện, chờ hết giờ.
+- Đồng hồ vẫn chạy khi offline (tốc độ 50%). Thời gian: 1★ 30 phút, 2★ 1 giờ, 3★ 2 giờ, 4★ 3 giờ, 5★ 5 giờ.
+
+| Độ khó | Thưởng chắc chắn |
+|---|---|
+| 1★ | 2.000$ + 3 Tokens |
+| 2★ | 6.000$ + 8 Tokens |
+| 3★ | 15.000$ + 20 Tokens |
+| 4★ | 40.000$ + 45 Tokens |
+| 5★ | 100.000$ + 120 Tokens |
+
+Thêm ngẫu nhiên: Rare Candy, EXP Candy, Trứng, Ability Capsule, Bottle Cap, Bùa Huyền Thoại...
+
+## Daily Shop
+
+- Mỗi ngày 0h00 bạn có 7 thẻ Pokémon ngẫu nhiên cấp 50. Bấm để lật thẻ, mua bằng CobbleDollars và Tokens.
+- Giá: Common 50.000$ + 10 Tokens, Uncommon 100.000$ + 25, Rare 300.000$ + 50, Ultra-rare 1.250.000$ + 125.
+- 0,1% là Legendary, Mythical, UB hoặc Paradox. Tỉ lệ 1/2048 là Shiny.
+
+## Điểm danh
+
+- Điểm danh bằng lệnh `;diemdanh` ở kênh Spam Bot trên [Discord](https://discord.gg/hyspace). Cần [liên kết tài khoản](https://coconubs.github.io/cach-vao-server/#lien-ket-discord) trước.
+- Chuỗi ngày liên tiếp nhận thưởng mốc trong Menu: ngày 1, 3, 5, 7, 10 rồi mỗi 5 ngày.
+- Mỗi mốc có Tokens khoảng 1,6 × số ngày (ngày 10 được 16, ngày 100 được 160). Mốc chia hết cho 5 có Trứng, chia hết cho 10 có 1 Tinh Thể Shiny.
+- Đứt chuỗi thì các mốc tính lại từ đầu.
+
+## Túi May Mắn
+
+Chơi bình thường là có cơ hội rơi Túi May Mắn: bắt Pokémon, thắng trận, đào quặng, thu hoạch berry, câu cá, online đủ giờ. Bên trong là khoáng sản, gỗ, Apricorn, bóng Pokémon, lông EV, Mint. Hiếm hơn là Túi May Mắn Hoàng Kim với nhiều món xịn hơn.
+
+*Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
+
+---
+
+Trang: Câu cá: 100 loài cá, cần câu, khung giờ vàng | Coco Cobblemon
+URL: https://coconubs.github.io/tinh-nang/cau-ca/
+
+# Câu cá
+
+Dùng **Cần câu thường** câu ở bất kỳ vùng nước nào sẽ ra **100 loài cá** của server. Cần câu Pokémon vẫn giữ nguyên như Cobblemon gốc.
+
+## Độ hiếm
+
+7 độ hiếm: Thường, Khá, Hiếm, Cực hiếm, Huyền thoại, Vàng, Cầu Vồng. Cá càng hiếm chờ cắn câu càng lâu. Mỗi con có chiều dài và cân nặng riêng, càng lệch cỡ chuẩn càng hiếm và càng được giá. Hiếm nhất là cá **[Khổng lồ]** và **[Tí hon]**.
+
+Cá không ăn, không nấu được: chỉ để bán, khoe trên chat và sưu tầm.
+
+## Menu Câu cá
+
+| Lệnh | Dùng để |
+|---|---|
+| `/cauca` | Sách cá: loài chưa câu được hiện bóng đen, câu được mới mở tên, giá, kỷ lục server |
+| `/khoca` | Kho cá: túi đầy thì cá tự vào đây, không giới hạn |
+| `/banca` | Thu mua cá: bán nhanh cá Thường tới Hiếm, cá quý bỏ vào ô rồi bán |
+| `/cauca chetao` | Chế tạo cần câu |
+| `/cauca sukien` | Xem người đang dẫn đầu khung giờ vàng |
+
+## Cần câu chế tạo
+
+6 loại cần: Đồng, Bạc, Mạ Vàng, Bạch Kim, Kim Cương, Bích Hải. Cần xịn có phù phép cao và chỉ số May mắn từ +1% tới +20%, tăng tỉ lệ ra cá Cực hiếm trở lên.
+
+## Tự câu ở Lobby
+
+Đứng ở Lobby, quay mặt ra nước, gõ `/autofish`. Chỉ ra cá Thường tới Hiếm. Di chuyển, nhảy hoặc bấm chuột là dừng.
+
+Câu tay quá lâu ở một chỗ thì vùng nước bị ô nhiễm, chỉ còn ra cá Thường tới Hiếm. Hãy đổi chỗ câu.
+
+## Khung giờ vàng
+
+Mỗi tối **19:00-22:00** có thanh đếm ngược trên màn hình. Ai câu được con cá giá cao nhất trong khung giờ sẽ thắng. Tổng kết lúc 22:01, thưởng 100.000$, 3 Trứng Quý, 1 Chìa khoá Crate Shiny, 2.000 Tokens, 1 Tinh Thể Shiny và 1 Bùa Huyền Thoại.
+
+## Danh hiệu câu cá
+
+Câu đủ mọi loài của một độ hiếm sẽ nhận danh hiệu: Cần Thủ, Cần Thủ Đồng, Bạc, Vàng, Bạch Kim, Tinh Anh, Thách Đấu. Câu đủ tất cả các loài được danh hiệu **Đại Hải Trình**.
+
+*Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
+
+---
+
+Trang: Hỏi đáp Coco Cobblemon và CocoLauncher: IP, tải, điện thoại, phí
+URL: https://coconubs.github.io/hoi-dap/
+
+# Hỏi đáp Coco Cobblemon
+
+Câu hỏi người chơi mới hay hỏi nhất về server Coco Cobblemon và CocoLauncher.
+
+### Coco Cobblemon là gì?
+
+Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Server chạy Minecraft 1.21.1, Fabric và Cobblemon 1.7.3.
+
+### Địa chỉ IP server Coco Cobblemon là gì?
+
+Địa chỉ server Coco Cobblemon là `coco.ultramc.co`, Minecraft Java 1.21.1. Dùng CocoLauncher thì launcher tự kết nối, không cần nhập địa chỉ.
+
+### Có server Minecraft nào của người Việt chơi Pokémon Cobblemon không?
+
+Có. Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt. Địa chỉ `coco.ultramc.co`, Minecraft Java 1.21.1, Cobblemon 1.7.3, vào game bằng CocoLauncher. Xem [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/).
+
+### Nên chọn server Cobblemon Việt Nam thế nào?
+
+Không có bảng xếp hạng chính thức nào. Nên so phiên bản Minecraft và Cobblemon, cách cài mod, ping từ Việt Nam, ngôn ngữ, thiết bị chơi được và phần nào phải trả tiền. Bảng so theo các điểm này cho Coco Cobblemon có ở trang [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/).
+
+### Server đặt ở đâu? Ping từ Việt Nam bao nhiêu?
+
+Máy chủ đặt ở Singapore. Đo ngày 06/11/2026, ping từ TP.HCM khoảng 29 ms. Ping thật còn tuỳ nhà mạng và nơi bạn ở.
+
+### Server Coco Cobblemon có đông người chơi không?
+
+Số người chơi thay đổi theo giờ. Lúc 20:28 Thứ 7, 07/11/2026 có 110 người online; cao điểm đã ghi nhận khoảng 120 người vào tối 04/11/2026. Discord Hyper Space có khoảng 1.800 thành viên (07/11/2026).
+
+### Coco Cobblemon dùng Cobblemon bản nào?
+
+Cobblemon 1.7.3 trên Minecraft Java 1.21.1, Fabric, cùng bộ mod riêng của server. Cobblemon Official Modpack bản mới (đi cùng Cobblemon 1.8) không vào được server, nên hãy dùng CocoLauncher để launcher tự cài đúng bản.
+
+### CocoLauncher là gì?
+
+CocoLauncher (Coco Launcher) là launcher của server Coco Cobblemon, do Coconubs phát hành. Launcher tự cài Java, Minecraft, Fabric và gói mod để vào server chỉ bằng một nút. Đây không phải app giao diện điện thoại cùng tên trên Google Play.
+
+### Tải CocoLauncher ở đâu?
+
+Trên Windows, cài từ [Microsoft Store](https://apps.microsoft.com/detail/9NPG31VS7T2H?cid=docs). Bản .exe, macOS (.dmg) và Android (.apk) ở [GitHub Releases của Coconubs](https://github.com/Coconubs/cocolauncher-pack/releases). Đủ link ở trang [CocoLauncher](https://coconubs.github.io/cocolauncher/).
+
+### Cách tải Cobblemon về máy tính để chơi với người Việt?
+
+Tải CocoLauncher (Microsoft Store hoặc file .exe trên Windows, file .dmg trên macOS), nhập tên rồi bấm **Chơi**. Launcher tự cài Java, Minecraft 1.21.1, Fabric, Cobblemon 1.7.3 và gói mod, rồi vào thẳng server Coco Cobblemon. Muốn chơi Cobblemon một mình thì xem [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/).
+
+### Launcher nào dễ dùng để chơi Cobblemon cho người mới?
+
+Để vào Coco Cobblemon: CocoLauncher, giao diện tiếng Việt, chỉ cần nhập tên và bấm **Chơi**. Để chơi Cobblemon một mình: Modrinth App với Cobblemon Official Modpack. So sánh ở trang [Launcher Cobblemon](https://coconubs.github.io/launcher-cobblemon/).
+
+### CocoLauncher có an toàn không?
+
+Không phần mềm nào được bảo đảm tuyệt đối, nên hãy tự kiểm chứng. Cách an toàn nhất trên Windows là cài từ Microsoft Store, nhà phát hành Coconubs. Bản .exe chưa có chữ ký số nên SmartScreen có thể cảnh báo. Mỗi file trên GitHub Releases có mã SHA-256 để đối chiếu, xem [cách kiểm tra](https://coconubs.github.io/cocolauncher/an-toan/).
+
+### Chơi Coco Cobblemon có mất phí không?
+
+Tải CocoLauncher và vào server không mất phí. Trong game có Rank và Battle Pass Premium, đều không bắt buộc.
+
+### Máy tính cần cấu hình thế nào?
+
+Windows 10 hoặc 11 bản 64-bit, hoặc máy Mac chip Apple hay Intel. Launcher mặc định cấp cho game 2 đến 4 GB RAM, nên máy nên có từ 8 GB RAM. Chưa có bản cho Linux.
+
+### Chơi Cobblemon trên điện thoại Android được không? Có server Việt nào vào được bằng điện thoại không?
+
+Được trên Android. Coco Cobblemon vào được bằng CocoLauncher Android, bản thử nghiệm chạy Java Edition, cần RAM từ 6 GB, khuyên dùng 8 GB trở lên. Hiện chưa có bản iOS. Cách cài ở trang [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/).
+
+### Có chơi được bằng Minecraft Bedrock hay PE không?
+
+Không. Cobblemon là mod cho Minecraft Java Edition, không chạy trên Bedrock, PE hay máy console.
+
+### Vào server bằng launcher khác được không?
+
+Không nên. Server cần đúng phiên bản Minecraft, Cobblemon và bộ mod riêng, nên launcher khác sẽ thiếu mod hoặc sai phiên bản. Dùng CocoLauncher để launcher tự cài đúng.
+
+### Coco Cobblemon có tiếng Việt không?
+
+Có. Launcher, Menu, Hướng dẫn và thông báo server bằng tiếng Việt, có nút chọn tiếng Anh. Một số nội dung của Cobblemon và mod khác vẫn có thể hiện tiếng Anh. Xem [Cobblemon Việt hoá](https://coconubs.github.io/cobblemon-viet-hoa/).
+
+### Server có những tính năng gì?
+
+Đấu Xếp Hạng (Đấu Đôi 4v4 tính Elo, Đấu Đơn 6v6), BattleTower 555 tầng, Bang Hội Chiến, Boss Bang, Raid Thế Giới, Legendary tích luỹ với Giờ Vàng cuối tuần, Dung hợp Shiny, Battle Pass, Nghề nghiệp, Ải Viễn Chinh và câu cá 100 loài. Xem [Tính năng](https://coconubs.github.io/tinh-nang/).
+
+### Shiny có xuất hiện tự nhiên không?
+
+Không. Trên Coco Cobblemon, Shiny có qua Dung hợp Shiny, Trứng Pokémon, Raid Thế Giới, Daily Shop và Battle Pass. Xem [Shiny](https://coconubs.github.io/tinh-nang/shiny/).
+
+### Legendary xuất hiện thế nào?
+
+Theo tỉ lệ tích luỹ: khởi đầu 0,001%, cứ 20 phút server chưa có Legendary thì cộng 0,001%, tối đa 1%. Giờ Vàng Thứ 7 và Chủ Nhật 20h-22h nhân đôi tỉ lệ. Xem [Legendary](https://coconubs.github.io/tinh-nang/legendary/).
+
+### Coco Cobblemon có phải server chính thức của Cobblemon không?
+
+Không. Coco Cobblemon là server cộng đồng, không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon.
+
+### Hyper Space là gì?
+
+Hyper Space là tên server Discord của cộng đồng Coco Cobblemon: https://discord.gg/hyspace. Một số video cũ gọi server là Coco's Hyper Space hoặc Coco Cobbleverse, đó vẫn là Coco Cobblemon.
+
+### Hỗ trợ ở đâu?
+
+Hỏi trên Discord: https://discord.gg/hyspace. Lỗi launcher xem trước trang [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/).
+
+*Cập nhật: 07/11/2026.*
+
+---
+
+Trang: Nhật ký cập nhật Coco Cobblemon: thay đổi mới nhất của server
+URL: https://coconubs.github.io/cap-nhat/
+
+# Nhật ký cập nhật Coco Cobblemon
+
+Các thay đổi chính của server Coco Cobblemon, mới nhất ở trên. Bản đầy đủ đăng trong kênh thông báo trên [Discord](https://discord.gg/hyspace). Khi game báo có bản mới, bấm **Cập nhật**, thoát game rồi mở lại CocoLauncher.
+
+## 07/11/2026
+
+**Menu và giao diện**
+
+- Chợ GTS có giao diện mới trong menu, tên **Chợ Đen**, mở bằng `/gts` hoặc lệnh mới `/ah`. Có lịch sử mua bán, tính từ ngày 07/11.
+- Shop CobbleDollars (kể cả Shop ở dân làng) và Ngân hàng dùng giao diện mới của menu, có tiếng Việt và tiếng Anh. Mục Shop trong menu có thêm nút **Bán đồ**.
+- Màn Raid Thế Giới hiện chữ theo ngôn ngữ bạn chọn, tiếng Việt hoặc tiếng Anh.
+- HUD thời tiết và Light Clay trong trận Gym hiện đúng số lượt.
+- Gói mod có thêm Sodium Extra: nhiều tuỳ chọn đồ hoạ hơn trong Cài đặt Video.
+
+**Pokémon và trận đấu**
+
+- Đĩa chiêu TMCraft: khi Pokémon không học được chiêu bằng loại đĩa đang dùng (TM, Egg hoặc Tutor), game báo loại đĩa học được. Bấm vào dòng gợi ý để mở Shop Tokens.
+- Raid Thế Giới: bảng luật trên hologram ghi đủ các thứ bị cấm, tên chiêu và vật phẩm hiện theo ngôn ngữ của bạn. Pain Split không còn dùng được lên boss, kể cả khi gọi ra bằng Metronome.
+
+**Bang hội**
+
+- Lệnh bang mới: `/banghoi leave` (rời bang), `disband` (giải tán), `transfer` (chuyển chủ bang), `promote` và `demote` (phong, bỏ phó bang), `join` (vào bang). Có tên tiếng Việt: `roi`, `giaitan`, `chuyenchu`, `phongpho`, `bopho`, `vao`. Gõ `/banghoi help` để xem cách dùng.
+
+**Vật phẩm**
+
+- Bundle màu không còn chế, mua hay trao đổi được. Bundle màu đang có tự đổi thành bundle thường, giữ nguyên đồ bên trong. NPC Bundler chỉ bán bundle thường.
+- Chợ GTS chặn chặt hơn việc đăng bán vật phẩm bị cấm.
+- Sửa thêm nhiều lỗi của balo và kho Sophisticated, gồm balo lồng trong balo và nâng cấp Chế tạo.
+
+**Discord**
+
+- Bot báo spawn Zygarde Core bằng ảnh riêng và báo khi có người thu Zygarde Core bằng Zygarde Cube.
+
+## 06/11/2026
+
+**Máy chủ phụ giúp tạo thế giới**
+
+- Server có thêm 1 máy chủ phụ chuyên tạo vùng đất mới ở Overworld, Nether và The End. Bay khám phá vùng chưa ai tới mượt hơn, server đỡ giật khi nhiều người cùng đi khám phá.
+- Nhà, công trình và vùng đất đã có của mọi người giữ nguyên, không bị thay đổi.
+
+**Shop CobbleDollars**
+
+- Thêm Basalt, Polished Basalt, Smooth Basalt (2$, mục Xây dựng), Tinted Glass (30$, mục Khối màu), Ice 5$, Packed Ice 10$, Blue Ice 25$ (mục Khối tự nhiên).
+
+**Sửa lỗi**
+
+- Dây dắt không còn kéo được Pokémon, Poké Rod không còn móc kéo Pokémon.
+- Ghép Zygarde bằng Reassembly Unit không còn bị mất Cell, Core.
+- Bang Hội Chiến 22h: bảng luật trong menu ghi đúng, lời khiêu chiến không còn bị mất lúc 22h.
+- Hết lỗi khối "ma": đập rồi mà vẫn thấy khối.
+- Pokémon tiến hoá ngay lần đầu, không còn phải thử 2-3 lần.
+- Bàn thờ LumyMon không trừ tiền khi cầm sai vật phẩm.
+- Vật phẩm rơi cùng loại gộp thành một chồng có nhãn số lượng, đỡ giật khi nhiều đồ rơi.
+- Phá kho Sophisticated đầy đồ không còn làm server giật. Dọn rác tự động không còn xoá kho Sophisticated rơi trên đất.
+- Bản đồ Gym của NPC Kanto Cartographer tìm Gym trong khoảng 7.700 block quanh NPC, không còn làm server đứng.
+
+## 04/11/2026
+
+**Bang hội**
+
+- Khoá đất riêng: gõ `/dat khoa` hoặc mở tab ĐẤT trong menu Bang hội. Đất bạn claim chỉ còn bạn và tối đa 30 người tin cậy dùng được, thành viên bang khác cũng bị chặn như người ngoài. Thêm, bỏ người bằng `/dat chophep <tên>` và `/dat bo <tên>`, mở lại bằng `/dat mo`.
+- `/banghoi chat` bật, tắt chế độ chat bang.
+- Boss Bang: bang mới lập phải đủ 24 giờ mới đánh được, mỗi người nhận tối đa 1 phần thưởng Boss Bang mỗi ngày.
+- Bang Hội Chiến: quà Bá chủ chỉ dành cho thành viên đã vào bang đủ 24 giờ.
+
+**Trận đấu và Pokémon**
+
+- Đấu Xếp Hạng và Bang Hội Chiến có âm thanh báo khi ghép được trận.
+- Bảng trận đấu hiện đúng số lượt thời tiết còn lại.
+- Calyrex, Blastoise, Charizard, Venusaur học lại các chiêu bị thiếu.
+- Rayquaza hết lỗi nhảy quá đà khi cưỡi dưới nước.
+- Pokémon chưa gặp hiện tên thật thay cho "???".
+
+**Khác**
+
+- Triệu hồi, hồi sinh Legendary: sau 2 phút Pokémon không xuất hiện thì tự hoàn phí.
+- `/trade`: đã xác nhận mà còn đổi đồ thì xác nhận tự huỷ, hai bên phải xác nhận lại.
+- Đỡ giật lúc server lưu thế giới.
+- Trạng thái Discord hiện tổng giờ chơi và logo của launcher đang dùng.
+
+## 02/11/2026
+
+- Kit Rank nhận lại mỗi 3 ngày, gõ `/kit`. Rank cao nhận được cả kit của rank thấp hơn.
+- Sự kiện ghép tranh Nhật Nguyệt Khải Huyền kết thúc ngày 03/11.
+- Lệnh mới `/skinset <tên>` để đổi skin nhanh.
+- HUD hiện đúng mức tăng chỉ số của Belly Drum, Anger Point.
+- Đấu Đôi: chiêu nhắm nhầm ô đồng đội đã ngất tự chuyển sang đối thủ còn đứng.
+
+## 30/10/2026
+
+- Halloween: skin giới hạn Mimikyu Quỷ Nhỏ và Ditto Kẹo Ngô.
+- Nghề nghiệp: nhận việc mỗi ngày để kiếm CobbleDollars, 4 mức từ Dễ tới Cực khó.
+- GuideBook mới: menu chính làm lại, Pokédex xem được mô hình 3D, HUD hiện tỉ lệ Legendary và Giờ Vàng.
+- Legendary tích luỹ: càng lâu chưa có Legendary tự nhiên, tỉ lệ càng tăng.
+- Gym, Tứ Thiên Vương, Champion khó hơn. NPC Tiền Thưởng xuất hiện mỗi ngày từ 7h tới 23h.
+- Mini-game Tiến Lên, Cờ Tỷ Phú, Cờ Vua.
+- CocoLauncher có giao diện mới, đủ bản Windows, macOS và Android.
+- Đấu Xếp Hạng: thời gian chọn Pokémon tăng lên 3 phút.
+
+*Cập nhật: 07/11/2026.*
+
+---
+
+Trang: Launcher Cobblemon nào tốt? Modrinth App, CurseForge, Prism, CocoLauncher
+URL: https://coconubs.github.io/launcher-cobblemon/
+
+# Launcher nào để chơi Cobblemon? Modrinth App, CurseForge, Prism Launcher, CocoLauncher
+
+Cobblemon là mod cho Minecraft Java Edition, nên cần một launcher cài được mod. Chọn theo việc bạn muốn làm: chơi một mình, vào một server, hay chơi trên điện thoại.
+
+## Chọn nhanh
+
+| Bạn muốn | Nên dùng |
+|---|---|
+| Chơi Cobblemon một mình, bản gốc | Modrinth App với Cobblemon Official Modpack |
+| Đã quen CurseForge, muốn dùng modpack trên đó | CurseForge App |
+| Tự quản lý nhiều bản cài, nhiều phiên bản | Prism Launcher |
+| Vào server Coco Cobblemon | CocoLauncher |
+| Chơi trên Android | CocoLauncher Android (thử nghiệm, chỉ cho server Coco) |
+
+## So sánh
+
+| | Modrinth App | CurseForge App | Prism Launcher | CocoLauncher |
+|---|---|---|---|---|
+| Cài Cobblemon thế nào | Cài Cobblemon Official Modpack [Fabric] ở tab Discover | Cài một modpack Cobblemon trong mục Modpacks | Nhập modpack từ Modrinth hoặc CurseForge | Tự cài đúng bộ mod của Coco Cobblemon |
+| Phải tự cài Java? | Không, app tự tải | Không | Không, có thể tự tải | Không, launcher tự cài |
+| Hợp với | Người mới chơi một mình | Người đã dùng CurseForge | Người thích tự chỉnh | Người vào Coco Cobblemon |
+| Có bản điện thoại | Không | Không | Không | Android, thử nghiệm |
+| Phí | Không mất phí | Không mất phí | Không mất phí | Không mất phí |
+
+## Từng launcher
+
+**Modrinth App.** Có bản Windows, macOS, Linux. Tìm Cobblemon Official Modpack trong tab Modpacks, bấm Install, app tự tải đúng Minecraft, Fabric và mod phụ thuộc. Hợp với người mới chơi một mình. Các bước ở trang [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/).
+
+**CurseForge App.** Có nhiều modpack Cobblemon do cộng đồng làm. Hợp nếu bạn đã dùng CurseForge cho mod khác.
+
+**Prism Launcher.** Mã nguồn mở, có bản Windows, macOS, Linux, nhập được modpack từ Modrinth và CurseForge. Hợp với người muốn tự chỉnh từng bản cài; người mới sẽ thấy nhiều tuỳ chọn hơn.
+
+**CocoLauncher.** Launcher riêng của server Coco Cobblemon, giao diện tiếng Việt, có bản Windows (Microsoft Store), macOS và Android thử nghiệm. Nhập tên, bấm **Chơi**, launcher tự cài Java, Minecraft, Fabric và đúng bộ mod của server, mod tự cập nhật theo server. CocoLauncher chỉ dùng để vào Coco Cobblemon, không dùng để chơi một mình hay vào server khác. Tải ở trang [Tải CocoLauncher](https://coconubs.github.io/cocolauncher/).
+
+## Vì sao modpack Cobblemon chính thức không vào được Coco Cobblemon
+
+Trên Modrinth, Cobblemon Official Modpack [Fabric] bản mới nhất là 1.8.4, ra ngày 27/10/2026, đi cùng Cobblemon 1.8. Coco Cobblemon đang chạy Cobblemon 1.7.3 cùng bộ mod riêng của server (menu tiếng Việt, Đấu Xếp Hạng, bang hội và nhiều mod khác). Bản Cobblemon và bộ mod ở máy bạn phải khớp server, nên vào Coco Cobblemon bằng modpack chính thức sẽ bị từ chối. CocoLauncher tải đúng bộ mod server đang dùng và tự cập nhật khi server đổi.
+
+Điều này đúng với mọi server Cobblemon: trước khi vào, xem server chạy Minecraft và Cobblemon bản nào, và server có launcher hoặc modpack riêng không.
+
+## Tự cài Cobblemon: lỗi hay gặp
+
+- **Sai bản Java.** Minecraft 1.21.1 cần Java 21. Modrinth App, CurseForge App và Prism Launcher tự lo phần này; nếu tự cài Java, chọn Java 21 bản 64-bit.
+- **Thiếu Fabric API.** Cobblemon bản Fabric cần Fabric API. Cài qua modpack thì đã có sẵn.
+- **Lệch phiên bản với server.** Bản Minecraft, Cobblemon và các mod có nội dung phải khớp server.
+- **Cấp RAM quá nhiều hoặc quá ít.** Đặt RAM cho game trong cài đặt của launcher, không nên cấp quá nửa RAM của máy. CocoLauncher mặc định cấp 2 đến 4 GB.
+- **Dùng Minecraft Bedrock hay PE.** Cobblemon chỉ có cho Java Edition.
+
+## Launcher Cobblemon trên điện thoại Android
+
+Modrinth App, CurseForge App và Prism Launcher không có bản Android. Trên Android có các launcher chạy Minecraft Java Edition như Fold Craft Launcher (FCL) hay PojavLauncher; với các launcher này bạn tự cài Fabric và từng mod, và máy cần nhiều RAM.
+
+CocoLauncher Android là bản thử nghiệm chỉ để vào Coco Cobblemon: launcher tự cài gói Coco Lite khoảng 125 mod, cần RAM từ 6 GB, khuyên 8 GB trở lên. Xem [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/).
+
+## Hỏi nhanh
+
+**Launcher nào dễ dùng nhất cho người mới ở Việt Nam?**
+Muốn vào Coco Cobblemon thì dùng CocoLauncher: giao diện tiếng Việt, chỉ cần nhập tên và bấm Chơi. Muốn chơi Cobblemon một mình thì dùng Modrinth App với Cobblemon Official Modpack.
+
+**Minecraft Bedrock hay PE dùng được launcher nào?**
+Không launcher nào ở trên cài Cobblemon vào Bedrock hay PE, vì Cobblemon là mod cho Java Edition. Trên Android, CocoLauncher Android là bản thử nghiệm chạy Java Edition để vào Coco Cobblemon, xem [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/).
+
+**Launcher có mất phí không?**
+Modrinth App, CurseForge App, Prism Launcher và CocoLauncher đều tải không mất phí.
+
+*Cập nhật: 07/11/2026.*
+
+---
+
+Trang: Cách tải Cobblemon cho Minecraft Java: chơi cùng người Việt hoặc bản gốc
+URL: https://coconubs.github.io/cach-tai-cobblemon/
+
+# Cách tải Cobblemon cho Minecraft Java
+
+Hai cách tuỳ theo bạn muốn vào server người Việt hay tự chơi bản gốc.
+
+> **Lưu ý trước khi tải:** Cobblemon là mod cho Minecraft **Java Edition**, không chạy trên Bedrock. Mỗi server cần đúng phiên bản: tại ngày 01/11/2026 Modrinth có bản Fabric 1.8.4F, còn server Coco Cobblemon dùng **1.7.3**. Bản mới hơn có thể đã ra, hãy kiểm tra trên Modrinth.
+
+## Cách 1: dùng CocoLauncher
+
+Nhanh nhất nếu bạn muốn chơi cùng người Việt: launcher lo hết phiên bản và mod. Xem [các bước vào server](https://coconubs.github.io/cach-vao-server/).
+
+## Cách 2: tự cài Cobblemon bản gốc
+
+Dành cho chơi một mình hoặc server riêng. Bản này không vào được server Coco Cobblemon vì khác phiên bản và thiếu gói mod.
+
+1. Cài [Modrinth App](https://modrinth.com/app).
+2. Tìm **Cobblemon Official Modpack** trong tab Modpacks, chọn bản Fabric, bấm Install. App tự tải đúng Minecraft, Fabric và mod phụ thuộc.
+3. Trong cài đặt instance, tăng RAM nếu game chậm, rồi bấm Play.
+
+Cũng có thể tải riêng mod tại [trang Cobblemon trên Modrinth](https://modrinth.com/mod/cobblemon), nhưng phải tự cài Fabric Loader, Fabric API và Fabric Language Kotlin. So sánh các launcher ở trang [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/).
+
+## Lỗi hay gặp
+
+- **Sai phiên bản khi vào server:** client và server phải cùng bản Minecraft, Cobblemon và bộ mod bắt buộc.
+- **Game văng lúc khởi động:** kiểm tra Java tương thích và RAM cấp cho game. CocoLauncher tự kèm Java.
+- **Điện thoại:** bản Android của CocoLauncher là bản thử nghiệm, xem [yêu cầu cấu hình](https://coconubs.github.io/cobblemon-dien-thoai/).
+
+*Cập nhật: 06/11/2026.*
+
+---
+
+Trang: Cobblemon Việt hoá: cách chơi Cobblemon bằng tiếng Việt
+URL: https://coconubs.github.io/cobblemon-viet-hoa/
+
+# Cobblemon Việt Hoá: cách chơi Cobblemon bằng tiếng Việt
+
+Từ ngôn ngữ có sẵn trong game tới gói dịch của cộng đồng.
+
+## Cobblemon có sẵn tiếng Việt không?
+
+Có. File Cobblemon 1.7.3 cho Fabric có sẵn ngôn ngữ `vi_vn` với 5.450 mục, bản tiếng Anh `en_us` có 9.061 mục, tức khoảng 60% số khoá. Kiểm kê ngày 01/11/2026 bằng cách đếm khoá trong `assets/cobblemon/lang/vi_vn.json` và `en_us.json` của file `Cobblemon-fabric-1.7.3+1.21.1.jar`.
+
+Đây là tỉ lệ khoá, không phản ánh chất lượng dịch và không có nghĩa 60% những gì bạn thấy trong game là tiếng Việt. Mục chưa dịch và chữ của mod khác vẫn hiện tiếng Anh. Bản Cobblemon khác có thể có số khác.
+
+## Cách bật
+
+1. Ở màn hình chính Minecraft, vào **Options** rồi **Language**.
+2. Tìm **Tiếng Việt (Việt Nam)**, chọn, bấm **Done**.
+3. Chờ game nạp lại tài nguyên.
+
+## Gói Việt hoá của cộng đồng
+
+Muốn dịch kỹ hơn, có thể xem [Viethoa [Cobbemon]](https://modrinth.com/resourcepack/viethoa-cobbemon) trên Modrinth. Gói ghi hỗ trợ Minecraft 1.21.1, cập nhật gần nhất 10/09/2025, nên hãy kiểm tra có khớp bản Cobblemon bạn đang chơi hay không. Đây là gói của tác giả khác, không do Coco Cobblemon phát hành.
+
+## Tiếng Việt trên server Coco Cobblemon khác gì
+
+Đây là nội dung riêng của server, không phải gói dịch cho Cobblemon: launcher, Menu chính, Hướng dẫn, nhiệm vụ và thông báo server được viết bằng tiếng Việt. Tên Pokémon, chiêu thức trong trận vẫn đi theo ngôn ngữ bạn chọn trong Minecraft và phần dịch ở trên.
+
+*Cập nhật: 06/11/2026.*
+
+---
+
+Trang: Chơi Pokémon trong Minecraft: Cobblemon, Pixelmon và server cho người Việt
+URL: https://coconubs.github.io/pokemon-trong-minecraft/
+
+# Chơi Pokémon trong Minecraft: Cobblemon, Pixelmon và server cho người Việt
+
+Muốn bắt và đấu Pokémon trong Minecraft thì cần Minecraft **Java Edition** cộng với một mod Pokémon. Hai mod được chơi nhiều nhất là Cobblemon và Pixelmon. Trang này nói hai mod khác nhau thế nào và cách vào chơi cùng người Việt.
+
+## Cần gì để chơi
+
+- Minecraft Java Edition trên máy tính: Windows, macOS hoặc Linux.
+- Một mod Pokémon: Cobblemon hoặc Pixelmon.
+- Nếu chơi trên server: đúng bản Minecraft, đúng mod và bộ mod phụ mà server dùng.
+
+Minecraft Bedrock, Minecraft PE trên điện thoại và bản máy console không chạy được Cobblemon hay Pixelmon.
+
+## Cobblemon và Pixelmon khác gì
+
+- **Cobblemon:** mod mã nguồn mở, giấy phép MPL-2.0, chạy trên Fabric và NeoForge. Bản 1.7.3 cho Minecraft 1.21.1 ra ngày 31/01/2026. Tải trên Modrinth hoặc CurseForge.
+- **Pixelmon** (Pixelmon Reforged): mod Pokémon có từ lâu hơn, chạy trên Forge, bản cho Minecraft 1.21.1 dùng NeoForge. Tải ở reforged.gg hoặc CurseForge.
+
+Hai mod không vào chung server được. Server Cobblemon cần máy bạn cài Cobblemon, server Pixelmon cần Pixelmon, và cả hai đều cần đúng phiên bản server đang chạy.
+
+## Chơi một mình hay vào server
+
+- **Chơi một mình:** cài Cobblemon bản gốc bằng Modrinth App, các bước ở trang [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/).
+- **Chơi cùng người Việt:** vào một server Cobblemon. Server thường cần đúng bộ mod riêng, nên dùng launcher của server sẽ đỡ lỗi nhất.
+
+## Server Pokémon cho người Việt: Coco Cobblemon
+
+Coco Cobblemon là server Minecraft Java chơi Cobblemon 1.7.3 trên Minecraft 1.21.1, của cộng đồng người Việt, địa chỉ `coco.ultramc.co`. Vào game bằng CocoLauncher: nhập tên, bấm **Chơi**, launcher tự cài Java, Minecraft, Fabric và đúng bộ mod.
+
+Trong server có Đấu Xếp Hạng tính Elo, BattleTower 555 tầng, Gym, Bang Hội Chiến, Raid Thế Giới và Legendary tích luỹ: server càng lâu chưa có Legendary thì tỉ lệ càng tăng. Menu và hướng dẫn bằng tiếng Việt. Xem thêm [Server Cobblemon Việt Nam: Coco Cobblemon](https://coconubs.github.io/server-cobblemon-viet-nam/) và [Tải CocoLauncher](https://coconubs.github.io/cocolauncher/).
+
+## Hỏi nhanh
+
+**Minecraft PE có chơi Pokémon được không?**
+Cobblemon và Pixelmon không chạy trên Bedrock hay PE. Trên Android, CocoLauncher Android là bản thử nghiệm chạy Java Edition, cần máy từ 6 GB RAM, xem [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/).
+
+**Cài Pixelmon rồi vào server Cobblemon được không?**
+Không. Mỗi server chỉ nhận đúng mod và đúng phiên bản của nó.
+
+**Có mất phí không?**
+Cobblemon và Pixelmon tải không mất phí. Tải CocoLauncher và vào server Coco Cobblemon cũng không mất phí.
+
+*Cập nhật: 06/11/2026.*
+
+---
+
+Trang: Coco Cobblemon: Cobblemon server in Vietnam, CocoLauncher and guides
+URL: https://coconubs.github.io/en/
+
+# Coco Cobblemon: a Cobblemon server in Vietnam
+
+Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher.
+
+[Download CocoLauncher](https://coconubs.github.io/en/cocolauncher/)
+[How to join](https://coconubs.github.io/en/how-to-join/)
+[Discord](https://discord.gg/hyspace)
+
+---
+
+| | |
+|---|---|
+| **Server address** | `coco.ultramc.co` |
+| **Version** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
+| **Hosted in** | Singapore, about 29 ms ping from Ho Chi Minh City (measured 6 November 2026) |
+| **Language** | Vietnamese, with an English option in the launcher and the in-game menu |
+| **Join with** | CocoLauncher for Windows, macOS and Android |
+| **Cost** | Free to download and join |
+| **Event times** | Vietnam time (UTC+7) |
+| **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace) (Discord server name: Hyper Space) |
+
+## What you can do on the server
+
+Most new players start by catching Pokémon, then move on to battles and guilds.
+
+- **Ranked battles:** 4v4 Doubles with Elo and 6v6 Singles, with automatic matchmaking.
+- **Battle Tower:** 555 floors, with a boss floor every 5 floors.
+- **Guilds:** Guild Wars on weekdays, a daily Guild Boss, guild gifts and a private land lock for each member.
+- **World Raids:** a shared boss for the whole server at 9:00 and 19:00 every day.
+- **Accumulating Legendary chance:** the longer the server goes without a Legendary, the higher the chance, shown on the HUD. Legendary Golden Hours run on Saturday and Sunday, 20:00-22:00 Vietnam time.
+- **Shiny:** Shiny Fusion, Pokémon Eggs, Raids and the Daily Shop.
+- **Daily play:** Battle Pass, jobs, expeditions, the Daily Shop and fishing with 100 species.
+
+Details on the [Features](https://coconubs.github.io/en/features/) page.
+
+## Which devices work
+
+| Device | Supported |
+|---|---|
+| Windows 10, 11 | Yes |
+| macOS (Apple silicon, Intel) | Yes |
+| Android | Experimental build that runs Java Edition, 6 GB of RAM or more. See [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/) |
+| Linux | No launcher build yet |
+| iPhone, iPad | Not available |
+| Minecraft Bedrock, Pocket Edition | No, Cobblemon is a Java Edition mod |
+
+## Can I join from outside Vietnam?
+
+Yes. Anyone can download CocoLauncher and join. Most players and most of the chat are Vietnamese, and the menus can be switched to English with `/ngonngu en` or the VI/EN flag in the menu.
+
+## More pages
+
+- [CocoLauncher download](https://coconubs.github.io/en/cocolauncher/)
+- [How to join](https://coconubs.github.io/en/how-to-join/)
+- [Features](https://coconubs.github.io/en/features/)
+- [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/)
+- [Which launcher for Cobblemon](https://coconubs.github.io/en/cobblemon-launcher/)
+- [Troubleshooting](https://coconubs.github.io/en/troubleshooting/)
+- [FAQ](https://coconubs.github.io/en/faq/)
+
+*Updated: 7 November 2026.*
+
+---
+
+Trang: How to join the Coco Cobblemon server (IP coco.ultramc.co)
+URL: https://coconubs.github.io/en/how-to-join/
+
+# How to join Coco Cobblemon
+
+| | |
+|---|---|
+| **Server address (IP)** | `coco.ultramc.co` |
+| **Version** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
+| **Launcher** | [CocoLauncher](https://coconubs.github.io/en/cocolauncher/) |
+| **Cost** | Free to download and join. Ranks and the Premium Battle Pass are optional |
+
+## 5 steps
+
+1. **Download the launcher** for your system from the [CocoLauncher page](https://coconubs.github.io/en/cocolauncher/).
+2. **Enter a player name:** 3 to 16 characters, letters without accents, numbers or underscores.
+3. **Press Play:** the first launch downloads Java, Minecraft, Fabric and the modpack, so use a stable connection. Later launches only download what changed.
+4. **Join:** the launcher connects to the server. Follow the on-screen registration.
+5. **Open the menu:** type `/menu`, or right-click the Menu item in the last hotbar slot. Switch the menu to English with the VI/EN flag or `/ngonngu en`.
+
+## First day
+
+1. Link your Discord account (`/link` in game, then `/link <code>` on [Discord](https://discord.gg/hyspace)) to unlock daily check-in rewards.
+2. Open the Battle Pass and do the 10 daily quests.
+3. Take jobs with `/nghenghiep` to earn CobbleDollars.
+4. Send Pokémon on 3 expeditions a day.
+5. Climb the Battle Tower (`/battletower`) for daily BattleTower Points.
+6. Claim land with `/claim` and set a home with `/sethome`. Build within ±30,000 blocks: land outside that range cannot be claimed and is reset every 2 weeks.
+
+## Useful commands
+
+| Group | Commands |
+|---|---|
+| Basics | `/menu` · `/sethome` · `/home` · `/spawn` · `/back` |
+| Travel | `/rtp` · `/tpa <name>` · `/tpaccept` · `/warps` |
+| Land | `/claim` · `/unclaim` · `/dat khoa` private land lock |
+| Guild | `/banghoi` · `/bangchien` · `/bossbang` |
+| Money and Pokémon | `/sell` · `/pay` · `/gts` Pokémon market |
+| Daily | `/nghenghiep` jobs · `/xephang` ranked battles · `/cauca` fishing |
+| Other | `/ngonngu en` English · `/help` all commands |
+
+## Can I join with another launcher?
+
+Not recommended. The server needs its exact mod set, so other launchers end up missing mods or on the wrong version. If something goes wrong, see [Troubleshooting](https://coconubs.github.io/en/troubleshooting/).
+
+## Bedrock or Pocket Edition?
+
+No. Cobblemon is a Java Edition mod. On Android phones, CocoLauncher Android is an experimental build that runs Java Edition. There is no iOS version.
+
+*Updated: 06/11/2026.*
+
+---
+
+Trang: CocoLauncher (Coco Launcher): download for Windows, macOS and Android
+URL: https://coconubs.github.io/en/cocolauncher/
+
+# CocoLauncher (Coco Launcher)
+
+CocoLauncher is the launcher of the Coco Cobblemon server. It installs Java, Minecraft, Fabric and the server modpack so you can join with one button. The publisher is Coconubs.
+
+## Download
+
+| Platform | Download |
+|---|---|
+| Windows 10, 11 (recommended) | [Microsoft Store](https://apps.microsoft.com/detail/9NPG31VS7T2H?cid=docs-en) |
+| Windows installer | [CocoLauncher-Setup.exe](https://github.com/Coconubs/cocolauncher-pack/releases/download/launcher/CocoLauncher-Setup.exe) |
+| macOS M1-M4 and newer (Apple silicon) | [CocoLauncher-Mac-AppleSilicon.dmg](https://github.com/Coconubs/cocolauncher-pack/releases/download/launcher/CocoLauncher-Mac-AppleSilicon.dmg) |
+| macOS Intel | [CocoLauncher-Mac-Intel.dmg](https://github.com/Coconubs/cocolauncher-pack/releases/download/launcher/CocoLauncher-Mac-Intel.dmg) |
+| Android (experimental, 6 GB of RAM or more) | [CocoLauncher-Android.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android.apk) |
+| Android on a PC emulator (MuMu, LDPlayer) | [CocoLauncher-Android-GiaLap.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android-GiaLap.apk) |
+| iOS, Linux | Not available |
+
+Only download from the Microsoft Store or [Coconubs GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases). Copies on other sites may have been modified.
+
+There is an unrelated Android home-screen app with a similar name, "Coco Launcher", on Google Play. It has nothing to do with Minecraft or Coco Cobblemon.
+
+## What it does
+
+- **One Play button:** downloads and checks Java, Minecraft 1.21.1, Fabric Loader, the modpack and the resource pack.
+- **Mods follow the server:** the modpack is checked and updated every time you press Play.
+- **Settings:** several player names, RAM, resolution and game folder.
+- **Extras:** online player count, Vietnamese and English interface.
+
+CocoLauncher only joins Coco Cobblemon. For single player or other servers, see [Which launcher for Cobblemon](https://coconubs.github.io/en/cobblemon-launcher/).
+
+## Install
+
+**Windows.** Install from the Microsoft Store, or run the .exe. The .exe is not code-signed, so SmartScreen may show "Windows protected your PC"; only choose More info and Run anyway if you downloaded it from the link above and the SHA-256 hash matches.
+
+**macOS.** Open the .dmg and drag CocoLauncher to Applications. Check the Chip line in About This Mac to pick the right build. On macOS 15 and later, open the app once, choose Done, then go to System Settings > Privacy & Security and press Open Anyway. On macOS 14 and earlier, Control-click the app and choose Open. The Mac build does not update itself: download the new .dmg and drag it over the old app; your game data stays.
+
+**Android.** See [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/).
+
+## Check the download
+
+Every file on [GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases/tag/launcher) shows a `sha256` hash. Compare it with your file:
+
+```powershell
+Get-FileHash CocoLauncher-Setup.exe
+```
+
+```bash
+shasum -a 256 CocoLauncher-Mac-AppleSilicon.dmg
+```
+
+If the hashes do not match, do not open the file. Download it again from the official link and report it on [Discord](https://discord.gg/hyspace).
+
+## System requirements
+
+- Windows 10 or 11 (64-bit), or a Mac with Apple silicon or Intel.
+- The launcher gives the game 2 to 4 GB of RAM by default, so 8 GB of RAM or more is recommended.
+
+*Updated: 06/11/2026.*
+
+---
+
+Trang: Coco Cobblemon features: ranked battles, Battle Tower, Guild Wars, Raids, Legendary
+URL: https://coconubs.github.io/en/features/
+
+# Coco Cobblemon features
+
+A summary of the main systems on the server, taken from the in-game guide. All times are Vietnam time (UTC+7).
+
+## Ranked battles
+
+Open with `/xephang` or the RANKED tile in the main menu.
+
+- **4v4 Doubles** (main format): bring 6, see the opponent's team, pick 4. Elo-rated with a ban list (Regulation H: no Legendary, Mythical, Restricted, Paradox or Ultra Beast; Mega and Tera only).
+- **6v6 Singles** (friendly): all 6 fight, wins and losses only.
+- Hidden matchmaking by Elo. Everyone is set to Lv 50 copies, 90 seconds per turn.
+- Ranks: Bronze, Silver, Gold, Platinum, Diamond, Master, each with 3 tiers. The top 5 Masters are Challengers.
+
+## Battle Tower
+
+- 555 floors of 6v6 battles against NPCs. You need 6 Pokémon in your party.
+- A boss floor every 5 floors; bosses use Mega, Dynamax, Tera and Z-Moves.
+- From floor 15, some floors ban one or more of those mechanics for you.
+- Losing drops you 5 floors, never below the safe checkpoints (25, 50, 75...).
+- Rewards: daily BattleTower Points by highest floor (x3 on weekends), Tokens for each new checkpoint and per hour online.
+
+## Guilds
+
+- **Guild Wars:** Monday to Friday, 9:00-22:00. Guilds raise a War Flag and challenge each other to steal flags in 4v4 Doubles at Lv 50. The guild holding the most flags at 22:00 is the day's Overlord.
+- **Guild Boss:** a new boss for every guild each day at 0:00 (Pseudo, Paradox or Ultra Beast on weekdays, Legendary on weekends), 3 attempts per member.
+- **Guild gifts:** when a member catches a Shiny or a Legendary, or clears a Battle Tower checkpoint, the rest of the guild gets a gift box.
+- **Guild aura:** with 3 or more members online, everyone online gets +10% battle EXP and +10% catch rate.
+- **Private land lock:** `/dat khoa` lets only you and up to 30 trusted players use your land.
+
+## World Raids
+
+- Open at 9:00 and 19:00 daily in the Lobby, for 2 hours. Join with a Raid Key (`/raid join`).
+- Shared HP by boss type: Legendary 5,000, Sub-legendary 4,500, Ultra Beast 3,500, Paradox 3,000, Pseudo 2,500.
+- The top 5 damage dealers get 3 catch attempts each, the finisher 3 more. Raid bosses are Shiny at 1/4096.
+
+## Legendary and Shiny
+
+- **Accumulating Legendary chance:** starts at 0.001% and rises by 0.001% every 20 minutes without a natural Legendary spawn on the server, up to 1%. It resets when one spawns anywhere.
+- **Golden Hours:** Saturday and Sunday, 20:00-22:00, the current chance is doubled (up to 2%).
+- **Summoning:** altars and shrines still work but cost CobbleDollars; Mythicals cannot be summoned.
+- **Shiny Pokémon do not spawn naturally.** Get them from Shiny Fusion, Pokémon Eggs (1/4096 to 1/512), World Raids, the Daily Shop (1/2048) and the Battle Pass.
+
+## Daily play
+
+- **Battle Pass:** 100 levels, 10 daily and 10 weekly quests, free rewards every 5 levels.
+- **Jobs** (`/nghenghiep`): 8 jobs with 5 quests each per day, 1,000$ to 10,000$ per quest.
+- **Expeditions:** send Pokémon on 1★ to 5★ missions, 3 runs a day, timers keep running offline at half speed.
+- **Daily Shop:** 7 random Lv 50 Pokémon cards each day.
+- **Fishing:** 100 fish species in 7 rarities, a collection book, craftable rods and a golden hour contest every evening, 19:00-22:00.
+- **Mini-games:** Tiến Lên (a Vietnamese card game), a Monopoly-style board game and chess with Elo.
+
+*Taken from the in-game guide on 06/11/2026. Numbers can change with updates; the in-game menu is always the most accurate.*
+
+---
+
+Trang: Coco Cobblemon and CocoLauncher FAQ: server IP, download, Android
+URL: https://coconubs.github.io/en/faq/
+
+# Coco Cobblemon FAQ
+
+The questions new players ask most about the Coco Cobblemon server and CocoLauncher.
+
+### What is Coco Cobblemon?
+
+Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher. It runs Minecraft 1.21.1, Fabric and Cobblemon 1.7.3.
+
+### What is the Coco Cobblemon server IP?
+
+The address is `coco.ultramc.co`, Minecraft Java 1.21.1. CocoLauncher connects automatically, so you do not need to type it.
+
+### What is the best Cobblemon server in Vietnam?
+
+There is no official ranking of Vietnamese Cobblemon servers. Coco Cobblemon is a Vietnamese community server: Minecraft Java 1.21.1, Cobblemon 1.7.3, address `coco.ultramc.co`, hosted in Singapore with about 29 ms ping from Ho Chi Minh City (measured on 6 November 2026). When comparing servers, check the Minecraft and Cobblemon version, how mods are installed, ping, language, supported devices and what costs money.
+
+### Where is the server hosted?
+
+In Singapore. Measured on 6 November 2026, ping from Ho Chi Minh City was about 29 ms. Your ping depends on your network and location.
+
+### How many players does Coco Cobblemon have?
+
+It changes by the hour. At 20:28 Vietnam time on Saturday, 7 November 2026, 110 players were online; the highest recorded peak is about 120 players (evening of 4 November 2026). The Hyper Space Discord has about 1,800 members (7 November 2026).
+
+### Which Cobblemon version does the server use?
+
+Cobblemon 1.7.3 on Minecraft Java 1.21.1 with Fabric, plus the server's own mods. The latest Cobblemon Official Modpack (Cobblemon 1.8) cannot join, so use CocoLauncher, which installs the right versions.
+
+### What is CocoLauncher?
+
+CocoLauncher (Coco Launcher) is the launcher of the Coco Cobblemon server, published by Coconubs. It installs Java, Minecraft, Fabric and the server modpack so you can join with one button. It is not the phone home-screen app with a similar name on Google Play.
+
+### Where do I download CocoLauncher?
+
+On Windows, install it from the [Microsoft Store](https://apps.microsoft.com/detail/9NPG31VS7T2H?cid=docs-en). The .exe, macOS (.dmg) and Android (.apk) builds are on [Coconubs GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases). All links are on the [CocoLauncher page](https://coconubs.github.io/en/cocolauncher/).
+
+### Is CocoLauncher safe?
+
+No software can promise that, so verify it yourself. The safest way on Windows is the Microsoft Store listing by Coconubs. The .exe is not code-signed, so SmartScreen may warn you. Every file on GitHub Releases shows a SHA-256 hash you can compare with `Get-FileHash` on Windows or `shasum -a 256` on macOS.
+
+### Is it free to play?
+
+Downloading CocoLauncher and joining the server is free. Ranks and the Premium Battle Pass are optional.
+
+### What computer do I need?
+
+Windows 10 or 11 (64-bit), or a Mac with Apple silicon or Intel. The launcher gives the game 2 to 4 GB of RAM by default, so 8 GB of RAM or more is recommended. There is no Linux build yet.
+
+### Can I play Cobblemon on my phone?
+
+On Android, yes: CocoLauncher Android is an experimental build that runs Java Edition and needs 6 GB of RAM or more (8 GB recommended). There is no iOS version. See [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/).
+
+### Can I play on Bedrock or Pocket Edition?
+
+No. Cobblemon is a Minecraft Java Edition mod and does not run on Bedrock, Pocket Edition or consoles.
+
+### Do I need to speak Vietnamese?
+
+The community and most server content are Vietnamese. The launcher and the in-game menu have an English option (type `/ngonngu en` in game), and some content from Cobblemon and other mods appears in English.
+
+### What time zone are events in?
+
+All event times are Vietnam time (UTC+7). For example World Raids open at 9:00 and 19:00, and Legendary Golden Hours run on Saturday and Sunday, 20:00-22:00.
+
+### Is Coco Cobblemon an official Cobblemon server?
+
+No. Coco Cobblemon is a community server. It is not an official product of, or endorsed by, Mojang, Microsoft, Nintendo, The Pokémon Company or the Cobblemon team.
+
+### What is Hyper Space?
+
+Hyper Space is the name of the Coco Cobblemon community Discord server: https://discord.gg/hyspace. Some older videos call the server Coco's Hyper Space; it is the same server, Coco Cobblemon.
+
+*Updated: 7 November 2026.*
+
+---
+
+Trang: Play Cobblemon on Android with CocoLauncher Android
+URL: https://coconubs.github.io/en/cobblemon-android/
+
+# Play Cobblemon on Android
+
+Cobblemon is a mod for Minecraft Java Edition, so it does not install into Minecraft Pocket Edition or Bedrock. To play on a phone, the Coco Cobblemon server has **CocoLauncher Android**, an experimental app that runs Java Edition on the Android device and joins the same server as PC players.
+
+[Download CocoLauncher-Android.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android.apk)
+
+## What your phone needs
+
+- 6 GB of RAM or more, 8 GB or more recommended.
+- A mid-range chip or better.
+- About 2 GB of free storage.
+- About 400 MB to download on first launch, so use Wi-Fi.
+
+Weaker phones may still start the game, but they tend to stutter or close in busy areas.
+
+## Install
+
+1. Download [CocoLauncher-Android.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android.apk).
+2. Open the file. If Android asks, allow your browser to install unknown apps.
+3. Open CocoLauncher, enter a player name and press **Play**.
+
+If a Chrome download sits at 100%, pull down the notification shade: Chrome is usually waiting for you to confirm keeping the .apk file.
+
+The Android build uses the **Coco Lite** pack, about 125 mods. It is lighter than the PC pack and still joins the same server.
+
+## PC emulators (MuMu, LDPlayer)
+
+Emulators use a separate build: [CocoLauncher-Android-GiaLap.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android-GiaLap.apk). If the computer runs Windows, the [Windows launcher](https://coconubs.github.io/en/cocolauncher/) is lighter and more stable than an emulator.
+
+## iPhone and iPad
+
+Not available.
+
+## Common problems
+
+| Problem | Fix |
+|---|---|
+| Black screen or crash on start | In Settings, if the renderer is on Auto, try LTW or Zink |
+| Crashes after a while | Keep game memory at the recommended level and close other apps |
+| Hot phone, stutter | Lower the resolution to 50-70% and the render distance |
+| Emulator crashes | Use the emulator build, not the phone build |
+
+Still stuck: use the send-log button in the launcher settings and ask on [Discord](https://discord.gg/hyspace).
+
+*Updated: 06/11/2026.*
+
+---
+
+Trang: Best launcher for Cobblemon: Modrinth App, CurseForge, Prism, CocoLauncher
+URL: https://coconubs.github.io/en/cobblemon-launcher/
+
+# Which launcher for Cobblemon? Modrinth App, CurseForge, Prism Launcher, CocoLauncher
+
+Cobblemon is a mod for Minecraft Java Edition, so you need a launcher that can install mods. Pick by what you want to do: play alone, join a server, or play on a phone.
+
+## Quick pick
+
+| You want to | Use |
+|---|---|
+| Play Cobblemon on your own | Modrinth App with the Cobblemon Official Modpack |
+| Use modpacks from CurseForge | CurseForge App |
+| Manage many installs and versions yourself | Prism Launcher |
+| Join the Coco Cobblemon server | CocoLauncher |
+| Play on Android | CocoLauncher Android (experimental, for the Coco server only) |
+
+## The launchers
+
+**Modrinth App.** Free, for Windows, macOS and Linux. Search for the Cobblemon Official Modpack in the Modpacks tab and press Install; the app downloads the right Minecraft, Fabric and dependency mods. A good start for new players playing alone.
+
+**CurseForge App.** Free, with many community Cobblemon modpacks. Handy if you already use CurseForge for other mods.
+
+**Prism Launcher.** Open source, for Windows, macOS and Linux, and it imports modpacks from Modrinth and CurseForge. Good if you like to tune each install; new players will see more options than they need.
+
+**CocoLauncher.** The launcher of the Coco Cobblemon server, for Windows (Microsoft Store), macOS and an experimental Android build. Enter a name and press **Play**; it installs Java, Minecraft, Fabric and the server's mod set, and keeps the mods in step with the server. CocoLauncher only joins Coco Cobblemon; it is not for single player or other servers. Downloads are on the [main page](https://coconubs.github.io/en/cocolauncher/).
+
+## Joining a server
+
+Every Cobblemon server needs its exact Minecraft version, Cobblemon version and mod set. A general launcher such as Modrinth App can join a server that publishes its modpack; when a server has its own launcher, that is usually the least trouble. Coco Cobblemon runs Minecraft Java 1.21.1, Fabric and Cobblemon 1.7.3 with its own mod set, so use CocoLauncher.
+
+## Why the official Cobblemon modpack cannot join Coco Cobblemon
+
+On Modrinth, the latest Cobblemon Official Modpack [Fabric] is version 1.8.4, released on 27 October 2026, which comes with Cobblemon 1.8. Coco Cobblemon runs Cobblemon 1.7.3 plus the server's own mods (Vietnamese menu, Ranked Battles, guilds and more). Your Cobblemon version and mods have to match the server, so the official modpack is refused when it tries to join. CocoLauncher downloads the exact mod set the server uses and updates it when the server changes.
+
+The same applies to any Cobblemon server: before joining, check which Minecraft and Cobblemon versions it runs and whether it has its own launcher or modpack.
+
+## Cobblemon launchers on Android
+
+Modrinth App, CurseForge App and Prism Launcher have no Android version. On Android, launchers that run Minecraft Java Edition, such as Fold Craft Launcher (FCL) or PojavLauncher, need you to install Fabric and every mod yourself. CocoLauncher Android is an experimental build made only for Coco Cobblemon: it installs the Coco Lite pack (about 125 mods) and needs 6 GB of RAM or more, 8 GB recommended. See [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/).
+
+## Quick answers
+
+**Can any of these install Cobblemon on Bedrock or Pocket Edition?**
+No. Cobblemon is a Java Edition mod. On Android, CocoLauncher Android is an experimental build that runs Java Edition to join Coco Cobblemon, see [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/).
+
+**Do they cost anything?**
+Modrinth App, CurseForge App, Prism Launcher and CocoLauncher are all free to download.
+
+*Updated: 7 November 2026.*
+
+---
+
+Trang: CocoLauncher troubleshooting: exit code 1, SmartScreen, macOS, Android
+URL: https://coconubs.github.io/en/troubleshooting/
+
+# CocoLauncher troubleshooting
+
+Known problems and fixes by operating system. If yours is not here, ask on [Discord](https://discord.gg/hyspace) with a screenshot.
+
+## Windows
+
+| Problem | Fix |
+|---|---|
+| SmartScreen blocks the installer | Install from the [Microsoft Store](https://apps.microsoft.com/detail/9NPG31VS7T2H?cid=docs-en), or compare the SHA-256 hash before running the .exe |
+| The launcher says the game exited with code 1 right after Play | The game stopped before loading mods. The case seen so far was a full disk: free up space and try again. Details are in `instance/logs/launcher-game-output.log` in the game folder |
+| Slow game or crashes | Adjust RAM in the launcher's quick settings and close other apps |
+| A mod breaks after copying files by hand | Remove that mod from the SideMods folder and press Play. The launcher re-checks the modpack on every launch |
+| Version mismatch or missing mods when joining | Reopen CocoLauncher and press Play so it downloads the update. Do not join with another launcher |
+
+## macOS
+
+| Problem | Fix |
+|---|---|
+| macOS cannot verify the developer | macOS 15 and later: System Settings > Privacy & Security, press Open Anyway. macOS 14 and earlier: Control-click the app, choose Open |
+| The app "is damaged" | Download the file again from the [download page](https://coconubs.github.io/en/cocolauncher/) and compare the SHA-256 hash. If it still fails, ask on Discord; do not disable macOS security checks |
+| A new version is out but the launcher does not update | Expected on Mac: download the new .dmg and drag it over the old app, your game data stays |
+
+## Android
+
+| Problem | Fix |
+|---|---|
+| Emulator crashes | Use the emulator build (GiaLap.apk), not the phone build |
+| Black screen or crash | In Settings, if the renderer is on Auto, try LTW or Zink |
+| Hot phone, stutter | Lower the resolution to 50-70% |
+| Crashes mid-game | Keep game memory at the recommended level, close other apps |
+| The .apk download sits at 100% | Pull down the notification shade, Chrome is waiting for you to keep the file |
+
+*Updated: 06/11/2026.*

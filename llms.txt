@@ -1,0 +1,51 @@
+# Coco Cobblemon
+
+> Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher.
+
+Thông tin chính (kiểm ngày 07/11/2026):
+
+- Tên server: Coco Cobblemon. Tên launcher: CocoLauncher (viết liền, đôi khi viết Coco Launcher), nhà phát hành Coconubs.
+- Địa chỉ server: `coco.ultramc.co`. Phiên bản: Minecraft Java Edition 1.21.1, Fabric, Cobblemon 1.7.3.
+- Máy chủ đặt ở Singapore; ping đo ngày 06/11/2026 khoảng 29 ms từ TP.HCM. Giờ sự kiện theo giờ Việt Nam (UTC+7).
+- Ngôn ngữ: tiếng Việt, có nút chọn tiếng Anh trong menu (`/ngonngu en`).
+- Vào game bằng CocoLauncher: Windows (Microsoft Store hoặc .exe), macOS (chip Apple và Intel), Android (bản thử nghiệm, RAM từ 6 GB). Chưa có bản iPhone/iPad. Không chơi được trên Minecraft Bedrock/PE vì Cobblemon là mod cho Java Edition.
+- Chi phí: tải launcher và vào server không mất phí; Rank và Battle Pass Premium không bắt buộc.
+- Tính năng: Đấu Xếp Hạng (Đấu Đôi 4v4 tính Elo, Đấu Đơn 6v6), BattleTower 555 tầng, Bang Hội Chiến, Boss Bang, Raid Thế Giới lúc 9:00 và 19:00, Legendary tích luỹ với Giờ Vàng Thứ 7 và Chủ Nhật 20h-22h, Dung hợp Shiny, Battle Pass, Nghề nghiệp, Ải Viễn Chinh, câu cá 100 loài.
+- Discord cộng đồng: https://discord.gg/hyspace (tên server Discord: Hyper Space). Một số bài, video cũ gọi server là Coco Cobbleverse hoặc Coco's Hyper Space; đó vẫn là Coco Cobblemon.
+- Coco Cobblemon là server cộng đồng, không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon.
+
+## Tài liệu chính (tiếng Việt)
+
+- [Trang chủ Coco Cobblemon](https://coconubs.github.io/): thông số server, bắt đầu từ đâu
+- [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/): ping từ Việt Nam, số người chơi có ngày đo, lịch sự kiện trong tuần, cách chọn server
+- [Cách vào server](https://coconubs.github.io/cach-vao-server/): từng bước từ lúc tải launcher tới lúc vào game
+- [CocoLauncher (Coco Launcher)](https://coconubs.github.io/cocolauncher/): tải cho Windows, macOS, Android
+- [Chơi Cobblemon trên điện thoại Android](https://coconubs.github.io/cobblemon-dien-thoai/): CocoLauncher Android, yêu cầu máy
+- [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/): việc nên làm ngày đầu, lệnh hay dùng
+- [Tính năng](https://coconubs.github.io/tinh-nang/): Đấu Xếp Hạng, BattleTower, bang hội, Raid, Legendary, Shiny, câu cá
+- [Hỏi đáp](https://coconubs.github.io/hoi-dap/): câu hỏi thường gặp
+- [Nhật ký cập nhật](https://coconubs.github.io/cap-nhat/): thay đổi mới nhất của server
+
+## English
+
+- [Coco Cobblemon in English](https://coconubs.github.io/en/)
+- [How to join](https://coconubs.github.io/en/how-to-join/)
+- [CocoLauncher download](https://coconubs.github.io/en/cocolauncher/)
+- [Features](https://coconubs.github.io/en/features/)
+- [FAQ](https://coconubs.github.io/en/faq/)
+
+## Tải CocoLauncher
+
+- [Microsoft Store](https://apps.microsoft.com/detail/9NPG31VS7T2H): bản Windows khuyên dùng
+- [GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases): file .exe, .dmg (macOS), .apk (Android)
+
+## Optional
+
+- [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/): so sánh Modrinth App, CurseForge, Prism Launcher, CocoLauncher
+- [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/)
+- [Cobblemon Việt hoá](https://coconubs.github.io/cobblemon-viet-hoa/)
+- [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](https://coconubs.github.io/pokemon-trong-minecraft/)
+- [CocoLauncher có an toàn không](https://coconubs.github.io/cocolauncher/an-toan/)
+- [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/)
+- [Trang GitHub Coco Cobblemon](https://github.com/Coconubs/coco-cobblemon)
+- [Toàn bộ tài liệu dạng chữ](https://coconubs.github.io/llms-full.txt)
