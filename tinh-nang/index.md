@@ -52,6 +52,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 | [Điểm danh](/tinh-nang/hang-ngay/#diem-danh) | Chuỗi ngày liên tiếp nhận Tokens, Trứng, Tinh Thể Shiny |
 | [Câu cá](/tinh-nang/cau-ca/) | 100 loài cá, 7 độ hiếm, sách sưu tập, khung giờ vàng 19:00-22:00 |
 | [Tiền tệ, Shop, Chợ GTS](/tinh-nang/kinh-te/) | CobbleDollars, Tokens, BattleTower Points. Held Item, thuốc EV, Mint, kẹo IV mua bằng Tokens; Chợ GTS mua bán giữa người chơi (`/gts`, `/ah`) |
+| [Breeding](/tinh-nang/breeding/) | Lấy trứng bằng Pasture Block, khoảng 4-8 giờ 1 trứng, nhanh hơn trong đất bang |
 | Túi May Mắn | Rơi khi bắt Pokémon, thắng trận, đào quặng, câu cá |
 | Mini-game | Tiến Lên, Cờ Tỷ Phú, Cờ Vua (tính Elo) |
 

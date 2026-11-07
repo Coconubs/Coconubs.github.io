@@ -62,6 +62,6 @@ Số dư hiện trên scoreboard bên phải màn hình và đầu Menu.
 
 ## Breeding
 
-Cần 1 Pasture Block và 2 Pokémon cùng nhóm trứng (một đực, một cái) hoặc 1 Pokémon với Ditto. Khoảng 4 đến 8 giờ có 1 trứng. Breeding trên server chậm hơn bản gốc 5 lần, đặt Pasture trong đất bang thì bớt 10% thời gian mỗi cấp bang.
+Cần 1 Pasture Block và 2 Pokémon cùng nhóm trứng (một đực, một cái) hoặc 1 Pokémon với Ditto. Khoảng 4 đến 8 giờ có 1 trứng. Breeding trên server chậm hơn bản gốc 5 lần, đặt Pasture trong đất bang thì bớt 10% thời gian mỗi cấp bang. Chi tiết ở [Breeding](/tinh-nang/breeding/).
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026. Con số có thể đổi theo cập nhật, Menu trong game luôn là bản đúng nhất.*
