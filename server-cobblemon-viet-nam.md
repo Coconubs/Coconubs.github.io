@@ -77,7 +77,7 @@ Danh sách đầy đủ ở trang [Tính năng](/tinh-nang/). Thay đổi mới 
 
 ## Khác gì Cobblemon chơi một mình
 
-- **Kinh tế riêng:** CobbleDollars, Tokens và BattleTower Points. Held Item, thuốc EV, Mint, kẹo IV mua ở Shop Tokens thay vì nhặt ngoài thế giới.
+- **Kinh tế riêng:** CobbleDollars, Tokens và BattleTower Points. Held Item, thuốc EV, Mint, kẹo IV mua ở Shop Tokens thay vì nhặt ngoài thế giới. Xem [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/).
 - **Shiny không xuất hiện tự nhiên:** có Shiny qua Dung hợp, Trứng, Raid, Daily Shop và Battle Pass. Xem [Shiny](/tinh-nang/shiny/).
 - **Breeding chậm hơn bản gốc 5 lần**, nhanh hơn khi đặt Pasture trong đất bang.
 - **Menu tiếng Việt** có Pokédex mô hình 3D, tra cứu và hướng dẫn từng tính năng.
