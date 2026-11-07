@@ -1,7 +1,7 @@
 ---
 title: FAQ
 seo_title: "Coco Cobblemon and CocoLauncher FAQ: server IP, download, Android"
-description: "Frequently asked questions about the Coco Cobblemon server and CocoLauncher (Coco Launcher): server IP, where to download, safety, Android, Bedrock, language, cost."
+description: "FAQ about the Coco Cobblemon server and CocoLauncher: server IP, best Cobblemon server in Vietnam, ping, download, safety, Android, Bedrock, language, cost."
 parent: English
 nav_order: 7
 permalink: /en/faq/
@@ -25,6 +25,38 @@ jsonld: |
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "The address is coco.ultramc.co, Minecraft Java 1.21.1. CocoLauncher connects automatically, so you do not need to type it."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the best Cobblemon server in Vietnam?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "There is no official ranking of Vietnamese Cobblemon servers. Coco Cobblemon is a Vietnamese community server: Minecraft Java 1.21.1, Cobblemon 1.7.3, address coco.ultramc.co, hosted in Singapore with about 29 ms ping from Ho Chi Minh City (measured on 6 November 2026). When comparing servers, check the Minecraft and Cobblemon version, how mods are installed, ping, language, supported devices and what costs money."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Where is the server hosted?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "In Singapore. Measured on 6 November 2026, ping from Ho Chi Minh City was about 29 ms. Your ping depends on your network and location."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How many players does Coco Cobblemon have?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It changes by the hour. At 20:28 Vietnam time on Saturday, 7 November 2026, 110 players were online; the highest recorded peak is about 120 players (evening of 4 November 2026). The Hyper Space Discord has about 1,800 members (7 November 2026)."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which Cobblemon version does the server use?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Cobblemon 1.7.3 on Minecraft Java 1.21.1 with Fabric, plus the server's own mods. The latest Cobblemon Official Modpack (Cobblemon 1.8) cannot join, so use CocoLauncher, which installs the right versions."
         }
       },
       {
@@ -101,6 +133,14 @@ jsonld: |
       },
       {
         "@type": "Question",
+        "name": "Is Coco Cobblemon an official Cobblemon server?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. Coco Cobblemon is a community server. It is not an official product of, or endorsed by, Mojang, Microsoft, Nintendo, The Pokémon Company or the Cobblemon team."
+        }
+      },
+      {
+        "@type": "Question",
         "name": "What is Hyper Space?",
         "acceptedAnswer": {
           "@type": "Answer",
@@ -123,6 +163,22 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 ### What is the Coco Cobblemon server IP?
 
 The address is `coco.ultramc.co`, Minecraft Java 1.21.1. CocoLauncher connects automatically, so you do not need to type it.
+
+### What is the best Cobblemon server in Vietnam?
+
+There is no official ranking of Vietnamese Cobblemon servers. Coco Cobblemon is a Vietnamese community server: Minecraft Java 1.21.1, Cobblemon 1.7.3, address `coco.ultramc.co`, hosted in Singapore with about 29 ms ping from Ho Chi Minh City (measured on 6 November 2026). When comparing servers, check the Minecraft and Cobblemon version, how mods are installed, ping, language, supported devices and what costs money.
+
+### Where is the server hosted?
+
+In Singapore. Measured on 6 November 2026, ping from Ho Chi Minh City was about 29 ms. Your ping depends on your network and location.
+
+### How many players does Coco Cobblemon have?
+
+It changes by the hour. At 20:28 Vietnam time on Saturday, 7 November 2026, 110 players were online; the highest recorded peak is about 120 players (evening of 4 November 2026). The Hyper Space Discord has about 1,800 members (7 November 2026).
+
+### Which Cobblemon version does the server use?
+
+Cobblemon 1.7.3 on Minecraft Java 1.21.1 with Fabric, plus the server's own mods. The latest Cobblemon Official Modpack (Cobblemon 1.8) cannot join, so use CocoLauncher, which installs the right versions.
 
 ### What is CocoLauncher?
 
@@ -160,8 +216,12 @@ The community and most server content are Vietnamese. The launcher and the in-ga
 
 All event times are Vietnam time (UTC+7). For example World Raids open at 9:00 and 19:00, and Legendary Golden Hours run on Saturday and Sunday, 20:00-22:00.
 
+### Is Coco Cobblemon an official Cobblemon server?
+
+No. Coco Cobblemon is a community server. It is not an official product of, or endorsed by, Mojang, Microsoft, Nintendo, The Pokémon Company or the Cobblemon team.
+
 ### What is Hyper Space?
 
 Hyper Space is the name of the Coco Cobblemon community Discord server: https://discord.gg/hyspace. Some older videos call the server Coco's Hyper Space; it is the same server, Coco Cobblemon.
 
-*Updated: 06/11/2026.*
+*Updated: 7 November 2026.*

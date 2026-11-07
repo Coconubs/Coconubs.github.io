@@ -43,6 +43,7 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 |---|---|
 | **Server address** | `coco.ultramc.co` |
 | **Version** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
+| **Hosted in** | Singapore, about 29 ms ping from Ho Chi Minh City (measured 6 November 2026) |
 | **Language** | Vietnamese, with an English option in the launcher and the in-game menu |
 | **Join with** | CocoLauncher for Windows, macOS and Android |
 | **Cost** | Free to download and join |
@@ -88,4 +89,4 @@ Yes. Anyone can download CocoLauncher and join. Most players and most of the cha
 - [Troubleshooting](/en/troubleshooting/)
 - [FAQ](/en/faq/)
 
-*Updated: 06/11/2026.*
+*Updated: 7 November 2026.*

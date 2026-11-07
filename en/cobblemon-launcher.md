@@ -36,6 +36,16 @@ Cobblemon is a mod for Minecraft Java Edition, so you need a launcher that can i
 
 Every Cobblemon server needs its exact Minecraft version, Cobblemon version and mod set. A general launcher such as Modrinth App can join a server that publishes its modpack; when a server has its own launcher, that is usually the least trouble. Coco Cobblemon runs Minecraft Java 1.21.1, Fabric and Cobblemon 1.7.3 with its own mod set, so use CocoLauncher.
 
+## Why the official Cobblemon modpack cannot join Coco Cobblemon
+
+On Modrinth, the latest Cobblemon Official Modpack [Fabric] is version 1.8.4, released on 27 October 2026, which comes with Cobblemon 1.8. Coco Cobblemon runs Cobblemon 1.7.3 plus the server's own mods (Vietnamese menu, Ranked Battles, guilds and more). Your Cobblemon version and mods have to match the server, so the official modpack is refused when it tries to join. CocoLauncher downloads the exact mod set the server uses and updates it when the server changes.
+
+The same applies to any Cobblemon server: before joining, check which Minecraft and Cobblemon versions it runs and whether it has its own launcher or modpack.
+
+## Cobblemon launchers on Android
+
+Modrinth App, CurseForge App and Prism Launcher have no Android version. On Android, launchers that run Minecraft Java Edition, such as Fold Craft Launcher (FCL) or PojavLauncher, need you to install Fabric and every mod yourself. CocoLauncher Android is an experimental build made only for Coco Cobblemon: it installs the Coco Lite pack (about 125 mods) and needs 6 GB of RAM or more, 8 GB recommended. See [Play Cobblemon on Android](/en/cobblemon-android/).
+
 ## Quick answers
 
 **Can any of these install Cobblemon on Bedrock or Pocket Edition?**
@@ -44,4 +54,4 @@ No. Cobblemon is a Java Edition mod. On Android, CocoLauncher Android is an expe
 **Do they cost anything?**
 Modrinth App, CurseForge App, Prism Launcher and CocoLauncher are all free to download.
 
-*Updated: 06/11/2026.*
+*Updated: 7 November 2026.*

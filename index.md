@@ -41,6 +41,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 |---|---|
 | **Địa chỉ server** | `coco.ultramc.co` |
 | **Phiên bản** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
+| **Máy chủ** | Đặt ở Singapore, ping khoảng 29 ms từ TP.HCM (đo 06/11/2026) |
 | **Ngôn ngữ** | Tiếng Việt, có nút chọn tiếng Anh trong menu |
 | **Vào game bằng** | CocoLauncher cho Windows, macOS, Android |
 | **Chi phí** | Tải launcher và vào server không mất phí |
@@ -76,6 +77,6 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 - [Cách tải Cobblemon cho Minecraft Java](/cach-tai-cobblemon/)
 - [Cobblemon Việt hoá: chơi bằng tiếng Việt](/cobblemon-viet-hoa/)
 - [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](/pokemon-trong-minecraft/)
-- [Nhật ký cập nhật](/cap-nhat/)
+- [Nhật ký cập nhật](/cap-nhat/): Chợ GTS mới, Shop và Ngân hàng trong menu, lệnh bang hội (07/11/2026)
 
-*Cập nhật: 06/11/2026.*
+*Cập nhật: 07/11/2026.*
