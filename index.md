@@ -12,7 +12,6 @@ jsonld: |
     "name": "Coco Cobblemon",
     "url": "https://coconubs.github.io/",
     "description": "Server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher.",
-    "inLanguage": "vi",
     "serverStatus": "https://schema.org/Online",
     "game": {
       "@type": "VideoGame",

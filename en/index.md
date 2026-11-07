@@ -14,7 +14,6 @@ jsonld: |
     "name": "Coco Cobblemon",
     "url": "https://coconubs.github.io/en/",
     "description": "A Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher.",
-    "inLanguage": "en",
     "serverStatus": "https://schema.org/Online",
     "game": {
       "@type": "VideoGame",
