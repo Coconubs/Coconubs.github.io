@@ -51,6 +51,10 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 - **[Shiny](https://coconubs.github.io/tinh-nang/shiny/):** Dung hợp Shiny, Trứng Pokémon, Raid, Daily Shop.
 - **[Việc hằng ngày](https://coconubs.github.io/tinh-nang/hang-ngay/):** Battle Pass, Nghề nghiệp, Ải Viễn Chinh, Daily Shop, điểm danh.
 - **[Câu cá](https://coconubs.github.io/tinh-nang/cau-ca/):** 100 loài cá, sách sưu tập, khung giờ vàng mỗi tối.
+- **[Gym và NPC Tiền Thưởng](https://coconubs.github.io/tinh-nang/gym-npc/):** Gym có mốc cấp, Tứ Thiên Vương, Champion, NPC Tiền Thưởng cấp 100 mỗi ngày.
+- **[Tiền tệ, Shop, Chợ GTS](https://coconubs.github.io/tinh-nang/kinh-te/):** CobbleDollars, Tokens, Held Item mua bằng Tokens, mua bán Pokémon qua `/gts`.
+- **[Breeding](https://coconubs.github.io/tinh-nang/breeding/):** lấy trứng bằng Pasture, nhanh hơn trong đất bang.
+- **[Đất và nhà](https://coconubs.github.io/tinh-nang/dat-nha/):** `/claim` giữ đất, khoá đất riêng, `/sethome`, `/rtp`.
 
 ## Tìm hiểu thêm về Cobblemon
 
