@@ -47,4 +47,6 @@ Mỗi tối **19:00-22:00** có thanh đếm ngược trên màn hình. Ai câu 
 
 Câu đủ mọi loài của một độ hiếm sẽ nhận danh hiệu: Cần Thủ, Cần Thủ Đồng, Bạc, Vàng, Bạch Kim, Tinh Anh, Thách Đấu. Câu đủ tất cả các loài được danh hiệu **Đại Hải Trình**.
 
+**Xem thêm:** [Việc hằng ngày](/tinh-nang/hang-ngay/) · [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/) · [Lịch sự kiện trong tuần theo giờ Việt Nam](/server-cobblemon-viet-nam/)
+
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*

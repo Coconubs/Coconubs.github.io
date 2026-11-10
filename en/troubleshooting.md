@@ -41,4 +41,6 @@ Known problems and fixes by operating system. If yours is not here, ask on [Disc
 | Crashes mid-game | Keep game memory at the recommended level, close other apps |
 | The .apk download sits at 100% | Pull down the notification shade, Chrome is waiting for you to keep the file |
 
+**See also:** [FAQ](/en/faq/) · [CocoLauncher download](/en/cocolauncher/) · [Play on Android and iPhone](/en/cobblemon-android/) · [How to join](/en/how-to-join/)
+
 *Updated: 06/11/2026.*

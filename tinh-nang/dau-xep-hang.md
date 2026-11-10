@@ -58,4 +58,6 @@ Hai bên thấy loài 6 con của nhau (không thấy vật phẩm cầm, level,
 
 Tab **ĐANG ĐẤU** xem trực tiếp các trận Đấu Đơn (Đấu Đôi không xem trực tiếp để giữ bí mật đội hình). Tab **LỊCH SỬ** xem lại trận của bạn trong 3 ngày.
 
+**Xem thêm:** [BattleTower 555 tầng](/tinh-nang/battletower/) · [Gym, Tứ Thiên Vương và NPC Tiền Thưởng](/tinh-nang/gym-npc/) · [Bang Hội Chiến](/tinh-nang/bang-hoi/) · [Cách vào server Coco Cobblemon](/cach-vao-server/)
+
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*

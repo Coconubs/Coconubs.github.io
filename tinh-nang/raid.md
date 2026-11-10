@@ -50,4 +50,6 @@ Mỗi người đấu với 1 bản thể ở sàn riêng. Mọi sát thương v
 | Kết liễu | 2 Tinh Thể Shiny + 200 Tokens + 1 Chìa Raid + 1 Trứng Quý |
 | Mọi người có gây sát thương | 10.000$ + 100 Tokens + 1 Trứng |
 
+**Xem thêm:** [Cách có Pokémon Shiny](/tinh-nang/shiny/) · [Legendary tích luỹ và Giờ Vàng](/tinh-nang/legendary/) · [Boss Bang](/tinh-nang/bang-hoi/) · [Lịch sự kiện trong tuần theo giờ Việt Nam](/server-cobblemon-viet-nam/)
+
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*

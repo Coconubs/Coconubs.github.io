@@ -39,4 +39,6 @@ Trên Coco Cobblemon, **Shiny không xuất hiện tự nhiên** và không ra t
 
 Breeding gần như không ra Shiny, và Ditto Shiny không truyền Shiny cho trứng.
 
+**Xem thêm:** [Breeding: cách lấy trứng Pokémon](/tinh-nang/breeding/) · [Raid Thế Giới](/tinh-nang/raid/) · [Battle Pass và Daily Shop](/tinh-nang/hang-ngay/) · [Legendary tích luỹ](/tinh-nang/legendary/)
+
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*

@@ -60,4 +60,6 @@ The first start downloads about 1.5 GB, so use Wi-Fi. For install problems or cr
 
 Still stuck: use the send-log button in the launcher settings and ask on [Discord](https://discord.gg/hyspace).
 
+**See also:** [FAQ](/en/faq/) · [Troubleshooting](/en/troubleshooting/) · [How to join](/en/how-to-join/) · [Which launcher for Cobblemon](/en/cobblemon-launcher/)
+
 *Updated: 11 November 2026.*

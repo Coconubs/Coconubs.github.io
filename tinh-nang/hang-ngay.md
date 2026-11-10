@@ -67,4 +67,6 @@ Thêm ngẫu nhiên: Rare Candy, EXP Candy, Trứng, Ability Capsule, Bottle Cap
 
 Chơi bình thường là có cơ hội rơi Túi May Mắn: bắt Pokémon, thắng trận, đào quặng, thu hoạch berry, câu cá, online đủ giờ. Bên trong là khoáng sản, gỗ, Apricorn, bóng Pokémon, lông EV, Mint. Hiếm hơn là Túi May Mắn Hoàng Kim với nhiều món xịn hơn.
 
+**Xem thêm:** [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/) · [Cách có Pokémon Shiny](/tinh-nang/shiny/) · [Câu cá 100 loài](/tinh-nang/cau-ca/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/)
+
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*

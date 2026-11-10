@@ -75,4 +75,6 @@ Khi 1 thành viên làm được việc lớn, các thành viên còn lại nh�
 
 Điều kiện: vào bang từ 24 giờ, tối đa 15 hộp mỗi ngày. Offline thì quà giữ 72 giờ.
 
+**Xem thêm:** [Claim đất và khoá đất riêng](/tinh-nang/dat-nha/) · [Breeding nhanh hơn trong đất bang](/tinh-nang/breeding/) · [Legendary tích luỹ](/tinh-nang/legendary/) · [Raid Thế Giới](/tinh-nang/raid/)
+
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*

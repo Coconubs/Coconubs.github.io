@@ -51,4 +51,6 @@ Altar, Shrine, Legendary Monuments và máy hồi sinh hoá thạch vẫn dùng 
 - Trứng Huyền Thoại: chỉ ra Legendary (không Mythical, UB, Paradox), cấp 50.
 - [Boss Bang](/tinh-nang/bang-hoi/#boss-bang): đổi Mảnh loài boss lấy 1 con Lv 50.
 
+**Xem thêm:** [Cách có Pokémon Shiny](/tinh-nang/shiny/) · [Giờ Vàng trong lịch sự kiện tuần](/server-cobblemon-viet-nam/) · [Hỏi đáp](/hoi-dap/)
+
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*

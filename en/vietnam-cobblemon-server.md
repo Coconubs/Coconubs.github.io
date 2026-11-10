@@ -84,4 +84,6 @@ Older videos and posts may use these names. They all mean the same server, Coco 
 - **Hyper Space**: the community Discord server.
 - **Coco's Hyper Space**, **Coco Cobbleverse**: names used in a few older videos and Facebook posts.
 
+**See also:** [Server features](/en/features/) · [FAQ](/en/faq/) · [Play on Android and iPhone](/en/cobblemon-android/)
+
 *Updated: 11 November 2026.*

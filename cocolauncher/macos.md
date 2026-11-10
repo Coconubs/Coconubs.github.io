@@ -38,4 +38,6 @@ Nếu máy báo app "is damaged", tải lại file từ link trên và [đối c
 
 Bản Mac không tự cập nhật launcher. Khi có thông báo bản mới, tải lại file .dmg và kéo đè vào Applications. Dữ liệu game giữ nguyên. Gói mod vẫn tự cập nhật mỗi lần bấm Chơi.
 
+**Xem thêm:** [Sửa lỗi CocoLauncher](/cocolauncher/sua-loi/) · [CocoLauncher có an toàn không](/cocolauncher/an-toan/) · [Cách vào server](/cach-vao-server/)
+
 *Cập nhật: 06/11/2026.*

@@ -39,4 +39,6 @@ Thua tụt 5 tầng nhưng không dưới mốc an toàn (25, 50, 75...). Ví d�
 {: .warning }
 Trong sàn đấu không đặt hay đập block, không bay, không PvP, không dùng lệnh dịch chuyển.
 
+**Xem thêm:** [Đấu Xếp Hạng tính Elo](/tinh-nang/dau-xep-hang/) · [Gym và NPC Tiền Thưởng](/tinh-nang/gym-npc/) · [Tokens và BattleTower Points dùng vào đâu](/tinh-nang/kinh-te/) · [Việc hằng ngày](/tinh-nang/hang-ngay/)
+
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*

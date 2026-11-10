@@ -58,4 +58,6 @@ Waystone: chuột phải để kích hoạt, rồi dịch chuyển giữa các W
 **Xây ở đâu cho an toàn?**
 Trong ±30.000 theo X và Z. Ngoài vùng này không claim được, không đặt được rương, balo, Pasture, và reset 2 tuần một lần.
 
+**Xem thêm:** [Hướng dẫn người mới](/huong-dan-nguoi-moi/) · [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/) · [Hỏi đáp](/hoi-dap/)
+
 *Nội dung lấy từ Hướng dẫn trong game ngày 07/11/2026. Con số có thể đổi theo cập nhật, Menu trong game luôn là bản đúng nhất.*

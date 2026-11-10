@@ -61,4 +61,6 @@ Open with `/xephang` or the RANKED tile in the main menu.
 - **Fishing:** 100 fish species in 7 rarities, a collection book, craftable rods and a golden hour contest every evening, 19:00-22:00.
 - **Mini-games:** Tiến Lên (a Vietnamese card game), a Monopoly-style board game and chess with Elo.
 
+**See also:** [Cobblemon server in Vietnam](/en/vietnam-cobblemon-server/) · [How to join](/en/how-to-join/) · [Download CocoLauncher](/en/cocolauncher/) · [FAQ](/en/faq/)
+
 *Taken from the in-game guide on 06/11/2026. Numbers can change with updates; the in-game menu is always the most accurate.*

@@ -48,4 +48,6 @@ Có. Mỗi trận Gym có mốc cấp, Pokémon cao hơn mốc được hạ v�
 **NPC Tiền Thưởng ở đâu?**
 Xuất hiện ngẫu nhiên mỗi ngày trong vùng đã khám phá; gõ `/tienthuong` để xem hướng và toạ độ.
 
+**Xem thêm:** [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/) · [Cách vào server](/cach-vao-server/)
+
 *Nội dung lấy từ Hướng dẫn trong game ngày 07/11/2026. Con số có thể đổi theo cập nhật, Menu trong game luôn là bản đúng nhất.*

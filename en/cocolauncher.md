@@ -96,4 +96,6 @@ If the hashes do not match, do not open the file. Download it again from the off
 - Windows 10 or 11 (64-bit), or a Mac with Apple silicon or Intel.
 - The launcher gives the game 2 to 4 GB of RAM by default, so 8 GB of RAM or more is recommended.
 
+**See also:** [Troubleshooting](/en/troubleshooting/) · [FAQ](/en/faq/) · [How to join](/en/how-to-join/)
+
 *Updated: 11 November 2026.*

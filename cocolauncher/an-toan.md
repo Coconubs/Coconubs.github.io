@@ -52,4 +52,6 @@ Có thể quét file bằng Microsoft Defender (chuột phải vào file, chọn
 
 Launcher lưu Minecraft, Java, gói mod và thiết lập của bạn trong thư mục game. Tên chơi và mức RAM lưu ở máy của bạn để lần sau không phải nhập lại.
 
+**Xem thêm:** [Tải CocoLauncher](/cocolauncher/) · [Cài trên Windows](/cocolauncher/windows/) · [CocoLauncher cho macOS](/cocolauncher/macos/) · [Sửa lỗi CocoLauncher](/cocolauncher/sua-loi/) · [Hỏi đáp](/hoi-dap/)
+
 *Cập nhật: 06/11/2026.*

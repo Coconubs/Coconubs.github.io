@@ -105,4 +105,6 @@ Các thay đổi chính của server Coco Cobblemon, mới nhất ở trên. B�
 - CocoLauncher có giao diện mới, đủ bản Windows, macOS và Android.
 - Đấu Xếp Hạng: thời gian chọn Pokémon tăng lên 3 phút.
 
+**Xem thêm:** [Tính năng server](/tinh-nang/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/) · [Hỏi đáp](/hoi-dap/) · [Tải CocoLauncher](/cocolauncher/)
+
 *Cập nhật: 07/11/2026.*
