@@ -121,7 +121,7 @@ Cobblemon 1.7.3 has 84 rideable species, for example Charizard, Dragonite, Gyara
 
 Flying Pokémon such as Charizard, Dragonite, Salamence and Corviknight are ridden like any other: hold Shift, right-click, choose **Ride**. On Coco Cobblemon you cannot get off in mid-air, so land first.
 
-**See also:** [Cobblemon controls](/en/cobblemon-controls/) · [How to evolve Pokémon](/en/cobblemon-evolution/) · [What is Cobblemon](/en/what-is-cobblemon/) · [Play Cobblemon on Android](/en/cobblemon-android/) · [Vietnam Cobblemon server](/en/vietnam-cobblemon-server/)
+**See also:** [Cobblemon controls](/en/cobblemon-controls/) · [How to catch Pokémon](/en/cobblemon-catching/) · [How to evolve Pokémon](/en/cobblemon-evolution/) · [What is Cobblemon](/en/what-is-cobblemon/) · [Play Cobblemon on Android](/en/cobblemon-android/) · [Vietnam Cobblemon server](/en/vietnam-cobblemon-server/)
 
 *Counts taken from `Cobblemon-fabric-1.7.3+1.21.1.jar` on 11 November 2026; the Coco Cobblemon section follows the server config checked on 10 November 2026. Other Cobblemon versions, or servers with their own data packs, can differ.*
 

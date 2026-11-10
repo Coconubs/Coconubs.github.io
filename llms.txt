@@ -49,6 +49,7 @@ Key facts in English (checked 11 November 2026):
 - [Cobblemon on iPhone and iPad (iOS)](https://coconubs.github.io/en/cobblemon-ios/)
 - [What is Cobblemon](https://coconubs.github.io/en/what-is-cobblemon/): open-source Pokémon mod for Minecraft Java; version 1.7.3 has 851 finished species out of 1,025 with data
 - [Cobblemon recipes](https://coconubs.github.io/en/cobblemon-recipes/): Poké Ball, Great Ball, Ultra Ball, PC, Healing Machine, Pasture Block, Pokédex (Cobblemon 1.7.3)
+- [How to catch Pokémon in Cobblemon](https://coconubs.github.io/en/cobblemon-catching/): battle first (x0.5 outside battle), HP, status, balls, low-level bonus; plain Cobblemon 1.7.3 never spawns Legendaries naturally, Coco Cobblemon has several sources
 - [How to ride Pokémon in Cobblemon](https://coconubs.github.io/en/cobblemon-riding/): hold Shift, right-click, choose Ride; 84 rideable species in Cobblemon 1.7.3 (74 land, 38 flying, 17 swimming); no stamina limit on Coco Cobblemon
 - [How to evolve Pokémon in Cobblemon](https://coconubs.github.io/en/cobblemon-evolution/): level up then press Evolve, 10 evolution stones, Link Cable instead of trading, all 8 Eevee evolutions, Mega on Coco Cobblemon (Cobblemon 1.7.3)
 - [Cobblemon commands](https://coconubs.github.io/en/cobblemon-commands/): /pokespawn, /pokegive, /pokeheal, /pc, permission levels and properties (Cobblemon 1.7.3)

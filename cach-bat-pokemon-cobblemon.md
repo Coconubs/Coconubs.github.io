@@ -3,6 +3,7 @@ title: Bắt Pokémon Cobblemon
 seo_title: "Cách bắt Pokémon trong Cobblemon: tỉ lệ bắt, loại bóng, Legendary"
 description: "Cách bắt Pokémon trong Cobblemon 1.7.3: đấu trước rồi ném bóng, giảm máu, gây Ngủ, chọn bóng. Cách tính tỉ lệ bắt, cách bắt Legendary trên Coco Cobblemon."
 nav_order: 8.75
+alt: /en/cobblemon-catching/
 jsonld: |
   {
     "@context": "https://schema.org",
