@@ -78,10 +78,7 @@ defaults:
     values:
       layout: default
       # Ảnh xem trước khi chia sẻ link (Facebook, Discord, Zalo): logo vuông 256x256
-      image:
-        path: /assets/images/coco-cobblemon-logo.png
-        width: 256
-        height: 256
+      image: /assets/images/coco-cobblemon-logo.png
       twitter:
         card: summary
   - scope:
