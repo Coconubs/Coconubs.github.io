@@ -32,13 +32,13 @@ jsonld: |
       "https://discord.gg/hyspace"
     ]
   }
-last_modified_at: 2026-11-11T03:25:48+07:00
+last_modified_at: 2026-11-11T04:13:08+07:00
 ---
 
 # Coco Cobblemon: a Cobblemon server in Vietnam
 {: .fs-9 }
 
-Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher.
+Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher. Server address: `coco.ultramc.co`, Minecraft Java 1.21.1, Cobblemon 1.7.3.
 {: .fs-6 .fw-300 }
 
 [Download CocoLauncher](/en/cocolauncher/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

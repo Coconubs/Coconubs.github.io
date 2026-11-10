@@ -2388,7 +2388,7 @@ URL: https://coconubs.github.io/en/
 
 # Coco Cobblemon: a Cobblemon server in Vietnam
 
-Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher.
+Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher. Server address: `coco.ultramc.co`, Minecraft Java 1.21.1, Cobblemon 1.7.3.
 
 [Download CocoLauncher](https://coconubs.github.io/en/cocolauncher/)
 [How to join](https://coconubs.github.io/en/how-to-join/)
