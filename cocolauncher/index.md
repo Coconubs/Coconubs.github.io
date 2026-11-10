@@ -13,7 +13,7 @@ jsonld: |
     "name": "CocoLauncher",
     "alternateName": "Coco Launcher",
     "url": "https://coconubs.github.io/cocolauncher/",
-    "description": "Launcher của server Coco Cobblemon, tự cài Java, Minecraft, Fabric và gói mod để vào server chỉ bằng một nút.",
+    "description": "Launcher Minecraft Java của server Coco Cobblemon (coco.ultramc.co), tự cài Java, Minecraft 1.21.1, Fabric và gói mod để vào server chỉ bằng một nút. Không phải app giao diện điện thoại cũng tên Coco Launcher.",
     "applicationCategory": "GameApplication",
     "applicationSubCategory": "Minecraft Java launcher",
     "operatingSystem": "Windows 10, Windows 11, macOS, Android, iOS",

@@ -13,7 +13,7 @@ jsonld: |
     "name": "CocoLauncher",
     "alternateName": "Coco Launcher",
     "url": "https://coconubs.github.io/en/cocolauncher/",
-    "description": "The launcher of the Coco Cobblemon server. It installs Java, Minecraft, Fabric and the server modpack so players can join with one button.",
+    "description": "The Minecraft Java launcher of the Coco Cobblemon server (coco.ultramc.co). It installs Java, Minecraft 1.21.1, Fabric and the server modpack so players can join with one button. Not the Android home-screen app called Coco Launcher.",
     "applicationCategory": "GameApplication",
     "applicationSubCategory": "Minecraft Java launcher",
     "operatingSystem": "Windows 10, Windows 11, macOS, Android, iOS",
