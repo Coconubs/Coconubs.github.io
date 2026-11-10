@@ -4,7 +4,7 @@ seo_title: "Cách vào server Coco Cobblemon: IP coco.ultramc.co, 5 bước"
 description: "Cách vào server Coco Cobblemon (IP coco.ultramc.co, Java 1.21.1, Cobblemon 1.7.3): tải CocoLauncher, nhập tên, bấm Chơi, mở /menu. Cách vào một server Cobblemon bất kỳ."
 nav_order: 3
 alt: /en/how-to-join/
-last_modified_at: 2026-11-11T02:48:44+07:00
+last_modified_at: 2026-11-11T03:25:48+07:00
 ---
 
 # Cách vào server Coco Cobblemon
@@ -12,7 +12,7 @@ last_modified_at: 2026-11-11T02:48:44+07:00
 Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Tóm tắt: tải CocoLauncher, nhập tên trong game, bấm **Chơi**, làm theo hướng dẫn đăng ký, rồi gõ `/menu`. Launcher tự cài Java, Minecraft 1.21.1, Fabric, Cobblemon 1.7.3 và gói mod, rồi tự kết nối tới `coco.ultramc.co`, nên không cần tự cài mod hay nhập IP.
 {: .fs-5 .fw-300 }
 
-| | |
+| Mục | Thông tin |
 |---|---|
 | **Địa chỉ server (IP)** | `coco.ultramc.co` |
 | **Phiên bản** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
@@ -28,6 +28,10 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 5. **Mở Menu:** gõ `/menu` hoặc cầm vật phẩm Menu ở ô cuối thanh công cụ rồi bấm chuột phải. Trong Menu có mục Hướng dẫn tiếng Việt cho từng tính năng.
 
 Xong 5 bước, đọc [Hướng dẫn người mới](/huong-dan-nguoi-moi/) để biết nên làm gì ngày đầu.
+
+## IP server Coco Cobblemon là gì? Có cần nhập IP không?
+
+IP (địa chỉ) server Coco Cobblemon là `coco.ultramc.co`, Minecraft Java 1.21.1. Dùng CocoLauncher thì không cần nhập: launcher tự kết nối sau khi bấm **Chơi**. Vào bằng launcher khác mà thiếu bộ mod riêng của server hoặc sai phiên bản thì sẽ bị từ chối khi vào. Gặp lỗi, xem [Sửa lỗi CocoLauncher](/cocolauncher/sua-loi/).
 
 ## Liên kết Discord
 {: #lien-ket-discord }
@@ -51,10 +55,10 @@ Với Coco Cobblemon thì không cần làm các bước này: CocoLauncher tự
 
 ## Tự kết nối bằng launcher khác được không?
 
-Không nên. Server cần đúng bộ mod, launcher khác sẽ thiếu mod hoặc sai phiên bản và bị từ chối khi vào. Gặp lỗi thì xem [Sửa lỗi CocoLauncher](/cocolauncher/sua-loi/).
+Không nên. Server Coco Cobblemon chạy Cobblemon 1.7.3 trên Minecraft 1.21.1 cùng bộ mod riêng. Vào bằng launcher khác (Modrinth App, CurseForge, Prism Launcher...) mà không có đúng bộ mod đó thì sẽ bị từ chối khi vào. Cobblemon Official Modpack bản mới (đi cùng Cobblemon 1.8) cũng không vào được. Gặp lỗi thì xem [Sửa lỗi CocoLauncher](/cocolauncher/sua-loi/).
 
 ## Chơi bằng Minecraft Bedrock, PE được không?
 
-Không. Cobblemon là mod cho Java Edition. Trên điện thoại Android có thể dùng CocoLauncher Android, bản thử nghiệm chạy Java Edition. iPhone, iPad có bản thử nghiệm [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/), xem [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/#iphone-ipad).
+Không. Cobblemon là mod cho Java Edition, các gói "Cobblemon PE" là addon của người khác (xem [Cobblemon PE, Bedrock](/cobblemon-pe/)). Trên điện thoại Android có thể dùng CocoLauncher Android, bản thử nghiệm chạy Java Edition. iPhone, iPad có bản thử nghiệm [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/), xem [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/#iphone-ipad).
 
 *Cập nhật: 11/11/2026.*

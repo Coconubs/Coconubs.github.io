@@ -6,12 +6,15 @@ parent: English
 nav_order: 2
 permalink: /en/how-to-join/
 alt: /cach-vao-server/
-last_modified_at: 2026-11-11T03:23:47+07:00
+last_modified_at: 2026-11-11T03:25:48+07:00
 ---
 
 # How to join Coco Cobblemon
 
-| | |
+Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher. In short: download CocoLauncher, enter a player name, press **Play**, follow the on-screen registration, then type `/menu`. The launcher installs Java, Minecraft 1.21.1, Fabric, Cobblemon 1.7.3 and the mod pack, then connects to `coco.ultramc.co` for you, so you do not install mods or type the IP yourself.
+{: .fs-5 .fw-300 }
+
+| Item | Details |
 |---|---|
 | **Server address (IP)** | `coco.ultramc.co` |
 | **Version** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |

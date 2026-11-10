@@ -4,7 +4,7 @@ seo_title: "Server Cobblemon Việt Nam (Pokémon Minecraft): Coco Cobblemon, IP
 description: "Coco Cobblemon là server Cobblemon Việt Nam trên Minecraft Java 1.21.1, IP coco.ultramc.co, máy chủ Singapore ping khoảng 29 ms từ TP.HCM. Lịch sự kiện, cách chọn server."
 nav_order: 4
 alt: /en/vietnam-cobblemon-server/
-last_modified_at: 2026-11-11T02:48:44+07:00
+last_modified_at: 2026-11-11T03:25:48+07:00
 ---
 
 # Server Cobblemon Việt Nam: Coco Cobblemon
@@ -14,7 +14,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 
 ## Thông số nhanh
 
-| | |
+| Mục | Thông tin |
 |---|---|
 | **Địa chỉ** | `coco.ultramc.co` |
 | **Phiên bản** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
@@ -114,6 +114,14 @@ Trong video hoặc bài cũ, bạn có thể gặp các tên dưới đây. Tấ
 - **Coco's Hyper Space**, **Coco Cobbleverse**: tên trong vài video và bài Facebook cũ.
 
 ## Hỏi nhanh
+
+### Server Pokémon Minecraft Việt Nam: Coco Cobblemon dùng Cobblemon hay Pixelmon?
+
+Coco Cobblemon dùng mod Cobblemon 1.7.3 trên Minecraft Java 1.21.1, không phải Pixelmon. Hai mod không vào chung server được, nên cài Pixelmon thì không vào được Coco Cobblemon. Dùng CocoLauncher để launcher tự cài đúng Cobblemon và bộ mod của server. So sánh hai mod ở trang [Chơi Pokémon trong Minecraft](/pokemon-trong-minecraft/).
+
+### IP server Coco Cobblemon là gì?
+
+IP (địa chỉ) server Coco Cobblemon là `coco.ultramc.co`, Minecraft Java 1.21.1, Cobblemon 1.7.3. Dùng CocoLauncher thì launcher tự kết nối, không cần nhập địa chỉ. Vào bằng launcher khác mà thiếu bộ mod riêng của server hoặc sai phiên bản thì sẽ bị từ chối khi vào.
 
 ### Có server Cobblemon nói tiếng Việt không?
 

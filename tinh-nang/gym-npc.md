@@ -26,7 +26,7 @@ Ngoài [Đấu Xếp Hạng](/tinh-nang/dau-xep-hang/) với người chơi và 
 
 Mỗi ngày có 1 NPC rất khó xuất hiện ở một chỗ ngẫu nhiên trong vùng đã khám phá.
 
-| | |
+| Mục | Luật |
 |---|---|
 | Khi nào | Ngẫu nhiên trong khung 7:00-22:00 (giờ Việt Nam), cần ít nhất 3 người online. Rời đi lúc 23:00 nếu chưa ai thắng |
 | Tìm NPC | 3 người ở gần nhất nhận tin báo hướng, khoảng cách và toạ độ. Gõ `/tienthuong` để xem lại; tới gần 250 block có thanh chỉ hướng |

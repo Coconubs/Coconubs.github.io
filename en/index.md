@@ -20,7 +20,7 @@ jsonld: |
       "name": "Server address",
       "value": "coco.ultramc.co"
     },
-    "url": "https://coconubs.github.io/en/",
+    "url": "https://coconubs.github.io/",
     "description": "A Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher.",
     "serverStatus": "https://schema.org/Online",
     "game": {
@@ -32,7 +32,7 @@ jsonld: |
       "https://discord.gg/hyspace"
     ]
   }
-last_modified_at: 2026-11-11T03:23:47+07:00
+last_modified_at: 2026-11-11T03:25:48+07:00
 ---
 
 # Coco Cobblemon: a Cobblemon server in Vietnam
@@ -47,16 +47,18 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 
 ---
 
-| | |
+| Item | Details |
 |---|---|
 | **Server address** | `coco.ultramc.co` |
 | **Version** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
 | **Hosted in** | Singapore, about 29 ms ping from Ho Chi Minh City (measured 6 November 2026) |
 | **Language** | Vietnamese, with an English option in the launcher and the in-game menu |
 | **Join with** | CocoLauncher for Windows, macOS, Android and iPhone (Android and iPhone builds are experimental) |
-| **Cost** | Free to download and join |
+| **Cost** | Free to download and join. Ranks and the Premium Battle Pass are optional |
 | **Event times** | Vietnam time (UTC+7) |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace) (Discord server name: Hyper Space) |
+| **Players** | 110 players online at 20:28 Vietnam time on Saturday, 7 November 2026 (mcsrvstat.us); about 1,860 members on the Hyper Space Discord (11 November 2026) |
+| **Other names** | Coco's Hyper Space, Coco Cobbleverse (used in a few videos and older Facebook posts) |
 
 ## What you can do on the server
 
@@ -67,7 +69,7 @@ Most new players start by catching Pokémon, then move on to battles and guilds.
 - **Guilds:** Guild Wars on weekdays, a daily Guild Boss, guild gifts and a private land lock for each member.
 - **World Raids:** a shared boss for the whole server at 9:00 and 19:00 every day.
 - **Accumulating Legendary chance:** the longer the server goes without a Legendary, the higher the chance, shown on the HUD. Legendary Golden Hours run on Saturday and Sunday, 20:00-22:00 Vietnam time.
-- **Shiny:** Shiny Fusion, Pokémon Eggs, Raids and the Daily Shop.
+- **Shiny:** Shiny Fusion, Pokémon Eggs, Raids, the Daily Shop and the Battle Pass.
 - **Daily play:** Battle Pass, jobs, expeditions, the Daily Shop and fishing with 100 species.
 
 Details on the [Features](/en/features/) page.

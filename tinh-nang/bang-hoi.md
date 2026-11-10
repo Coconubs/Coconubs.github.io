@@ -24,7 +24,7 @@ Bang hội dùng Party của Open Parties and Claims. Tạo bang: `/oparties cre
 
 Các bang treo **Cờ Chiến** rồi khiêu chiến nhau để cướp cờ. Tới 22h, bang giữ nhiều cờ nhất là **Bá chủ** hôm nay.
 
-| | |
+| Mục | Luật |
 |---|---|
 | Thời gian | Thứ 2 tới Thứ 6, 9h-22h (giờ Việt Nam), tổng kết lúc 22h, cờ reset mỗi ngày |
 | Bang | Ít nhất 2 thành viên, tính cả Bang chủ |

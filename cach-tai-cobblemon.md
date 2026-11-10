@@ -21,7 +21,7 @@ Cobblemon là mod Pokémon cho Minecraft **Java Edition**. Cách dễ nhất đ�
 
 ## Cần gì trước khi tải
 
-| | |
+| Mục | Thông tin |
 |---|---|
 | **Game** | Minecraft: Java Edition trên Windows, macOS hoặc Linux |
 | **Phiên bản** | Cobblemon 1.7 và 1.8 chạy trên Minecraft 1.21.1. Bản cũ hơn có cho 1.20.1 và 1.19.2 |

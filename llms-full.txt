@@ -90,7 +90,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 
 ## Thông số nhanh
 
-| | |
+| Mục | Thông tin |
 |---|---|
 | **Địa chỉ** | `coco.ultramc.co` |
 | **Phiên bản** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
@@ -191,6 +191,14 @@ Trong video hoặc bài cũ, bạn có thể gặp các tên dưới đây. Tấ
 
 ## Hỏi nhanh
 
+### Server Pokémon Minecraft Việt Nam: Coco Cobblemon dùng Cobblemon hay Pixelmon?
+
+Coco Cobblemon dùng mod Cobblemon 1.7.3 trên Minecraft Java 1.21.1, không phải Pixelmon. Hai mod không vào chung server được, nên cài Pixelmon thì không vào được Coco Cobblemon. Dùng CocoLauncher để launcher tự cài đúng Cobblemon và bộ mod của server. So sánh hai mod ở trang [Chơi Pokémon trong Minecraft](https://coconubs.github.io/pokemon-trong-minecraft/).
+
+### IP server Coco Cobblemon là gì?
+
+IP (địa chỉ) server Coco Cobblemon là `coco.ultramc.co`, Minecraft Java 1.21.1, Cobblemon 1.7.3. Dùng CocoLauncher thì launcher tự kết nối, không cần nhập địa chỉ. Vào bằng launcher khác mà thiếu bộ mod riêng của server hoặc sai phiên bản thì sẽ bị từ chối khi vào.
+
 ### Có server Cobblemon nói tiếng Việt không?
 
 Có. Coco Cobblemon dùng tiếng Việt cho launcher, menu, hướng dẫn và thông báo. Một số chữ của Cobblemon và mod khác vẫn có thể hiện tiếng Anh.
@@ -218,7 +226,7 @@ URL: https://coconubs.github.io/cach-vao-server/
 
 Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Tóm tắt: tải CocoLauncher, nhập tên trong game, bấm **Chơi**, làm theo hướng dẫn đăng ký, rồi gõ `/menu`. Launcher tự cài Java, Minecraft 1.21.1, Fabric, Cobblemon 1.7.3 và gói mod, rồi tự kết nối tới `coco.ultramc.co`, nên không cần tự cài mod hay nhập IP.
 
-| | |
+| Mục | Thông tin |
 |---|---|
 | **Địa chỉ server (IP)** | `coco.ultramc.co` |
 | **Phiên bản** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
@@ -234,6 +242,10 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 5. **Mở Menu:** gõ `/menu` hoặc cầm vật phẩm Menu ở ô cuối thanh công cụ rồi bấm chuột phải. Trong Menu có mục Hướng dẫn tiếng Việt cho từng tính năng.
 
 Xong 5 bước, đọc [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/) để biết nên làm gì ngày đầu.
+
+## IP server Coco Cobblemon là gì? Có cần nhập IP không?
+
+IP (địa chỉ) server Coco Cobblemon là `coco.ultramc.co`, Minecraft Java 1.21.1. Dùng CocoLauncher thì không cần nhập: launcher tự kết nối sau khi bấm **Chơi**. Vào bằng launcher khác mà thiếu bộ mod riêng của server hoặc sai phiên bản thì sẽ bị từ chối khi vào. Gặp lỗi, xem [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/).
 
 ## Liên kết Discord
 
@@ -256,11 +268,11 @@ Với Coco Cobblemon thì không cần làm các bước này: CocoLauncher tự
 
 ## Tự kết nối bằng launcher khác được không?
 
-Không nên. Server cần đúng bộ mod, launcher khác sẽ thiếu mod hoặc sai phiên bản và bị từ chối khi vào. Gặp lỗi thì xem [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/).
+Không nên. Server Coco Cobblemon chạy Cobblemon 1.7.3 trên Minecraft 1.21.1 cùng bộ mod riêng. Vào bằng launcher khác (Modrinth App, CurseForge, Prism Launcher...) mà không có đúng bộ mod đó thì sẽ bị từ chối khi vào. Cobblemon Official Modpack bản mới (đi cùng Cobblemon 1.8) cũng không vào được. Gặp lỗi thì xem [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/).
 
 ## Chơi bằng Minecraft Bedrock, PE được không?
 
-Không. Cobblemon là mod cho Java Edition. Trên điện thoại Android có thể dùng CocoLauncher Android, bản thử nghiệm chạy Java Edition. iPhone, iPad có bản thử nghiệm [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/), xem [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/#iphone-ipad).
+Không. Cobblemon là mod cho Java Edition, các gói "Cobblemon PE" là addon của người khác (xem [Cobblemon PE, Bedrock](https://coconubs.github.io/cobblemon-pe/)). Trên điện thoại Android có thể dùng CocoLauncher Android, bản thử nghiệm chạy Java Edition. iPhone, iPad có bản thử nghiệm [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/), xem [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/#iphone-ipad).
 
 *Cập nhật: 11/11/2026.*
 
@@ -875,7 +887,7 @@ Bang hội dùng Party của Open Parties and Claims. Tạo bang: `/oparties cre
 
 Các bang treo **Cờ Chiến** rồi khiêu chiến nhau để cướp cờ. Tới 22h, bang giữ nhiều cờ nhất là **Bá chủ** hôm nay.
 
-| | |
+| Mục | Luật |
 |---|---|
 | Thời gian | Thứ 2 tới Thứ 6, 9h-22h (giờ Việt Nam), tổng kết lúc 22h, cờ reset mỗi ngày |
 | Bang | Ít nhất 2 thành viên, tính cả Bang chủ |
@@ -1457,7 +1469,7 @@ Ngoài [Đấu Xếp Hạng](https://coconubs.github.io/tinh-nang/dau-xep-hang/)
 
 Mỗi ngày có 1 NPC rất khó xuất hiện ở một chỗ ngẫu nhiên trong vùng đã khám phá.
 
-| | |
+| Mục | Luật |
 |---|---|
 | Khi nào | Ngẫu nhiên trong khung 7:00-22:00 (giờ Việt Nam), cần ít nhất 3 người online. Rời đi lúc 23:00 nếu chưa ai thắng |
 | Tìm NPC | 3 người ở gần nhất nhận tin báo hướng, khoảng cách và toạ độ. Gõ `/tienthuong` để xem lại; tới gần 250 block có thanh chỉ hướng |
@@ -1887,7 +1899,7 @@ Cobblemon là mod Pokémon cho Minecraft **Java Edition**. Cách dễ nhất đ�
 
 ## Cần gì trước khi tải
 
-| | |
+| Mục | Thông tin |
 |---|---|
 | **Game** | Minecraft: Java Edition trên Windows, macOS hoặc Linux |
 | **Phiên bản** | Cobblemon 1.7 và 1.8 chạy trên Minecraft 1.21.1. Bản cũ hơn có cho 1.20.1 và 1.19.2 |
@@ -2235,16 +2247,18 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 
 ---
 
-| | |
+| Item | Details |
 |---|---|
 | **Server address** | `coco.ultramc.co` |
 | **Version** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
 | **Hosted in** | Singapore, about 29 ms ping from Ho Chi Minh City (measured 6 November 2026) |
 | **Language** | Vietnamese, with an English option in the launcher and the in-game menu |
 | **Join with** | CocoLauncher for Windows, macOS, Android and iPhone (Android and iPhone builds are experimental) |
-| **Cost** | Free to download and join |
+| **Cost** | Free to download and join. Ranks and the Premium Battle Pass are optional |
 | **Event times** | Vietnam time (UTC+7) |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace) (Discord server name: Hyper Space) |
+| **Players** | 110 players online at 20:28 Vietnam time on Saturday, 7 November 2026 (mcsrvstat.us); about 1,860 members on the Hyper Space Discord (11 November 2026) |
+| **Other names** | Coco's Hyper Space, Coco Cobbleverse (used in a few videos and older Facebook posts) |
 
 ## What you can do on the server
 
@@ -2255,7 +2269,7 @@ Most new players start by catching Pokémon, then move on to battles and guilds.
 - **Guilds:** Guild Wars on weekdays, a daily Guild Boss, guild gifts and a private land lock for each member.
 - **World Raids:** a shared boss for the whole server at 9:00 and 19:00 every day.
 - **Accumulating Legendary chance:** the longer the server goes without a Legendary, the higher the chance, shown on the HUD. Legendary Golden Hours run on Saturday and Sunday, 20:00-22:00 Vietnam time.
-- **Shiny:** Shiny Fusion, Pokémon Eggs, Raids and the Daily Shop.
+- **Shiny:** Shiny Fusion, Pokémon Eggs, Raids, the Daily Shop and the Battle Pass.
 - **Daily play:** Battle Pass, jobs, expeditions, the Daily Shop and fishing with 100 species.
 
 Details on the [Features](https://coconubs.github.io/en/features/) page.
@@ -2297,11 +2311,11 @@ URL: https://coconubs.github.io/en/vietnam-cobblemon-server/
 
 # Cobblemon server in Vietnam: Coco Cobblemon
 
-Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher. This page is for players looking for a Cobblemon server in Vietnam: server details, ping, player numbers with the date they were measured, the weekly schedule in Vietnam time and what to check before you pick a server.
+Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher. Key facts: address `coco.ultramc.co`, Minecraft Java 1.21.1, Fabric and Cobblemon 1.7.3, hosted in Singapore with about 29 ms ping from Ho Chi Minh City (measured 6 November 2026). Menus and guides are in Vietnamese, with an English option. At 20:28 Vietnam time on Saturday 7 November 2026, 110 players were online. Joining is free.
 
 ## Server details
 
-| | |
+| Item | Details |
 |---|---|
 | **Address** | `coco.ultramc.co` |
 | **Version** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
@@ -2373,6 +2387,20 @@ Older videos and posts may use these names. They all mean the same server, Coco 
 - **Hyper Space**: the community Discord server.
 - **Coco's Hyper Space**, **Coco Cobbleverse**: names used in a few older videos and Facebook posts.
 
+## Quick answers
+
+### What is the Coco Cobblemon server IP?
+
+The Coco Cobblemon address is `coco.ultramc.co` (Minecraft Java 1.21.1, Cobblemon 1.7.3). With CocoLauncher you do not need to type it: the launcher connects for you. Joining from another launcher without the server's own mod set gets rejected.
+
+### Can I play Coco Cobblemon on Android?
+
+Yes. CocoLauncher Android is an experimental build that runs Minecraft Java Edition on the phone and joins the same server as PC players. It needs 6 GB of RAM or more (8 GB recommended). Minecraft Bedrock and Pocket Edition cannot join, because Cobblemon is a Java Edition mod, see [Cobblemon on Bedrock](https://coconubs.github.io/en/cobblemon-bedrock/).
+
+### Is Coco Cobblemon an official Cobblemon server?
+
+No. Coco Cobblemon is a community server. It is not an official product of, or endorsed by, Mojang, Microsoft, Nintendo, The Pokémon Company or the Cobblemon team.
+
 **See also:** [Server features](https://coconubs.github.io/en/features/) · [FAQ](https://coconubs.github.io/en/faq/) · [Play on Android and iPhone](https://coconubs.github.io/en/cobblemon-android/)
 
 *Updated: 11 November 2026.*
@@ -2384,7 +2412,9 @@ URL: https://coconubs.github.io/en/how-to-join/
 
 # How to join Coco Cobblemon
 
-| | |
+Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher. In short: download CocoLauncher, enter a player name, press **Play**, follow the on-screen registration, then type `/menu`. The launcher installs Java, Minecraft 1.21.1, Fabric, Cobblemon 1.7.3 and the mod pack, then connects to `coco.ultramc.co` for you, so you do not install mods or type the IP yourself.
+
+| Item | Details |
 |---|---|
 | **Server address (IP)** | `coco.ultramc.co` |
 | **Version** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
