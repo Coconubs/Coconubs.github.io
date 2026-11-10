@@ -5,7 +5,7 @@ description: "Tải và cài CocoLauncher (Coco Launcher) trên máy Mac: chọn
 parent: CocoLauncher
 nav_order: 2
 permalink: /cocolauncher/macos/
-last_modified_at: 2026-11-06T11:30:01+07:00
+last_modified_at: 2026-11-11T03:48:07+07:00
 ---
 
 # CocoLauncher cho macOS
@@ -38,6 +38,20 @@ Nếu máy báo app "is damaged", tải lại file từ link trên và [đối c
 
 Bản Mac không tự cập nhật launcher. Khi có thông báo bản mới, tải lại file .dmg và kéo đè vào Applications. Dữ liệu game giữ nguyên. Gói mod vẫn tự cập nhật mỗi lần bấm Chơi.
 
+## Hỏi nhanh
+
+### Máy Mac của tôi dùng bản CocoLauncher nào?
+
+Bấm logo Apple, chọn **About This Mac**. Dòng **Chip** ghi Apple M1, M2, M3, M4 hoặc mới hơn thì tải bản AppleSilicon; dòng **Processor** ghi Intel thì tải bản Intel.
+
+### macOS không cho mở CocoLauncher thì làm sao?
+
+Bản Mac chưa được Apple công chứng. Trên macOS 15 trở lên: mở app 1 lần, chọn **Done**, rồi vào **System Settings > Privacy & Security**, bấm **Open Anyway**. Trên macOS 14 trở xuống: giữ Control, bấm vào app, chọn **Open**.
+
+### Bản Mac có tự cập nhật không?
+
+Launcher bản Mac không tự cập nhật: khi có bản mới, tải lại file .dmg và kéo đè vào Applications, dữ liệu game giữ nguyên. Gói mod vẫn tự cập nhật mỗi lần bấm Chơi.
+
 **Xem thêm:** [Sửa lỗi CocoLauncher](/cocolauncher/sua-loi/) · [CocoLauncher có an toàn không](/cocolauncher/an-toan/) · [Cách vào server](/cach-vao-server/)
 
-*Cập nhật: 06/11/2026.*
+*Cập nhật: 11/11/2026.*

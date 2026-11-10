@@ -394,11 +394,25 @@ Launcher mặc định cấp cho game 2 đến 4 GB RAM. Đổi mức RAM ở m�
 - **Gói mod:** tự cập nhật mỗi khi bấm Chơi.
 - **Trong game báo có bản mới:** bấm **Cập nhật**, thoát game rồi mở lại CocoLauncher.
 
+## Hỏi nhanh
+
+### Cài CocoLauncher từ Microsoft Store hay file .exe?
+
+Nên cài từ Microsoft Store: nhà phát hành ghi Coconubs, và bản Store đi qua bước kiểm tra của Microsoft nên không gặp cảnh báo SmartScreen như file .exe. File .exe là cùng một launcher, tải ở GitHub Releases của Coconubs.
+
+### SmartScreen báo "Windows protected your PC" thì làm sao?
+
+File .exe chưa có chữ ký số nên SmartScreen có thể cảnh báo. Chỉ bấm **More info** rồi **Run anyway** khi bạn tải đúng từ link trên và [mã SHA-256](https://coconubs.github.io/cocolauncher/an-toan/#sha256) khớp. Không chắc thì dùng bản Microsoft Store.
+
+### CocoLauncher cấp bao nhiêu RAM cho game?
+
+Mặc định 2 đến 4 GB, đổi ở mục cài đặt của launcher. Máy 8 GB RAM nên để mức mặc định và tắt bớt ứng dụng khác khi chơi.
+
 ## Gặp lỗi
 
 Xem [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/#windows).
 
-*Cập nhật: 06/11/2026.*
+*Cập nhật: 11/11/2026.*
 
 ---
 
@@ -435,9 +449,23 @@ Nếu máy báo app "is damaged", tải lại file từ link trên và [đối c
 
 Bản Mac không tự cập nhật launcher. Khi có thông báo bản mới, tải lại file .dmg và kéo đè vào Applications. Dữ liệu game giữ nguyên. Gói mod vẫn tự cập nhật mỗi lần bấm Chơi.
 
+## Hỏi nhanh
+
+### Máy Mac của tôi dùng bản CocoLauncher nào?
+
+Bấm logo Apple, chọn **About This Mac**. Dòng **Chip** ghi Apple M1, M2, M3, M4 hoặc mới hơn thì tải bản AppleSilicon; dòng **Processor** ghi Intel thì tải bản Intel.
+
+### macOS không cho mở CocoLauncher thì làm sao?
+
+Bản Mac chưa được Apple công chứng. Trên macOS 15 trở lên: mở app 1 lần, chọn **Done**, rồi vào **System Settings > Privacy & Security**, bấm **Open Anyway**. Trên macOS 14 trở xuống: giữ Control, bấm vào app, chọn **Open**.
+
+### Bản Mac có tự cập nhật không?
+
+Launcher bản Mac không tự cập nhật: khi có bản mới, tải lại file .dmg và kéo đè vào Applications, dữ liệu game giữ nguyên. Gói mod vẫn tự cập nhật mỗi lần bấm Chơi.
+
 **Xem thêm:** [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/) · [CocoLauncher có an toàn không](https://coconubs.github.io/cocolauncher/an-toan/) · [Cách vào server](https://coconubs.github.io/cach-vao-server/)
 
-*Cập nhật: 06/11/2026.*
+*Cập nhật: 11/11/2026.*
 
 ---
 
@@ -2286,6 +2314,7 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 [Download CocoLauncher](https://coconubs.github.io/en/cocolauncher/)
 [How to join](https://coconubs.github.io/en/how-to-join/)
 [Discord](https://discord.gg/hyspace)
+[Tiếng Việt](https://coconubs.github.io/)
 
 ---
 
