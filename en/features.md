@@ -1,12 +1,12 @@
 ---
 title: Features
 seo_title: "Coco Cobblemon features: ranked battles, Battle Tower, Guild Wars, Raids, Legendary"
-description: "Features of the Coco Cobblemon server: ranked 4v4 Doubles with Elo, a 555-floor Battle Tower, Guild Wars, Guild Bosses, World Raids, accumulating Legendary chance, Shiny Fusion, Battle Pass, fishing."
+description: "Coco Cobblemon features: ranked 4v4 Doubles with Elo, a 555-floor Battle Tower, Guild Wars, World Raids, accumulating Legendary chance, Shiny Fusion, fishing."
 parent: English
 nav_order: 3
 permalink: /en/features/
 alt: /tinh-nang/
-last_modified_at: 2026-11-06T11:30:01+07:00
+last_modified_at: 2026-11-11T03:31:18+07:00
 ---
 
 # Coco Cobblemon features
@@ -60,6 +60,16 @@ Open with `/xephang` or the RANKED tile in the main menu.
 - **Daily Shop:** 7 random Lv 50 Pokémon cards each day.
 - **Fishing:** 100 fish species in 7 rarities, a collection book, craftable rods and a golden hour contest every evening, 19:00-22:00.
 - **Mini-games:** Tiến Lên (a Vietnamese card game), a Monopoly-style board game and chess with Elo.
+
+## Quick answers
+
+### What can you do on Coco Cobblemon?
+
+Ranked battles with Elo, a 555-floor Battle Tower and World Raids; an accumulating Legendary chance and several ways to get Shiny Pokémon (Shiny Fusion, Eggs, Raids, the Daily Shop, the Battle Pass); guilds with Guild Wars and Guild Bosses; and daily play: Battle Pass, jobs, expeditions, the Daily Shop and fishing with 100 species.
+
+### Which features run at fixed times?
+
+In Vietnam time (UTC+7): World Raids at 9:00 and 19:00 every day; Guild Wars Monday to Friday, 9:00-22:00; the fishing golden hour every evening, 19:00-22:00; Legendary Golden Hours on Saturday and Sunday, 20:00-22:00. The new Guild Boss, daily Battle Pass quests, jobs, expeditions and the Daily Shop reset at 0:00.
 
 **See also:** [Cobblemon server in Vietnam](/en/vietnam-cobblemon-server/) · [How to join](/en/how-to-join/) · [Download CocoLauncher](/en/cocolauncher/) · [FAQ](/en/faq/)
 

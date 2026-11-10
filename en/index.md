@@ -1,7 +1,7 @@
 ---
 title: English
 seo_title: "Coco Cobblemon: Cobblemon server in Vietnam, CocoLauncher and guides"
-description: "Coco Cobblemon is a Vietnamese community Minecraft Java 1.21.1 server running Cobblemon, IP coco.ultramc.co. Download CocoLauncher (Coco Launcher), learn how to join, features and FAQ."
+description: "Coco Cobblemon: a Vietnamese community Minecraft Java 1.21.1 Cobblemon server, IP coco.ultramc.co. Download CocoLauncher, how to join, features, FAQ."
 nav_order: 99
 has_children: true
 has_toc: false

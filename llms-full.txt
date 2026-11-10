@@ -2630,6 +2630,16 @@ Open with `/xephang` or the RANKED tile in the main menu.
 - **Fishing:** 100 fish species in 7 rarities, a collection book, craftable rods and a golden hour contest every evening, 19:00-22:00.
 - **Mini-games:** Tiến Lên (a Vietnamese card game), a Monopoly-style board game and chess with Elo.
 
+## Quick answers
+
+### What can you do on Coco Cobblemon?
+
+Ranked battles with Elo, a 555-floor Battle Tower and World Raids; an accumulating Legendary chance and several ways to get Shiny Pokémon (Shiny Fusion, Eggs, Raids, the Daily Shop, the Battle Pass); guilds with Guild Wars and Guild Bosses; and daily play: Battle Pass, jobs, expeditions, the Daily Shop and fishing with 100 species.
+
+### Which features run at fixed times?
+
+In Vietnam time (UTC+7): World Raids at 9:00 and 19:00 every day; Guild Wars Monday to Friday, 9:00-22:00; the fishing golden hour every evening, 19:00-22:00; Legendary Golden Hours on Saturday and Sunday, 20:00-22:00. The new Guild Boss, daily Battle Pass quests, jobs, expeditions and the Daily Shop reset at 0:00.
+
 **See also:** [Cobblemon server in Vietnam](https://coconubs.github.io/en/vietnam-cobblemon-server/) · [How to join](https://coconubs.github.io/en/how-to-join/) · [Download CocoLauncher](https://coconubs.github.io/en/cocolauncher/) · [FAQ](https://coconubs.github.io/en/faq/)
 
 *Taken from the in-game guide on 06/11/2026. Numbers can change with updates; the in-game menu is always the most accurate.*

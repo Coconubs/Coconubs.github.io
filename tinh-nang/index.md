@@ -1,7 +1,7 @@
 ---
 title: Tính năng
 seo_title: "Tính năng Coco Cobblemon: Đấu Xếp Hạng, BattleTower, Bang Hội Chiến, Raid, Legendary"
-description: "Tổng hợp tính năng server Coco Cobblemon: Đấu Xếp Hạng Elo, BattleTower 555 tầng, Bang Hội Chiến, Boss Bang, Raid Thế Giới, Legendary tích luỹ, Shiny, Battle Pass, Nghề nghiệp, câu cá."
+description: "Tính năng server Coco Cobblemon: Đấu Xếp Hạng Elo, BattleTower 555 tầng, Bang Hội Chiến, Raid Thế Giới, Legendary tích luỹ, Shiny, Battle Pass, câu cá."
 nav_order: 6
 has_children: true
 has_toc: false
