@@ -30,7 +30,7 @@ jsonld: |
       "https://discord.gg/hyspace"
     ]
   }
-last_modified_at: 2026-11-11T02:48:44+07:00
+last_modified_at: 2026-11-11T04:04:24+07:00
 ---
 
 # Coco Cobblemon
@@ -57,7 +57,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 | **Số người chơi** | 110 người online lúc 20:28 Thứ 7, 07/11/2026 (mcsrvstat.us); Discord Hyper Space khoảng 1.860 thành viên (11/11/2026) |
 | **Tên khác** | Coco's Hyper Space, Coco Cobbleverse (tên trong vài video, bài Facebook cũ) |
 
-## Coco Cobblemon và CocoLauncher là gì
+## Coco Cobblemon và CocoLauncher là gì?
 
 Coco Cobblemon là server Minecraft Java chơi mod Cobblemon (mod Pokémon cho Minecraft) dành cho cộng đồng người Việt. Địa chỉ server là `coco.ultramc.co`, chạy Minecraft Java 1.21.1, Fabric và Cobblemon 1.7.3. Máy chủ đặt ở Singapore, ping khoảng 29 ms từ TP.HCM (đo 06/11/2026). Menu, hướng dẫn và thông báo bằng tiếng Việt, có tiếng Anh. Tải launcher và vào server không mất phí.
 
@@ -77,7 +77,7 @@ Coco Cobblemon là server cộng đồng, không phải sản phẩm chính th�
 | Launcher báo lỗi | [Sửa lỗi CocoLauncher](/cocolauncher/sua-loi/) |
 | Câu hỏi thường gặp | [Hỏi đáp](/hoi-dap/) |
 
-## Server có gì
+## Server Coco Cobblemon có gì?
 
 - **[Đấu Xếp Hạng](/tinh-nang/dau-xep-hang/):** Đấu Đôi 4v4 tính Elo, Đấu Đơn 6v6, ghép trận tự động.
 - **[BattleTower](/tinh-nang/battletower/):** 555 tầng, cứ 5 tầng có 1 tầng boss.

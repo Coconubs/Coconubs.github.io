@@ -23,7 +23,7 @@ Trên Coco Cobblemon, Legendary xuất hiện tự nhiên theo tỉ lệ **tích
 
 ## Giờ Vàng và Bùa Huyền Thoại
 
-| | Hiệu lực |
+| Cách tăng | Hiệu lực |
 |---|---|
 | **Giờ Vàng** | Thứ 7 và Chủ Nhật, 20:00-22:00 (giờ Việt Nam): tỉ lệ đang tích luỹ x2, tối đa 2%. Có thông báo trước 10 phút |
 | **Bùa Huyền Thoại** | Trong 60 phút, tỉ lệ quanh bạn (96 block) x2, tối đa 2%. Nguồn: Shop Tokens, Shop BattleTower, Viễn Chinh 5★, Battle Pass |

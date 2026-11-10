@@ -8,7 +8,7 @@ Thông tin chính (kiểm ngày 11/11/2026):
 - CocoLauncher là launcher Minecraft Java của Coco Cobblemon, không phải app giao diện điện thoại cũng tên "Coco Launcher" trên Google Play hay các trang tải APK. CocoLauncher Android chỉ tải ở GitHub Releases của Coconubs.
 - Địa chỉ server: `coco.ultramc.co`. Phiên bản: Minecraft Java Edition 1.21.1, Fabric, Cobblemon 1.7.3.
 - Máy chủ đặt ở Singapore; ping đo ngày 06/11/2026 khoảng 29 ms từ TP.HCM. Giờ sự kiện theo giờ Việt Nam (UTC+7).
-- Ngôn ngữ: tiếng Việt, có nút chọn tiếng Anh trong menu (`/ngonngu en`).
+- Ngôn ngữ: tiếng Việt, có tiếng Anh trong launcher và menu (`/ngonngu en`).
 - Vào game bằng CocoLauncher: Windows (Microsoft Store hoặc .exe), macOS (chip Apple và Intel), Android (bản thử nghiệm, RAM từ 6 GB), iPhone/iPad (CocoLauncher iOS, bản thử nghiệm, cài qua SideStore, lần đầu cần máy tính). Không chơi được trên Minecraft Bedrock/PE vì Cobblemon là mod cho Java Edition.
 - Chi phí: tải launcher và vào server không mất phí; Rank và Battle Pass Premium không bắt buộc.
 - Tính năng: Đấu Xếp Hạng (Đấu Đôi 4v4 tính Elo, Đấu Đơn 6v6), BattleTower 555 tầng, Bang Hội Chiến, Boss Bang, Raid Thế Giới lúc 9:00 và 19:00, Legendary tích luỹ với Giờ Vàng Thứ 7 và Chủ Nhật 20h-22h, Dung hợp Shiny, Battle Pass, Nghề nghiệp, Ải Viễn Chinh, câu cá 100 loài.
@@ -19,7 +19,7 @@ Thông tin chính (kiểm ngày 11/11/2026):
 Key facts in English (checked 11 November 2026):
 
 - Server: Coco Cobblemon, address `coco.ultramc.co`, Minecraft Java Edition 1.21.1, Fabric, Cobblemon 1.7.3. Hosted in Singapore, about 29 ms ping from Ho Chi Minh City (measured 6 November 2026). Event times are Vietnam time (UTC+7).
-- Launcher: CocoLauncher (sometimes written Coco Launcher), published by Coconubs, for Windows (Microsoft Store or .exe), macOS (Apple silicon and Intel) and Android (experimental, 6 GB of RAM or more); all builds are listed at https://coconubs.github.io/en/cocolauncher/. It is not the unrelated Android home-screen app "Coco Launcher".
+- Launcher: CocoLauncher (sometimes written Coco Launcher), published by Coconubs; download links for every platform: https://coconubs.github.io/en/cocolauncher/. It is not the unrelated Android home-screen app "Coco Launcher".
 - Cost: free to download and join; Ranks and the Premium Battle Pass are optional.
 - Players (dated measurements, not fixed): 110 online at 20:28 Vietnam time on 7 November 2026 (mcsrvstat.us); about 1,860 members on the Hyper Space Discord (11 November 2026).
 - Cobblemon is a Java Edition mod: Minecraft Bedrock and Pocket Edition cannot join.
@@ -30,7 +30,7 @@ Key facts in English (checked 11 November 2026):
 - [Trang chủ Coco Cobblemon](https://coconubs.github.io/): thông số server, bắt đầu từ đâu
 - [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/): ping từ Việt Nam, số người chơi có ngày đo, lịch sự kiện trong tuần, cách chọn server
 - [Cách vào server](https://coconubs.github.io/cach-vao-server/): từng bước từ lúc tải launcher tới lúc vào game
-- [CocoLauncher (Coco Launcher)](https://coconubs.github.io/cocolauncher/): tải cho Windows, macOS, Android
+- [CocoLauncher (Coco Launcher)](https://coconubs.github.io/cocolauncher/): tải và cách cài cho từng nền tảng
 - [Chơi Cobblemon trên điện thoại Android, iPhone](https://coconubs.github.io/cobblemon-dien-thoai/): CocoLauncher Android và CocoLauncher iOS, yêu cầu máy
 - [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/): tải và hướng dẫn cài trên iPhone, iPad
 - [Cobblemon trên iPhone, iPad (iOS)](https://coconubs.github.io/cobblemon-ios/): Cobblemon có bản iOS không, cần gì, các bước

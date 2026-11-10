@@ -4,6 +4,7 @@ url: https://coconubs.github.io
 baseurl: ""
 lang: vi
 locale: vi_VN
+timezone: Asia/Ho_Chi_Minh
 author:
   name: Coconubs
   type: Organization

@@ -1,9 +1,9 @@
 ---
 title: Cobblemon Việt hoá
 seo_title: "Cobblemon Việt hoá: cách chơi Cobblemon bằng tiếng Việt"
-description: "Cobblemon có tiếng Việt không? Cobblemon 1.7.3 có sẵn ngôn ngữ vi_vn khoảng 60% số khoá. Cách bật Tiếng Việt, gói Việt hoá cộng đồng, server Cobblemon tiếng Việt."
+description: "Cobblemon Việt hoá (Việt hóa): Cobblemon 1.7.3 có sẵn tiếng Việt khoảng 60% số khoá. Cách bật Tiếng Việt, gói Việt hoá cộng đồng, server Cobblemon tiếng Việt."
 nav_order: 9
-last_modified_at: 2026-11-11T03:28:53+07:00
+last_modified_at: 2026-11-11T04:04:24+07:00
 ---
 
 # Cobblemon Việt Hoá: cách chơi Cobblemon bằng tiếng Việt
@@ -19,7 +19,7 @@ Có. File Cobblemon 1.7.3 cho Fabric có sẵn ngôn ngữ `vi_vn` với 5.450 m
 
 ## Ai dịch Cobblemon sang tiếng Việt
 
-Phần tiếng Việt của Cobblemon được cộng đồng dịch trên [Cobblemon Weblate](https://lang.cobblemon.com/languages/vi/), trang dịch của nhóm Cobblemon. Ngày 11/11/2026, trang này ghi tiếng Việt đã dịch 59% số chuỗi (5.679 trên 9.587 chuỗi). Muốn góp bản dịch, đăng ký tài khoản trên trang đó.
+Phần tiếng Việt của Cobblemon được cộng đồng dịch trên [Cobblemon Weblate](https://lang.cobblemon.com/languages/vi/), trang dịch của nhóm Cobblemon. Ngày 11/11/2026, trang này ghi tiếng Việt đã dịch 59% số chuỗi (5.679 trên 9.587 chuỗi). Số này tính trên bản chữ đang dịch ở Weblate, khác số khoá trong file Cobblemon 1.7.3 ở mục trên. Muốn góp bản dịch, đăng ký tài khoản trên trang đó.
 
 ## Cách bật
 

@@ -110,7 +110,7 @@ jsonld: |
         "name": "CocoLauncher có an toàn không?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Không phần mềm nào được bảo đảm tuyệt đối, nên hãy tự kiểm chứng. Cách an toàn nhất trên Windows là cài từ Microsoft Store, nhà phát hành Coconubs. Bản .exe chưa có chữ ký số nên SmartScreen có thể cảnh báo. Mỗi file trên GitHub Releases có mã SHA-256 để đối chiếu, xem cách kiểm tra."
+          "text": "Không phần mềm nào được bảo đảm tuyệt đối, kể cả CocoLauncher, nên hãy tự kiểm chứng. Cách an toàn nhất để cài CocoLauncher trên Windows là cài từ Microsoft Store, nhà phát hành Coconubs. Bản .exe chưa có chữ ký số nên SmartScreen có thể cảnh báo. Mỗi file trên GitHub Releases có mã SHA-256 để đối chiếu, xem cách kiểm tra."
         }
       },
       {
@@ -150,7 +150,7 @@ jsonld: |
         "name": "Có chơi được bằng Minecraft Bedrock hay PE không?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Không. Cobblemon là mod cho Minecraft Java Edition, không chạy trên Bedrock, PE hay máy console. Các gói \"Cobblemon PE\" là addon của người khác, xem Cobblemon PE, Bedrock."
+          "text": "Không. Coco Cobblemon chỉ vào được bằng Minecraft Java Edition, vì Cobblemon là mod cho Java Edition, không chạy trên Bedrock, PE hay máy console. Các gói \"Cobblemon PE\" là addon của người khác, xem Cobblemon PE, Bedrock."
         }
       },
       {
@@ -219,7 +219,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T03:34:08+07:00
+last_modified_at: 2026-11-11T04:04:24+07:00
 ---
 
 # Hỏi đáp Coco Cobblemon
@@ -281,7 +281,7 @@ Tải CocoLauncher (Microsoft Store hoặc file .exe trên Windows, file .dmg tr
 
 ### CocoLauncher có an toàn không?
 
-Không phần mềm nào được bảo đảm tuyệt đối, nên hãy tự kiểm chứng. Cách an toàn nhất trên Windows là cài từ Microsoft Store, nhà phát hành Coconubs. Bản .exe chưa có chữ ký số nên SmartScreen có thể cảnh báo. Mỗi file trên GitHub Releases có mã SHA-256 để đối chiếu, xem [cách kiểm tra](/cocolauncher/an-toan/).
+Không phần mềm nào được bảo đảm tuyệt đối, kể cả CocoLauncher, nên hãy tự kiểm chứng. Cách an toàn nhất để cài CocoLauncher trên Windows là cài từ Microsoft Store, nhà phát hành Coconubs. Bản .exe chưa có chữ ký số nên SmartScreen có thể cảnh báo. Mỗi file trên GitHub Releases có mã SHA-256 để đối chiếu, xem [cách kiểm tra](/cocolauncher/an-toan/).
 
 ## Chi phí và cấu hình máy
 
@@ -305,7 +305,7 @@ Cobblemon không có app trên App Store và không chạy trong Minecraft PE. T
 
 ### Có chơi được bằng Minecraft Bedrock hay PE không?
 
-Không. Cobblemon là mod cho Minecraft Java Edition, không chạy trên Bedrock, PE hay máy console. Các gói "Cobblemon PE" là addon của người khác, xem [Cobblemon PE, Bedrock](/cobblemon-pe/).
+Không. Coco Cobblemon chỉ vào được bằng Minecraft Java Edition, vì Cobblemon là mod cho Java Edition, không chạy trên Bedrock, PE hay máy console. Các gói "Cobblemon PE" là addon của người khác, xem [Cobblemon PE, Bedrock](/cobblemon-pe/).
 
 ### Vào server bằng launcher khác được không?
 

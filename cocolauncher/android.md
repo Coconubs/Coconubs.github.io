@@ -6,7 +6,7 @@ parent: CocoLauncher
 nav_order: 3
 permalink: /cobblemon-dien-thoai/
 alt: /en/cobblemon-android/
-last_modified_at: 2026-11-11T03:27:35+07:00
+last_modified_at: 2026-11-11T04:04:24+07:00
 ---
 
 # Chơi Cobblemon trên điện thoại Android, iPhone
@@ -89,5 +89,9 @@ Fold Craft Launcher (FCL) và PojavLauncher chạy được Minecraft Java Editi
 ### Chơi bằng Minecraft PE được không?
 
 Không. Cobblemon là mod cho Java Edition, Minecraft PE và Bedrock không vào được server. Gói "Cobblemon PE" trên mạng là addon của người khác, xem [Cobblemon PE, Bedrock](/cobblemon-pe/).
+
+### Coco Cobblemon có phải server chính thức không?
+
+Không. Coco Cobblemon là server cộng đồng, không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon.
 
 *Cập nhật: 11/11/2026.*

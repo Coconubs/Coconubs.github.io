@@ -4,7 +4,7 @@ seo_title: "Cách vào server Coco Cobblemon: IP coco.ultramc.co, 5 bước"
 description: "Cách vào server Coco Cobblemon (IP coco.ultramc.co, Java 1.21.1, Cobblemon 1.7.3): tải CocoLauncher, nhập tên, bấm Chơi, mở /menu. Cách vào một server Cobblemon bất kỳ."
 nav_order: 3
 alt: /en/how-to-join/
-last_modified_at: 2026-11-11T03:25:48+07:00
+last_modified_at: 2026-11-11T04:04:24+07:00
 ---
 
 # Cách vào server Coco Cobblemon
@@ -60,5 +60,7 @@ Không nên. Server Coco Cobblemon chạy Cobblemon 1.7.3 trên Minecraft 1.21.1
 ## Chơi bằng Minecraft Bedrock, PE được không?
 
 Không. Cobblemon là mod cho Java Edition, các gói "Cobblemon PE" là addon của người khác (xem [Cobblemon PE, Bedrock](/cobblemon-pe/)). Trên điện thoại Android có thể dùng CocoLauncher Android, bản thử nghiệm chạy Java Edition. iPhone, iPad có bản thử nghiệm [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/), xem [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/#iphone-ipad).
+
+Coco Cobblemon là server cộng đồng, không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon.
 
 *Cập nhật: 11/11/2026.*

@@ -6,7 +6,7 @@ parent: English
 nav_order: 4.7
 permalink: /en/cobblemon-bedrock/
 alt: /cobblemon-pe/
-last_modified_at: 2026-11-11T03:23:47+07:00
+last_modified_at: 2026-11-11T04:04:24+07:00
 ---
 
 # Cobblemon on Bedrock and Pocket Edition
@@ -22,7 +22,7 @@ Short answer: official Cobblemon only exists for Minecraft Java Edition, running
 | Java Edition on Android, through a Java launcher | Runs if the device is powerful enough |
 | Bedrock, Pocket Edition (PE) on phones, Windows, consoles | No |
 
-Cobblemon downloads are on Modrinth and CurseForge. On Modrinth, the newest release when this page was written is Cobblemon 1.8.4 for Minecraft 1.21.1, released on 27 October 2026.
+Cobblemon downloads are on Modrinth and CurseForge. On Modrinth, the newest release when checked on 11 November 2026 was Cobblemon 1.8.4 for Minecraft 1.21.1, released on 27 October 2026.
 
 ## What "Cobblemon PE" add-ons are
 
@@ -55,7 +55,7 @@ There is no official PE version. Packs named Cobblemon for PE are other people's
 
 ### Can Cobblemon PE join the Coco Cobblemon server?
 
-No. Coco Cobblemon is a Minecraft Java 1.21.1 server running Cobblemon 1.7.3 with its own mod set, joined with CocoLauncher on Windows, macOS or Android.
+No. Coco Cobblemon is a Minecraft Java 1.21.1 server running Cobblemon 1.7.3 with its own mod set, joined with CocoLauncher (builds on the [CocoLauncher download](/en/cocolauncher/) page).
 
 ### Does Minecraft PE have Pokémon?
 

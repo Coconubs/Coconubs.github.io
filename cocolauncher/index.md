@@ -35,7 +35,7 @@ jsonld: |
       "https://github.com/Coconubs/cocolauncher-pack"
     ]
   }
-last_modified_at: 2026-11-11T03:27:35+07:00
+last_modified_at: 2026-11-11T04:04:24+07:00
 ---
 
 # CocoLauncher (Coco Launcher)
@@ -70,9 +70,11 @@ Trên Google Play và các trang tải APK có app giao diện điện thoại c
 
 CocoLauncher chỉ dùng để vào server Coco Cobblemon. Muốn chơi Cobblemon một mình hoặc vào server khác, xem [Launcher nào để chơi Cobblemon](/launcher-cobblemon/).
 
+CocoLauncher và Coco Cobblemon không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon.
+
 ## Máy cần gì
 
-| | Tối thiểu |
+| Thiết bị | Tối thiểu |
 |---|---|
 | Windows | Windows 10 hoặc 11 bản 64-bit |
 | macOS | Máy Mac chip Apple (M1-M4 và mới hơn) hoặc Intel |

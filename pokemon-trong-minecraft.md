@@ -21,7 +21,7 @@ Minecraft Bedrock, Minecraft PE trên điện thoại và bản máy console kh�
 
 ## Cobblemon và Pixelmon khác gì
 
-| | Cobblemon | Pixelmon (Pixelmon Reforged) |
+| Mục | Cobblemon | Pixelmon (Pixelmon Reforged) |
 |---|---|---|
 | Bộ nạp mod | Fabric và NeoForge | Forge; bản cho Minecraft 1.21.1 dùng NeoForge |
 | Bản cho Minecraft 1.21.1 | 1.7.3 ra ngày 31/01/2026; bản mới nhất trên Modrinth là 1.8.4 (27/10/2026) | Có, chạy trên NeoForge |

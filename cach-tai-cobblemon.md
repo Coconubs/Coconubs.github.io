@@ -3,7 +3,7 @@ title: Cách tải Cobblemon
 seo_title: "Cách tải và cài Cobblemon cho Minecraft Java: Modrinth App, Fabric"
 description: "Cách tải và cài Cobblemon cho Minecraft Java 1.21.1: bằng Modrinth App, cài file mod với Fabric, hoặc vào server người Việt bằng CocoLauncher. Cần gì, bản nào, lỗi hay gặp."
 nav_order: 8
-last_modified_at: 2026-11-11T03:51:37+07:00
+last_modified_at: 2026-11-11T04:04:24+07:00
 ---
 
 # Cách tải Cobblemon cho Minecraft Java
@@ -29,7 +29,7 @@ Cobblemon là mod Pokémon cho Minecraft **Java Edition**. Cách dễ nhất đ�
 | **Java** | Minecraft 1.21.1 cần Java 21. Modrinth App, Minecraft Launcher và CocoLauncher tự kèm Java |
 | **RAM** | Máy nên có từ 8 GB RAM. Cấp RAM cho game trong cài đặt launcher, không quá nửa RAM của máy |
 
-Bản mới nhất ngày 11/11/2026 trên [trang Cobblemon ở Modrinth](https://modrinth.com/mod/cobblemon) là **1.8.4F** cho Fabric, ra ngày 27/10/2026, chạy trên Minecraft 1.21.1. Server Coco Cobblemon dùng **1.7.3**. Bản mới hơn có thể đã ra, hãy xem trang Modrinth trước khi tải.
+Bản mới nhất ngày 11/11/2026 trên [trang Cobblemon ở Modrinth](https://modrinth.com/mod/cobblemon) là **1.8.4** cho Fabric (Modrinth ghi số bản 1.8.4F), ra ngày 27/10/2026, chạy trên Minecraft 1.21.1. Server Coco Cobblemon dùng **1.7.3**. Bản mới hơn có thể đã ra, hãy xem trang Modrinth trước khi tải.
 
 ## Cách 1: Modrinth App và Cobblemon Official Modpack
 {: #cach-1 }

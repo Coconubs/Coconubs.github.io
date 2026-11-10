@@ -31,7 +31,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 | **Số người chơi** | 110 người online lúc 20:28 Thứ 7, 07/11/2026 (mcsrvstat.us); Discord Hyper Space khoảng 1.860 thành viên (11/11/2026) |
 | **Tên khác** | Coco's Hyper Space, Coco Cobbleverse (tên trong vài video, bài Facebook cũ) |
 
-## Coco Cobblemon và CocoLauncher là gì
+## Coco Cobblemon và CocoLauncher là gì?
 
 Coco Cobblemon là server Minecraft Java chơi mod Cobblemon (mod Pokémon cho Minecraft) dành cho cộng đồng người Việt. Địa chỉ server là `coco.ultramc.co`, chạy Minecraft Java 1.21.1, Fabric và Cobblemon 1.7.3. Máy chủ đặt ở Singapore, ping khoảng 29 ms từ TP.HCM (đo 06/11/2026). Menu, hướng dẫn và thông báo bằng tiếng Việt, có tiếng Anh. Tải launcher và vào server không mất phí.
 
@@ -51,7 +51,7 @@ Coco Cobblemon là server cộng đồng, không phải sản phẩm chính th�
 | Launcher báo lỗi | [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/) |
 | Câu hỏi thường gặp | [Hỏi đáp](https://coconubs.github.io/hoi-dap/) |
 
-## Server có gì
+## Server Coco Cobblemon có gì?
 
 - **[Đấu Xếp Hạng](https://coconubs.github.io/tinh-nang/dau-xep-hang/):** Đấu Đôi 4v4 tính Elo, Đấu Đơn 6v6, ghép trận tự động.
 - **[BattleTower](https://coconubs.github.io/tinh-nang/battletower/):** 555 tầng, cứ 5 tầng có 1 tầng boss.
@@ -96,7 +96,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 | **Địa chỉ** | `coco.ultramc.co` |
 | **Phiên bản** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
 | **Máy chủ đặt ở** | Singapore. Ping đo ngày 06/11/2026: khoảng 29 ms từ TP.HCM |
-| **Ngôn ngữ** | Tiếng Việt, có nút chọn tiếng Anh trong menu (`/ngonngu en`) |
+| **Ngôn ngữ** | Tiếng Việt, có tiếng Anh trong launcher và menu (`/ngonngu en`) |
 | **Vào game** | CocoLauncher cho Windows, macOS, Android, iPhone (Android và iPhone là bản thử nghiệm) |
 | **Giờ sự kiện** | Giờ Việt Nam (UTC+7) |
 | **Chi phí** | Tải launcher và vào server không mất phí. Rank và Battle Pass Premium không bắt buộc |
@@ -216,6 +216,10 @@ Có. Buổi tối là lúc đông người chơi. Lịch sự kiện và bảo t
 
 Xem trước [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/), chưa được thì hỏi trên [Discord](https://discord.gg/hyspace).
 
+### Coco Cobblemon có phải server chính thức không?
+
+Không. Coco Cobblemon là server cộng đồng, không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon.
+
 *Cập nhật: 11/11/2026.*
 
 ---
@@ -275,6 +279,8 @@ Không nên. Server Coco Cobblemon chạy Cobblemon 1.7.3 trên Minecraft 1.21.1
 
 Không. Cobblemon là mod cho Java Edition, các gói "Cobblemon PE" là addon của người khác (xem [Cobblemon PE, Bedrock](https://coconubs.github.io/cobblemon-pe/)). Trên điện thoại Android có thể dùng CocoLauncher Android, bản thử nghiệm chạy Java Edition. iPhone, iPad có bản thử nghiệm [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/), xem [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/#iphone-ipad).
 
+Coco Cobblemon là server cộng đồng, không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon.
+
 *Cập nhật: 11/11/2026.*
 
 ---
@@ -312,9 +318,11 @@ Trên Google Play và các trang tải APK có app giao diện điện thoại c
 
 CocoLauncher chỉ dùng để vào server Coco Cobblemon. Muốn chơi Cobblemon một mình hoặc vào server khác, xem [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/).
 
+CocoLauncher và Coco Cobblemon không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon.
+
 ## Máy cần gì
 
-| | Tối thiểu |
+| Thiết bị | Tối thiểu |
 |---|---|
 | Windows | Windows 10 hoặc 11 bản 64-bit |
 | macOS | Máy Mac chip Apple (M1-M4 và mới hơn) hoặc Intel |
@@ -551,6 +559,10 @@ Fold Craft Launcher (FCL) và PojavLauncher chạy được Minecraft Java Editi
 ### Chơi bằng Minecraft PE được không?
 
 Không. Cobblemon là mod cho Java Edition, Minecraft PE và Bedrock không vào được server. Gói "Cobblemon PE" trên mạng là addon của người khác, xem [Cobblemon PE, Bedrock](https://coconubs.github.io/cobblemon-pe/).
+
+### Coco Cobblemon có phải server chính thức không?
+
+Không. Coco Cobblemon là server cộng đồng, không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon.
 
 *Cập nhật: 11/11/2026.*
 
@@ -1096,7 +1108,7 @@ Trên Coco Cobblemon, Legendary xuất hiện tự nhiên theo tỉ lệ **tích
 
 ## Giờ Vàng và Bùa Huyền Thoại
 
-| | Hiệu lực |
+| Cách tăng | Hiệu lực |
 |---|---|
 | **Giờ Vàng** | Thứ 7 và Chủ Nhật, 20:00-22:00 (giờ Việt Nam): tỉ lệ đang tích luỹ x2, tối đa 2%. Có thông báo trước 10 phút |
 | **Bùa Huyền Thoại** | Trong 60 phút, tỉ lệ quanh bạn (96 block) x2, tối đa 2%. Nguồn: Shop Tokens, Shop BattleTower, Viễn Chinh 5★, Battle Pass |
@@ -1675,7 +1687,7 @@ Tải CocoLauncher (Microsoft Store hoặc file .exe trên Windows, file .dmg tr
 
 ### CocoLauncher có an toàn không?
 
-Không phần mềm nào được bảo đảm tuyệt đối, nên hãy tự kiểm chứng. Cách an toàn nhất trên Windows là cài từ Microsoft Store, nhà phát hành Coconubs. Bản .exe chưa có chữ ký số nên SmartScreen có thể cảnh báo. Mỗi file trên GitHub Releases có mã SHA-256 để đối chiếu, xem [cách kiểm tra](https://coconubs.github.io/cocolauncher/an-toan/).
+Không phần mềm nào được bảo đảm tuyệt đối, kể cả CocoLauncher, nên hãy tự kiểm chứng. Cách an toàn nhất để cài CocoLauncher trên Windows là cài từ Microsoft Store, nhà phát hành Coconubs. Bản .exe chưa có chữ ký số nên SmartScreen có thể cảnh báo. Mỗi file trên GitHub Releases có mã SHA-256 để đối chiếu, xem [cách kiểm tra](https://coconubs.github.io/cocolauncher/an-toan/).
 
 ## Chi phí và cấu hình máy
 
@@ -1699,7 +1711,7 @@ Cobblemon không có app trên App Store và không chạy trong Minecraft PE. T
 
 ### Có chơi được bằng Minecraft Bedrock hay PE không?
 
-Không. Cobblemon là mod cho Minecraft Java Edition, không chạy trên Bedrock, PE hay máy console. Các gói "Cobblemon PE" là addon của người khác, xem [Cobblemon PE, Bedrock](https://coconubs.github.io/cobblemon-pe/).
+Không. Coco Cobblemon chỉ vào được bằng Minecraft Java Edition, vì Cobblemon là mod cho Java Edition, không chạy trên Bedrock, PE hay máy console. Các gói "Cobblemon PE" là addon của người khác, xem [Cobblemon PE, Bedrock](https://coconubs.github.io/cobblemon-pe/).
 
 ### Vào server bằng launcher khác được không?
 
@@ -1974,7 +1986,7 @@ Cobblemon là mod Pokémon cho Minecraft **Java Edition**. Cách dễ nhất đ�
 | **Java** | Minecraft 1.21.1 cần Java 21. Modrinth App, Minecraft Launcher và CocoLauncher tự kèm Java |
 | **RAM** | Máy nên có từ 8 GB RAM. Cấp RAM cho game trong cài đặt launcher, không quá nửa RAM của máy |
 
-Bản mới nhất ngày 11/11/2026 trên [trang Cobblemon ở Modrinth](https://modrinth.com/mod/cobblemon) là **1.8.4F** cho Fabric, ra ngày 27/10/2026, chạy trên Minecraft 1.21.1. Server Coco Cobblemon dùng **1.7.3**. Bản mới hơn có thể đã ra, hãy xem trang Modrinth trước khi tải.
+Bản mới nhất ngày 11/11/2026 trên [trang Cobblemon ở Modrinth](https://modrinth.com/mod/cobblemon) là **1.8.4** cho Fabric (Modrinth ghi số bản 1.8.4F), ra ngày 27/10/2026, chạy trên Minecraft 1.21.1. Server Coco Cobblemon dùng **1.7.3**. Bản mới hơn có thể đã ra, hãy xem trang Modrinth trước khi tải.
 
 ## Cách 1: Modrinth App và Cobblemon Official Modpack
 
@@ -2140,7 +2152,7 @@ Có. File Cobblemon 1.7.3 cho Fabric có sẵn ngôn ngữ `vi_vn` với 5.450 m
 
 ## Ai dịch Cobblemon sang tiếng Việt
 
-Phần tiếng Việt của Cobblemon được cộng đồng dịch trên [Cobblemon Weblate](https://lang.cobblemon.com/languages/vi/), trang dịch của nhóm Cobblemon. Ngày 11/11/2026, trang này ghi tiếng Việt đã dịch 59% số chuỗi (5.679 trên 9.587 chuỗi). Muốn góp bản dịch, đăng ký tài khoản trên trang đó.
+Phần tiếng Việt của Cobblemon được cộng đồng dịch trên [Cobblemon Weblate](https://lang.cobblemon.com/languages/vi/), trang dịch của nhóm Cobblemon. Ngày 11/11/2026, trang này ghi tiếng Việt đã dịch 59% số chuỗi (5.679 trên 9.587 chuỗi). Số này tính trên bản chữ đang dịch ở Weblate, khác số khoá trong file Cobblemon 1.7.3 ở mục trên. Muốn góp bản dịch, đăng ký tài khoản trên trang đó.
 
 ## Cách bật
 
@@ -2189,7 +2201,7 @@ Trả lời ngắn: Cobblemon chính thức chỉ có cho Minecraft Java Edition
 | Java Edition trên Android, chạy bằng launcher Java | Chạy được nếu máy đủ mạnh |
 | Bedrock, Pocket Edition (PE) trên điện thoại, Windows, máy console | Không |
 
-Cobblemon tải ở Modrinth hoặc CurseForge. Trên Modrinth, bản mới nhất lúc viết trang này là Cobblemon 1.8.4 cho Minecraft 1.21.1, ra ngày 27/10/2026.
+Cobblemon tải ở Modrinth hoặc CurseForge. Trên Modrinth, bản mới nhất khi kiểm ngày 11/11/2026 là Cobblemon 1.8.4 cho Minecraft 1.21.1, ra ngày 27/10/2026.
 
 ## Addon "Cobblemon PE" là gì
 
@@ -2219,7 +2231,7 @@ Không có bản chính thức cho PE. Gói mang tên Cobblemon cho PE là addon
 
 ### Cobblemon PE có vào được server Coco Cobblemon không?
 
-Không. Coco Cobblemon là server Minecraft Java 1.21.1 chạy Cobblemon 1.7.3 cùng bộ mod riêng, vào bằng CocoLauncher trên Windows, macOS hoặc Android.
+Không. Coco Cobblemon là server Minecraft Java 1.21.1 chạy Cobblemon 1.7.3 cùng bộ mod riêng, vào bằng CocoLauncher (các bản ở trang [Tải CocoLauncher](https://coconubs.github.io/cocolauncher/)).
 
 ### Minecraft PE có Pokémon không?
 
@@ -2318,7 +2330,7 @@ Minecraft Bedrock, Minecraft PE trên điện thoại và bản máy console kh�
 
 ## Cobblemon và Pixelmon khác gì
 
-| | Cobblemon | Pixelmon (Pixelmon Reforged) |
+| Mục | Cobblemon | Pixelmon (Pixelmon Reforged) |
 |---|---|---|
 | Bộ nạp mod | Fabric và NeoForge | Forge; bản cho Minecraft 1.21.1 dùng NeoForge |
 | Bản cho Minecraft 1.21.1 | 1.7.3 ra ngày 31/01/2026; bản mới nhất trên Modrinth là 1.8.4 (27/10/2026) | Có, chạy trên NeoForge |
@@ -3020,7 +3032,7 @@ Short answer: official Cobblemon only exists for Minecraft Java Edition, running
 | Java Edition on Android, through a Java launcher | Runs if the device is powerful enough |
 | Bedrock, Pocket Edition (PE) on phones, Windows, consoles | No |
 
-Cobblemon downloads are on Modrinth and CurseForge. On Modrinth, the newest release when this page was written is Cobblemon 1.8.4 for Minecraft 1.21.1, released on 27 October 2026.
+Cobblemon downloads are on Modrinth and CurseForge. On Modrinth, the newest release when checked on 11 November 2026 was Cobblemon 1.8.4 for Minecraft 1.21.1, released on 27 October 2026.
 
 ## What "Cobblemon PE" add-ons are
 
@@ -3053,7 +3065,7 @@ There is no official PE version. Packs named Cobblemon for PE are other people's
 
 ### Can Cobblemon PE join the Coco Cobblemon server?
 
-No. Coco Cobblemon is a Minecraft Java 1.21.1 server running Cobblemon 1.7.3 with its own mod set, joined with CocoLauncher on Windows, macOS or Android.
+No. Coco Cobblemon is a Minecraft Java 1.21.1 server running Cobblemon 1.7.3 with its own mod set, joined with CocoLauncher (builds on the [CocoLauncher download](https://coconubs.github.io/en/cocolauncher/) page).
 
 ### Does Minecraft PE have Pokémon?
 
@@ -3211,4 +3223,4 @@ Known problems and fixes by operating system. If yours is not here, ask on [Disc
 
 **See also:** [FAQ](https://coconubs.github.io/en/faq/) · [CocoLauncher download](https://coconubs.github.io/en/cocolauncher/) · [Play on Android and iPhone](https://coconubs.github.io/en/cobblemon-android/) · [How to join](https://coconubs.github.io/en/how-to-join/)
 
-*Updated: 06/11/2026.*
+*Updated: 6 November 2026.*

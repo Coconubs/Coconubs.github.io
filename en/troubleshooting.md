@@ -43,4 +43,4 @@ Known problems and fixes by operating system. If yours is not here, ask on [Disc
 
 **See also:** [FAQ](/en/faq/) · [CocoLauncher download](/en/cocolauncher/) · [Play on Android and iPhone](/en/cobblemon-android/) · [How to join](/en/how-to-join/)
 
-*Updated: 06/11/2026.*
+*Updated: 6 November 2026.*
