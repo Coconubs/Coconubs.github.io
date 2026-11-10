@@ -4,7 +4,7 @@ seo_title: "Cách tiến hoá Pokémon trong Cobblemon: đá, trao đổi, Eevee
 description: "Cách tiến hoá Pokémon trong Cobblemon 1.7.3: lên cấp rồi bấm Tiến Hóa, dùng đá tiến hoá, Link Cable thay trao đổi, 8 dạng Eevee, Mega trên Coco Cobblemon."
 nav_order: 8.8
 alt: /en/cobblemon-evolution/
-last_modified_at: 2026-11-11T05:11:15+07:00
+last_modified_at: 2026-11-11T05:26:36+07:00
 ---
 
 # Cách tiến hoá Pokémon trong Cobblemon
@@ -95,7 +95,7 @@ Leafeon và Glaceon trong Cobblemon dùng Leaf Stone và Ice Stone, không cần
 
 Mỗi lúc chỉ 1 Pokémon của bạn được ở dạng Mega: còn con nào trong đội hoặc trong PC đang ở dạng Mega thì nút Mega không hiện. Đá Mega bán ở **Shop Tokens** (Menu > Shop > Shop Tokens). Mega dùng được trong Đấu Đôi xếp hạng (luật Regulation H cho Mega và Tera) và ở BattleTower, trừ các tầng cấm Mega (xem [Đấu Xếp Hạng](/tinh-nang/dau-xep-hang/), [BattleTower](/tinh-nang/battletower/)).
 
-Công thức Mega Bracelet mặc định của Mega Showdown: hàng trên Phôi sắt, Kim cương, Phôi sắt; hàng giữa White Apricorn, Keystone, White Apricorn; hàng dưới 3 Phôi sắt. Keystone lấy từ Keystone Ore.
+Công thức Mega Bracelet mặc định của Mega Showdown: hàng trên Phôi sắt, Kim cương, Phôi sắt; hàng giữa White Apricorn, Keystone, White Apricorn; hàng dưới 3 Phôi sắt. Keystone lấy từ Keystone Ore. Chi tiết, danh sách loài và Mega Rayquaza ở trang [Cách tiến hoá Mega trong Cobblemon](/mega-cobblemon/).
 
 ## Trên server Coco Cobblemon
 

@@ -5,7 +5,7 @@ description: "Đấu Xếp Hạng trên server Coco Cobblemon: Đấu Đôi 4v4 
 parent: Tính năng
 nav_order: 1
 permalink: /tinh-nang/dau-xep-hang/
-last_modified_at: 2026-11-11T02:53:44+07:00
+last_modified_at: 2026-11-11T05:26:36+07:00
 ---
 
 # Đấu Xếp Hạng
@@ -47,7 +47,7 @@ Hai bên thấy loài 6 con của nhau (không thấy vật phẩm cầm, level,
 
 - Chỉ Pokémon thường: cấm Huyền thoại, Thần thoại, Restricted, Paradox, Ultra Beast.
 - Không 2 con cùng loài, không 2 con cầm trùng vật phẩm.
-- Cơ chế: chỉ Mega và Tera. Cấm Dynamax, Z-Move.
+- Cơ chế: chỉ Mega và Tera. Cấm Dynamax, Z-Move. Cách dùng Mega: [Cách tiến hoá Mega](/mega-cobblemon/).
 - Chiêu cấm: Baton Pass, Minimize, Double Team.
 - Đặc tính cấm: Wonder Guard, Battle Armor, Battle Bond, Shadow Tag, Arena Trap.
 - Vật phẩm cấm: Star Core và mọi Plate của Arceus.

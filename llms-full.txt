@@ -77,6 +77,7 @@ Coco Cobblemon là server cộng đồng, không phải sản phẩm chính th�
 - [Công thức chế tạo Cobblemon: Poké Ball, PC, máy hồi máu](https://coconubs.github.io/cong-thuc-cobblemon/)
 - [Cách bắt Pokémon trong Cobblemon: tỉ lệ bắt, loại bóng, Legendary](https://coconubs.github.io/cach-bat-pokemon-cobblemon/)
 - [Cách tiến hoá Pokémon trong Cobblemon: đá, trao đổi, Eevee, Mega](https://coconubs.github.io/tien-hoa-cobblemon/)
+- [Cách tiến hoá Mega trong Cobblemon: Mega Bracelet, đá Mega, Rayquaza](https://coconubs.github.io/mega-cobblemon/)
 - [Cách cưỡi Pokémon trong Cobblemon: Pokémon nào cưỡi được](https://coconubs.github.io/cuoi-pokemon-cobblemon/)
 - [Cobblemon Việt hoá: chơi bằng tiếng Việt](https://coconubs.github.io/cobblemon-viet-hoa/)
 - [Cobblemon PE, Bedrock: có bản cho Minecraft PE không?](https://coconubs.github.io/cobblemon-pe/)
@@ -868,7 +869,7 @@ Hai bên thấy loài 6 con của nhau (không thấy vật phẩm cầm, level,
 
 - Chỉ Pokémon thường: cấm Huyền thoại, Thần thoại, Restricted, Paradox, Ultra Beast.
 - Không 2 con cùng loài, không 2 con cầm trùng vật phẩm.
-- Cơ chế: chỉ Mega và Tera. Cấm Dynamax, Z-Move.
+- Cơ chế: chỉ Mega và Tera. Cấm Dynamax, Z-Move. Cách dùng Mega: [Cách tiến hoá Mega](https://coconubs.github.io/mega-cobblemon/).
 - Chiêu cấm: Baton Pass, Minimize, Double Team.
 - Đặc tính cấm: Wonder Guard, Battle Armor, Battle Bond, Shadow Tag, Arena Trap.
 - Vật phẩm cấm: Star Core và mọi Plate của Arceus.
@@ -1773,7 +1774,7 @@ Người chơi Coco Cobblemon hỏi trên Discord Hyper Space: https://discord.g
 
 ## Tìm hiểu thêm về Cobblemon
 
-[Cobblemon là gì, có bao nhiêu Pokémon](https://coconubs.github.io/cobblemon-la-gi/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/) · [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/) · [Cách tiến hoá Pokémon](https://coconubs.github.io/tien-hoa-cobblemon/) · [Cách cưỡi Pokémon](https://coconubs.github.io/cuoi-pokemon-cobblemon/) · [Cách bắt Pokémon](https://coconubs.github.io/cach-bat-pokemon-cobblemon/)
+[Cobblemon là gì, có bao nhiêu Pokémon](https://coconubs.github.io/cobblemon-la-gi/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/) · [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/) · [Cách tiến hoá Pokémon](https://coconubs.github.io/tien-hoa-cobblemon/) · [Cách cưỡi Pokémon](https://coconubs.github.io/cuoi-pokemon-cobblemon/) · [Cách bắt Pokémon](https://coconubs.github.io/cach-bat-pokemon-cobblemon/) · [Tiến hoá Mega](https://coconubs.github.io/mega-cobblemon/)
 
 *Cập nhật: 11/11/2026.*
 
@@ -2560,7 +2561,7 @@ Leafeon và Glaceon trong Cobblemon dùng Leaf Stone và Ice Stone, không cần
 
 Mỗi lúc chỉ 1 Pokémon của bạn được ở dạng Mega: còn con nào trong đội hoặc trong PC đang ở dạng Mega thì nút Mega không hiện. Đá Mega bán ở **Shop Tokens** (Menu > Shop > Shop Tokens). Mega dùng được trong Đấu Đôi xếp hạng (luật Regulation H cho Mega và Tera) và ở BattleTower, trừ các tầng cấm Mega (xem [Đấu Xếp Hạng](https://coconubs.github.io/tinh-nang/dau-xep-hang/), [BattleTower](https://coconubs.github.io/tinh-nang/battletower/)).
 
-Công thức Mega Bracelet mặc định của Mega Showdown: hàng trên Phôi sắt, Kim cương, Phôi sắt; hàng giữa White Apricorn, Keystone, White Apricorn; hàng dưới 3 Phôi sắt. Keystone lấy từ Keystone Ore.
+Công thức Mega Bracelet mặc định của Mega Showdown: hàng trên Phôi sắt, Kim cương, Phôi sắt; hàng giữa White Apricorn, Keystone, White Apricorn; hàng dưới 3 Phôi sắt. Keystone lấy từ Keystone Ore. Chi tiết, danh sách loài và Mega Rayquaza ở trang [Cách tiến hoá Mega trong Cobblemon](https://coconubs.github.io/mega-cobblemon/).
 
 ## Trên server Coco Cobblemon
 
@@ -2591,6 +2592,74 @@ Cobblemon 1.7.3 gốc thì chưa. Trên Coco Cobblemon có Mega nhờ mod Mega S
 **Xem thêm:** [Cách bắt Pokémon](https://coconubs.github.io/cach-bat-pokemon-cobblemon/) · [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/) · [Cách cưỡi Pokémon](https://coconubs.github.io/cuoi-pokemon-cobblemon/) · [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/) · [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/)
 
 *Số liệu đếm từ file `Cobblemon-fabric-1.7.3+1.21.1.jar` ngày 11/11/2026. Phần Mega theo mod Mega Showdown 1.9.9 và Hướng dẫn trong game ngày 08/11/2026. Bản Cobblemon khác hoặc server cài thêm gói dữ liệu có thể khác.*
+
+*Cập nhật: 11/11/2026.*
+
+---
+
+Trang: Cách tiến hoá Mega trong Cobblemon: Mega Bracelet, đá Mega, Rayquaza
+URL: https://coconubs.github.io/mega-cobblemon/
+
+# Cách tiến hoá Mega trong Cobblemon
+
+Cobblemon 1.7.3 gốc chưa tiến hoá Mega được: file mod có dữ liệu dạng Mega nhưng không có Mega Bracelet hay đá Mega. Trên server Coco Cobblemon, Mega có nhờ mod **Mega Showdown** (bản 1.9.9): đeo **Mega Bracelet**, cho Pokémon cầm đúng **đá Mega** của nó, vào trận rồi bấm nút **Mega** khi chọn chiêu. Mỗi lúc chỉ 1 Pokémon của bạn được ở dạng Mega.
+
+## Các bước tiến hoá Mega
+
+1. Có **Mega Bracelet** và đeo vào ô phụ kiện (Accessories) trong túi đồ.
+2. Có đá Mega đúng loài, ví dụ Charizardite X cho Charizard, Greninjite cho Greninja. Trên Coco Cobblemon, đá Mega bán ở Shop Tokens (Menu > Shop > Shop Tokens).
+3. Cho Pokémon cầm đá: thả Pokémon ra, giữ **Shift** và bấm chuột phải vào nó, chọn **Đổi vật phẩm cầm tay**.
+4. Vào trận, đến lượt chọn chiêu thì bấm nút **Mega** rồi chọn chiêu. Pokémon tiến hoá Mega ngay trong lượt đó.
+
+Mega Bracelet làm theo công thức mặc định của Mega Showdown (bàn chế tạo):
+
+| Cột 1 | Cột 2 | Cột 3 |
+|---|---|---|
+| Phôi sắt | Kim cương | Phôi sắt |
+| White Apricorn | Keystone | White Apricorn |
+| Phôi sắt | Phôi sắt | Phôi sắt |
+
+Keystone rơi ra khi đào **Keystone Ore**; quặng này nằm trong công trình **Megaroid** dưới lòng đất (theo dữ liệu của mod). Mega Showdown có thêm Mega Bracelet 6 màu khác: đỏ, hồng, vàng, xanh lá, xanh dương, đen.
+
+## Không thấy nút Mega?
+
+- Chưa đeo Mega Bracelet, hoặc Pokémon không cầm đúng đá Mega của loài đó.
+- Còn một Pokémon khác của bạn (trong đội hình hoặc trong PC) đang ở dạng Mega: mỗi lúc chỉ được 1 con.
+- Trận đó cấm Mega: một số tầng BattleTower từ tầng 15 cấm Mega (xem nhãn trước trận), Đấu Xếp Hạng thì luật Đấu Đôi Regulation H cho dùng Mega và Tera. Xem [BattleTower](https://coconubs.github.io/tinh-nang/battletower/) và [Đấu Xếp Hạng](https://coconubs.github.io/tinh-nang/dau-xep-hang/).
+
+## Mega Rayquaza
+
+Rayquaza không dùng đá Mega. Rayquaza phải **biết chiêu Dragon Ascent** mới tiến hoá Mega được; chưa có chiêu này thì game báo "Rayquaza doesn't have dragonascent". Các bước còn lại giống loài khác: đeo Mega Bracelet, vào trận, bấm nút Mega.
+
+## Pokémon nào tiến hoá Mega được
+
+Mega Showdown 1.9.9 có 81 viên đá Mega cho **78 loài** (Charizard, Mewtwo và Raichu mỗi loài có 2 dạng X và Y), cộng Rayquaza dùng Dragon Ascent:
+
+Abomasnow, Absol, Aerodactyl, Aggron, Alakazam, Altaria, Ampharos, Audino, Banette, Barbaracle, Beedrill, Blastoise, Blaziken, Camerupt, Chandelure, Charizard (X, Y), Chesnaught, Chimecho, Clefable, Crabominable, Delphox, Diancie, Dragalge, Dragonite, Drampa, Eelektross, Emboar, Excadrill, Falinks, Feraligatr, Floette, Froslass, Gallade, Garchomp, Gardevoir, Gengar, Glalie, Glimmora, Golurk, Greninja, Gyarados, Hawlucha, Heracross, Houndoom, Kangaskhan, Latias, Latios, Lopunny, Lucario, Malamar, Manectric, Mawile, Medicham, Meganium, Meowstic, Metagross, Mewtwo (X, Y), Pidgeot, Pinsir, Pyroar, Raichu (X, Y), Sableye, Salamence, Sceptile, Scizor, Scolipede, Scovillain, Scrafty, Sharpedo, Skarmory, Slowbro, Staraptor, Starmie, Steelix, Swampert, Tyranitar, Venusaur, Victreebel.
+
+Tên đá thường là tên loài thêm đuôi "-ite", ví dụ Gengarite, Lucarionite, Garchompite, Gardevoirite.
+
+## Hỏi nhanh
+
+### Cách tiến hoá Mega trong Cobblemon?
+
+Cobblemon gốc chưa có Mega. Trên Coco Cobblemon (mod Mega Showdown): đeo Mega Bracelet, cho Pokémon cầm đá Mega của nó, vào trận và bấm nút Mega khi chọn chiêu.
+
+### Cách tiến hoá Mega Rayquaza trong Cobblemon?
+
+Rayquaza không cần đá Mega mà phải biết chiêu Dragon Ascent. Đeo Mega Bracelet, vào trận, bấm nút Mega.
+
+### Cách tiến hoá Mega Greninja trong Cobblemon?
+
+Cho Greninja cầm Greninjite, đeo Mega Bracelet rồi bấm nút Mega trong trận. Greninjite có trong Mega Showdown 1.9.9, bản mod server Coco Cobblemon đang dùng.
+
+### Đá Mega mua ở đâu trên Coco Cobblemon?
+
+Ở Shop Tokens: Menu (`/menu`) > Shop > Shop Tokens. Tokens kiếm từ nhiệm vụ Battle Pass và Viễn Chinh mỗi ngày.
+
+**Xem thêm:** [Cách tiến hoá Pokémon](https://coconubs.github.io/tien-hoa-cobblemon/) · [Cách bắt Pokémon](https://coconubs.github.io/cach-bat-pokemon-cobblemon/) · [Đấu Xếp Hạng](https://coconubs.github.io/tinh-nang/dau-xep-hang/) · [BattleTower](https://coconubs.github.io/tinh-nang/battletower/) · [Tiền tệ, Shop và Chợ GTS](https://coconubs.github.io/tinh-nang/kinh-te/)
+
+*Số liệu đọc từ file mod Mega Showdown 1.9.9 (danh sách đá Mega, công thức, công trình) và Cobblemon 1.7.3 ngày 11/11/2026; phần Coco Cobblemon theo Hướng dẫn trong game ngày 08/11/2026.*
 
 *Cập nhật: 11/11/2026.*
 
