@@ -43,7 +43,8 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 
 [Download CocoLauncher](/en/cocolauncher/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [How to join](/en/how-to-join/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Discord](https://discord.gg/hyspace){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Discord](https://discord.gg/hyspace){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Tiếng Việt](/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
