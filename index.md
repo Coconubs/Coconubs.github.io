@@ -97,6 +97,7 @@ Coco Cobblemon là server cộng đồng, không phải sản phẩm chính th�
 - [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/)
 - [Launcher nào để chơi Cobblemon](/launcher-cobblemon/)
 - [Cách tải Cobblemon cho Minecraft Java](/cach-tai-cobblemon/)
+- [Các phím chơi Cobblemon: phím tắt mặc định](/phim-tat-cobblemon/)
 - [Cobblemon Việt hoá: chơi bằng tiếng Việt](/cobblemon-viet-hoa/)
 - [Cobblemon PE, Bedrock: có bản cho Minecraft PE không?](/cobblemon-pe/)
 - [Cobblemon trên iPhone, iPad (iOS)](/cobblemon-ios/)

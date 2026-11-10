@@ -79,6 +79,6 @@ Trong vòng ±30.000 khối (X hoặc Z): ngoài khoảng đó không claim đư
 
 CobbleDollars có từ Nghề nghiệp (`/nghenghiep`, mỗi nhiệm vụ 1.000$ tới 10.000$), Ải Viễn Chinh và bán đồ (`/sell`). Tokens có từ nhiệm vụ Battle Pass, Ải Viễn Chinh và điểm danh. BattleTower Points nhận mỗi ngày theo tầng BattleTower.
 
-**Xem thêm:** [Tất cả tính năng](/tinh-nang/) · [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/) · [Việc hằng ngày](/tinh-nang/hang-ngay/) · [Hỏi đáp](/hoi-dap/)
+**Xem thêm:** [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Tất cả tính năng](/tinh-nang/) · [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/) · [Việc hằng ngày](/tinh-nang/hang-ngay/) · [Hỏi đáp](/hoi-dap/)
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026. Con số có thể đổi theo cập nhật, Menu trong game luôn là bản đúng nhất.*

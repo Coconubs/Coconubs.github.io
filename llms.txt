@@ -61,6 +61,7 @@ Key facts in English (checked 11 November 2026):
 
 - [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/): so sánh Modrinth App, CurseForge, Prism Launcher, CocoLauncher
 - [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/)
+- [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/): phím mặc định của Cobblemon 1.7.3 (R, M, O, mũi tên lên xuống, Alt trái) và cách đổi phím
 - [Cobblemon Việt hoá](https://coconubs.github.io/cobblemon-viet-hoa/)
 - [Cobblemon PE, Bedrock](https://coconubs.github.io/cobblemon-pe/): Cobblemon chính thức chỉ có cho Java Edition; addon PE là của người khác
 - [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](https://coconubs.github.io/pokemon-trong-minecraft/)

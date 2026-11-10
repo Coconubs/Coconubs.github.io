@@ -71,6 +71,7 @@ Coco Cobblemon là server cộng đồng, không phải sản phẩm chính th�
 - [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/)
 - [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/)
 - [Cách tải Cobblemon cho Minecraft Java](https://coconubs.github.io/cach-tai-cobblemon/)
+- [Các phím chơi Cobblemon: phím tắt mặc định](https://coconubs.github.io/phim-tat-cobblemon/)
 - [Cobblemon Việt hoá: chơi bằng tiếng Việt](https://coconubs.github.io/cobblemon-viet-hoa/)
 - [Cobblemon PE, Bedrock: có bản cho Minecraft PE không?](https://coconubs.github.io/cobblemon-pe/)
 - [Cobblemon trên iPhone, iPad (iOS)](https://coconubs.github.io/cobblemon-ios/)
@@ -725,7 +726,7 @@ Trong vòng ±30.000 khối (X hoặc Z): ngoài khoảng đó không claim đư
 
 CobbleDollars có từ Nghề nghiệp (`/nghenghiep`, mỗi nhiệm vụ 1.000$ tới 10.000$), Ải Viễn Chinh và bán đồ (`/sell`). Tokens có từ nhiệm vụ Battle Pass, Ải Viễn Chinh và điểm danh. BattleTower Points nhận mỗi ngày theo tầng BattleTower.
 
-**Xem thêm:** [Tất cả tính năng](https://coconubs.github.io/tinh-nang/) · [Tiền tệ, Shop và Chợ GTS](https://coconubs.github.io/tinh-nang/kinh-te/) · [Việc hằng ngày](https://coconubs.github.io/tinh-nang/hang-ngay/) · [Hỏi đáp](https://coconubs.github.io/hoi-dap/)
+**Xem thêm:** [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Tất cả tính năng](https://coconubs.github.io/tinh-nang/) · [Tiền tệ, Shop và Chợ GTS](https://coconubs.github.io/tinh-nang/kinh-te/) · [Việc hằng ngày](https://coconubs.github.io/tinh-nang/hang-ngay/) · [Hỏi đáp](https://coconubs.github.io/hoi-dap/)
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026. Con số có thể đổi theo cập nhật, Menu trong game luôn là bản đúng nhất.*
 
@@ -2064,9 +2065,63 @@ Cài Cobblemon (dễ nhất là Cobblemon Official Modpack bằng Modrinth App, 
 
 Không, nếu dùng Modrinth App, Minecraft Launcher hoặc CocoLauncher. Chỉ khi tự chạy game bằng launcher khác mới cần chọn Java 21 bản 64-bit.
 
-**Xem thêm:** [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/) · [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](https://coconubs.github.io/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/) · [Hỏi đáp](https://coconubs.github.io/hoi-dap/)
+**Xem thêm:** [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/) · [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](https://coconubs.github.io/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/) · [Hỏi đáp](https://coconubs.github.io/hoi-dap/)
 
 *Cập nhật: 11/11/2026. Số phiên bản kiểm trên Modrinth ngày 11/11/2026.*
+
+---
+
+Trang: Các phím chơi Cobblemon: phím tắt mặc định và cách đổi phím
+URL: https://coconubs.github.io/phim-tat-cobblemon/
+
+# Các phím chơi Cobblemon
+
+Cobblemon 1.7.3 thêm 6 phím riêng vào Minecraft Java. Mặc định: **R** thả Pokémon đang chọn và bắt đầu trận, **M** mở Tóm Tắt, **O** ẩn bảng đội hình, **mũi tên lên, xuống** chọn Pokémon trong đội hình, **Alt trái** để nhìn quanh khi cưỡi Pokémon. Ném Poké Ball thì cầm bóng trên tay và bấm chuột phải. Đổi phím ở **Tuỳ chọn** > **Điều khiển** > **Gán phím**, nhóm **Cobblemon**.
+
+## Bảng phím mặc định
+
+| Phím | Tên trong game (tiếng Việt, tiếng Anh) | Dùng để |
+|---|---|---|
+| R | Ném Pokémon Được Chọn (Throw Selected Pokémon) | Thả Pokémon đang chọn ra ngoài hoặc thu lại. Nhìn vào Pokémon hoang dã ở gần rồi bấm R để bắt đầu trận. Nhìn vào người chơi khác rồi bấm R để mở bảng tương tác với người đó (mời đấu, trao đổi). Đang trong trận: thu nhỏ hoặc mở lại màn trận. Đang cưỡi Pokémon: xuống |
+| M | Mở Tóm Tắt (Open Summary) | Mở màn Tóm Tắt của đội hình: thông tin, chiêu, chỉ số từng Pokémon |
+| O | Ẩn Bảng Đội Hình (Hide Party Overlay) | Ẩn hoặc hiện cột đội hình bên trái màn hình |
+| Mũi tên lên, mũi tên xuống | Dịch Chuyển Đội Hình Lên, Dịch Chuyển Đội Hình Xuống (Party Shift Up, Party Shift Down) | Chọn Pokémon phía trên hoặc phía dưới trong đội hình. Con đang chọn là con phím R sẽ thả ra |
+| Alt trái | Riding Freelook (bản tiếng Việt chưa dịch tên phím này) | Khi cưỡi Pokémon: xoay nhìn xung quanh |
+
+Các phím còn lại là phím của Minecraft: chuột phải (**Dùng vật phẩm/Đặt khối**) để ném Poké Ball đang cầm trên tay; chuột trái (**Tấn công/Phá hủy**) như bình thường.
+
+Bảng trên đọc từ file `Cobblemon-fabric-1.7.3+1.21.1.jar` (mã phím mặc định và tên phím trong `vi_vn.json`, `en_us.json`), kiểm ngày 11/11/2026. Bản Cobblemon khác có thể khác.
+
+## Đổi phím
+
+1. Ở màn hình chính hoặc khi đang chơi (bấm Esc), chọn **Tuỳ chọn...** (Options).
+2. Chọn **Điều khiển...** (Controls), rồi **Gán phím...** (Key Binds).
+3. Kéo xuống nhóm **Cobblemon**, bấm vào phím muốn đổi rồi bấm phím mới. Phím bị trùng hiện chữ đỏ.
+4. Bấm **Xong** (Done).
+
+Nếu bấm R mà không thả được Pokémon, xem trong nhóm Cobblemon phím R có bị trùng với phím khác (chữ đỏ) không.
+
+## Trên server Coco Cobblemon
+
+Ngoài phím của Cobblemon, server Coco Cobblemon có Menu riêng: gõ `/menu` hoặc cầm vật phẩm **Menu** ở ô cuối thanh công cụ (ô 9) rồi bấm chuột phải. Trong Menu có Hướng dẫn tiếng Việt cho từng tính năng. Các ô báo trạng thái ở góc trái (tỉ lệ Legendary, Giờ Vàng, Bùa Huyền Thoại) ẩn được bằng F1. Xem thêm [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/).
+
+## Hỏi nhanh
+
+### Phím nào để thả Pokémon trong Cobblemon?
+
+Phím R (Ném Pokémon Được Chọn). Chọn Pokémon bằng mũi tên lên, xuống rồi bấm R để thả ra; bấm R lần nữa để thu lại.
+
+### Bắt đầu trận với Pokémon hoang dã thế nào?
+
+Nhìn vào Pokémon hoang dã ở gần rồi bấm R: Pokémon đang chọn trong đội hình sẽ ra đấu. Muốn bắt thì cầm Poké Ball và bấm chuột phải để ném.
+
+### Đổi phím Cobblemon ở đâu?
+
+**Tuỳ chọn** > **Điều khiển** > **Gán phím**, kéo xuống nhóm **Cobblemon**. Menu tiếng Anh: **Options** > **Controls** > **Key Binds**.
+
+**Xem thêm:** [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/) · [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/) · [Cobblemon Việt hoá](https://coconubs.github.io/cobblemon-viet-hoa/) · [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/)
+
+*Cập nhật: 11/11/2026.*
 
 ---
 
