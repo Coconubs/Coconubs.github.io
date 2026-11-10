@@ -335,6 +335,14 @@ Không phần mềm nào bảo đảm được tuyệt đối, nên hãy tự ki
 
 Không. App giao diện điện thoại tên "Coco Launcher" trên Google Play là ứng dụng khác. CocoLauncher Android chỉ tải ở [GitHub Releases của Coconubs](https://github.com/Coconubs/cocolauncher-pack/releases).
 
+### CocoLauncher có miễn phí không?
+
+Có. Tải CocoLauncher và vào server Coco Cobblemon không mất phí. Trong game có Rank và Battle Pass Premium, đều không bắt buộc.
+
+### Dùng CocoLauncher chơi Cobblemon một mình hoặc vào server khác được không?
+
+Không. CocoLauncher chỉ dùng để vào server Coco Cobblemon. Muốn chơi Cobblemon một mình, dùng Modrinth App với Cobblemon Official Modpack; so sánh ở trang [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/).
+
 ## Các trang về CocoLauncher
 
 - [Cài CocoLauncher trên Windows](https://coconubs.github.io/cocolauncher/windows/)
@@ -498,6 +506,10 @@ Cần gì, các bước và câu hỏi thường gặp khi chơi trên iPhone: x
 Vẫn lỗi: dùng nút **Gửi log lỗi cho admin** trong Cài đặt của launcher, rồi báo trên [Discord](https://discord.gg/hyspace).
 
 ## Hỏi nhanh
+
+### Tải Cobblemon cho điện thoại (CocoLauncher APK) ở đâu?
+
+CocoLauncher Android chỉ tải ở [GitHub Releases của Coconubs](https://github.com/Coconubs/cocolauncher-pack/releases): CocoLauncher-Android.apk cho điện thoại, CocoLauncher-Android-GiaLap.apk cho giả lập MuMu, LDPlayer. App không có trên Google Play; app giao diện điện thoại tên "Coco Launcher" là ứng dụng khác, không liên quan tới Minecraft. Bản đăng lại ở trang khác có thể đã bị sửa.
 
 ### Có server Cobblemon Việt nào vào được bằng điện thoại không?
 
@@ -2480,7 +2492,7 @@ URL: https://coconubs.github.io/en/cocolauncher/
 
 # CocoLauncher (Coco Launcher)
 
-CocoLauncher is the launcher of the Coco Cobblemon server. It installs Java, Minecraft, Fabric and the server modpack so you can join with one button. The publisher is Coconubs.
+CocoLauncher (sometimes written Coco Launcher) is the Minecraft Java launcher of the Coco Cobblemon server (`coco.ultramc.co`), published by Coconubs. Enter a player name and press **Play**: the launcher installs Java, Minecraft 1.21.1, Fabric, Cobblemon 1.7.3 and the mod pack, then joins the server. It is not the unrelated Android home-screen app called "Coco Launcher".
 
 ## Download
 
@@ -2535,6 +2547,24 @@ If the hashes do not match, do not open the file. Download it again from the off
 - Windows 10 or 11 (64-bit), or a Mac with Apple silicon or Intel.
 - Android: 6 GB of RAM or more (8 GB recommended). iPhone, iPad: iOS 14 or later, 8 GB of RAM recommended, and a computer once for setup; see [iPhone and iPad](https://coconubs.github.io/en/cobblemon-android/#iphone-and-ipad).
 - The launcher gives the game 2 to 4 GB of RAM by default, so 8 GB of RAM or more is recommended.
+
+## Quick answers
+
+### What is CocoLauncher?
+
+CocoLauncher (Coco Launcher) is the Minecraft Java launcher of the Coco Cobblemon server, published by Coconubs. Enter a name and press **Play**: it installs Java, Minecraft 1.21.1, Fabric, Cobblemon 1.7.3 and the mod pack, then joins `coco.ultramc.co`. The Microsoft Store version and the GitHub Releases version are the same launcher.
+
+### Is CocoLauncher free?
+
+Yes. Downloading CocoLauncher and joining Coco Cobblemon are free. Ranks and the Premium Battle Pass in game are optional.
+
+### Is CocoLauncher the "Coco Launcher" app on Google Play?
+
+No. The home-screen app called "Coco Launcher" on Google Play is a different app. CocoLauncher Android is only downloaded from [Coconubs GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases).
+
+### Can I use CocoLauncher for single player or other servers?
+
+No. CocoLauncher only joins Coco Cobblemon. For single player, use the Modrinth App with the Cobblemon Official Modpack; see [Which launcher for Cobblemon](https://coconubs.github.io/en/cobblemon-launcher/).
 
 **See also:** [Troubleshooting](https://coconubs.github.io/en/troubleshooting/) · [FAQ](https://coconubs.github.io/en/faq/) · [How to join](https://coconubs.github.io/en/how-to-join/)
 
@@ -2743,6 +2773,20 @@ Requirements, steps and quick answers for iPhone: see [Cobblemon on iPhone and i
 | Emulator crashes | Use the emulator build, not the phone build |
 
 Still stuck: use the send-log button in the launcher settings and ask on [Discord](https://discord.gg/hyspace).
+
+## Quick answers
+
+### Where do I download the CocoLauncher APK?
+
+Only from [Coconubs GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases): CocoLauncher-Android.apk for phones and CocoLauncher-Android-GiaLap.apk for PC emulators (MuMu, LDPlayer). The app is not on Google Play; the home-screen app called "Coco Launcher" there is a different app. Copies on other sites may have been modified.
+
+### Can I use FCL or PojavLauncher instead?
+
+Fold Craft Launcher (FCL) and PojavLauncher run Minecraft Java Edition on Android, but you have to install Fabric and every mod for the server's version yourself. Coco Cobblemon needs its own mod set, so CocoLauncher Android installs it for you.
+
+### Can Minecraft PE play Cobblemon?
+
+No. Cobblemon is a Java Edition mod, so Minecraft PE and Bedrock cannot join the server. "Cobblemon PE" packs online are add-ons made by other people, see [Cobblemon on Bedrock](https://coconubs.github.io/en/cobblemon-bedrock/).
 
 **See also:** [FAQ](https://coconubs.github.io/en/faq/) · [Troubleshooting](https://coconubs.github.io/en/troubleshooting/) · [How to join](https://coconubs.github.io/en/how-to-join/) · [Which launcher for Cobblemon](https://coconubs.github.io/en/cobblemon-launcher/)
 

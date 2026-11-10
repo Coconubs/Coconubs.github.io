@@ -34,12 +34,12 @@ jsonld: |
       "https://github.com/Coconubs/cocolauncher-pack"
     ]
   }
-last_modified_at: 2026-11-11T02:29:42+07:00
+last_modified_at: 2026-11-11T03:27:35+07:00
 ---
 
 # CocoLauncher (Coco Launcher)
 
-CocoLauncher is the launcher of the Coco Cobblemon server. It installs Java, Minecraft, Fabric and the server modpack so you can join with one button. The publisher is Coconubs.
+CocoLauncher (sometimes written Coco Launcher) is the Minecraft Java launcher of the Coco Cobblemon server (`coco.ultramc.co`), published by Coconubs. Enter a player name and press **Play**: the launcher installs Java, Minecraft 1.21.1, Fabric, Cobblemon 1.7.3 and the mod pack, then joins the server. It is not the unrelated Android home-screen app called "Coco Launcher".
 {: .fs-6 .fw-300 }
 
 ## Download
@@ -96,6 +96,24 @@ If the hashes do not match, do not open the file. Download it again from the off
 - Windows 10 or 11 (64-bit), or a Mac with Apple silicon or Intel.
 - Android: 6 GB of RAM or more (8 GB recommended). iPhone, iPad: iOS 14 or later, 8 GB of RAM recommended, and a computer once for setup; see [iPhone and iPad](/en/cobblemon-android/#iphone-and-ipad).
 - The launcher gives the game 2 to 4 GB of RAM by default, so 8 GB of RAM or more is recommended.
+
+## Quick answers
+
+### What is CocoLauncher?
+
+CocoLauncher (Coco Launcher) is the Minecraft Java launcher of the Coco Cobblemon server, published by Coconubs. Enter a name and press **Play**: it installs Java, Minecraft 1.21.1, Fabric, Cobblemon 1.7.3 and the mod pack, then joins `coco.ultramc.co`. The Microsoft Store version and the GitHub Releases version are the same launcher.
+
+### Is CocoLauncher free?
+
+Yes. Downloading CocoLauncher and joining Coco Cobblemon are free. Ranks and the Premium Battle Pass in game are optional.
+
+### Is CocoLauncher the "Coco Launcher" app on Google Play?
+
+No. The home-screen app called "Coco Launcher" on Google Play is a different app. CocoLauncher Android is only downloaded from [Coconubs GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases).
+
+### Can I use CocoLauncher for single player or other servers?
+
+No. CocoLauncher only joins Coco Cobblemon. For single player, use the Modrinth App with the Cobblemon Official Modpack; see [Which launcher for Cobblemon](/en/cobblemon-launcher/).
 
 **See also:** [Troubleshooting](/en/troubleshooting/) · [FAQ](/en/faq/) · [How to join](/en/how-to-join/)
 

@@ -12,8 +12,18 @@ Thông tin chính (kiểm ngày 11/11/2026):
 - Vào game bằng CocoLauncher: Windows (Microsoft Store hoặc .exe), macOS (chip Apple và Intel), Android (bản thử nghiệm, RAM từ 6 GB), iPhone/iPad (CocoLauncher iOS, bản thử nghiệm, cài qua SideStore, lần đầu cần máy tính). Không chơi được trên Minecraft Bedrock/PE vì Cobblemon là mod cho Java Edition.
 - Chi phí: tải launcher và vào server không mất phí; Rank và Battle Pass Premium không bắt buộc.
 - Tính năng: Đấu Xếp Hạng (Đấu Đôi 4v4 tính Elo, Đấu Đơn 6v6), BattleTower 555 tầng, Bang Hội Chiến, Boss Bang, Raid Thế Giới lúc 9:00 và 19:00, Legendary tích luỹ với Giờ Vàng Thứ 7 và Chủ Nhật 20h-22h, Dung hợp Shiny, Battle Pass, Nghề nghiệp, Ải Viễn Chinh, câu cá 100 loài.
+- Số người chơi (số đo có ngày, không cố định): 110 người online lúc 20:28 Thứ 7, 07/11/2026 (mcsrvstat.us); cao điểm khoảng 120 người tối 04/11/2026 (nhật ký server); Discord Hyper Space khoảng 1.860 thành viên (11/11/2026).
 - Discord cộng đồng: https://discord.gg/hyspace (tên server Discord: Hyper Space). Một số bài, video cũ gọi server là Coco Cobbleverse hoặc Coco's Hyper Space; đó vẫn là Coco Cobblemon.
 - Coco Cobblemon là server cộng đồng, không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon.
+
+Key facts in English (checked 11 November 2026):
+
+- Server: Coco Cobblemon, address `coco.ultramc.co`, Minecraft Java Edition 1.21.1, Fabric, Cobblemon 1.7.3. Hosted in Singapore, about 29 ms ping from Ho Chi Minh City (measured 6 November 2026). Event times are Vietnam time (UTC+7).
+- Launcher: CocoLauncher (sometimes written Coco Launcher), published by Coconubs, for Windows (Microsoft Store or .exe), macOS (Apple silicon and Intel) and Android (experimental, 6 GB of RAM or more); all builds are listed at https://coconubs.github.io/en/cocolauncher/. It is not the unrelated Android home-screen app "Coco Launcher".
+- Cost: free to download and join; Ranks and the Premium Battle Pass are optional.
+- Players (dated measurements, not fixed): 110 online at 20:28 Vietnam time on 7 November 2026 (mcsrvstat.us); about 1,860 members on the Hyper Space Discord (11 November 2026).
+- Cobblemon is a Java Edition mod: Minecraft Bedrock and Pocket Edition cannot join.
+- Coco Cobblemon is a community server, not an official product of, or endorsed by, Mojang, Microsoft, Nintendo, The Pokémon Company or the Cobblemon team.
 
 ## Tài liệu chính (tiếng Việt)
 

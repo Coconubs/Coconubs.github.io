@@ -6,7 +6,7 @@ parent: English
 nav_order: 4
 permalink: /en/cobblemon-android/
 alt: /cobblemon-dien-thoai/
-last_modified_at: 2026-11-11T03:23:47+07:00
+last_modified_at: 2026-11-11T03:27:35+07:00
 ---
 
 # Play Cobblemon on Android and iPhone
@@ -61,6 +61,20 @@ Requirements, steps and quick answers for iPhone: see [Cobblemon on iPhone and i
 | Emulator crashes | Use the emulator build, not the phone build |
 
 Still stuck: use the send-log button in the launcher settings and ask on [Discord](https://discord.gg/hyspace).
+
+## Quick answers
+
+### Where do I download the CocoLauncher APK?
+
+Only from [Coconubs GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases): CocoLauncher-Android.apk for phones and CocoLauncher-Android-GiaLap.apk for PC emulators (MuMu, LDPlayer). The app is not on Google Play; the home-screen app called "Coco Launcher" there is a different app. Copies on other sites may have been modified.
+
+### Can I use FCL or PojavLauncher instead?
+
+Fold Craft Launcher (FCL) and PojavLauncher run Minecraft Java Edition on Android, but you have to install Fabric and every mod for the server's version yourself. Coco Cobblemon needs its own mod set, so CocoLauncher Android installs it for you.
+
+### Can Minecraft PE play Cobblemon?
+
+No. Cobblemon is a Java Edition mod, so Minecraft PE and Bedrock cannot join the server. "Cobblemon PE" packs online are add-ons made by other people, see [Cobblemon on Bedrock](/en/cobblemon-bedrock/).
 
 **See also:** [FAQ](/en/faq/) · [Troubleshooting](/en/troubleshooting/) · [How to join](/en/how-to-join/) · [Which launcher for Cobblemon](/en/cobblemon-launcher/)
 

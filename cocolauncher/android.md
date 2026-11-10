@@ -6,7 +6,7 @@ parent: CocoLauncher
 nav_order: 3
 permalink: /cobblemon-dien-thoai/
 alt: /en/cobblemon-android/
-last_modified_at: 2026-11-11T02:48:44+07:00
+last_modified_at: 2026-11-11T03:27:35+07:00
 ---
 
 # Chơi Cobblemon trên điện thoại Android, iPhone
@@ -73,6 +73,10 @@ Cần gì, các bước và câu hỏi thường gặp khi chơi trên iPhone: x
 Vẫn lỗi: dùng nút **Gửi log lỗi cho admin** trong Cài đặt của launcher, rồi báo trên [Discord](https://discord.gg/hyspace).
 
 ## Hỏi nhanh
+
+### Tải Cobblemon cho điện thoại (CocoLauncher APK) ở đâu?
+
+CocoLauncher Android chỉ tải ở [GitHub Releases của Coconubs](https://github.com/Coconubs/cocolauncher-pack/releases): CocoLauncher-Android.apk cho điện thoại, CocoLauncher-Android-GiaLap.apk cho giả lập MuMu, LDPlayer. App không có trên Google Play; app giao diện điện thoại tên "Coco Launcher" là ứng dụng khác, không liên quan tới Minecraft. Bản đăng lại ở trang khác có thể đã bị sửa.
 
 ### Có server Cobblemon Việt nào vào được bằng điện thoại không?
 

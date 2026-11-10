@@ -34,7 +34,7 @@ jsonld: |
       "https://github.com/Coconubs/cocolauncher-pack"
     ]
   }
-last_modified_at: 2026-11-11T02:48:44+07:00
+last_modified_at: 2026-11-11T03:27:35+07:00
 ---
 
 # CocoLauncher (Coco Launcher)
@@ -92,6 +92,14 @@ Không phần mềm nào bảo đảm được tuyệt đối, nên hãy tự ki
 ### CocoLauncher có phải app "Coco Launcher" trên Google Play không?
 
 Không. App giao diện điện thoại tên "Coco Launcher" trên Google Play là ứng dụng khác. CocoLauncher Android chỉ tải ở [GitHub Releases của Coconubs](https://github.com/Coconubs/cocolauncher-pack/releases).
+
+### CocoLauncher có miễn phí không?
+
+Có. Tải CocoLauncher và vào server Coco Cobblemon không mất phí. Trong game có Rank và Battle Pass Premium, đều không bắt buộc.
+
+### Dùng CocoLauncher chơi Cobblemon một mình hoặc vào server khác được không?
+
+Không. CocoLauncher chỉ dùng để vào server Coco Cobblemon. Muốn chơi Cobblemon một mình, dùng Modrinth App với Cobblemon Official Modpack; so sánh ở trang [Launcher nào để chơi Cobblemon](/launcher-cobblemon/).
 
 ## Các trang về CocoLauncher
 
