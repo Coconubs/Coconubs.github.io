@@ -3,6 +3,42 @@ title: Cưỡi Pokémon Cobblemon
 seo_title: "Cách cưỡi Pokémon trong Cobblemon: Pokémon nào cưỡi được, bay, bơi"
 description: "Cách cưỡi Pokémon trong Cobblemon 1.7.3: thả ra, giữ Shift, chuột phải, chọn Lái. 84 loài cưỡi được: 74 trên cạn, 38 bay, 17 bơi. Cưỡi trên Coco Cobblemon."
 nav_order: 8.9
+jsonld: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Cách cưỡi Pokémon trong Cobblemon",
+    "description": "Cách cưỡi Pokémon trong Cobblemon 1.7.3: thả ra, giữ Shift, chuột phải, chọn Lái. 84 loài cưỡi được: 74 trên cạn, 38 bay, 17 bơi. Cưỡi trên Coco Cobblemon.",
+    "inLanguage": "vi",
+    "url": "https://coconubs.github.io/cuoi-pokemon-cobblemon/",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "text": "Có trong đội hình một Pokémon cưỡi được (danh sách ở dưới)."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "text": "Chọn Pokémon đó bằng mũi tên lên, xuống rồi bấm R để thả ra."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "text": "Đứng gần, giữ Shift (phím Đi rón rén) và bấm chuột phải vào Pokémon. Vòng tương tác hiện ra."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "text": "Chọn Lái."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "text": "Đi bằng các phím di chuyển như bình thường. Giữ Alt trái để xoay nhìn xung quanh. Bấm R để xuống."
+      }
+    ]
+  }
 last_modified_at: 2026-11-11T05:15:59+07:00
 ---
 

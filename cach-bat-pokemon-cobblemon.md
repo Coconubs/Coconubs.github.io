@@ -3,6 +3,42 @@ title: Bắt Pokémon Cobblemon
 seo_title: "Cách bắt Pokémon trong Cobblemon: tỉ lệ bắt, loại bóng, Legendary"
 description: "Cách bắt Pokémon trong Cobblemon 1.7.3: đấu trước rồi ném bóng, giảm máu, gây Ngủ, chọn bóng. Cách tính tỉ lệ bắt, cách bắt Legendary trên Coco Cobblemon."
 nav_order: 8.75
+jsonld: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Cách bắt Pokémon trong Cobblemon",
+    "description": "Cách bắt Pokémon trong Cobblemon 1.7.3: đấu trước rồi ném bóng, giảm máu, gây Ngủ, chọn bóng. Cách tính tỉ lệ bắt, cách bắt Legendary trên Coco Cobblemon.",
+    "inLanguage": "vi",
+    "url": "https://coconubs.github.io/cach-bat-pokemon-cobblemon/",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "text": "Chọn Pokémon ra đấu bằng mũi tên lên, xuống."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "text": "Nhìn vào Pokémon hoang dã ở gần và bấm R để bắt đầu trận."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "text": "Đánh cho Pokémon hoang dã còn ít máu, cẩn thận đừng hạ gục nó. Gây trạng thái Ngủ hoặc Đóng băng nếu có chiêu."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "text": "Bấm R để thu nhỏ màn trận, cầm Poké Ball trên tay và bấm chuột phải để ném vào Pokémon. Bóng lắc rồi đóng lại là bắt được; Pokémon thoát ra thì ném tiếp."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "text": "Pokémon bắt được vào đội hình, đội đủ 6 con thì vào PC."
+      }
+    ]
+  }
 last_modified_at: 2026-11-11T05:20:11+07:00
 ---
 
