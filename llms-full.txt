@@ -2052,6 +2052,14 @@ Có một phần: Cobblemon 1.7.3 có sẵn ngôn ngữ Tiếng Việt cho kho�
 
 Không. Mỗi server chạy một bản Minecraft, Cobblemon và bộ mod riêng, máy bạn phải khớp. Server người Việt Coco Cobblemon vào bằng [CocoLauncher](https://coconubs.github.io/cocolauncher/).
 
+### Cấu hình máy tính chơi Cobblemon cần gì?
+
+Cần Minecraft: Java Edition trên Windows, macOS hoặc Linux. Máy nên có từ 8 GB RAM; cấp RAM cho game trong cài đặt launcher, không quá nửa RAM của máy. Minecraft 1.21.1 cần Java 21, nhưng Modrinth App, Minecraft Launcher và CocoLauncher tự kèm Java.
+
+### Cách chơi Cobblemon trên máy tính?
+
+Cài Cobblemon (dễ nhất là Cobblemon Official Modpack bằng Modrinth App, xem Cách 1), mở game rồi tạo thế giới để chơi một mình, hoặc vào một server Cobblemon. Muốn chơi cùng người Việt thì tải [CocoLauncher](https://coconubs.github.io/cocolauncher/), nhập tên, bấm **Chơi** để vào Coco Cobblemon.
+
 ### Có cần tự cài Java không?
 
 Không, nếu dùng Modrinth App, Minecraft Launcher hoặc CocoLauncher. Chỉ khi tự chạy game bằng launcher khác mới cần chọn Java 21 bản 64-bit.
@@ -2803,7 +2811,7 @@ URL: https://coconubs.github.io/en/cobblemon-android/
 
 # Play Cobblemon on Android and iPhone
 
-Cobblemon is a mod for Minecraft Java Edition, so it does not install into Minecraft Pocket Edition or Bedrock (see [Cobblemon on Bedrock](https://coconubs.github.io/en/cobblemon-bedrock/)). To play on a phone, the Coco Cobblemon server has **CocoLauncher Android**, an experimental app that runs Java Edition on the Android device and joins the same server as PC players. iPhone and iPad have a separate experimental build, [CocoLauncher iOS](#iphone-and-ipad).
+There is no official Cobblemon mobile app: Cobblemon is a mod for Minecraft Java Edition, so it does not install into Minecraft Pocket Edition or Bedrock (see [Cobblemon on Bedrock](https://coconubs.github.io/en/cobblemon-bedrock/)). To play on a phone, the Coco Cobblemon server has **CocoLauncher Android**, an experimental app that runs Java Edition on the Android device and joins the same server as PC players. iPhone and iPad have a separate experimental build, [CocoLauncher iOS](#iphone-and-ipad).
 
 [Download CocoLauncher-Android.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android.apk)
 

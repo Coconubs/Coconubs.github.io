@@ -6,12 +6,12 @@ parent: English
 nav_order: 4
 permalink: /en/cobblemon-android/
 alt: /cobblemon-dien-thoai/
-last_modified_at: 2026-11-11T03:27:35+07:00
+last_modified_at: 2026-11-11T03:51:37+07:00
 ---
 
 # Play Cobblemon on Android and iPhone
 
-Cobblemon is a mod for Minecraft Java Edition, so it does not install into Minecraft Pocket Edition or Bedrock (see [Cobblemon on Bedrock](/en/cobblemon-bedrock/)). To play on a phone, the Coco Cobblemon server has **CocoLauncher Android**, an experimental app that runs Java Edition on the Android device and joins the same server as PC players. iPhone and iPad have a separate experimental build, [CocoLauncher iOS](#iphone-and-ipad).
+There is no official Cobblemon mobile app: Cobblemon is a mod for Minecraft Java Edition, so it does not install into Minecraft Pocket Edition or Bedrock (see [Cobblemon on Bedrock](/en/cobblemon-bedrock/)). To play on a phone, the Coco Cobblemon server has **CocoLauncher Android**, an experimental app that runs Java Edition on the Android device and joins the same server as PC players. iPhone and iPad have a separate experimental build, [CocoLauncher iOS](#iphone-and-ipad).
 {: .fs-5 .fw-300 }
 
 [Download CocoLauncher-Android.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android.apk){: .btn .btn-primary }

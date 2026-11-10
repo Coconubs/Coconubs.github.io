@@ -3,7 +3,7 @@ title: Cách tải Cobblemon
 seo_title: "Cách tải và cài Cobblemon cho Minecraft Java: Modrinth App, Fabric"
 description: "Cách tải và cài Cobblemon cho Minecraft Java 1.21.1: bằng Modrinth App, cài file mod với Fabric, hoặc vào server người Việt bằng CocoLauncher. Cần gì, bản nào, lỗi hay gặp."
 nav_order: 8
-last_modified_at: 2026-11-11T02:40:00+07:00
+last_modified_at: 2026-11-11T03:51:37+07:00
 ---
 
 # Cách tải Cobblemon cho Minecraft Java
@@ -110,6 +110,14 @@ Có một phần: Cobblemon 1.7.3 có sẵn ngôn ngữ Tiếng Việt cho kho�
 ### Cài Cobblemon xong vào server nào cũng được không?
 
 Không. Mỗi server chạy một bản Minecraft, Cobblemon và bộ mod riêng, máy bạn phải khớp. Server người Việt Coco Cobblemon vào bằng [CocoLauncher](/cocolauncher/).
+
+### Cấu hình máy tính chơi Cobblemon cần gì?
+
+Cần Minecraft: Java Edition trên Windows, macOS hoặc Linux. Máy nên có từ 8 GB RAM; cấp RAM cho game trong cài đặt launcher, không quá nửa RAM của máy. Minecraft 1.21.1 cần Java 21, nhưng Modrinth App, Minecraft Launcher và CocoLauncher tự kèm Java.
+
+### Cách chơi Cobblemon trên máy tính?
+
+Cài Cobblemon (dễ nhất là Cobblemon Official Modpack bằng Modrinth App, xem Cách 1), mở game rồi tạo thế giới để chơi một mình, hoặc vào một server Cobblemon. Muốn chơi cùng người Việt thì tải [CocoLauncher](/cocolauncher/), nhập tên, bấm **Chơi** để vào Coco Cobblemon.
 
 ### Có cần tự cài Java không?
 
