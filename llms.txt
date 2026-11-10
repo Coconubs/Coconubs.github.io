@@ -37,6 +37,7 @@ Thông tin chính (kiểm ngày 11/11/2026):
 - [CocoLauncher download](https://coconubs.github.io/en/cocolauncher/)
 - [Play Cobblemon on Android and iPhone](https://coconubs.github.io/en/cobblemon-android/)
 - [Cobblemon on iPhone and iPad (iOS)](https://coconubs.github.io/en/cobblemon-ios/)
+- [Cobblemon on Bedrock and Pocket Edition](https://coconubs.github.io/en/cobblemon-bedrock/): official Cobblemon is a Java Edition mod; "Cobblemon PE" packs are add-ons made by others
 - [Features](https://coconubs.github.io/en/features/)
 - [FAQ](https://coconubs.github.io/en/faq/)
 

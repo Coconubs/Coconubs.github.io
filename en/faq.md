@@ -128,7 +128,7 @@ jsonld: |
         "name": "Can I play on Bedrock or Pocket Edition?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "No. Cobblemon is a Minecraft Java Edition mod and does not run on Bedrock, Pocket Edition or consoles."
+          "text": "No. Cobblemon is a Minecraft Java Edition mod and does not run on Bedrock, Pocket Edition or consoles. Packs called \"Cobblemon PE\" are add-ons made by other people, see Cobblemon on Bedrock and PE."
         }
       },
       {
@@ -165,7 +165,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T02:48:44+07:00
+last_modified_at: 2026-11-11T03:23:47+07:00
 ---
 
 # Coco Cobblemon FAQ
@@ -231,7 +231,7 @@ Cobblemon has no App Store app and does not run in Minecraft PE. On iPhone and i
 
 ### Can I play on Bedrock or Pocket Edition?
 
-No. Cobblemon is a Minecraft Java Edition mod and does not run on Bedrock, Pocket Edition or consoles.
+No. Cobblemon is a Minecraft Java Edition mod and does not run on Bedrock, Pocket Edition or consoles. Packs called "Cobblemon PE" are add-ons made by other people, see [Cobblemon on Bedrock and PE](/en/cobblemon-bedrock/).
 
 ### Do I need to speak Vietnamese?
 

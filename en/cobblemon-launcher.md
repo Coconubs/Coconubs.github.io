@@ -6,7 +6,7 @@ parent: English
 nav_order: 5
 permalink: /en/cobblemon-launcher/
 alt: /launcher-cobblemon/
-last_modified_at: 2026-11-11T02:35:11+07:00
+last_modified_at: 2026-11-11T03:23:47+07:00
 ---
 
 # Which launcher for Cobblemon? Modrinth App, CurseForge, Prism Launcher, CocoLauncher
@@ -51,7 +51,7 @@ Modrinth App, CurseForge App and Prism Launcher have no Android version. On Andr
 
 ### Can any of these install Cobblemon on Bedrock or Pocket Edition?
 
-No. Cobblemon is a Java Edition mod. On Android, CocoLauncher Android is an experimental build that runs Java Edition to join Coco Cobblemon, see [Play Cobblemon on Android](/en/cobblemon-android/).
+No. Cobblemon is a Java Edition mod, see [Cobblemon on Bedrock and PE](/en/cobblemon-bedrock/). On Android, CocoLauncher Android is an experimental build that runs Java Edition to join Coco Cobblemon, see [Play Cobblemon on Android](/en/cobblemon-android/).
 
 ### Do they cost anything?
 

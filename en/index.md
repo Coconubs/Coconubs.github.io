@@ -32,7 +32,7 @@ jsonld: |
       "https://discord.gg/hyspace"
     ]
   }
-last_modified_at: 2026-11-11T02:48:44+07:00
+last_modified_at: 2026-11-11T03:23:47+07:00
 ---
 
 # Coco Cobblemon: a Cobblemon server in Vietnam
@@ -81,7 +81,7 @@ Details on the [Features](/en/features/) page.
 | Android | Experimental build that runs Java Edition, 6 GB of RAM or more. See [Play Cobblemon on Android](/en/cobblemon-android/) |
 | Linux | No launcher build yet |
 | iPhone, iPad | Experimental build, see [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/) (guide in Vietnamese) |
-| Minecraft Bedrock, Pocket Edition | No, Cobblemon is a Java Edition mod |
+| Minecraft Bedrock, Pocket Edition | No, Cobblemon is a Java Edition mod. See [Cobblemon on Bedrock](/en/cobblemon-bedrock/) |
 
 ## Can I join from outside Vietnam?
 
@@ -95,6 +95,7 @@ Yes. Anyone can download CocoLauncher and join. Most players and most of the cha
 - [Features](/en/features/)
 - [Play Cobblemon on Android and iPhone](/en/cobblemon-android/)
 - [Cobblemon on iPhone and iPad (iOS)](/en/cobblemon-ios/)
+- [Cobblemon on Bedrock and Pocket Edition](/en/cobblemon-bedrock/)
 - [Which launcher for Cobblemon](/en/cobblemon-launcher/)
 - [Troubleshooting](/en/troubleshooting/)
 - [FAQ](/en/faq/)

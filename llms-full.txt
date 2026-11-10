@@ -1624,7 +1624,7 @@ Cobblemon không có app trên App Store và không chạy trong Minecraft PE. T
 
 ### Có chơi được bằng Minecraft Bedrock hay PE không?
 
-Không. Cobblemon là mod cho Minecraft Java Edition, không chạy trên Bedrock, PE hay máy console.
+Không. Cobblemon là mod cho Minecraft Java Edition, không chạy trên Bedrock, PE hay máy console. Các gói "Cobblemon PE" là addon của người khác, xem [Cobblemon PE, Bedrock](https://coconubs.github.io/cobblemon-pe/).
 
 ### Vào server bằng launcher khác được không?
 
@@ -2156,12 +2156,12 @@ Hỏi trên [Discord](https://discord.gg/hyspace) của Coco, gửi kèm ảnh c
 
 ---
 
-Trang: Chơi Pokémon trong Minecraft: Cobblemon, Pixelmon và server cho người Việt
+Trang: Cách chơi Pokémon trong Minecraft: Cobblemon hay Pixelmon
 URL: https://coconubs.github.io/pokemon-trong-minecraft/
 
-# Chơi Pokémon trong Minecraft: Cobblemon, Pixelmon và server cho người Việt
+# Cách chơi Pokémon trong Minecraft
 
-Muốn bắt và đấu Pokémon trong Minecraft thì cần Minecraft **Java Edition** cộng với một mod Pokémon. Hai mod được chơi nhiều nhất là Cobblemon và Pixelmon. Trang này nói hai mod khác nhau thế nào và cách vào chơi cùng người Việt.
+Muốn bắt và đấu Pokémon trong Minecraft, bạn cần Minecraft **Java Edition** trên máy tính cộng với một mod Pokémon: **Cobblemon** hoặc **Pixelmon**, hai mod Pokémon được chơi nhiều nhất. Minecraft PE, Bedrock và bản máy console không chạy được hai mod này. Chơi một mình thì cài Cobblemon bằng Modrinth App; chơi cùng người Việt thì vào một server, ví dụ Coco Cobblemon (`coco.ultramc.co`), nơi launcher CocoLauncher tự cài đúng mod.
 
 ## Cần gì để chơi
 
@@ -2169,19 +2169,24 @@ Muốn bắt và đấu Pokémon trong Minecraft thì cần Minecraft **Java Edi
 - Một mod Pokémon: Cobblemon hoặc Pixelmon.
 - Nếu chơi trên server: đúng bản Minecraft, đúng mod và bộ mod phụ mà server dùng.
 
-Minecraft Bedrock, Minecraft PE trên điện thoại và bản máy console không chạy được Cobblemon hay Pixelmon.
+Minecraft Bedrock, Minecraft PE trên điện thoại và bản máy console không chạy được Cobblemon hay Pixelmon. Các gói "Cobblemon PE" trên mạng là addon của người khác, xem [Cobblemon PE, Bedrock](https://coconubs.github.io/cobblemon-pe/).
 
 ## Cobblemon và Pixelmon khác gì
 
-- **Cobblemon:** mod mã nguồn mở, giấy phép MPL-2.0, chạy trên Fabric và NeoForge. Bản 1.7.3 cho Minecraft 1.21.1 ra ngày 31/01/2026. Tải trên Modrinth hoặc CurseForge.
-- **Pixelmon** (Pixelmon Reforged): mod Pokémon có từ lâu hơn, chạy trên Forge, bản cho Minecraft 1.21.1 dùng NeoForge. Tải ở reforged.gg hoặc CurseForge.
+| | Cobblemon | Pixelmon (Pixelmon Reforged) |
+|---|---|---|
+| Bộ nạp mod | Fabric và NeoForge | Forge; bản cho Minecraft 1.21.1 dùng NeoForge |
+| Bản cho Minecraft 1.21.1 | 1.7.3 ra ngày 31/01/2026; bản mới nhất trên Modrinth là 1.8.4 (27/10/2026) | Có, chạy trên NeoForge |
+| Tải ở đâu | Modrinth hoặc CurseForge | reforged.gg hoặc CurseForge |
 
-Hai mod không vào chung server được. Server Cobblemon cần máy bạn cài Cobblemon, server Pixelmon cần Pixelmon, và cả hai đều cần đúng phiên bản server đang chạy.
+Cobblemon là mod mã nguồn mở, giấy phép MPL-2.0. Pixelmon là mod Pokémon có từ lâu hơn.
+
+Hai mod không vào chung server được. Server Cobblemon cần máy bạn cài Cobblemon, server Pixelmon cần Pixelmon, và cả hai đều cần đúng phiên bản server đang chạy. Ví dụ server Coco Cobblemon chạy Cobblemon 1.7.3, nên máy cài Cobblemon 1.8 cũng không vào được.
 
 ## Chơi một mình hay vào server
 
 - **Chơi một mình:** cài Cobblemon bản gốc bằng Modrinth App, các bước ở trang [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/).
-- **Chơi cùng người Việt:** vào một server Cobblemon. Server thường cần đúng bộ mod riêng, nên dùng launcher của server sẽ đỡ lỗi nhất.
+- **Chơi cùng người Việt:** vào một server Cobblemon. Server thường cần đúng bộ mod riêng, nên dùng launcher của server sẽ đỡ lỗi nhất. So sánh các launcher ở trang [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/).
 
 ## Server Pokémon cho người Việt: Coco Cobblemon
 
@@ -2190,6 +2195,14 @@ Coco Cobblemon là server Minecraft Java chơi Cobblemon 1.7.3 trên Minecraft 1
 Trong server có Đấu Xếp Hạng tính Elo, BattleTower 555 tầng, Gym, Bang Hội Chiến, Raid Thế Giới và Legendary tích luỹ: server càng lâu chưa có Legendary thì tỉ lệ càng tăng. Menu và hướng dẫn bằng tiếng Việt. Xem thêm [Server Cobblemon Việt Nam: Coco Cobblemon](https://coconubs.github.io/server-cobblemon-viet-nam/) và [Tải CocoLauncher](https://coconubs.github.io/cocolauncher/).
 
 ## Hỏi nhanh
+
+### Chơi Pokémon trong Minecraft cần gì?
+
+Cần Minecraft Java Edition trên máy tính (Windows, macOS hoặc Linux) và một mod Pokémon: Cobblemon hoặc Pixelmon. Vào server thì cần đúng bản Minecraft và đúng bộ mod mà server đó dùng.
+
+### Nên chơi Cobblemon hay Pixelmon?
+
+Tuỳ nơi bạn muốn chơi: hai mod không vào chung server được, nên muốn vào server nào thì cài đúng mod của server đó. Chơi một mình thì mod nào cũng được; Cobblemon là mod mã nguồn mở, tải trên Modrinth, có hướng dẫn cài từng bước ở trang [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/).
 
 ### Minecraft PE có chơi Pokémon được không?
 
@@ -2203,7 +2216,9 @@ Không. Mỗi server chỉ nhận đúng mod và đúng phiên bản của nó.
 
 Cobblemon và Pixelmon tải không mất phí. Tải CocoLauncher và vào server Coco Cobblemon cũng không mất phí.
 
-*Cập nhật: 06/11/2026.*
+**Xem thêm:** [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/) · [Cobblemon PE, Bedrock](https://coconubs.github.io/cobblemon-pe/) · [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/) · [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/)
+
+*Cập nhật: 11/11/2026.*
 
 ---
 
@@ -2254,7 +2269,7 @@ Details on the [Features](https://coconubs.github.io/en/features/) page.
 | Android | Experimental build that runs Java Edition, 6 GB of RAM or more. See [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/) |
 | Linux | No launcher build yet |
 | iPhone, iPad | Experimental build, see [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/) (guide in Vietnamese) |
-| Minecraft Bedrock, Pocket Edition | No, Cobblemon is a Java Edition mod |
+| Minecraft Bedrock, Pocket Edition | No, Cobblemon is a Java Edition mod. See [Cobblemon on Bedrock](https://coconubs.github.io/en/cobblemon-bedrock/) |
 
 ## Can I join from outside Vietnam?
 
@@ -2268,6 +2283,7 @@ Yes. Anyone can download CocoLauncher and join. Most players and most of the cha
 - [Features](https://coconubs.github.io/en/features/)
 - [Play Cobblemon on Android and iPhone](https://coconubs.github.io/en/cobblemon-android/)
 - [Cobblemon on iPhone and iPad (iOS)](https://coconubs.github.io/en/cobblemon-ios/)
+- [Cobblemon on Bedrock and Pocket Edition](https://coconubs.github.io/en/cobblemon-bedrock/)
 - [Which launcher for Cobblemon](https://coconubs.github.io/en/cobblemon-launcher/)
 - [Troubleshooting](https://coconubs.github.io/en/troubleshooting/)
 - [FAQ](https://coconubs.github.io/en/faq/)
@@ -2421,7 +2437,7 @@ Not recommended. The server needs its exact mod set, so other launchers end up m
 
 ## Bedrock or Pocket Edition?
 
-No. Cobblemon is a Java Edition mod. On Android phones, CocoLauncher Android is an experimental build that runs Java Edition. iPhone and iPad have an experimental CocoLauncher iOS build, see [Play Cobblemon on Android and iPhone](https://coconubs.github.io/en/cobblemon-android/#iphone-and-ipad).
+No. Cobblemon is a Java Edition mod, and packs called "Cobblemon PE" are add-ons made by other people (see [Cobblemon on Bedrock and PE](https://coconubs.github.io/en/cobblemon-bedrock/)). On Android phones, CocoLauncher Android is an experimental build that runs Java Edition. iPhone and iPad have an experimental CocoLauncher iOS build, see [Play Cobblemon on Android and iPhone](https://coconubs.github.io/en/cobblemon-android/#iphone-and-ipad).
 
 **See also:** [Cobblemon server in Vietnam](https://coconubs.github.io/en/vietnam-cobblemon-server/) · [Server features](https://coconubs.github.io/en/features/) · [FAQ](https://coconubs.github.io/en/faq/)
 
@@ -2621,7 +2637,7 @@ Cobblemon has no App Store app and does not run in Minecraft PE. On iPhone and i
 
 ### Can I play on Bedrock or Pocket Edition?
 
-No. Cobblemon is a Minecraft Java Edition mod and does not run on Bedrock, Pocket Edition or consoles.
+No. Cobblemon is a Minecraft Java Edition mod and does not run on Bedrock, Pocket Edition or consoles. Packs called "Cobblemon PE" are add-ons made by other people, see [Cobblemon on Bedrock and PE](https://coconubs.github.io/en/cobblemon-bedrock/).
 
 ### Do I need to speak Vietnamese?
 
@@ -2648,7 +2664,7 @@ URL: https://coconubs.github.io/en/cobblemon-android/
 
 # Play Cobblemon on Android and iPhone
 
-Cobblemon is a mod for Minecraft Java Edition, so it does not install into Minecraft Pocket Edition or Bedrock. To play on a phone, the Coco Cobblemon server has **CocoLauncher Android**, an experimental app that runs Java Edition on the Android device and joins the same server as PC players. iPhone and iPad have a separate experimental build, [CocoLauncher iOS](#iphone-and-ipad).
+Cobblemon is a mod for Minecraft Java Edition, so it does not install into Minecraft Pocket Edition or Bedrock (see [Cobblemon on Bedrock](https://coconubs.github.io/en/cobblemon-bedrock/)). To play on a phone, the Coco Cobblemon server has **CocoLauncher Android**, an experimental app that runs Java Edition on the Android device and joins the same server as PC players. iPhone and iPad have a separate experimental build, [CocoLauncher iOS](#iphone-and-ipad).
 
 [Download CocoLauncher-Android.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android.apk)
 
@@ -2772,6 +2788,66 @@ iOS 14 or later. 8 GB of RAM is recommended, such as iPhone 15 Pro, 16 or 17; 6 
 
 ---
 
+Trang: Cobblemon Bedrock and PE: is Cobblemon on Bedrock Edition?
+URL: https://coconubs.github.io/en/cobblemon-bedrock/
+
+# Cobblemon on Bedrock and Pocket Edition
+
+Short answer: official Cobblemon only exists for Minecraft Java Edition, running on Fabric or NeoForge. Packs called "Cobblemon PE", "Cobblemon Bedrock" or "Cobblemon MCPE" are add-ons that other people remade for Bedrock, not releases from the Cobblemon team.
+
+## Which Minecraft editions run official Cobblemon
+
+| Minecraft edition | Official Cobblemon |
+|---|---|
+| Java Edition on Windows, macOS, Linux | Yes, through Fabric or NeoForge |
+| Java Edition on Android, through a Java launcher | Runs if the device is powerful enough |
+| Bedrock, Pocket Edition (PE) on phones, Windows, consoles | No |
+
+Cobblemon downloads are on Modrinth and CurseForge. On Modrinth, the newest release when this page was written is Cobblemon 1.8.4 for Minecraft 1.21.1, released on 27 October 2026.
+
+## What "Cobblemon PE" add-ons are
+
+Minecraft PE add-on sites list many packs named Cobblemon. They are Bedrock add-ons based on the idea of Cobblemon:
+
+- They are not made by the Cobblemon team. Pokémon, menus and mechanics differ from the Java mod.
+- They cannot join Cobblemon servers that run on Java Edition, such as Coco Cobblemon, because a Java server needs the actual Cobblemon mod on the player's side.
+- Only download from sites you trust. Unknown add-on sites often bundle ads or fake files.
+
+## Playing Cobblemon on a phone
+
+The way to play real Cobblemon on a phone is to run Minecraft Java Edition through a Java launcher:
+
+- **Fold Craft Launcher (FCL), PojavLauncher:** run Java Edition on Android; you install Fabric and Cobblemon yourself. Good for playing alone or joining a server of your choice.
+- **CocoLauncher Android:** an experimental build made only for joining the Coco Cobblemon server. It installs the Coco Lite pack (about 125 mods) for you and needs 6 GB of RAM or more, 8 GB or more recommended. See [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/).
+
+## Is there a Cobblemon server for PE players?
+
+Cobblemon servers run Java Edition, so the Minecraft PE app cannot join them. If an Android phone is powerful enough, players can join Coco Cobblemon (`coco.ultramc.co`, Minecraft Java 1.21.1) with CocoLauncher Android and play together with PC players. Server details are on the [Cobblemon server in Vietnam](https://coconubs.github.io/en/vietnam-cobblemon-server/) page.
+
+## Quick answers
+
+### Is Cobblemon on Bedrock?
+
+No. Cobblemon is a mod for Minecraft Java Edition only. Packs named Cobblemon for Bedrock or PE are add-ons made by other people, not Cobblemon.
+
+### Where can I download Cobblemon for Minecraft PE?
+
+There is no official PE version. Packs named Cobblemon for PE are other people's add-ons, not the Cobblemon mod.
+
+### Can Cobblemon PE join the Coco Cobblemon server?
+
+No. Coco Cobblemon is a Minecraft Java 1.21.1 server running Cobblemon 1.7.3 with its own mod set, joined with CocoLauncher on Windows, macOS or Android.
+
+### Does Minecraft PE have Pokémon?
+
+There are a few community-made Pokémon add-ons for Bedrock. Cobblemon and Pixelmon are mods for Java Edition.
+
+**See also:** [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/) · [How to join](https://coconubs.github.io/en/how-to-join/) · [Which launcher for Cobblemon](https://coconubs.github.io/en/cobblemon-launcher/) · [FAQ](https://coconubs.github.io/en/faq/)
+
+*Updated: 11 November 2026.*
+
+---
+
 Trang: Best launcher for Cobblemon: Modrinth App, CurseForge, Prism, CocoLauncher
 URL: https://coconubs.github.io/en/cobblemon-launcher/
 
@@ -2817,7 +2893,7 @@ Modrinth App, CurseForge App and Prism Launcher have no Android version. On Andr
 
 ### Can any of these install Cobblemon on Bedrock or Pocket Edition?
 
-No. Cobblemon is a Java Edition mod. On Android, CocoLauncher Android is an experimental build that runs Java Edition to join Coco Cobblemon, see [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/).
+No. Cobblemon is a Java Edition mod, see [Cobblemon on Bedrock and PE](https://coconubs.github.io/en/cobblemon-bedrock/). On Android, CocoLauncher Android is an experimental build that runs Java Edition to join Coco Cobblemon, see [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/).
 
 ### Do they cost anything?
 

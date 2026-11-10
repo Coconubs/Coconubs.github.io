@@ -6,7 +6,7 @@ parent: English
 nav_order: 2
 permalink: /en/how-to-join/
 alt: /cach-vao-server/
-last_modified_at: 2026-11-11T02:52:55+07:00
+last_modified_at: 2026-11-11T03:23:47+07:00
 ---
 
 # How to join Coco Cobblemon
@@ -64,7 +64,7 @@ Not recommended. The server needs its exact mod set, so other launchers end up m
 
 ## Bedrock or Pocket Edition?
 
-No. Cobblemon is a Java Edition mod. On Android phones, CocoLauncher Android is an experimental build that runs Java Edition. iPhone and iPad have an experimental CocoLauncher iOS build, see [Play Cobblemon on Android and iPhone](/en/cobblemon-android/#iphone-and-ipad).
+No. Cobblemon is a Java Edition mod, and packs called "Cobblemon PE" are add-ons made by other people (see [Cobblemon on Bedrock and PE](/en/cobblemon-bedrock/)). On Android phones, CocoLauncher Android is an experimental build that runs Java Edition. iPhone and iPad have an experimental CocoLauncher iOS build, see [Play Cobblemon on Android and iPhone](/en/cobblemon-android/#iphone-and-ipad).
 
 **See also:** [Cobblemon server in Vietnam](/en/vietnam-cobblemon-server/) · [Server features](/en/features/) · [FAQ](/en/faq/)
 

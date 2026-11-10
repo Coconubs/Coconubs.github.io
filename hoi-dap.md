@@ -150,7 +150,7 @@ jsonld: |
         "name": "Có chơi được bằng Minecraft Bedrock hay PE không?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Không. Cobblemon là mod cho Minecraft Java Edition, không chạy trên Bedrock, PE hay máy console."
+          "text": "Không. Cobblemon là mod cho Minecraft Java Edition, không chạy trên Bedrock, PE hay máy console. Các gói \"Cobblemon PE\" là addon của người khác, xem Cobblemon PE, Bedrock."
         }
       },
       {
@@ -219,7 +219,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T02:48:44+07:00
+last_modified_at: 2026-11-11T03:23:47+07:00
 ---
 
 # Hỏi đáp Coco Cobblemon
@@ -297,7 +297,7 @@ Cobblemon không có app trên App Store và không chạy trong Minecraft PE. T
 
 ### Có chơi được bằng Minecraft Bedrock hay PE không?
 
-Không. Cobblemon là mod cho Minecraft Java Edition, không chạy trên Bedrock, PE hay máy console.
+Không. Cobblemon là mod cho Minecraft Java Edition, không chạy trên Bedrock, PE hay máy console. Các gói "Cobblemon PE" là addon của người khác, xem [Cobblemon PE, Bedrock](/cobblemon-pe/).
 
 ### Vào server bằng launcher khác được không?
 

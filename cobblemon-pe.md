@@ -3,6 +3,7 @@ title: Cobblemon PE, Bedrock
 seo_title: "Cobblemon PE, Bedrock: có bản cho Minecraft PE không?"
 description: "Cobblemon có bản cho Minecraft PE, Bedrock không? Cobblemon chính thức chỉ có cho Java Edition. Addon Cobblemon PE khác gì, cách chơi Cobblemon trên điện thoại Android."
 nav_order: 9.5
+alt: /en/cobblemon-bedrock/
 last_modified_at: 2026-11-11T02:48:44+07:00
 ---
 
