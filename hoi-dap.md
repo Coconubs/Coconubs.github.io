@@ -54,7 +54,7 @@ jsonld: |
         "name": "Server Coco Cobblemon có đông người chơi không?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Số người chơi thay đổi theo giờ. Lúc 20:28 Thứ 7, 07/11/2026 có 110 người online; cao điểm đã ghi nhận khoảng 120 người vào tối 04/11/2026. Discord Hyper Space có khoảng 1.800 thành viên (07/11/2026)."
+          "text": "Số người chơi thay đổi theo giờ. Lúc 20:28 Thứ 7, 07/11/2026 có 110 người online; cao điểm đã ghi nhận khoảng 120 người vào tối 04/11/2026. Discord Hyper Space có khoảng 1.860 thành viên (11/11/2026)."
         }
       },
       {
@@ -249,7 +249,7 @@ Máy chủ đặt ở Singapore. Đo ngày 06/11/2026, ping từ TP.HCM khoảng
 
 ### Server Coco Cobblemon có đông người chơi không?
 
-Số người chơi thay đổi theo giờ. Lúc 20:28 Thứ 7, 07/11/2026 có 110 người online; cao điểm đã ghi nhận khoảng 120 người vào tối 04/11/2026. Discord Hyper Space có khoảng 1.800 thành viên (07/11/2026).
+Số người chơi thay đổi theo giờ. Lúc 20:28 Thứ 7, 07/11/2026 có 110 người online; cao điểm đã ghi nhận khoảng 120 người vào tối 04/11/2026. Discord Hyper Space có khoảng 1.860 thành viên (11/11/2026).
 
 ### Coco Cobblemon dùng Cobblemon bản nào?
 

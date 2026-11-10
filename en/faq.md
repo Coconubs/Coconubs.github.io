@@ -48,7 +48,7 @@ jsonld: |
         "name": "How many players does Coco Cobblemon have?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "It changes by the hour. At 20:28 Vietnam time on Saturday, 7 November 2026, 110 players were online; the highest recorded peak is about 120 players (evening of 4 November 2026). The Hyper Space Discord has about 1,800 members (7 November 2026)."
+          "text": "It changes by the hour. At 20:28 Vietnam time on Saturday, 7 November 2026, 110 players were online; the highest recorded peak is about 120 players (evening of 4 November 2026). The Hyper Space Discord has about 1,860 members (11 November 2026)."
         }
       },
       {
@@ -191,7 +191,7 @@ In Singapore. Measured on 6 November 2026, ping from Ho Chi Minh City was about 
 
 ### How many players does Coco Cobblemon have?
 
-It changes by the hour. At 20:28 Vietnam time on Saturday, 7 November 2026, 110 players were online; the highest recorded peak is about 120 players (evening of 4 November 2026). The Hyper Space Discord has about 1,800 members (7 November 2026).
+It changes by the hour. At 20:28 Vietnam time on Saturday, 7 November 2026, 110 players were online; the highest recorded peak is about 120 players (evening of 4 November 2026). The Hyper Space Discord has about 1,860 members (11 November 2026).
 
 ### Which Cobblemon version does the server use?
 

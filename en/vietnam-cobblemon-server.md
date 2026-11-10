@@ -35,7 +35,7 @@ Player numbers change by the hour, so these are dated measurements, not fixed fi
 |---|---|
 | 20:28 Vietnam time, Saturday 7 November 2026 | 110 players online (mcsrvstat.us status page) |
 | Evening of 4 November 2026 | Peak of about 120 players online at once (server log) |
-| 7 November 2026 | About 1,800 members on the Hyper Space Discord |
+| 11 November 2026 | About 1,860 members on the Hyper Space Discord |
 
 Evenings, especially Saturday and Sunday, are the busiest. Maintenance and events are announced on Discord.
 

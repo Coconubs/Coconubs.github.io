@@ -33,7 +33,7 @@ Số người chơi thay đổi theo giờ, nên dưới đây là số đo có 
 |---|---|
 | 20:28 Thứ 7, 07/11/2026 | 110 người đang online (trang trạng thái mcsrvstat.us) |
 | Tối 04/11/2026 | Cao điểm khoảng 120 người online cùng lúc (nhật ký server) |
-| 07/11/2026 | Discord Hyper Space có khoảng 1.800 thành viên |
+| 11/11/2026 | Discord Hyper Space có khoảng 1.860 thành viên |
 
 Buổi tối, nhất là Thứ 7 và Chủ Nhật, là lúc nhiều người online nhất. Lịch bảo trì và sự kiện báo trên Discord.
 
