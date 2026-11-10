@@ -173,6 +173,8 @@ last_modified_at: 2026-11-11T03:23:47+07:00
 The questions new players ask most about the Coco Cobblemon server and CocoLauncher.
 {: .fs-5 .fw-300 }
 
+## About the server
+
 ### What is Coco Cobblemon?
 
 Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher. It runs Minecraft 1.21.1, Fabric and Cobblemon 1.7.3.
@@ -197,6 +199,8 @@ It changes by the hour. At 20:28 Vietnam time on Saturday, 7 November 2026, 110 
 
 Cobblemon 1.7.3 on Minecraft Java 1.21.1 with Fabric, plus the server's own mods. The latest Cobblemon Official Modpack (Cobblemon 1.8) cannot join, so use CocoLauncher, which installs the right versions.
 
+## CocoLauncher
+
 ### What is the difference between Coco Cobblemon and CocoLauncher?
 
 Coco Cobblemon is a Minecraft Java server running the Cobblemon mod, address `coco.ultramc.co`. CocoLauncher is the launcher you install to join that server, published by Coconubs; it installs Java, Minecraft, Fabric and the mod pack. CocoLauncher is only for joining Coco Cobblemon.
@@ -213,6 +217,8 @@ On Windows, install it from the [Microsoft Store](https://apps.microsoft.com/det
 
 No software can promise that, so verify it yourself. The safest way on Windows is the Microsoft Store listing by Coconubs. The .exe is not code-signed, so SmartScreen may warn you. Every file on GitHub Releases shows a SHA-256 hash you can compare with `Get-FileHash` on Windows or `shasum -a 256` on macOS.
 
+## Cost and requirements
+
 ### Is it free to play?
 
 Downloading CocoLauncher and joining the server is free. Ranks and the Premium Battle Pass are optional.
@@ -220,6 +226,8 @@ Downloading CocoLauncher and joining the server is free. Ranks and the Premium B
 ### What computer do I need?
 
 Windows 10 or 11 (64-bit), or a Mac with Apple silicon or Intel. The launcher gives the game 2 to 4 GB of RAM by default, so 8 GB of RAM or more is recommended. There is no Linux build yet.
+
+## Phones and Bedrock
 
 ### Can I play Cobblemon on my phone?
 
@@ -232,6 +240,8 @@ Cobblemon has no App Store app and does not run in Minecraft PE. On iPhone and i
 ### Can I play on Bedrock or Pocket Edition?
 
 No. Cobblemon is a Minecraft Java Edition mod and does not run on Bedrock, Pocket Edition or consoles. Packs called "Cobblemon PE" are add-ons made by other people, see [Cobblemon on Bedrock and PE](/en/cobblemon-bedrock/).
+
+## Language, events and community
 
 ### Do I need to speak Vietnamese?
 

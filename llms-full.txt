@@ -1578,6 +1578,8 @@ URL: https://coconubs.github.io/hoi-dap/
 
 Câu hỏi người chơi mới hay hỏi nhất về server Coco Cobblemon và CocoLauncher.
 
+## Về server Coco Cobblemon
+
 ### Coco Cobblemon là gì?
 
 Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Server chạy Minecraft 1.21.1, Fabric và Cobblemon 1.7.3.
@@ -1596,15 +1598,17 @@ Không có bảng xếp hạng chính thức nào. Nên so phiên bản Minecraf
 
 ### Server đặt ở đâu? Ping từ Việt Nam bao nhiêu?
 
-Máy chủ đặt ở Singapore. Đo ngày 06/11/2026, ping từ TP.HCM khoảng 29 ms. Ping thật còn tuỳ nhà mạng và nơi bạn ở.
+Máy chủ Coco Cobblemon đặt ở Singapore. Đo ngày 06/11/2026, ping từ TP.HCM khoảng 29 ms. Ping thật còn tuỳ nhà mạng và nơi bạn ở.
 
 ### Server Coco Cobblemon có đông người chơi không?
 
-Số người chơi thay đổi theo giờ. Lúc 20:28 Thứ 7, 07/11/2026 có 110 người online; cao điểm đã ghi nhận khoảng 120 người vào tối 04/11/2026. Discord Hyper Space có khoảng 1.860 thành viên (11/11/2026).
+Số người chơi Coco Cobblemon thay đổi theo giờ. Lúc 20:28 Thứ 7, 07/11/2026 có 110 người online; cao điểm đã ghi nhận khoảng 120 người vào tối 04/11/2026. Discord Hyper Space có khoảng 1.860 thành viên (11/11/2026).
 
 ### Coco Cobblemon dùng Cobblemon bản nào?
 
-Cobblemon 1.7.3 trên Minecraft Java 1.21.1, Fabric, cùng bộ mod riêng của server. Cobblemon Official Modpack bản mới (đi cùng Cobblemon 1.8) không vào được server, nên hãy dùng CocoLauncher để launcher tự cài đúng bản.
+Coco Cobblemon dùng Cobblemon 1.7.3 trên Minecraft Java 1.21.1, Fabric, cùng bộ mod riêng của server. Cobblemon Official Modpack bản mới (đi cùng Cobblemon 1.8) không vào được server, nên hãy dùng CocoLauncher để launcher tự cài đúng bản.
+
+## Về CocoLauncher và cách tải
 
 ### Coco Cobblemon và CocoLauncher khác nhau thế nào?
 
@@ -1630,13 +1634,17 @@ Tải CocoLauncher (Microsoft Store hoặc file .exe trên Windows, file .dmg tr
 
 Không phần mềm nào được bảo đảm tuyệt đối, nên hãy tự kiểm chứng. Cách an toàn nhất trên Windows là cài từ Microsoft Store, nhà phát hành Coconubs. Bản .exe chưa có chữ ký số nên SmartScreen có thể cảnh báo. Mỗi file trên GitHub Releases có mã SHA-256 để đối chiếu, xem [cách kiểm tra](https://coconubs.github.io/cocolauncher/an-toan/).
 
+## Chi phí và cấu hình máy
+
 ### Chơi Coco Cobblemon có mất phí không?
 
-Tải CocoLauncher và vào server không mất phí. Trong game có Rank và Battle Pass Premium, đều không bắt buộc.
+Tải CocoLauncher và vào server Coco Cobblemon không mất phí. Trong game có Rank và Battle Pass Premium, đều không bắt buộc.
 
 ### Máy tính cần cấu hình thế nào?
 
-Windows 10 hoặc 11 bản 64-bit, hoặc máy Mac chip Apple hay Intel. Launcher mặc định cấp cho game 2 đến 4 GB RAM, nên máy nên có từ 8 GB RAM. Chưa có bản cho Linux.
+CocoLauncher chạy trên Windows 10 hoặc 11 bản 64-bit, hoặc máy Mac chip Apple hay Intel. Launcher mặc định cấp cho game 2 đến 4 GB RAM, nên máy nên có từ 8 GB RAM. Chưa có bản cho Linux.
+
+## Điện thoại, Bedrock và launcher khác
 
 ### Chơi Cobblemon trên điện thoại Android, iPhone được không? Có server Việt nào vào được bằng điện thoại không?
 
@@ -1654,13 +1662,15 @@ Không. Cobblemon là mod cho Minecraft Java Edition, không chạy trên Bedroc
 
 Không nên. Server cần đúng phiên bản Minecraft, Cobblemon và bộ mod riêng, nên launcher khác sẽ thiếu mod hoặc sai phiên bản. Dùng CocoLauncher để launcher tự cài đúng.
 
+## Tiếng Việt và tính năng
+
 ### Coco Cobblemon có tiếng Việt không?
 
-Có. Launcher, Menu, Hướng dẫn và thông báo server bằng tiếng Việt, có nút chọn tiếng Anh. Một số nội dung của Cobblemon và mod khác vẫn có thể hiện tiếng Anh. Xem [Cobblemon Việt hoá](https://coconubs.github.io/cobblemon-viet-hoa/).
+Có. Trên Coco Cobblemon, launcher, Menu, Hướng dẫn và thông báo server bằng tiếng Việt, có nút chọn tiếng Anh. Một số nội dung của Cobblemon và mod khác vẫn có thể hiện tiếng Anh. Xem [Cobblemon Việt hoá](https://coconubs.github.io/cobblemon-viet-hoa/).
 
 ### Server có những tính năng gì?
 
-Đấu Xếp Hạng (Đấu Đôi 4v4 tính Elo, Đấu Đơn 6v6), BattleTower 555 tầng, Bang Hội Chiến, Boss Bang, Raid Thế Giới, Legendary tích luỹ với Giờ Vàng cuối tuần, Dung hợp Shiny, Battle Pass, Nghề nghiệp, Ải Viễn Chinh và câu cá 100 loài. Xem [Tính năng](https://coconubs.github.io/tinh-nang/).
+Coco Cobblemon có Đấu Xếp Hạng (Đấu Đôi 4v4 tính Elo, Đấu Đơn 6v6), BattleTower 555 tầng, Bang Hội Chiến, Boss Bang, Raid Thế Giới, Legendary tích luỹ với Giờ Vàng cuối tuần, Dung hợp Shiny, Battle Pass, Nghề nghiệp, Ải Viễn Chinh và câu cá 100 loài. Xem [Tính năng](https://coconubs.github.io/tinh-nang/).
 
 ### Shiny có xuất hiện tự nhiên không?
 
@@ -1669,6 +1679,8 @@ Không. Trên Coco Cobblemon, Shiny có qua Dung hợp Shiny, Trứng Pokémon, 
 ### Legendary xuất hiện thế nào?
 
 Theo tỉ lệ tích luỹ: khởi đầu 0,001%, cứ 20 phút server chưa có Legendary thì cộng 0,001%, tối đa 1%. Giờ Vàng Thứ 7 và Chủ Nhật 20h-22h nhân đôi tỉ lệ. Xem [Legendary](https://coconubs.github.io/tinh-nang/legendary/).
+
+## Server chính thức, Discord và hỗ trợ
 
 ### Coco Cobblemon có phải server chính thức của Cobblemon không?
 
@@ -1680,7 +1692,7 @@ Hyper Space là tên server Discord của cộng đồng Coco Cobblemon: https:/
 
 ### Hỗ trợ ở đâu?
 
-Hỏi trên Discord: https://discord.gg/hyspace. Lỗi launcher xem trước trang [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/).
+Người chơi Coco Cobblemon hỏi trên Discord Hyper Space: https://discord.gg/hyspace. Lỗi launcher xem trước trang [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/).
 
 *Cập nhật: 11/11/2026.*
 
@@ -2653,6 +2665,8 @@ URL: https://coconubs.github.io/en/faq/
 
 The questions new players ask most about the Coco Cobblemon server and CocoLauncher.
 
+## About the server
+
 ### What is Coco Cobblemon?
 
 Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher. It runs Minecraft 1.21.1, Fabric and Cobblemon 1.7.3.
@@ -2677,6 +2691,8 @@ It changes by the hour. At 20:28 Vietnam time on Saturday, 7 November 2026, 110 
 
 Cobblemon 1.7.3 on Minecraft Java 1.21.1 with Fabric, plus the server's own mods. The latest Cobblemon Official Modpack (Cobblemon 1.8) cannot join, so use CocoLauncher, which installs the right versions.
 
+## CocoLauncher
+
 ### What is the difference between Coco Cobblemon and CocoLauncher?
 
 Coco Cobblemon is a Minecraft Java server running the Cobblemon mod, address `coco.ultramc.co`. CocoLauncher is the launcher you install to join that server, published by Coconubs; it installs Java, Minecraft, Fabric and the mod pack. CocoLauncher is only for joining Coco Cobblemon.
@@ -2693,6 +2709,8 @@ On Windows, install it from the [Microsoft Store](https://apps.microsoft.com/det
 
 No software can promise that, so verify it yourself. The safest way on Windows is the Microsoft Store listing by Coconubs. The .exe is not code-signed, so SmartScreen may warn you. Every file on GitHub Releases shows a SHA-256 hash you can compare with `Get-FileHash` on Windows or `shasum -a 256` on macOS.
 
+## Cost and requirements
+
 ### Is it free to play?
 
 Downloading CocoLauncher and joining the server is free. Ranks and the Premium Battle Pass are optional.
@@ -2700,6 +2718,8 @@ Downloading CocoLauncher and joining the server is free. Ranks and the Premium B
 ### What computer do I need?
 
 Windows 10 or 11 (64-bit), or a Mac with Apple silicon or Intel. The launcher gives the game 2 to 4 GB of RAM by default, so 8 GB of RAM or more is recommended. There is no Linux build yet.
+
+## Phones and Bedrock
 
 ### Can I play Cobblemon on my phone?
 
@@ -2712,6 +2732,8 @@ Cobblemon has no App Store app and does not run in Minecraft PE. On iPhone and i
 ### Can I play on Bedrock or Pocket Edition?
 
 No. Cobblemon is a Minecraft Java Edition mod and does not run on Bedrock, Pocket Edition or consoles. Packs called "Cobblemon PE" are add-ons made by other people, see [Cobblemon on Bedrock and PE](https://coconubs.github.io/en/cobblemon-bedrock/).
+
+## Language, events and community
 
 ### Do I need to speak Vietnamese?
 
