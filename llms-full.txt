@@ -2585,6 +2585,10 @@ Eevee cần độ thân thiết từ 160 và biết ít nhất 1 chiêu hệ Ti�
 
 Cobblemon 1.7.3 gốc thì chưa. Trên Coco Cobblemon có Mega nhờ mod Mega Showdown: đeo Mega Bracelet, cho Pokémon cầm đá Mega của nó rồi bấm nút Mega trong trận.
 
+### Cách trao đổi Pokémon trong Cobblemon?
+
+Nhìn vào người chơi muốn trao đổi, bấm phím R rồi chọn **Trao đổi** trong bảng tương tác. Người kia chấp nhận yêu cầu thì màn **Giao Dịch** mở ra để hai bên chọn Pokémon. Trên Coco Cobblemon, hai người phải đứng cách nhau tối đa 10 khối; muốn bán Pokémon cho người chơi khác trên toàn server thì dùng [Chợ GTS](https://coconubs.github.io/tinh-nang/kinh-te/).
+
 ### Đá tiến hoá lấy ở đâu?
 
 Đào quặng trong thế giới: mỗi loại đá tiến hoá có quặng riêng, ví dụ Thunder Stone Ore.
@@ -4108,6 +4112,10 @@ Use a Link Cable: craft it from 2 Nether Quartz, 2 Copper Ingots and 1 Ender Pea
 ### How do I evolve Eevee into Sylveon in Cobblemon?
 
 Eevee needs friendship of 160 or more and at least 1 Fairy-type move, then a level up; press Evolve in the Summary.
+
+### How do you trade Pokémon in Cobblemon?
+
+Look at the other player, press R and choose **Trade** on the interaction wheel. Once they accept the request, the trade screen opens and both of you pick a Pokémon. On Coco Cobblemon the two players must be within 10 blocks; to sell Pokémon to anyone on the server, use the GTS market (`/gts`).
 
 ### Does Cobblemon have Mega Evolution?
 

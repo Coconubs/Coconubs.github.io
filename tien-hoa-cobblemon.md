@@ -119,6 +119,10 @@ Eevee cần độ thân thiết từ 160 và biết ít nhất 1 chiêu hệ Ti�
 
 Cobblemon 1.7.3 gốc thì chưa. Trên Coco Cobblemon có Mega nhờ mod Mega Showdown: đeo Mega Bracelet, cho Pokémon cầm đá Mega của nó rồi bấm nút Mega trong trận.
 
+### Cách trao đổi Pokémon trong Cobblemon?
+
+Nhìn vào người chơi muốn trao đổi, bấm phím R rồi chọn **Trao đổi** trong bảng tương tác. Người kia chấp nhận yêu cầu thì màn **Giao Dịch** mở ra để hai bên chọn Pokémon. Trên Coco Cobblemon, hai người phải đứng cách nhau tối đa 10 khối; muốn bán Pokémon cho người chơi khác trên toàn server thì dùng [Chợ GTS](/tinh-nang/kinh-te/).
+
 ### Đá tiến hoá lấy ở đâu?
 
 Đào quặng trong thế giới: mỗi loại đá tiến hoá có quặng riêng, ví dụ Thunder Stone Ore.

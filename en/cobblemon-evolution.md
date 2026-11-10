@@ -117,6 +117,10 @@ Use a Link Cable: craft it from 2 Nether Quartz, 2 Copper Ingots and 1 Ender Pea
 
 Eevee needs friendship of 160 or more and at least 1 Fairy-type move, then a level up; press Evolve in the Summary.
 
+### How do you trade Pokémon in Cobblemon?
+
+Look at the other player, press R and choose **Trade** on the interaction wheel. Once they accept the request, the trade screen opens and both of you pick a Pokémon. On Coco Cobblemon the two players must be within 10 blocks; to sell Pokémon to anyone on the server, use the GTS market (`/gts`).
+
 ### Does Cobblemon have Mega Evolution?
 
 Not in Cobblemon 1.7.3 on its own. The Coco Cobblemon server has Mega through the Mega Showdown mod: wear a Mega Bracelet, give the Pokémon its Mega Stone and press the Mega button in battle.
