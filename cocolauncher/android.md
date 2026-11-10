@@ -1,7 +1,7 @@
 ---
 title: Chơi trên điện thoại
 seo_title: "Chơi Cobblemon trên điện thoại Android, iPhone bằng CocoLauncher"
-description: "Cobblemon có chơi trên điện thoại được không? Có: Android dùng CocoLauncher Android (thử nghiệm, RAM từ 6 GB), iPhone, iPad dùng CocoLauncher iOS (thử nghiệm). Cách cài, giả lập, mẹo máy yếu."
+description: "Cobblemon chơi trên điện thoại được không? Có: Android dùng CocoLauncher Android (RAM từ 6 GB), iPhone, iPad dùng CocoLauncher iOS, đều là bản thử nghiệm. Cách cài, mẹo máy yếu."
 parent: CocoLauncher
 nav_order: 3
 permalink: /cobblemon-dien-thoai/

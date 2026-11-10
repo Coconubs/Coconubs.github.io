@@ -1,6 +1,6 @@
 ---
 title: Cách tải Cobblemon
-seo_title: "Cách tải và cài Cobblemon cho Minecraft Java: Modrinth App, Fabric, server Việt"
+seo_title: "Cách tải và cài Cobblemon cho Minecraft Java: Modrinth App, Fabric"
 description: "Cách tải và cài Cobblemon cho Minecraft Java 1.21.1: bằng Modrinth App, cài file mod với Fabric, hoặc vào server người Việt bằng CocoLauncher. Cần gì, bản nào, lỗi hay gặp."
 nav_order: 8
 last_modified_at: 2026-11-11T02:40:00+07:00

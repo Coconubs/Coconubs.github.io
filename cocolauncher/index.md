@@ -1,7 +1,7 @@
 ---
 title: CocoLauncher
 seo_title: "CocoLauncher (Coco Launcher): launcher Minecraft Cobblemon cho PC, Android, iPhone"
-description: "Tải CocoLauncher (Coco Launcher), launcher của server Coco Cobblemon: Microsoft Store, file .exe, macOS chip Apple và Intel, Android, iPhone (thử nghiệm). Tự cài Java, Minecraft, Fabric, gói mod."
+description: "Tải CocoLauncher (Coco Launcher), launcher Minecraft của server Coco Cobblemon, cho Windows, macOS, Android và iPhone (thử nghiệm). Tự cài Java, Minecraft, Fabric và gói mod."
 nav_order: 2
 has_children: true
 has_toc: false

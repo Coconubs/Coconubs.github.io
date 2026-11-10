@@ -1,7 +1,7 @@
 ---
 title: CocoLauncher download
 seo_title: "CocoLauncher (Coco Launcher): Minecraft Cobblemon launcher for PC, Android, iPhone"
-description: "Download CocoLauncher (Coco Launcher), the launcher of the Coco Cobblemon server: Microsoft Store, Windows .exe, macOS Apple silicon and Intel, Android, iPhone (experimental). Installs Java, Minecraft, Fabric, mods."
+description: "Download CocoLauncher (Coco Launcher), the Minecraft launcher of the Coco Cobblemon server, for Windows, macOS, Android and iPhone (experimental). Installs Java, Fabric and the mods."
 parent: English
 nav_order: 1
 permalink: /en/cocolauncher/
