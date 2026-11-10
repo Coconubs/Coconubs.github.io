@@ -1,11 +1,11 @@
 ---
 title: Breeding
-seo_title: "Breeding Cobblemon: cách lấy trứng Pokémon bằng Pasture | Coco Cobblemon"
-description: "Cách breeding (lấy trứng) Pokémon trên server Coco Cobblemon: Pasture Block, nhóm trứng, Ditto, thời gian ra trứng, nở trứng nhanh, trứng ra Pokémon gì, cách breed nhanh hơn."
+seo_title: "Breeding Cobblemon: cách lấy trứng, ấp trứng Pokémon bằng Pasture | Coco Cobblemon"
+description: "Cách breeding (lấy trứng) Pokémon trên server Coco Cobblemon: Pasture Block, nhóm trứng, Ditto, thời gian ra trứng, ấp trứng cho nở nhanh, trứng ra Pokémon gì, cách breed nhanh hơn."
 parent: Tính năng
 nav_order: 10
 permalink: /tinh-nang/breeding/
-last_modified_at: 2026-11-07T22:08:20+07:00
+last_modified_at: 2026-11-11T05:20:11+07:00
 ---
 
 # Breeding: cách lấy trứng Pokémon
@@ -64,5 +64,9 @@ Khoảng 4 đến 8 giờ 1 trứng. Pasture trong đất bang cấp cao ra tr�
 ### Breeding có ra Shiny không?
 
 Gần như không. Trên Coco Cobblemon, Shiny có qua Dung hợp Shiny, Trứng Pokémon từ điểm danh và Viễn Chinh, Raid, Daily Shop và Battle Pass.
+
+### Cách ấp trứng trong Cobblemon?
+
+Cobblemon 1.7.3 gốc chưa có trứng và breeding (file mod không có vật phẩm trứng Pokémon). Trên Coco Cobblemon, breeding và ấp trứng có nhờ mod Cobbreeding: lấy trứng từ Pasture như trên, rồi để trứng trong túi đồ cho trứng tự đếm ngược và nở. Trong đội có Pokémon mang ability Flame Body hoặc Magma Armor thì trứng nở nhanh hơn.
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 07/11/2026. Con số có thể đổi theo cập nhật, Menu trong game luôn là bản đúng nhất.*

@@ -69,6 +69,7 @@ Key facts in English (checked 11 November 2026):
 - [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/)
 - [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/): Poké Ball, Great Ball, Ultra Ball, PC, Máy Chữa Lành, Khối đồng cỏ, Pokédex (Cobblemon 1.7.3)
 - [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/): /pokespawn, /pokegive, /pokeheal, /pc, cấp quyền và thuộc tính (Cobblemon 1.7.3)
+- [Cách bắt Pokémon trong Cobblemon](https://coconubs.github.io/cach-bat-pokemon-cobblemon/): đấu trước rồi ném bóng (ngoài trận x0,5), máu, trạng thái, loại bóng, Pokémon cấp thấp; Legendary không xuất hiện tự nhiên trong Cobblemon 1.7.3 gốc, trên Coco Cobblemon có nhiều nguồn
 - [Cách cưỡi Pokémon trong Cobblemon](https://coconubs.github.io/cuoi-pokemon-cobblemon/): Shift + chuột phải rồi chọn Lái; 84 loài cưỡi được (74 trên cạn, 38 bay, 17 bơi) trong Cobblemon 1.7.3; trên Coco Cobblemon cưỡi không tốn thể lực
 - [Cách tiến hoá Pokémon trong Cobblemon](https://coconubs.github.io/tien-hoa-cobblemon/): lên cấp rồi bấm Tiến Hóa, 10 loại đá, Link Cable thay trao đổi, 8 dạng Eevee, Mega trên Coco Cobblemon (Cobblemon 1.7.3)
 - [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/): phím mặc định của Cobblemon 1.7.3 (R, M, O, mũi tên lên xuống, Alt trái) và cách đổi phím

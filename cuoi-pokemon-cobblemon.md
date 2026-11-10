@@ -92,7 +92,7 @@ Loài đó không cưỡi được, Pokémon đang ở trong Pasture, hoặc b�
 
 Được trên Android khi chơi Minecraft Java bằng CocoLauncher Android, cách cưỡi giống trên máy tính. Minecraft PE, Bedrock không có Cobblemon.
 
-**Xem thêm:** [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Cách tiến hoá Pokémon](/tien-hoa-cobblemon/) · [Cobblemon là gì](/cobblemon-la-gi/) · [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/)
+**Xem thêm:** [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/) · [Cách tiến hoá Pokémon](/tien-hoa-cobblemon/) · [Cobblemon là gì](/cobblemon-la-gi/) · [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/)
 
 *Số liệu đếm từ file `Cobblemon-fabric-1.7.3+1.21.1.jar` ngày 11/11/2026; phần Coco Cobblemon theo cấu hình server kiểm ngày 10/11/2026. Bản Cobblemon khác hoặc server có gói dữ liệu riêng có thể khác.*
 

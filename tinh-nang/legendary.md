@@ -5,7 +5,7 @@ description: "Cách Legendary xuất hiện trên server Coco Cobblemon: tỉ l�
 parent: Tính năng
 nav_order: 5
 permalink: /tinh-nang/legendary/
-last_modified_at: 2026-11-11T03:20:06+07:00
+last_modified_at: 2026-11-11T05:20:11+07:00
 ---
 
 # Legendary tích luỹ
@@ -65,10 +65,14 @@ Thứ 7 và Chủ Nhật, 20:00-22:00 (giờ Việt Nam): tỉ lệ đang tích 
 
 Được, nhưng tốn thêm CobbleDollars, từ 5.000.000$ tới 20.000.000$ tuỳ loài. Tiền bị trừ khi bấm xác nhận triệu hồi; sau 2 phút Pokémon không xuất hiện thì tự hoàn tiền. Pokémon triệu hồi ra không bao giờ là Shiny, và triệu hồi không làm mất phần tỉ lệ đã tích luỹ.
 
+### Cách bắt Pokémon huyền thoại trong Cobblemon?
+
+Cobblemon 1.7.3 gốc không cho Legendary xuất hiện tự nhiên: file mod có 71 loài Legendary và 23 loài Mythical nhưng không loài nào có mục xuất hiện. Trên Coco Cobblemon, Legendary xuất hiện tự nhiên theo tỉ lệ tích luỹ ở trên, ngoài ra có Altar, Raid Thế Giới, Trứng Huyền Thoại và Boss Bang. Khi gặp thì đấu trước, hạ máu, gây Ngủ và dùng Ultra Ball, xem [Cách bắt Pokémon trong Cobblemon](/cach-bat-pokemon-cobblemon/).
+
 ### Mythical như Mew, Arceus có xuất hiện tự nhiên không?
 
 Không. Mythical (Mew, Celebi, Deoxys, Darkrai, Arceus...) không xuất hiện tự nhiên và đã bị khoá triệu hồi. Trứng Huyền Thoại cũng chỉ ra Legendary, không ra Mythical, UB hay Paradox. Thẻ [Daily Shop](/tinh-nang/hang-ngay/#daily-shop) có 0,1% là Legendary, Mythical, UB hoặc Paradox.
 
-**Xem thêm:** [Cách có Pokémon Shiny](/tinh-nang/shiny/) · [Giờ Vàng trong lịch sự kiện tuần](/server-cobblemon-viet-nam/) · [Hỏi đáp](/hoi-dap/)
+**Xem thêm:** [Cách bắt Pokémon trong Cobblemon](/cach-bat-pokemon-cobblemon/) · [Cách có Pokémon Shiny](/tinh-nang/shiny/) · [Giờ Vàng trong lịch sự kiện tuần](/server-cobblemon-viet-nam/) · [Hỏi đáp](/hoi-dap/)
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*

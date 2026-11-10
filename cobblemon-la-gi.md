@@ -4,7 +4,7 @@ seo_title: "Cobblemon là gì? Mod Pokémon cho Minecraft Java"
 description: "Cobblemon là mod Pokémon mã nguồn mở cho Minecraft Java. Bản 1.7.3 có 851 loài Pokémon chơi được trong 1.025 loài có dữ liệu. Cần gì để chơi, chơi cùng người Việt."
 nav_order: 7.5
 alt: /en/what-is-cobblemon/
-last_modified_at: 2026-11-11T05:15:59+07:00
+last_modified_at: 2026-11-11T05:20:11+07:00
 ---
 
 # Cobblemon là gì?
@@ -29,7 +29,7 @@ Các bước cài ở trang [Cách tải Cobblemon](/cach-tai-cobblemon/).
 
 ## Trong Cobblemon làm được gì
 
-- **Bắt Pokémon:** cầm Poké Ball rồi bấm chuột phải để ném. Poké Ball chế tạo từ Apricorn và phôi kim loại, xem [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/).
+- **Bắt Pokémon:** cầm Poké Ball rồi bấm chuột phải để ném, xem [Cách bắt Pokémon trong Cobblemon](/cach-bat-pokemon-cobblemon/). Poké Ball chế tạo từ Apricorn và phôi kim loại, xem [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/).
 - **Đấu theo lượt:** nhìn vào Pokémon hoang dã ở gần rồi bấm phím R, Pokémon đang chọn trong đội hình sẽ ra đấu. Trận đấu chạy theo luật của Pokémon Showdown.
 - **Đội hình và Tóm Tắt:** chọn Pokémon bằng mũi tên lên, xuống; bấm M để xem chỉ số, chiêu. Đủ các phím ở trang [Các phím chơi Cobblemon](/phim-tat-cobblemon/).
 - **Tiến hoá và cưỡi:** Pokémon tiến hoá như trong game Pokémon (lên cấp, đá tiến hoá, trao đổi), xem [Cách tiến hoá Pokémon trong Cobblemon](/tien-hoa-cobblemon/); từ bản 1.7 có thể cưỡi 84 loài, xem [Cách cưỡi Pokémon trong Cobblemon](/cuoi-pokemon-cobblemon/).
