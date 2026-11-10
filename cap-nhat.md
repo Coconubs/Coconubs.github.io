@@ -1,14 +1,37 @@
 ---
 title: Nhật ký cập nhật
 seo_title: "Nhật ký cập nhật Coco Cobblemon: thay đổi mới nhất của server"
-description: "Nhật ký cập nhật server Coco Cobblemon và CocoLauncher: Chợ GTS mới, Shop và Ngân hàng trong menu, lệnh bang hội, máy chủ phụ tạo thế giới, khoá đất riêng."
+description: "Nhật ký cập nhật server Coco Cobblemon và CocoLauncher: màn Đăng nhập mới, nút RTP, CocoLauncher iOS thử nghiệm, Shop Khối điêu khắc, Chợ GTS mới, lệnh bang hội."
 nav_order: 12
-last_modified_at: 2026-11-07T20:38:41+07:00
+last_modified_at: 2026-11-11T03:06:06+07:00
 ---
 
 # Nhật ký cập nhật Coco Cobblemon
 
 Các thay đổi chính của server Coco Cobblemon, mới nhất ở trên. Bản đầy đủ đăng trong kênh thông báo trên [Discord](https://discord.gg/hyspace). Khi game báo có bản mới, bấm **Cập nhật**, thoát game rồi mở lại CocoLauncher.
+
+## 11/11/2026
+
+**Vào game và tài khoản**
+
+- Màn hình **Đăng nhập** và **Đăng ký** mới hiện ngay khi vào server, thay cho việc gõ lệnh `/login`, `/register` trong khung chat.
+- Có màn **Đổi mật khẩu**, mở bằng `/doimatkhau` hoặc `/doimk`.
+
+**Menu và vật phẩm**
+
+- Menu có nút **RTP** để dịch chuyển tới một chỗ ngẫu nhiên.
+- Vật phẩm đặc biệt của server có hình riêng, cả trong túi đồ và trong menu (Chợ Đen, Dung hợp, Battle Pass).
+
+## 09/11/2026
+
+- CocoLauncher trên Windows: khi phần mềm diệt virus chặn file của Java, launcher báo rõ file nào bị chặn thay vì thử lại rất lâu.
+
+## 08/11/2026
+
+- Có **CocoLauncher iOS** bản thử nghiệm cho iPhone, iPad. Cách cài ở trang [Cobblemon trên iPhone, iPad](/cobblemon-ios/).
+- CocoLauncher có thêm nguồn tải dự phòng cho launcher, game và gói mod.
+- Shop CobbleDollars có danh mục mới **Khối điêu khắc**: khoảng 3.000 khối trang trí Rechiseled.
+- Bang Hội Chiến cấm Pokémon cầm Star Core.
 
 ## 07/11/2026
 
@@ -107,4 +130,4 @@ Các thay đổi chính của server Coco Cobblemon, mới nhất ở trên. B�
 
 **Xem thêm:** [Tính năng server](/tinh-nang/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/) · [Hỏi đáp](/hoi-dap/) · [Tải CocoLauncher](/cocolauncher/)
 
-*Cập nhật: 07/11/2026.*
+*Cập nhật: 11/11/2026.*

@@ -6,7 +6,7 @@ parent: English
 nav_order: 4.5
 permalink: /en/cobblemon-ios/
 alt: /cobblemon-ios/
-last_modified_at: 2026-11-11T02:48:44+07:00
+last_modified_at: 2026-11-11T03:06:06+07:00
 ---
 
 # Cobblemon on iPhone and iPad (iOS)
@@ -41,7 +41,7 @@ The detailed steps differ between iOS 26 and earlier and iOS 27, and can change 
 1. **On the computer (once):** install iTunes from apple.com and iloader, connect the iPhone, use iloader to install SideStore, then import the CocoLauncher IPA. Installing through iloader gives the app the increased memory permission.
 2. **On the iPhone:** trust your Apple ID in Settings, turn on Developer Mode, install LocalDevVPN (free on the App Store) and StikDebug. StikDebug enables JIT; without JIT, Minecraft Java cannot run on iPhone.
 3. **Open CocoLauncher:** if it asks to unlock memory, sign in with the same Apple ID you used for SideStore. Enter a player name (3-16 characters: letters without accents, digits, underscore) and press **CHƠI** (Play).
-4. **Join:** open Multiplayer, pick the Coco server and type `/register` (first time) or `/login`.
+4. **Join:** open Multiplayer, pick the Coco server, then register (first time) or log in on the screen that appears.
 
 ## Every session and every 7 days
 

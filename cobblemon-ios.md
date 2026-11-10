@@ -4,7 +4,7 @@ seo_title: "Cobblemon iOS: chơi Cobblemon trên iPhone, iPad được không?"
 description: "Cobblemon có bản iOS không? Cobblemon chỉ có cho Minecraft Java, không chạy trong Minecraft PE. Trên iPhone, iPad chơi được bằng launcher Java như CocoLauncher iOS (thử nghiệm)."
 nav_order: 9.6
 alt: /en/cobblemon-ios/
-last_modified_at: 2026-11-11T02:48:44+07:00
+last_modified_at: 2026-11-11T03:06:06+07:00
 ---
 
 # Cobblemon trên iPhone, iPad (iOS)
@@ -39,7 +39,7 @@ Các bước chi tiết khác nhau giữa iOS 26 trở xuống và iOS 27, và c
 1. **Trên máy tính (1 lần):** cài iTunes bản tải từ apple.com và iloader, cắm iPhone, dùng iloader cài SideStore, rồi cài file CocoLauncher (IPA). Cài bằng iloader thì app có sẵn quyền dùng thêm RAM.
 2. **Trên iPhone:** tin cậy Apple ID của bạn trong Cài đặt, bật Chế độ nhà phát triển, cài app LocalDevVPN (miễn phí trên App Store) và StikDebug. StikDebug bật JIT; thiếu JIT thì Minecraft Java không chạy được trên iPhone.
 3. **Mở CocoLauncher:** nếu app hỏi Mở khoá RAM thì đăng nhập đúng Apple ID đã dùng cho SideStore. Nhập tên nhân vật (3-16 ký tự: chữ không dấu, số, dấu _), bấm **CHƠI**.
-4. **Vào server:** vào Multiplayer, chọn server Coco, gõ `/register` (người mới) hoặc `/login`.
+4. **Vào server:** vào Multiplayer, chọn server Coco, rồi đăng ký (người mới) hoặc đăng nhập theo màn hình hiện ra.
 
 ## Mỗi lần chơi và mỗi 7 ngày
 

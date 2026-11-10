@@ -101,6 +101,6 @@ Coco Cobblemon là server cộng đồng, không phải sản phẩm chính th�
 - [Cobblemon PE, Bedrock: có bản cho Minecraft PE không?](/cobblemon-pe/)
 - [Cobblemon trên iPhone, iPad (iOS)](/cobblemon-ios/)
 - [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](/pokemon-trong-minecraft/)
-- [Nhật ký cập nhật](/cap-nhat/): Chợ GTS mới, Shop và Ngân hàng trong menu, lệnh bang hội (07/11/2026)
+- [Nhật ký cập nhật](/cap-nhat/): màn Đăng nhập mới, nút RTP trong menu (11/11/2026)
 
 *Cập nhật: 11/11/2026.*
