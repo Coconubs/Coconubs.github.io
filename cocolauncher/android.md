@@ -6,7 +6,7 @@ parent: CocoLauncher
 nav_order: 3
 permalink: /cobblemon-dien-thoai/
 alt: /en/cobblemon-android/
-last_modified_at: 2026-11-11T04:04:24+07:00
+last_modified_at: 2026-11-11T04:16:03+07:00
 ---
 
 # Chơi Cobblemon trên điện thoại Android, iPhone
@@ -73,6 +73,10 @@ Cần gì, các bước và câu hỏi thường gặp khi chơi trên iPhone: x
 Vẫn lỗi: dùng nút **Gửi log lỗi cho admin** trong Cài đặt của launcher, rồi báo trên [Discord](https://discord.gg/hyspace).
 
 ## Hỏi nhanh
+
+### Cách chơi Cobblemon trên điện thoại?
+
+Cobblemon là mod cho Minecraft Java Edition, nên trên điện thoại cần một launcher chạy Java Edition. Trên Android: tải CocoLauncher-Android.apk, mở file để cài, nhập tên trong game rồi bấm **Chơi**; launcher tự cài gói Coco Lite khoảng 125 mod và vào server Coco Cobblemon, chung server với người chơi máy tính. Máy cần RAM từ 6 GB (khuyên 8 GB) và trống khoảng 2 GB. Minecraft PE, Bedrock không chạy được Cobblemon.
 
 ### Tải Cobblemon cho điện thoại (CocoLauncher APK) ở đâu?
 
