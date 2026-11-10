@@ -3,6 +3,7 @@ title: Cưỡi Pokémon Cobblemon
 seo_title: "Cách cưỡi Pokémon trong Cobblemon: Pokémon nào cưỡi được, bay, bơi"
 description: "Cách cưỡi Pokémon trong Cobblemon 1.7.3: thả ra, giữ Shift, chuột phải, chọn Lái. 84 loài cưỡi được: 74 trên cạn, 38 bay, 17 bơi. Cưỡi trên Coco Cobblemon."
 nav_order: 8.9
+alt: /en/cobblemon-riding/
 jsonld: |
   {
     "@context": "https://schema.org",

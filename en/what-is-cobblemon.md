@@ -6,7 +6,7 @@ parent: English
 nav_order: 4.9
 permalink: /en/what-is-cobblemon/
 alt: /cobblemon-la-gi/
-last_modified_at: 2026-11-11T05:12:47+07:00
+last_modified_at: 2026-11-11T05:22:15+07:00
 ---
 
 # What is Cobblemon?
@@ -32,7 +32,7 @@ The Cobblemon 1.7.3 file for Fabric contains data for **1,025 species** (Nationa
 - **Catch Pokémon:** hold a Poké Ball and right-click to throw it. Poké Balls are crafted from Apricorns and metal ingots, see [Cobblemon recipes](/en/cobblemon-recipes/).
 - **Turn-based battles:** look at a nearby wild Pokémon and press R; your selected party Pokémon comes out to battle. Battles run on Pokémon Showdown rules.
 - **Party and Summary:** pick a Pokémon with the Up and Down arrow keys and press M to see its stats and moves. All keys are on the [Cobblemon controls](/en/cobblemon-controls/) page.
-- **Evolution and riding:** Pokémon evolve as in the Pokémon games (levels, evolution stones, trades), see [How to evolve Pokémon in Cobblemon](/en/cobblemon-evolution/); since version 1.7 some species can be ridden.
+- **Evolution and riding:** Pokémon evolve as in the Pokémon games (levels, evolution stones, trades), see [How to evolve Pokémon in Cobblemon](/en/cobblemon-evolution/); since version 1.7, 84 species can be ridden, see [How to ride Pokémon in Cobblemon](/en/cobblemon-riding/).
 
 ## Play Cobblemon with others
 

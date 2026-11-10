@@ -3007,6 +3007,7 @@ Yes. Anyone can download CocoLauncher and join. Most players and most of the cha
 - [Cobblemon commands: /pokespawn, /pokegive, /pokeheal](https://coconubs.github.io/en/cobblemon-commands/)
 - [Cobblemon crafting recipes: Poké Ball, PC, Healing Machine](https://coconubs.github.io/en/cobblemon-recipes/)
 - [How to evolve Pokémon in Cobblemon: stones, trading, Eevee, Mega](https://coconubs.github.io/en/cobblemon-evolution/)
+- [How to ride Pokémon in Cobblemon: which Pokémon are rideable](https://coconubs.github.io/en/cobblemon-riding/)
 - [What is Cobblemon, and how many Pokémon it has](https://coconubs.github.io/en/what-is-cobblemon/)
 - [Which launcher for Cobblemon](https://coconubs.github.io/en/cobblemon-launcher/)
 - [Troubleshooting](https://coconubs.github.io/en/troubleshooting/)
@@ -3435,7 +3436,7 @@ Hyper Space is the name of the Coco Cobblemon community Discord server: https://
 
 ## More about Cobblemon
 
-[What is Cobblemon, and how many Pokémon it has](https://coconubs.github.io/en/what-is-cobblemon/) · [Cobblemon controls](https://coconubs.github.io/en/cobblemon-controls/) · [Cobblemon commands](https://coconubs.github.io/en/cobblemon-commands/) · [Cobblemon recipes](https://coconubs.github.io/en/cobblemon-recipes/) · [How to evolve Pokémon](https://coconubs.github.io/en/cobblemon-evolution/)
+[What is Cobblemon, and how many Pokémon it has](https://coconubs.github.io/en/what-is-cobblemon/) · [Cobblemon controls](https://coconubs.github.io/en/cobblemon-controls/) · [Cobblemon commands](https://coconubs.github.io/en/cobblemon-commands/) · [Cobblemon recipes](https://coconubs.github.io/en/cobblemon-recipes/) · [How to evolve Pokémon](https://coconubs.github.io/en/cobblemon-evolution/) · [How to ride Pokémon](https://coconubs.github.io/en/cobblemon-riding/)
 
 *Updated: 11 November 2026.*
 
@@ -3659,7 +3660,7 @@ Cobblemon 1.7.3 adds 6 keybinds to Minecraft Java Edition. By default: **R** sen
 | M | Open Summary | Opens the party Summary screen: info, moves and stats of each Pokémon |
 | O | Hide Party Overlay | Hides or shows the party column on the left of the screen |
 | Up arrow, Down arrow | Party Shift Up, Party Shift Down | Selects the Pokémon above or below in your party. The selected Pokémon is the one R sends out |
-| Left Alt | Riding Freelook | While riding a Pokémon: look around freely |
+| Left Alt | Riding Freelook | While riding a Pokémon: look around freely. How to ride: [How to ride Pokémon in Cobblemon](https://coconubs.github.io/en/cobblemon-riding/) |
 
 Everything else uses the normal Minecraft keys: right-click (**Use Item/Place Block**) throws the Poké Ball in your hand, left-click (**Attack/Destroy**) works as usual.
 
@@ -3692,7 +3693,7 @@ Look at a nearby wild Pokémon and press R: your selected party Pokémon comes o
 
 **Options** > **Controls** > **Key Binds**, then scroll down to the **Cobblemon** category.
 
-**See also:** [Cobblemon commands](https://coconubs.github.io/en/cobblemon-commands/) · [How to join](https://coconubs.github.io/en/how-to-join/) · [Features](https://coconubs.github.io/en/features/) · [Which launcher for Cobblemon](https://coconubs.github.io/en/cobblemon-launcher/) · [FAQ](https://coconubs.github.io/en/faq/)
+**See also:** [Cobblemon commands](https://coconubs.github.io/en/cobblemon-commands/) · [Cobblemon riding](https://coconubs.github.io/en/cobblemon-riding/) · [How to join](https://coconubs.github.io/en/how-to-join/) · [Features](https://coconubs.github.io/en/features/) · [Which launcher for Cobblemon](https://coconubs.github.io/en/cobblemon-launcher/) · [FAQ](https://coconubs.github.io/en/faq/)
 
 *Updated: 11 November 2026.*
 
@@ -3969,9 +3970,95 @@ Eevee needs friendship of 160 or more and at least 1 Fairy-type move, then a lev
 
 Not in Cobblemon 1.7.3 on its own. The Coco Cobblemon server has Mega through the Mega Showdown mod: wear a Mega Bracelet, give the Pokémon its Mega Stone and press the Mega button in battle.
 
-**See also:** [What is Cobblemon](https://coconubs.github.io/en/what-is-cobblemon/) · [Cobblemon recipes](https://coconubs.github.io/en/cobblemon-recipes/) · [Cobblemon controls](https://coconubs.github.io/en/cobblemon-controls/) · [Cobblemon commands](https://coconubs.github.io/en/cobblemon-commands/) · [Vietnam Cobblemon server](https://coconubs.github.io/en/vietnam-cobblemon-server/)
+**See also:** [What is Cobblemon](https://coconubs.github.io/en/what-is-cobblemon/) · [Cobblemon riding](https://coconubs.github.io/en/cobblemon-riding/) · [Cobblemon recipes](https://coconubs.github.io/en/cobblemon-recipes/) · [Cobblemon controls](https://coconubs.github.io/en/cobblemon-controls/) · [Cobblemon commands](https://coconubs.github.io/en/cobblemon-commands/) · [Vietnam Cobblemon server](https://coconubs.github.io/en/vietnam-cobblemon-server/)
 
 *Counts taken from `Cobblemon-fabric-1.7.3+1.21.1.jar` on 11 November 2026. The Mega section follows the Mega Showdown 1.9.9 mod and the in-game Guide of 8 November 2026. Other Cobblemon versions, or servers with extra data packs, can differ.*
+
+*Updated: 11 November 2026.*
+
+---
+
+Trang: How to ride Pokémon in Cobblemon: which Pokémon are rideable
+URL: https://coconubs.github.io/en/cobblemon-riding/
+
+# How to ride Pokémon in Cobblemon
+
+Riding arrived in Cobblemon 1.7. To ride: send the Pokémon out with the R key, stand next to it, hold **Shift** and **right-click** it to open the interaction wheel, then choose **Ride**. Press R to get off. Cobblemon 1.7.3 has 84 rideable species: 74 walk on land, 38 fly and 17 swim; many can do two or three of these.
+
+## Steps to ride a Pokémon
+
+1. Have a rideable Pokémon in your party (list below).
+2. Select it with the up and down arrow keys, then press **R** to send it out.
+3. Stand next to it, hold **Shift** (the Sneak key) and **right-click** the Pokémon. The interaction wheel opens.
+4. Choose **Ride**.
+5. Move with the normal movement keys. Hold **Left Alt** to look around. Press **R** to get off.
+
+If there is no **Ride** option: the species cannot be ridden, the Pokémon is in a Pasture, or you are in a battle.
+
+## Which Pokémon can you ride in Cobblemon 1.7.3
+
+Counted on 11 November 2026 from the `riding` data in `Cobblemon-fabric-1.7.3+1.21.1.jar`: a species is rideable when it has a riding style and at least one seat. That gives 84 species, 38 of them with two or more styles.
+
+**Flying (38):** Aerodactyl, Altaria, Articuno, Blastoise, Braviary, Bronzong, Charizard, Claydol, Corviknight, Dragapult, Dragonite, Drifblim, Dusknoir, Flygon, Forretress, Garchomp, Golurk, Gyarados, Heracross, Ho-Oh, Honchkrow, Hydreigon, Kilowattrel, Klinklang, Latias, Latios, Lugia, Magnezone, Mantine, Metagross, Moltres, Noivern, Salamence, Staraptor, Togekiss, Tropius, Volcarona, Zapdos.
+
+**Swimming (17):** Blastoise, Dewgong, Dhelmise, Dondozo, Dragapult, Dragonite, Garchomp, Gyarados, Lapras, Lugia, Mantine, Relicanth, Seaking, Sharpedo, Tauros, Wailmer, Wailord.
+
+**Land only (36):** Arcanine, Ariados, Bastiodon, Bouffalant, Camerupt, Crustle, Cyclizar, Darmanitan, Dudunsparce, Espathra, Farigiraf, Gastrodon, Girafarig, Gogoat, Lickilicky, Mamoswine, Mr. Mime, Mudsdale, Orthworm, Parasect, Piloswine, Revavroom, Rhydon, Rhyhorn, Rhyperior, Scolipede, Serperior, Skiddo, Slaking, Sneasler, Tyrantrum, Ursaluna, Ursaring, Venusaur, Wyrdeer, Zebstrika.
+
+Most flying and swimming species can also walk on land. Rideable Legendaries in the base mod: Articuno, Zapdos, Moltres, Lugia, Ho-Oh, Latias, Latios. Some species, such as Rapidash and Snorlax, have riding stats in the file but no seat, so they cannot be ridden in plain Cobblemon 1.7.3.
+
+## Riding styles and seats
+
+| Environment | Riding style (species) |
+|---|---|
+| Land | Standard (74) |
+| Air | Bird (21), Hover (8), Jet (7), Rocket (2) |
+| Water | Submarine (7), Dolphin (7), Boat (2) |
+
+Most species have 1 seat. Species with more seats carry extra riders: Wailord 19, Dondozo 7, Camerupt 6, Metagross and Crustle 4, Mamoswine and Golurk 3. The Pokédex shows **Ride Stats** and the number of **Seats**.
+
+## Ride stats and Aprijuice
+
+A rideable Pokémon has 5 ride stats: **Speed**, **Accel.** (acceleration), **Skill** (handling), **Jump** and **Stamina**. Feed it **Aprijuice** to raise them. According to the `apricornStatEffects` table in the 1.7.3 mod file, the colour of the Aprijuice decides which stat goes up and which goes down:
+
+| Aprijuice | Raises | Lowers |
+|---|---|---|
+| Red | Accel. +2 | Stamina −1 |
+| Blue | Skill +2 | Jump −1 |
+| Green | Jump +2 | Speed −1 |
+| Pink | Speed +2 | Accel. −1 |
+| Yellow | Stamina +2 | Skill −1 |
+| White | nothing | all 5 stats −2 |
+| Black | nothing | nothing |
+
+## Riding on the Coco Cobblemon server
+
+- **No stamina limit:** the server turns on Infinite Ride Stamina (server Cobblemon config, checked 10 November 2026).
+- **No dismounting in mid-air:** the server turns off In-Flight Dismounting, so land first, then press R to get off.
+- **The list differs a little from the base mod:** the server's own data packs add or adjust riding for some species; for example Zacian, Zamazenta and Rayquaza can be ridden on Coco Cobblemon. The sure way to check: send the Pokémon out, hold Shift and right-click; if **Ride** shows up, you can ride it.
+- **Very large or very small Pokémon:** the server has a size-variation mod; a Pokémon much bigger or smaller than normal may not be rideable, and the game tells you when you try.
+
+## Riding on a phone
+
+Cobblemon is a Minecraft Java mod; it is not available on Minecraft Pocket Edition or Bedrock (see [Cobblemon on Bedrock](https://coconubs.github.io/en/cobblemon-bedrock/)). On Android, playing Coco Cobblemon through CocoLauncher Android works the same way as on a computer, using the on-screen controls. See [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/).
+
+## Quick answers
+
+### How do you ride a Pokémon in Cobblemon?
+
+Send it out with R, hold Shift and right-click it, then choose **Ride**. Press R to get off. Riding exists since Cobblemon 1.7.
+
+### Which Pokémon can you ride in Cobblemon?
+
+Cobblemon 1.7.3 has 84 rideable species, for example Charizard, Dragonite, Gyarados, Lapras, Wailord, Arcanine, Mudsdale, Garchomp, Salamence and Togekiss. The full list is above. Servers with their own data packs can add more.
+
+### How do you fly on a Pokémon in Cobblemon?
+
+Flying Pokémon such as Charizard, Dragonite, Salamence and Corviknight are ridden like any other: hold Shift, right-click, choose **Ride**. On Coco Cobblemon you cannot get off in mid-air, so land first.
+
+**See also:** [Cobblemon controls](https://coconubs.github.io/en/cobblemon-controls/) · [How to evolve Pokémon](https://coconubs.github.io/en/cobblemon-evolution/) · [What is Cobblemon](https://coconubs.github.io/en/what-is-cobblemon/) · [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/) · [Vietnam Cobblemon server](https://coconubs.github.io/en/vietnam-cobblemon-server/)
+
+*Counts taken from `Cobblemon-fabric-1.7.3+1.21.1.jar` on 11 November 2026; the Coco Cobblemon section follows the server config checked on 10 November 2026. Other Cobblemon versions, or servers with their own data packs, can differ.*
 
 *Updated: 11 November 2026.*
 
@@ -4002,7 +4089,7 @@ The Cobblemon 1.7.3 file for Fabric contains data for **1,025 species** (Nationa
 - **Catch Pokémon:** hold a Poké Ball and right-click to throw it. Poké Balls are crafted from Apricorns and metal ingots, see [Cobblemon recipes](https://coconubs.github.io/en/cobblemon-recipes/).
 - **Turn-based battles:** look at a nearby wild Pokémon and press R; your selected party Pokémon comes out to battle. Battles run on Pokémon Showdown rules.
 - **Party and Summary:** pick a Pokémon with the Up and Down arrow keys and press M to see its stats and moves. All keys are on the [Cobblemon controls](https://coconubs.github.io/en/cobblemon-controls/) page.
-- **Evolution and riding:** Pokémon evolve as in the Pokémon games (levels, evolution stones, trades), see [How to evolve Pokémon in Cobblemon](https://coconubs.github.io/en/cobblemon-evolution/); since version 1.7 some species can be ridden.
+- **Evolution and riding:** Pokémon evolve as in the Pokémon games (levels, evolution stones, trades), see [How to evolve Pokémon in Cobblemon](https://coconubs.github.io/en/cobblemon-evolution/); since version 1.7, 84 species can be ridden, see [How to ride Pokémon in Cobblemon](https://coconubs.github.io/en/cobblemon-riding/).
 
 ## Play Cobblemon with others
 

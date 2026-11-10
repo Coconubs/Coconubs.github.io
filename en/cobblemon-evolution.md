@@ -121,7 +121,7 @@ Eevee needs friendship of 160 or more and at least 1 Fairy-type move, then a lev
 
 Not in Cobblemon 1.7.3 on its own. The Coco Cobblemon server has Mega through the Mega Showdown mod: wear a Mega Bracelet, give the Pokémon its Mega Stone and press the Mega button in battle.
 
-**See also:** [What is Cobblemon](/en/what-is-cobblemon/) · [Cobblemon recipes](/en/cobblemon-recipes/) · [Cobblemon controls](/en/cobblemon-controls/) · [Cobblemon commands](/en/cobblemon-commands/) · [Vietnam Cobblemon server](/en/vietnam-cobblemon-server/)
+**See also:** [What is Cobblemon](/en/what-is-cobblemon/) · [Cobblemon riding](/en/cobblemon-riding/) · [Cobblemon recipes](/en/cobblemon-recipes/) · [Cobblemon controls](/en/cobblemon-controls/) · [Cobblemon commands](/en/cobblemon-commands/) · [Vietnam Cobblemon server](/en/vietnam-cobblemon-server/)
 
 *Counts taken from `Cobblemon-fabric-1.7.3+1.21.1.jar` on 11 November 2026. The Mega section follows the Mega Showdown 1.9.9 mod and the in-game Guide of 8 November 2026. Other Cobblemon versions, or servers with extra data packs, can differ.*
 

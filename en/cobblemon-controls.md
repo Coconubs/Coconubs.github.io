@@ -22,7 +22,7 @@ Cobblemon 1.7.3 adds 6 keybinds to Minecraft Java Edition. By default: **R** sen
 | M | Open Summary | Opens the party Summary screen: info, moves and stats of each Pokémon |
 | O | Hide Party Overlay | Hides or shows the party column on the left of the screen |
 | Up arrow, Down arrow | Party Shift Up, Party Shift Down | Selects the Pokémon above or below in your party. The selected Pokémon is the one R sends out |
-| Left Alt | Riding Freelook | While riding a Pokémon: look around freely |
+| Left Alt | Riding Freelook | While riding a Pokémon: look around freely. How to ride: [How to ride Pokémon in Cobblemon](/en/cobblemon-riding/) |
 
 Everything else uses the normal Minecraft keys: right-click (**Use Item/Place Block**) throws the Poké Ball in your hand, left-click (**Attack/Destroy**) works as usual.
 
@@ -55,6 +55,6 @@ Look at a nearby wild Pokémon and press R: your selected party Pokémon comes o
 
 **Options** > **Controls** > **Key Binds**, then scroll down to the **Cobblemon** category.
 
-**See also:** [Cobblemon commands](/en/cobblemon-commands/) · [How to join](/en/how-to-join/) · [Features](/en/features/) · [Which launcher for Cobblemon](/en/cobblemon-launcher/) · [FAQ](/en/faq/)
+**See also:** [Cobblemon commands](/en/cobblemon-commands/) · [Cobblemon riding](/en/cobblemon-riding/) · [How to join](/en/how-to-join/) · [Features](/en/features/) · [Which launcher for Cobblemon](/en/cobblemon-launcher/) · [FAQ](/en/faq/)
 
 *Updated: 11 November 2026.*
