@@ -11,7 +11,15 @@ jsonld: |
   {
     "@context": "https://schema.org",
     "@type": "GameServer",
+    "@id": "https://coconubs.github.io/#server",
     "name": "Coco Cobblemon",
+    "alternateName": ["Coco's Hyper Space", "Coco Cobbleverse"],
+    "image": "https://coconubs.github.io/assets/images/coco-cobblemon-logo.png",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Server address",
+      "value": "coco.ultramc.co"
+    },
     "url": "https://coconubs.github.io/en/",
     "description": "A Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher.",
     "serverStatus": "https://schema.org/Online",
