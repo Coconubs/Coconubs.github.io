@@ -28,7 +28,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 | **Vào game bằng** | CocoLauncher cho Windows, macOS, Android, iPhone (Android và iPhone là bản thử nghiệm) |
 | **Chi phí** | Tải launcher và vào server không mất phí. Rank và Battle Pass Premium không bắt buộc |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace) (tên server Discord: Hyper Space) |
-| **Số người chơi** | 110 người online lúc 20:28 Thứ 7, 07/11/2026 (mcsrvstat.us); Discord Hyper Space khoảng 1.860 thành viên (11/11/2026) |
+| **Số người chơi** | 110 người online lúc 20:28 Thứ 7, 07/11/2026 ([mcsrvstat.us](https://mcsrvstat.us/java/coco.ultramc.co)); Discord Hyper Space khoảng 1.860 thành viên (11/11/2026) |
 | **Tên khác** | Coco's Hyper Space, Coco Cobbleverse (tên trong vài video, bài Facebook cũ) |
 
 ## Coco Cobblemon và CocoLauncher là gì?
@@ -108,7 +108,7 @@ Số người chơi thay đổi theo giờ, nên dưới đây là số đo có 
 
 | Đo lúc | Số liệu |
 |---|---|
-| 20:28 Thứ 7, 07/11/2026 | 110 người đang online (trang trạng thái mcsrvstat.us) |
+| 20:28 Thứ 7, 07/11/2026 | 110 người đang online (trang trạng thái [mcsrvstat.us](https://mcsrvstat.us/java/coco.ultramc.co)) |
 | Tối 04/11/2026 | Cao điểm khoảng 120 người online cùng lúc (nhật ký server) |
 | 11/11/2026 | Discord Hyper Space có khoảng 1.860 thành viên |
 
@@ -2411,7 +2411,7 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 | **Cost** | Free to download and join. Ranks and the Premium Battle Pass are optional |
 | **Event times** | Vietnam time (UTC+7) |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace) (Discord server name: Hyper Space) |
-| **Players** | 110 players online at 20:28 Vietnam time on Saturday, 7 November 2026 (mcsrvstat.us); about 1,860 members on the Hyper Space Discord (11 November 2026) |
+| **Players** | 110 players online at 20:28 Vietnam time on Saturday, 7 November 2026 ([mcsrvstat.us](https://mcsrvstat.us/java/coco.ultramc.co)); about 1,860 members on the Hyper Space Discord (11 November 2026) |
 | **Other names** | Coco's Hyper Space, Coco Cobbleverse (used in a few videos and older Facebook posts) |
 
 ## What you can do on the server
@@ -2487,7 +2487,7 @@ Player numbers change by the hour, so these are dated measurements, not fixed fi
 
 | Measured | Number |
 |---|---|
-| 20:28 Vietnam time, Saturday 7 November 2026 | 110 players online (mcsrvstat.us status page) |
+| 20:28 Vietnam time, Saturday 7 November 2026 | 110 players online ([mcsrvstat.us status page](https://mcsrvstat.us/java/coco.ultramc.co)) |
 | Evening of 4 November 2026 | Peak of about 120 players online at once (server log) |
 | 11 November 2026 | About 1,860 members on the Hyper Space Discord |
 

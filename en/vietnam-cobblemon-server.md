@@ -33,7 +33,7 @@ Player numbers change by the hour, so these are dated measurements, not fixed fi
 
 | Measured | Number |
 |---|---|
-| 20:28 Vietnam time, Saturday 7 November 2026 | 110 players online (mcsrvstat.us status page) |
+| 20:28 Vietnam time, Saturday 7 November 2026 | 110 players online ([mcsrvstat.us status page](https://mcsrvstat.us/java/coco.ultramc.co)) |
 | Evening of 4 November 2026 | Peak of about 120 players online at once (server log) |
 | 11 November 2026 | About 1,860 members on the Hyper Space Discord |
 

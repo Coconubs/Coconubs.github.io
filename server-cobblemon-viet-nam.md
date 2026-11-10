@@ -31,7 +31,7 @@ Số người chơi thay đổi theo giờ, nên dưới đây là số đo có 
 
 | Đo lúc | Số liệu |
 |---|---|
-| 20:28 Thứ 7, 07/11/2026 | 110 người đang online (trang trạng thái mcsrvstat.us) |
+| 20:28 Thứ 7, 07/11/2026 | 110 người đang online (trang trạng thái [mcsrvstat.us](https://mcsrvstat.us/java/coco.ultramc.co)) |
 | Tối 04/11/2026 | Cao điểm khoảng 120 người online cùng lúc (nhật ký server) |
 | 11/11/2026 | Discord Hyper Space có khoảng 1.860 thành viên |
 

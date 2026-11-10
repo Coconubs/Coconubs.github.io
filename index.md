@@ -54,7 +54,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 | **Vào game bằng** | CocoLauncher cho Windows, macOS, Android, iPhone (Android và iPhone là bản thử nghiệm) |
 | **Chi phí** | Tải launcher và vào server không mất phí. Rank và Battle Pass Premium không bắt buộc |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace) (tên server Discord: Hyper Space) |
-| **Số người chơi** | 110 người online lúc 20:28 Thứ 7, 07/11/2026 (mcsrvstat.us); Discord Hyper Space khoảng 1.860 thành viên (11/11/2026) |
+| **Số người chơi** | 110 người online lúc 20:28 Thứ 7, 07/11/2026 ([mcsrvstat.us](https://mcsrvstat.us/java/coco.ultramc.co)); Discord Hyper Space khoảng 1.860 thành viên (11/11/2026) |
 | **Tên khác** | Coco's Hyper Space, Coco Cobbleverse (tên trong vài video, bài Facebook cũ) |
 
 ## Coco Cobblemon và CocoLauncher là gì?

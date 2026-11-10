@@ -58,7 +58,7 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 | **Cost** | Free to download and join. Ranks and the Premium Battle Pass are optional |
 | **Event times** | Vietnam time (UTC+7) |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace) (Discord server name: Hyper Space) |
-| **Players** | 110 players online at 20:28 Vietnam time on Saturday, 7 November 2026 (mcsrvstat.us); about 1,860 members on the Hyper Space Discord (11 November 2026) |
+| **Players** | 110 players online at 20:28 Vietnam time on Saturday, 7 November 2026 ([mcsrvstat.us](https://mcsrvstat.us/java/coco.ultramc.co)); about 1,860 members on the Hyper Space Discord (11 November 2026) |
 | **Other names** | Coco's Hyper Space, Coco Cobbleverse (used in a few videos and older Facebook posts) |
 
 ## What you can do on the server
