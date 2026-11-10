@@ -55,6 +55,6 @@ Look at a nearby wild Pokémon and press R: your selected party Pokémon comes o
 
 **Options** > **Controls** > **Key Binds**, then scroll down to the **Cobblemon** category.
 
-**See also:** [How to join](/en/how-to-join/) · [Features](/en/features/) · [Which launcher for Cobblemon](/en/cobblemon-launcher/) · [FAQ](/en/faq/)
+**See also:** [Cobblemon commands](/en/cobblemon-commands/) · [How to join](/en/how-to-join/) · [Features](/en/features/) · [Which launcher for Cobblemon](/en/cobblemon-launcher/) · [FAQ](/en/faq/)
 
 *Updated: 11 November 2026.*

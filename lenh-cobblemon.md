@@ -3,6 +3,7 @@ title: Lệnh Cobblemon
 seo_title: "Lệnh Cobblemon: triệu hồi, cho Pokémon, hồi máu (/pokespawn, /pokegive)"
 description: "Lệnh của Cobblemon 1.7.3: /pokespawn triệu hồi Pokémon, /pokegive cho Pokémon, /pokeheal hồi máu, /pc mở PC. Cần quyền lệnh. Thuộc tính shiny, level."
 nav_order: 8.6
+alt: /en/cobblemon-commands/
 last_modified_at: 2026-11-11T04:40:14+07:00
 ---
 

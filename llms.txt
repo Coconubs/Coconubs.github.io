@@ -48,6 +48,7 @@ Key facts in English (checked 11 November 2026):
 - [Play Cobblemon on Android and iPhone](https://coconubs.github.io/en/cobblemon-android/)
 - [Cobblemon on iPhone and iPad (iOS)](https://coconubs.github.io/en/cobblemon-ios/)
 - [What is Cobblemon](https://coconubs.github.io/en/what-is-cobblemon/): open-source Pokémon mod for Minecraft Java; version 1.7.3 has 851 finished species out of 1,025 with data
+- [Cobblemon commands](https://coconubs.github.io/en/cobblemon-commands/): /pokespawn, /pokegive, /pokeheal, /pc, permission levels and properties (Cobblemon 1.7.3)
 - [Cobblemon controls](https://coconubs.github.io/en/cobblemon-controls/): default keybinds of Cobblemon 1.7.3 and how to change them
 - [Cobblemon on Bedrock and Pocket Edition](https://coconubs.github.io/en/cobblemon-bedrock/): official Cobblemon is a Java Edition mod; "Cobblemon PE" packs are add-ons made by others
 - [Features](https://coconubs.github.io/en/features/)
