@@ -6,7 +6,7 @@ nav_order: 6
 has_children: true
 has_toc: false
 alt: /en/features/
-last_modified_at: 2026-11-11T03:20:06+07:00
+last_modified_at: 2026-11-11T05:45:03+07:00
 ---
 
 # Tính năng Coco Cobblemon
@@ -32,6 +32,8 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 | [Shiny](/tinh-nang/shiny/) | Không xuất hiện tự nhiên. Có qua Dung hợp Shiny, Trứng, Raid, Daily Shop, Battle Pass |
 | Trứng Pokémon | Ba loại: Thường (cấp 5), Quý (cấp 30), Huyền Thoại (cấp 50) |
 | Trang Phục | Skin đổi ngoại hình Pokémon, không đổi chỉ số. Mở bằng `/trangphuc` |
+
+Cách bắt, tiến hoá, cưỡi Pokémon và dùng Mega trên server: [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/) · [Cách tiến hoá](/tien-hoa-cobblemon/) · [Tiến hoá Mega](/mega-cobblemon/) · [Cách cưỡi Pokémon](/cuoi-pokemon-cobblemon/) · [Cách học chiêu](/hoc-chieu-cobblemon/)
 
 ## Bang hội
 

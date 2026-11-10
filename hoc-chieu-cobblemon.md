@@ -3,6 +3,7 @@ title: Học chiêu Cobblemon
 seo_title: "Cách học chiêu cho Pokémon trong Cobblemon: lên cấp, Đổi Đòn, TM"
 description: "Cách học chiêu cho Pokémon trong Cobblemon 1.7.3: chiêu học khi lên cấp, đổi chiêu bằng Đổi Đòn trong Tóm Tắt, chiêu tiến hoá, TM trên server Coco Cobblemon."
 nav_order: 8.95
+alt: /en/cobblemon-moves/
 jsonld: |
   {
     "@context": "https://schema.org",

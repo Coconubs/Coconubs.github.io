@@ -285,6 +285,6 @@ Hyper Space is the name of the Coco Cobblemon community Discord server: https://
 
 ## More about Cobblemon
 
-[What is Cobblemon, and how many Pokémon it has](/en/what-is-cobblemon/) · [Cobblemon controls](/en/cobblemon-controls/) · [Cobblemon commands](/en/cobblemon-commands/) · [Cobblemon recipes](/en/cobblemon-recipes/) · [How to evolve Pokémon](/en/cobblemon-evolution/) · [How to ride Pokémon](/en/cobblemon-riding/) · [How to catch Pokémon](/en/cobblemon-catching/) · [Mega Evolution](/en/cobblemon-mega/)
+[What is Cobblemon, and how many Pokémon it has](/en/what-is-cobblemon/) · [Cobblemon controls](/en/cobblemon-controls/) · [Cobblemon commands](/en/cobblemon-commands/) · [Cobblemon recipes](/en/cobblemon-recipes/) · [How to evolve Pokémon](/en/cobblemon-evolution/) · [How to ride Pokémon](/en/cobblemon-riding/) · [How to catch Pokémon](/en/cobblemon-catching/) · [Mega Evolution](/en/cobblemon-mega/) · [Learning moves](/en/cobblemon-moves/)
 
 *Updated: 11 November 2026.*
