@@ -2013,6 +2013,10 @@ Có. Mod Cobblemon tải không mất phí trên Modrinth và CurseForge, nhưng
 
 Cobblemon 1.7.3 có 851 loài Pokémon đã làm xong, trong 1.025 loài có dữ liệu (đếm từ file mod ngày 11/11/2026).
 
+### Tỉ lệ Shiny trong Cobblemon là bao nhiêu?
+
+Mặc định 1/8192: đó là giá trị `shinyRate` mặc định trong cấu hình của Cobblemon 1.7.3 (đọc từ file mod), server có thể đổi số này. Trên Coco Cobblemon, Shiny không xuất hiện tự nhiên mà có qua Dung hợp Shiny, Trứng, Raid, Daily Shop và Battle Pass, xem [Cách có Pokémon Shiny](https://coconubs.github.io/tinh-nang/shiny/).
+
 ### Cobblemon khác Pixelmon thế nào?
 
 Cả hai là mod Pokémon cho Minecraft Java. Cobblemon chạy trên Fabric và NeoForge, mã nguồn mở; Pixelmon chạy trên Forge, bản cho Minecraft 1.21.1 dùng NeoForge. Hai mod không vào chung server được. So sánh ở trang [Chơi Pokémon trong Minecraft](https://coconubs.github.io/pokemon-trong-minecraft/).
@@ -3375,6 +3379,10 @@ Yes. The Cobblemon mod is free to download on Modrinth and CurseForge, but you n
 ### How many Pokémon does Cobblemon have?
 
 Cobblemon 1.7.3 has 851 finished Pokémon species out of the 1,025 species it has data for (counted from the mod file on 11 November 2026).
+
+### What are the Shiny odds in Cobblemon?
+
+1 in 8192 by default: that is the default `shinyRate` in the Cobblemon 1.7.3 config (read from the mod file), and servers can change it. On Coco Cobblemon, Shiny Pokémon do not spawn naturally; they come from Shiny Fusion, Eggs, Raids, the Daily Shop and the Battle Pass, see [Features](https://coconubs.github.io/en/features/).
 
 ### Is Cobblemon on mobile?
 

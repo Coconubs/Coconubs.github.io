@@ -4,7 +4,7 @@ seo_title: "Cobblemon là gì? Mod Pokémon cho Minecraft Java"
 description: "Cobblemon là mod Pokémon mã nguồn mở cho Minecraft Java. Bản 1.7.3 có 851 loài Pokémon chơi được trong 1.025 loài có dữ liệu. Cần gì để chơi, chơi cùng người Việt."
 nav_order: 7.5
 alt: /en/what-is-cobblemon/
-last_modified_at: 2026-11-11T04:32:32+07:00
+last_modified_at: 2026-11-11T04:44:22+07:00
 ---
 
 # Cobblemon là gì?
@@ -48,6 +48,10 @@ Có. Mod Cobblemon tải không mất phí trên Modrinth và CurseForge, nhưng
 ### Cobblemon có bao nhiêu Pokémon?
 
 Cobblemon 1.7.3 có 851 loài Pokémon đã làm xong, trong 1.025 loài có dữ liệu (đếm từ file mod ngày 11/11/2026).
+
+### Tỉ lệ Shiny trong Cobblemon là bao nhiêu?
+
+Mặc định 1/8192: đó là giá trị `shinyRate` mặc định trong cấu hình của Cobblemon 1.7.3 (đọc từ file mod), server có thể đổi số này. Trên Coco Cobblemon, Shiny không xuất hiện tự nhiên mà có qua Dung hợp Shiny, Trứng, Raid, Daily Shop và Battle Pass, xem [Cách có Pokémon Shiny](/tinh-nang/shiny/).
 
 ### Cobblemon khác Pixelmon thế nào?
 

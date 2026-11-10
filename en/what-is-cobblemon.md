@@ -6,7 +6,7 @@ parent: English
 nav_order: 4.9
 permalink: /en/what-is-cobblemon/
 alt: /cobblemon-la-gi/
-last_modified_at: 2026-11-11T04:34:58+07:00
+last_modified_at: 2026-11-11T04:44:22+07:00
 ---
 
 # What is Cobblemon?
@@ -47,6 +47,10 @@ Yes. The Cobblemon mod is free to download on Modrinth and CurseForge, but you n
 ### How many Pokémon does Cobblemon have?
 
 Cobblemon 1.7.3 has 851 finished Pokémon species out of the 1,025 species it has data for (counted from the mod file on 11 November 2026).
+
+### What are the Shiny odds in Cobblemon?
+
+1 in 8192 by default: that is the default `shinyRate` in the Cobblemon 1.7.3 config (read from the mod file), and servers can change it. On Coco Cobblemon, Shiny Pokémon do not spawn naturally; they come from Shiny Fusion, Eggs, Raids, the Daily Shop and the Battle Pass, see [Features](/en/features/).
 
 ### Is Cobblemon on mobile?
 
