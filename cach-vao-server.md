@@ -1,10 +1,10 @@
 ---
 title: Cách vào server
 seo_title: "Cách vào server Coco Cobblemon: IP coco.ultramc.co, 5 bước"
-description: "Cách vào server Coco Cobblemon (IP coco.ultramc.co, Minecraft Java 1.21.1, Cobblemon 1.7.3): tải CocoLauncher, nhập tên, bấm Chơi, đăng ký, mở /menu. Vì sao không vào bằng launcher khác."
+description: "Cách vào server Coco Cobblemon (IP coco.ultramc.co, Java 1.21.1, Cobblemon 1.7.3): tải CocoLauncher, nhập tên, bấm Chơi, mở /menu. Cách vào một server Cobblemon bất kỳ."
 nav_order: 3
 alt: /en/how-to-join/
-last_modified_at: 2026-11-11T02:29:42+07:00
+last_modified_at: 2026-11-11T02:41:07+07:00
 ---
 
 # Cách vào server Coco Cobblemon
@@ -21,7 +21,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 
 ## 5 bước vào server
 
-1. **Tải launcher:** vào trang [CocoLauncher](/cocolauncher/), chọn đúng hệ điều hành: Windows, macOS hoặc [Android](/cobblemon-dien-thoai/).
+1. **Tải launcher:** vào trang [CocoLauncher](/cocolauncher/), chọn đúng hệ điều hành: Windows, macOS, [Android](/cobblemon-dien-thoai/) hoặc [iPhone](/cobblemon-dien-thoai/#iphone-ipad).
 2. **Nhập tên:** 3 đến 16 ký tự, chữ không dấu, số hoặc dấu gạch dưới.
 3. **Bấm Chơi:** lần đầu launcher tải Java, Minecraft, Fabric và gói mod, nên dùng mạng ổn định. Những lần sau chỉ tải phần thay đổi.
 4. **Vào game:** launcher tự kết nối tới server. Làm theo hướng dẫn đăng ký trên màn hình.
@@ -37,6 +37,17 @@ Nhiều phần thưởng cần tài khoản đã liên kết Discord, ví dụ �
 1. Vào Discord [discord.gg/hyspace](https://discord.gg/hyspace).
 2. Trong game gõ `/link` để lấy mã.
 3. Trên Discord gõ `/link <mã>` cho bot Coco.
+
+## Cách vào một server Cobblemon bất kỳ
+
+Mỗi server Cobblemon chạy một bản Minecraft, Cobblemon và bộ mod riêng. Cách vào chung cho mọi server:
+
+1. **Xem thông tin server:** địa chỉ (IP), bản Minecraft, bản Cobblemon, server dùng modpack hay launcher nào. Thông tin này thường ở trang hoặc Discord của server.
+2. **Cài đúng bộ mod server yêu cầu:** modpack trên Modrinth hoặc CurseForge, hoặc launcher riêng của server. Cách cài Cobblemon bằng Modrinth App ở trang [Cách tải Cobblemon](/cach-tai-cobblemon/).
+3. **Vào game bằng bản cài đó:** chọn **Multiplayer** (Nhiều người chơi), bấm **Add Server** (Thêm máy chủ), dán địa chỉ server rồi vào server.
+4. **Bị từ chối vì sai mod hoặc sai phiên bản:** bản ở máy bạn chưa khớp server, xem lại bước 2.
+
+Với Coco Cobblemon thì không cần làm các bước này: CocoLauncher tự cài đúng bộ mod và tự kết nối tới `coco.ultramc.co`.
 
 ## Tự kết nối bằng launcher khác được không?
 

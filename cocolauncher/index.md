@@ -1,6 +1,6 @@
 ---
 title: CocoLauncher
-seo_title: "CocoLauncher (Coco Launcher): tải launcher Coco Cobblemon cho PC, Android, iPhone"
+seo_title: "CocoLauncher (Coco Launcher): launcher Minecraft Cobblemon cho PC, Android, iPhone"
 description: "Tải CocoLauncher (Coco Launcher), launcher của server Coco Cobblemon: Microsoft Store, file .exe, macOS chip Apple và Intel, Android, iPhone (thử nghiệm). Tự cài Java, Minecraft, Fabric, gói mod."
 nav_order: 2
 has_children: true
@@ -39,7 +39,7 @@ last_modified_at: 2026-11-11T02:29:42+07:00
 
 # CocoLauncher (Coco Launcher)
 
-CocoLauncher là launcher của server Coco Cobblemon, tự cài Java, Minecraft, Fabric và gói mod để người chơi vào server chỉ bằng một nút. Nhà phát hành là Coconubs.
+CocoLauncher là launcher Minecraft Java của server Coco Cobblemon, tự cài Java, Minecraft, Fabric và gói mod để người chơi vào server chỉ bằng một nút. Nhà phát hành là Coconubs.
 {: .fs-6 .fw-300 }
 
 ## Tải CocoLauncher

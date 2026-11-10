@@ -1,6 +1,6 @@
 ---
 title: Server Cobblemon Việt Nam
-seo_title: "Server Cobblemon Việt Nam: Coco Cobblemon, IP, ping, lịch sự kiện"
+seo_title: "Server Cobblemon Việt Nam (Pokémon Minecraft): Coco Cobblemon, IP, ping"
 description: "Coco Cobblemon là server Cobblemon Việt Nam trên Minecraft Java 1.21.1, IP coco.ultramc.co, máy chủ Singapore ping khoảng 29 ms từ TP.HCM. Lịch sự kiện, cách chọn server."
 nav_order: 4
 alt: /en/vietnam-cobblemon-server/
@@ -9,7 +9,7 @@ last_modified_at: 2026-11-11T02:29:42+07:00
 
 # Server Cobblemon Việt Nam: Coco Cobblemon
 
-Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Trang này dành cho người đang tìm một server Cobblemon Việt Nam: thông số server, ping từ Việt Nam, số người chơi có ngày đo, lịch sự kiện theo giờ Việt Nam và những điều nên kiểm trước khi chọn server.
+Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Cobblemon là mod Pokémon cho Minecraft Java, nên server Cobblemon cũng là server Pokémon Minecraft. Trang này dành cho người đang tìm một server Cobblemon Việt Nam: thông số server, ping từ Việt Nam, số người chơi có ngày đo, lịch sự kiện theo giờ Việt Nam và những điều nên kiểm trước khi chọn server.
 {: .fs-5 .fw-300 }
 
 ## Thông số nhanh
