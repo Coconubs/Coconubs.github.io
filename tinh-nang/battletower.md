@@ -5,7 +5,7 @@ description: "BattleTower trên server Coco Cobblemon: 555 tầng đấu 6v6 v�
 parent: Tính năng
 nav_order: 2
 permalink: /tinh-nang/battletower/
-last_modified_at: 2026-11-06T11:30:01+07:00
+last_modified_at: 2026-11-11T02:53:44+07:00
 ---
 
 # BattleTower
@@ -38,6 +38,17 @@ Thua tụt 5 tầng nhưng không dưới mốc an toàn (25, 50, 75...). Ví d�
 
 {: .warning }
 Trong sàn đấu không đặt hay đập block, không bay, không PvP, không dùng lệnh dịch chuyển.
+
+## Hỏi nhanh
+
+**BattleTower có bao nhiêu tầng?**
+555 tầng, đấu 6v6 với NPC, cứ 5 tầng có 1 tầng boss. Cần đủ 6 Pokémon trong party, mở bằng `/battletower`.
+
+**Thua ở BattleTower có mất hết tầng không?**
+Không. Thua tụt 5 tầng nhưng không dưới mốc an toàn (25, 50, 75...). Trên tầng 400, mỗi ngày tự tụt 5 tầng.
+
+**BattleTower Points phát lúc nào?**
+Lúc 0h00 mỗi ngày, Thứ 7 và Chủ Nhật nhân 3. BattleTower Points dùng ở Shop BattleTower.
 
 **Xem thêm:** [Đấu Xếp Hạng tính Elo](/tinh-nang/dau-xep-hang/) · [Gym và NPC Tiền Thưởng](/tinh-nang/gym-npc/) · [Tokens và BattleTower Points dùng vào đâu](/tinh-nang/kinh-te/) · [Việc hằng ngày](/tinh-nang/hang-ngay/)
 

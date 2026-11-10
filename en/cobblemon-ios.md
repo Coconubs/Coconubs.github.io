@@ -1,7 +1,7 @@
 ---
 title: Cobblemon on iPhone
 seo_title: "Cobblemon on iOS: can you play Cobblemon on iPhone and iPad?"
-description: "Is there a Cobblemon iOS app? Cobblemon is a Minecraft Java mod and does not run in Minecraft PE. On iPhone and iPad it runs through a Java launcher such as CocoLauncher iOS (experimental). Requirements and steps."
+description: "Is there a Cobblemon iOS app? No: Cobblemon is a Minecraft Java mod and does not run in Minecraft PE. On iPhone and iPad it runs through a Java launcher such as CocoLauncher iOS (experimental)."
 parent: English
 nav_order: 4.5
 permalink: /en/cobblemon-ios/

@@ -766,6 +766,17 @@ Hai bên thấy loài 6 con của nhau (không thấy vật phẩm cầm, level,
 
 Tab **ĐANG ĐẤU** xem trực tiếp các trận Đấu Đơn (Đấu Đôi không xem trực tiếp để giữ bí mật đội hình). Tab **LỊCH SỬ** xem lại trận của bạn trong 3 ngày.
 
+## Hỏi nhanh
+
+**Đấu Xếp Hạng trên Coco Cobblemon đấu thế nào?**
+Thể thức chính là Đấu Đôi 4v4: mang 6 con, xem đội đối thủ, chọn 4, tính Elo, luật Regulation H. Đấu Đơn 6v6 là giao hữu, đếm thắng thua. Ghép trận ẩn theo Elo, mở bằng `/xephang`.
+
+**Pokémon có bị đưa về cấp 50 không?**
+Có. Trong trận mọi con về Lv 50 (bản sao, Pokémon thật không đổi), mỗi lượt 90 giây.
+
+**Có những hạng nào?**
+Đồng, Bạc, Vàng, Bạch Kim, Kim Cương, Cao Thủ, mỗi hạng 3 bậc. Top 5 Cao Thủ là Thách Đấu. Người mới bắt đầu ở 1000 Elo.
+
 **Xem thêm:** [BattleTower 555 tầng](https://coconubs.github.io/tinh-nang/battletower/) · [Gym, Tứ Thiên Vương và NPC Tiền Thưởng](https://coconubs.github.io/tinh-nang/gym-npc/) · [Bang Hội Chiến](https://coconubs.github.io/tinh-nang/bang-hoi/) · [Cách vào server Coco Cobblemon](https://coconubs.github.io/cach-vao-server/)
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
@@ -803,6 +814,17 @@ Thua tụt 5 tầng nhưng không dưới mốc an toàn (25, 50, 75...). Ví d�
 - Lần đầu vượt mỗi mốc 50 tầng, cả bang của bạn nhận Quà Bang.
 
 Trong sàn đấu không đặt hay đập block, không bay, không PvP, không dùng lệnh dịch chuyển.
+
+## Hỏi nhanh
+
+**BattleTower có bao nhiêu tầng?**
+555 tầng, đấu 6v6 với NPC, cứ 5 tầng có 1 tầng boss. Cần đủ 6 Pokémon trong party, mở bằng `/battletower`.
+
+**Thua ở BattleTower có mất hết tầng không?**
+Không. Thua tụt 5 tầng nhưng không dưới mốc an toàn (25, 50, 75...). Trên tầng 400, mỗi ngày tự tụt 5 tầng.
+
+**BattleTower Points phát lúc nào?**
+Lúc 0h00 mỗi ngày, Thứ 7 và Chủ Nhật nhân 3. BattleTower Points dùng ở Shop BattleTower.
 
 **Xem thêm:** [Đấu Xếp Hạng tính Elo](https://coconubs.github.io/tinh-nang/dau-xep-hang/) · [Gym và NPC Tiền Thưởng](https://coconubs.github.io/tinh-nang/gym-npc/) · [Tokens và BattleTower Points dùng vào đâu](https://coconubs.github.io/tinh-nang/kinh-te/) · [Việc hằng ngày](https://coconubs.github.io/tinh-nang/hang-ngay/)
 
@@ -926,6 +948,17 @@ Mỗi người đấu với 1 bản thể ở sàn riêng. Mọi sát thương v
 | Kết liễu | 2 Tinh Thể Shiny + 200 Tokens + 1 Chìa Raid + 1 Trứng Quý |
 | Mọi người có gây sát thương | 10.000$ + 100 Tokens + 1 Trứng |
 
+## Hỏi nhanh
+
+**Raid Thế Giới mở lúc mấy giờ?**
+Lúc 9:00 và 19:00 mỗi ngày (giờ Việt Nam) tại Lobby, mỗi lượt kéo dài 2 tiếng. Bot Discord báo khi boss xuất hiện.
+
+**Vào Raid cần gì?**
+Mỗi lần vào tốn 1 Chìa Khoá Raid (có trong Shop BattleTower và Battle Pass), và đội phải đúng điều kiện, bảng cấm riêng của boss. Chuột phải khối Raid ở Lobby hoặc gõ `/raid join`.
+
+**Ai được bắt boss Raid?**
+Top 5 sát thương mỗi người có 3 lượt bắt, người kết liễu thêm 3 lượt, không dùng Master Ball. Boss có tỉ lệ Shiny 1/4096, bắt được là Shiny.
+
 **Xem thêm:** [Cách có Pokémon Shiny](https://coconubs.github.io/tinh-nang/shiny/) · [Legendary tích luỹ và Giờ Vàng](https://coconubs.github.io/tinh-nang/legendary/) · [Boss Bang](https://coconubs.github.io/tinh-nang/bang-hoi/) · [Lịch sự kiện trong tuần theo giờ Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/)
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
@@ -1015,6 +1048,17 @@ Trên Coco Cobblemon, **Shiny không xuất hiện tự nhiên** và không ra t
 ## Breeding có ra Shiny không
 
 Breeding gần như không ra Shiny, và Ditto Shiny không truyền Shiny cho trứng.
+
+## Hỏi nhanh
+
+**Coco Cobblemon có Shiny xuất hiện ngoài tự nhiên không?**
+Không. Trên Coco Cobblemon, Shiny không xuất hiện tự nhiên và không ra từ Altar hay Statue triệu hồi. Có Shiny qua Dung hợp Shiny, Trứng Pokémon, Raid Thế Giới, Daily Shop, Crate Shiny và Battle Pass.
+
+**Trứng nào dễ ra Shiny nhất?**
+Trứng Huyền Thoại có tỉ lệ Shiny 1/512, Trứng Quý 1/1024, Trứng Pokémon thường 1/4096.
+
+**Dung hợp Shiny thất bại có mất Pokémon không?**
+Không. Thất bại thì mất 5 Tinh Thể Shiny và phí, Pokémon được trả lại nguyên vẹn, và lần sau với Pokémon này tỉ lệ tăng thêm.
 
 **Xem thêm:** [Breeding: cách lấy trứng Pokémon](https://coconubs.github.io/tinh-nang/breeding/) · [Raid Thế Giới](https://coconubs.github.io/tinh-nang/raid/) · [Battle Pass và Daily Shop](https://coconubs.github.io/tinh-nang/hang-ngay/) · [Legendary tích luỹ](https://coconubs.github.io/tinh-nang/legendary/)
 
@@ -1686,7 +1730,7 @@ Modrinth App, CurseForge App, Prism Launcher và CocoLauncher đều tải khôn
 
 ---
 
-Trang: Cách tải và cài Cobblemon cho Minecraft Java: Modrinth App, Fabric, server Việt
+Trang: Cách tải và cài Cobblemon cho Minecraft Java: Modrinth App, Fabric
 URL: https://coconubs.github.io/cach-tai-cobblemon/
 
 # Cách tải Cobblemon cho Minecraft Java
@@ -2174,7 +2218,7 @@ URL: https://coconubs.github.io/en/how-to-join/
 
 ## 5 steps
 
-1. **Download the launcher** for your system from the [CocoLauncher page](https://coconubs.github.io/en/cocolauncher/).
+1. **Download the launcher** for your system (Windows, macOS, Android or iPhone) from the [CocoLauncher page](https://coconubs.github.io/en/cocolauncher/).
 2. **Enter a player name:** 3 to 16 characters, letters without accents, numbers or underscores.
 3. **Press Play:** the first launch downloads Java, Minecraft, Fabric and the modpack, so use a stable connection. Later launches only download what changed.
 4. **Join:** the launcher connects to the server. Follow the on-screen registration.
@@ -2200,6 +2244,17 @@ URL: https://coconubs.github.io/en/how-to-join/
 | Money and Pokémon | `/sell` · `/pay` · `/gts` Pokémon market |
 | Daily | `/nghenghiep` jobs · `/xephang` ranked battles · `/cauca` fishing |
 | Other | `/ngonngu en` English · `/help` all commands |
+
+## How to join any Cobblemon server
+
+Every Cobblemon server runs its own Minecraft version, Cobblemon version and mod set. The general way in:
+
+1. **Check the server details:** address (IP), Minecraft version, Cobblemon version, and whether the server uses a modpack or its own launcher. This is usually on the server's page or Discord.
+2. **Install the exact mod set the server asks for:** a modpack on Modrinth or CurseForge, or the server's own launcher.
+3. **Start the game with that install:** open **Multiplayer**, press **Add Server**, paste the address and join.
+4. **Rejected for wrong mods or version:** your install does not match the server yet; go back to step 2.
+
+For Coco Cobblemon you can skip all of this: CocoLauncher installs the right mods and connects to `coco.ultramc.co` by itself.
 
 ## Can I join with another launcher?
 

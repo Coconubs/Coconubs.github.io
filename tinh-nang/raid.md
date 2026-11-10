@@ -5,7 +5,7 @@ description: "Raid Thế Giới trên server Coco Cobblemon: mở lúc 9:00 và 
 parent: Tính năng
 nav_order: 4
 permalink: /tinh-nang/raid/
-last_modified_at: 2026-11-06T11:30:01+07:00
+last_modified_at: 2026-11-11T02:53:44+07:00
 ---
 
 # Raid Thế Giới
@@ -49,6 +49,17 @@ Mỗi người đấu với 1 bản thể ở sàn riêng. Mọi sát thương v
 | Sát thương cao nhất | 5 Tinh Thể Shiny + 3 Trứng + 500 Tokens + 1 Chìa Raid |
 | Kết liễu | 2 Tinh Thể Shiny + 200 Tokens + 1 Chìa Raid + 1 Trứng Quý |
 | Mọi người có gây sát thương | 10.000$ + 100 Tokens + 1 Trứng |
+
+## Hỏi nhanh
+
+**Raid Thế Giới mở lúc mấy giờ?**
+Lúc 9:00 và 19:00 mỗi ngày (giờ Việt Nam) tại Lobby, mỗi lượt kéo dài 2 tiếng. Bot Discord báo khi boss xuất hiện.
+
+**Vào Raid cần gì?**
+Mỗi lần vào tốn 1 Chìa Khoá Raid (có trong Shop BattleTower và Battle Pass), và đội phải đúng điều kiện, bảng cấm riêng của boss. Chuột phải khối Raid ở Lobby hoặc gõ `/raid join`.
+
+**Ai được bắt boss Raid?**
+Top 5 sát thương mỗi người có 3 lượt bắt, người kết liễu thêm 3 lượt, không dùng Master Ball. Boss có tỉ lệ Shiny 1/4096, bắt được là Shiny.
 
 **Xem thêm:** [Cách có Pokémon Shiny](/tinh-nang/shiny/) · [Legendary tích luỹ và Giờ Vàng](/tinh-nang/legendary/) · [Boss Bang](/tinh-nang/bang-hoi/) · [Lịch sự kiện trong tuần theo giờ Việt Nam](/server-cobblemon-viet-nam/)
 

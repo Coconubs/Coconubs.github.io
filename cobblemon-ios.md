@@ -1,7 +1,7 @@
 ---
 title: Cobblemon trên iPhone (iOS)
 seo_title: "Cobblemon iOS: chơi Cobblemon trên iPhone, iPad được không?"
-description: "Cobblemon có bản iOS không? Cobblemon chỉ có cho Minecraft Java, không chạy trong Minecraft PE. Trên iPhone, iPad chơi được bằng launcher Java như CocoLauncher iOS (thử nghiệm). Cần gì, các bước."
+description: "Cobblemon có bản iOS không? Cobblemon chỉ có cho Minecraft Java, không chạy trong Minecraft PE. Trên iPhone, iPad chơi được bằng launcher Java như CocoLauncher iOS (thử nghiệm)."
 nav_order: 9.6
 alt: /en/cobblemon-ios/
 last_modified_at: 2026-11-11T02:48:44+07:00

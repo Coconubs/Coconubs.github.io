@@ -5,7 +5,7 @@ description: "Trên server Coco Cobblemon, Shiny không xuất hiện tự nhiê
 parent: Tính năng
 nav_order: 6
 permalink: /tinh-nang/shiny/
-last_modified_at: 2026-11-06T11:30:01+07:00
+last_modified_at: 2026-11-11T02:53:44+07:00
 ---
 
 # Shiny
@@ -38,6 +38,17 @@ Trên Coco Cobblemon, **Shiny không xuất hiện tự nhiên** và không ra t
 ## Breeding có ra Shiny không
 
 Breeding gần như không ra Shiny, và Ditto Shiny không truyền Shiny cho trứng.
+
+## Hỏi nhanh
+
+**Coco Cobblemon có Shiny xuất hiện ngoài tự nhiên không?**
+Không. Trên Coco Cobblemon, Shiny không xuất hiện tự nhiên và không ra từ Altar hay Statue triệu hồi. Có Shiny qua Dung hợp Shiny, Trứng Pokémon, Raid Thế Giới, Daily Shop, Crate Shiny và Battle Pass.
+
+**Trứng nào dễ ra Shiny nhất?**
+Trứng Huyền Thoại có tỉ lệ Shiny 1/512, Trứng Quý 1/1024, Trứng Pokémon thường 1/4096.
+
+**Dung hợp Shiny thất bại có mất Pokémon không?**
+Không. Thất bại thì mất 5 Tinh Thể Shiny và phí, Pokémon được trả lại nguyên vẹn, và lần sau với Pokémon này tỉ lệ tăng thêm.
 
 **Xem thêm:** [Breeding: cách lấy trứng Pokémon](/tinh-nang/breeding/) · [Raid Thế Giới](/tinh-nang/raid/) · [Battle Pass và Daily Shop](/tinh-nang/hang-ngay/) · [Legendary tích luỹ](/tinh-nang/legendary/)
 

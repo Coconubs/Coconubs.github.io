@@ -6,7 +6,7 @@ parent: English
 nav_order: 2
 permalink: /en/how-to-join/
 alt: /cach-vao-server/
-last_modified_at: 2026-11-11T02:29:42+07:00
+last_modified_at: 2026-11-11T02:52:55+07:00
 ---
 
 # How to join Coco Cobblemon
@@ -20,7 +20,7 @@ last_modified_at: 2026-11-11T02:29:42+07:00
 
 ## 5 steps
 
-1. **Download the launcher** for your system from the [CocoLauncher page](/en/cocolauncher/).
+1. **Download the launcher** for your system (Windows, macOS, Android or iPhone) from the [CocoLauncher page](/en/cocolauncher/).
 2. **Enter a player name:** 3 to 16 characters, letters without accents, numbers or underscores.
 3. **Press Play:** the first launch downloads Java, Minecraft, Fabric and the modpack, so use a stable connection. Later launches only download what changed.
 4. **Join:** the launcher connects to the server. Follow the on-screen registration.
@@ -46,6 +46,17 @@ last_modified_at: 2026-11-11T02:29:42+07:00
 | Money and Pokémon | `/sell` · `/pay` · `/gts` Pokémon market |
 | Daily | `/nghenghiep` jobs · `/xephang` ranked battles · `/cauca` fishing |
 | Other | `/ngonngu en` English · `/help` all commands |
+
+## How to join any Cobblemon server
+
+Every Cobblemon server runs its own Minecraft version, Cobblemon version and mod set. The general way in:
+
+1. **Check the server details:** address (IP), Minecraft version, Cobblemon version, and whether the server uses a modpack or its own launcher. This is usually on the server's page or Discord.
+2. **Install the exact mod set the server asks for:** a modpack on Modrinth or CurseForge, or the server's own launcher.
+3. **Start the game with that install:** open **Multiplayer**, press **Add Server**, paste the address and join.
+4. **Rejected for wrong mods or version:** your install does not match the server yet; go back to step 2.
+
+For Coco Cobblemon you can skip all of this: CocoLauncher installs the right mods and connects to `coco.ultramc.co` by itself.
 
 ## Can I join with another launcher?
 
