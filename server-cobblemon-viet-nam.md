@@ -4,7 +4,7 @@ seo_title: "Server Cobblemon Việt Nam (Pokémon Minecraft): Coco Cobblemon, IP
 description: "Coco Cobblemon là server Cobblemon Việt Nam trên Minecraft Java 1.21.1, IP coco.ultramc.co, máy chủ Singapore ping khoảng 29 ms từ TP.HCM. Lịch sự kiện, cách chọn server."
 nav_order: 4
 alt: /en/vietnam-cobblemon-server/
-last_modified_at: 2026-11-11T04:04:24+07:00
+last_modified_at: 2026-11-11T05:11:15+07:00
 ---
 
 # Server Cobblemon Việt Nam: Coco Cobblemon
@@ -87,7 +87,7 @@ Danh sách đầy đủ ở trang [Tính năng](/tinh-nang/). Thay đổi mới 
 - **Breeding chậm hơn bản gốc 5 lần**, nhanh hơn khi đặt Pasture trong đất bang.
 - **Menu tiếng Việt** có Pokédex mô hình 3D, tra cứu và hướng dẫn từng tính năng.
 
-Cobblemon bản gốc là gì, có bao nhiêu Pokémon, phím, lệnh và công thức chế tạo: xem [Cobblemon là gì](/cobblemon-la-gi/), [Các phím chơi Cobblemon](/phim-tat-cobblemon/), [Lệnh Cobblemon](/lenh-cobblemon/), [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/).
+Cobblemon bản gốc là gì, có bao nhiêu Pokémon, phím, lệnh, công thức chế tạo và cách tiến hoá: xem [Cobblemon là gì](/cobblemon-la-gi/), [Các phím chơi Cobblemon](/phim-tat-cobblemon/), [Lệnh Cobblemon](/lenh-cobblemon/), [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/), [Cách tiến hoá Pokémon trong Cobblemon](/tien-hoa-cobblemon/).
 
 ## Vào server thế nào
 

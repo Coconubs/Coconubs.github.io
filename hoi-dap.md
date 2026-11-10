@@ -345,6 +345,6 @@ Người chơi Coco Cobblemon hỏi trên Discord Hyper Space: https://discord.g
 
 ## Tìm hiểu thêm về Cobblemon
 
-[Cobblemon là gì, có bao nhiêu Pokémon](/cobblemon-la-gi/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Lệnh Cobblemon](/lenh-cobblemon/) · [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/)
+[Cobblemon là gì, có bao nhiêu Pokémon](/cobblemon-la-gi/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Lệnh Cobblemon](/lenh-cobblemon/) · [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/) · [Cách tiến hoá Pokémon](/tien-hoa-cobblemon/)
 
 *Cập nhật: 11/11/2026.*

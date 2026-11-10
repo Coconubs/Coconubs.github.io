@@ -101,6 +101,7 @@ Coco Cobblemon là server cộng đồng, không phải sản phẩm chính th�
 - [Các phím chơi Cobblemon: phím tắt mặc định](/phim-tat-cobblemon/)
 - [Lệnh Cobblemon: /pokespawn, /pokegive, /pokeheal](/lenh-cobblemon/)
 - [Công thức chế tạo Cobblemon: Poké Ball, PC, máy hồi máu](/cong-thuc-cobblemon/)
+- [Cách tiến hoá Pokémon trong Cobblemon: đá, trao đổi, Eevee, Mega](/tien-hoa-cobblemon/)
 - [Cobblemon Việt hoá: chơi bằng tiếng Việt](/cobblemon-viet-hoa/)
 - [Cobblemon PE, Bedrock: có bản cho Minecraft PE không?](/cobblemon-pe/)
 - [Cobblemon trên iPhone, iPad (iOS)](/cobblemon-ios/)
