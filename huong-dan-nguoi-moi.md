@@ -75,6 +75,7 @@ Các trang hướng dẫn cơ chế của Cobblemon, đọc thẳng từ file mo
 - [Cách tiến hoá Pokémon](/tien-hoa-cobblemon/): lên cấp rồi bấm Tiến Hóa, đá tiến hoá, Link Cable, 8 dạng Eevee.
 - [Cách tiến hoá Mega](/mega-cobblemon/): Mega Bracelet, đá Mega, Mega Rayquaza.
 - [Cách cưỡi Pokémon](/cuoi-pokemon-cobblemon/): 84 loài cưỡi được, bay, bơi.
+- [Cách học chiêu](/hoc-chieu-cobblemon/): chiêu theo cấp, Đổi Đòn trong Tóm Tắt, TM.
 - [Các phím chơi Cobblemon](/phim-tat-cobblemon/), [Công thức chế tạo](/cong-thuc-cobblemon/), [Lệnh Cobblemon](/lenh-cobblemon/).
 
 ## Hỏi nhanh

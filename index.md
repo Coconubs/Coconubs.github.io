@@ -105,6 +105,7 @@ Coco Cobblemon là server cộng đồng, không phải sản phẩm chính th�
 - [Cách tiến hoá Pokémon trong Cobblemon: đá, trao đổi, Eevee, Mega](/tien-hoa-cobblemon/)
 - [Cách tiến hoá Mega trong Cobblemon: Mega Bracelet, đá Mega, Rayquaza](/mega-cobblemon/)
 - [Cách cưỡi Pokémon trong Cobblemon: Pokémon nào cưỡi được](/cuoi-pokemon-cobblemon/)
+- [Cách học chiêu cho Pokémon trong Cobblemon: Đổi Đòn, TM](/hoc-chieu-cobblemon/)
 - [Cobblemon Việt hoá: chơi bằng tiếng Việt](/cobblemon-viet-hoa/)
 - [Cobblemon PE, Bedrock: có bản cho Minecraft PE không?](/cobblemon-pe/)
 - [Cobblemon trên iPhone, iPad (iOS)](/cobblemon-ios/)

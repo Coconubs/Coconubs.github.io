@@ -127,7 +127,7 @@ Nhìn vào người chơi muốn trao đổi, bấm phím R rồi chọn **Trao 
 
 Đào quặng trong thế giới: mỗi loại đá tiến hoá có quặng riêng, ví dụ Thunder Stone Ore.
 
-**Xem thêm:** [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/) · [Cobblemon là gì](/cobblemon-la-gi/) · [Cách cưỡi Pokémon](/cuoi-pokemon-cobblemon/) · [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Lệnh Cobblemon](/lenh-cobblemon/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/)
+**Xem thêm:** [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/) · [Cách học chiêu](/hoc-chieu-cobblemon/) · [Cobblemon là gì](/cobblemon-la-gi/) · [Cách cưỡi Pokémon](/cuoi-pokemon-cobblemon/) · [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Lệnh Cobblemon](/lenh-cobblemon/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/)
 
 *Số liệu đếm từ file `Cobblemon-fabric-1.7.3+1.21.1.jar` ngày 11/11/2026. Phần Mega theo mod Mega Showdown 1.9.9 và Hướng dẫn trong game ngày 08/11/2026. Bản Cobblemon khác hoặc server cài thêm gói dữ liệu có thể khác.*
 
