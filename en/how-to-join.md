@@ -69,6 +69,6 @@ Not recommended. The server needs its exact mod set, so other launchers end up m
 
 No. Cobblemon is a Java Edition mod, and packs called "Cobblemon PE" are add-ons made by other people (see [Cobblemon on Bedrock and PE](/en/cobblemon-bedrock/)). On Android phones, CocoLauncher Android is an experimental build that runs Java Edition. iPhone and iPad have an experimental CocoLauncher iOS build, see [Play Cobblemon on Android and iPhone](/en/cobblemon-android/#iphone-and-ipad).
 
-**See also:** [Cobblemon server in Vietnam](/en/vietnam-cobblemon-server/) · [Server features](/en/features/) · [FAQ](/en/faq/)
+**See also:** [Cobblemon controls](/en/cobblemon-controls/) · [Cobblemon server in Vietnam](/en/vietnam-cobblemon-server/) · [Server features](/en/features/) · [FAQ](/en/faq/)
 
 *Updated: 11 November 2026.*

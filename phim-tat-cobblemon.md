@@ -3,6 +3,7 @@ title: Phím chơi Cobblemon
 seo_title: "Các phím chơi Cobblemon: phím tắt mặc định và cách đổi phím"
 description: "Các phím chơi Cobblemon 1.7.3: R thả Pokémon và bắt đầu trận, M mở Tóm Tắt, O ẩn đội hình, mũi tên lên xuống chọn Pokémon, Alt trái khi cưỡi. Cách đổi phím."
 nav_order: 8.5
+alt: /en/cobblemon-controls/
 last_modified_at: 2026-11-11T03:56:38+07:00
 ---
 
