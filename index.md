@@ -94,6 +94,7 @@ Coco Cobblemon là server cộng đồng, không phải sản phẩm chính th�
 
 ## Tìm hiểu thêm về Cobblemon
 
+- [Cobblemon là gì? Mod Pokémon cho Minecraft Java](/cobblemon-la-gi/)
 - [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/)
 - [Launcher nào để chơi Cobblemon](/launcher-cobblemon/)
 - [Cách tải Cobblemon cho Minecraft Java](/cach-tai-cobblemon/)

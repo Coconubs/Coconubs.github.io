@@ -64,6 +64,6 @@ Không. Mỗi server chỉ nhận đúng mod và đúng phiên bản của nó.
 
 Cobblemon và Pixelmon tải không mất phí. Tải CocoLauncher và vào server Coco Cobblemon cũng không mất phí.
 
-**Xem thêm:** [Cách tải Cobblemon](/cach-tai-cobblemon/) · [Cobblemon PE, Bedrock](/cobblemon-pe/) · [Launcher nào để chơi Cobblemon](/launcher-cobblemon/) · [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/)
+**Xem thêm:** [Cobblemon là gì](/cobblemon-la-gi/) · [Cách tải Cobblemon](/cach-tai-cobblemon/) · [Cobblemon PE, Bedrock](/cobblemon-pe/) · [Launcher nào để chơi Cobblemon](/launcher-cobblemon/) · [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/)
 
 *Cập nhật: 11/11/2026.*
