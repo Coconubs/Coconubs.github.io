@@ -2,7 +2,7 @@
 
 > Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher.
 
-Bản chữ của các trang https://coconubs.github.io/ (tiếng Việt, kèm phần tiếng Anh ở cuối). Cập nhật 07/11/2026. Bản tóm tắt: https://coconubs.github.io/llms.txt
+Bản chữ của các trang https://coconubs.github.io/ (tiếng Việt, kèm phần tiếng Anh ở cuối). Cập nhật 11/11/2026. Bản tóm tắt: https://coconubs.github.io/llms.txt
 
 ---
 
@@ -25,7 +25,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 | **Phiên bản** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
 | **Máy chủ** | Đặt ở Singapore, ping khoảng 29 ms từ TP.HCM (đo 06/11/2026) |
 | **Ngôn ngữ** | Tiếng Việt, có nút chọn tiếng Anh trong menu |
-| **Vào game bằng** | CocoLauncher cho Windows, macOS, Android |
+| **Vào game bằng** | CocoLauncher cho Windows, macOS, Android, iPhone (Android và iPhone là bản thử nghiệm) |
 | **Chi phí** | Tải launcher và vào server không mất phí |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace) (tên server Discord: Hyper Space) |
 
@@ -34,7 +34,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 | Bạn muốn | Đọc trang |
 |---|---|
 | Tải launcher cho máy tính | [CocoLauncher (Coco Launcher)](https://coconubs.github.io/cocolauncher/) |
-| Chơi trên điện thoại | [Chơi Cobblemon trên điện thoại Android](https://coconubs.github.io/cobblemon-dien-thoai/) |
+| Chơi trên điện thoại | [Chơi Cobblemon trên điện thoại Android, iPhone](https://coconubs.github.io/cobblemon-dien-thoai/) |
 | Vào server lần đầu | [Cách vào server Coco Cobblemon](https://coconubs.github.io/cach-vao-server/) |
 | Biết nên làm gì ngày đầu, lệnh hay dùng | [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/) |
 | Xem server có gì | [Tính năng](https://coconubs.github.io/tinh-nang/) |
@@ -66,16 +66,16 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 - [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](https://coconubs.github.io/pokemon-trong-minecraft/)
 - [Nhật ký cập nhật](https://coconubs.github.io/cap-nhat/): Chợ GTS mới, Shop và Ngân hàng trong menu, lệnh bang hội (07/11/2026)
 
-*Cập nhật: 07/11/2026.*
+*Cập nhật: 11/11/2026.*
 
 ---
 
-Trang: Server Cobblemon Việt Nam: Coco Cobblemon, IP, ping, lịch sự kiện
+Trang: Server Cobblemon Việt Nam (Pokémon Minecraft): Coco Cobblemon, IP, ping
 URL: https://coconubs.github.io/server-cobblemon-viet-nam/
 
 # Server Cobblemon Việt Nam: Coco Cobblemon
 
-Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Trang này dành cho người đang tìm một server Cobblemon Việt Nam: thông số server, ping từ Việt Nam, số người chơi có ngày đo, lịch sự kiện theo giờ Việt Nam và những điều nên kiểm trước khi chọn server.
+Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Cobblemon là mod Pokémon cho Minecraft Java, nên server Cobblemon cũng là server Pokémon Minecraft. Trang này dành cho người đang tìm một server Cobblemon Việt Nam: thông số server, ping từ Việt Nam, số người chơi có ngày đo, lịch sự kiện theo giờ Việt Nam và những điều nên kiểm trước khi chọn server.
 
 ## Thông số nhanh
 
@@ -85,7 +85,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 | **Phiên bản** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
 | **Máy chủ đặt ở** | Singapore. Ping đo ngày 06/11/2026: khoảng 29 ms từ TP.HCM |
 | **Ngôn ngữ** | Tiếng Việt, có nút chọn tiếng Anh trong menu (`/ngonngu en`) |
-| **Vào game** | CocoLauncher cho Windows, macOS, Android |
+| **Vào game** | CocoLauncher cho Windows, macOS, Android, iPhone (Android và iPhone là bản thử nghiệm) |
 | **Giờ sự kiện** | Giờ Việt Nam (UTC+7) |
 | **Chi phí** | Tải launcher và vào server không mất phí. Rank và Battle Pass Premium không bắt buộc |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace), tên server Discord là Hyper Space |
@@ -123,7 +123,7 @@ Không có bảng xếp hạng chính thức nào cho server Cobblemon Việt Na
 | Cách cài mod | Tự cài dễ thiếu mod hoặc lệch bản | CocoLauncher tự cài, mod tự cập nhật theo server |
 | Ping từ Việt Nam | Ping cao làm trận đấu, bay, đào khối bị trễ | Máy chủ Singapore, khoảng 29 ms từ TP.HCM |
 | Ngôn ngữ | Menu, nhiệm vụ, hướng dẫn có đọc được không | Tiếng Việt, có tiếng Anh |
-| Thiết bị | Có server chỉ chơi được trên máy tính | Windows, macOS, Android (thử nghiệm) |
+| Thiết bị | Có server chỉ chơi được trên máy tính | Windows, macOS, Android và iPhone (thử nghiệm) |
 | Việc để làm lâu dài | Chỉ bắt Pokémon thì nhanh chán | Đấu Xếp Hạng, BattleTower, Bang Hội Chiến, Raid, Legendary tích luỹ |
 | Phần phải trả tiền | Biết trước cái gì miễn phí | Vào chơi không mất phí. Rank và Battle Pass Premium là tuỳ chọn |
 | Hỗ trợ | Lỗi launcher, mất đồ cần người xử lý | Hỏi trên Discord Hyper Space |
@@ -164,7 +164,7 @@ Chi tiết ở [Cách vào server](https://coconubs.github.io/cach-vao-server/).
 | macOS (chip Apple, Intel) | Có |
 | Android | Có, bản thử nghiệm, RAM từ 6 GB. Xem [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/) |
 | Linux | Chưa có bản launcher |
-| iPhone, iPad | Chưa có |
+| iPhone, iPad | Có, bản thử nghiệm [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/). Lần đầu cài cần máy tính |
 | Minecraft Bedrock, PE | Không, vì Cobblemon là mod cho Java Edition |
 
 ## Tên khác của server
@@ -188,7 +188,7 @@ Có. Buổi tối là lúc đông người chơi. Lịch sự kiện và bảo t
 **Gặp lỗi khi vào thì hỏi ở đâu?**
 Xem trước [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/), chưa được thì hỏi trên [Discord](https://discord.gg/hyspace).
 
-*Cập nhật: 07/11/2026.*
+*Cập nhật: 11/11/2026.*
 
 ---
 
@@ -208,7 +208,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 
 ## 5 bước vào server
 
-1. **Tải launcher:** vào trang [CocoLauncher](https://coconubs.github.io/cocolauncher/), chọn đúng hệ điều hành: Windows, macOS hoặc [Android](https://coconubs.github.io/cobblemon-dien-thoai/).
+1. **Tải launcher:** vào trang [CocoLauncher](https://coconubs.github.io/cocolauncher/), chọn đúng hệ điều hành: Windows, macOS, [Android](https://coconubs.github.io/cobblemon-dien-thoai/) hoặc [iPhone](https://coconubs.github.io/cobblemon-dien-thoai/#iphone-ipad).
 2. **Nhập tên:** 3 đến 16 ký tự, chữ không dấu, số hoặc dấu gạch dưới.
 3. **Bấm Chơi:** lần đầu launcher tải Java, Minecraft, Fabric và gói mod, nên dùng mạng ổn định. Những lần sau chỉ tải phần thay đổi.
 4. **Vào game:** launcher tự kết nối tới server. Làm theo hướng dẫn đăng ký trên màn hình.
@@ -224,24 +224,35 @@ Nhiều phần thưởng cần tài khoản đã liên kết Discord, ví dụ �
 2. Trong game gõ `/link` để lấy mã.
 3. Trên Discord gõ `/link <mã>` cho bot Coco.
 
+## Cách vào một server Cobblemon bất kỳ
+
+Mỗi server Cobblemon chạy một bản Minecraft, Cobblemon và bộ mod riêng. Cách vào chung cho mọi server:
+
+1. **Xem thông tin server:** địa chỉ (IP), bản Minecraft, bản Cobblemon, server dùng modpack hay launcher nào. Thông tin này thường ở trang hoặc Discord của server.
+2. **Cài đúng bộ mod server yêu cầu:** modpack trên Modrinth hoặc CurseForge, hoặc launcher riêng của server. Cách cài Cobblemon bằng Modrinth App ở trang [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/).
+3. **Vào game bằng bản cài đó:** chọn **Multiplayer** (Nhiều người chơi), bấm **Add Server** (Thêm máy chủ), dán địa chỉ server rồi vào server.
+4. **Bị từ chối vì sai mod hoặc sai phiên bản:** bản ở máy bạn chưa khớp server, xem lại bước 2.
+
+Với Coco Cobblemon thì không cần làm các bước này: CocoLauncher tự cài đúng bộ mod và tự kết nối tới `coco.ultramc.co`.
+
 ## Tự kết nối bằng launcher khác được không?
 
 Không nên. Server cần đúng bộ mod, launcher khác sẽ thiếu mod hoặc sai phiên bản và bị từ chối khi vào. Gặp lỗi thì xem [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/).
 
 ## Chơi bằng Minecraft Bedrock, PE được không?
 
-Không. Cobblemon là mod cho Java Edition. Trên điện thoại Android có thể dùng CocoLauncher Android, bản thử nghiệm chạy Java Edition. Hiện chưa có bản iOS.
+Không. Cobblemon là mod cho Java Edition. Trên điện thoại Android có thể dùng CocoLauncher Android, bản thử nghiệm chạy Java Edition. iPhone, iPad có bản thử nghiệm [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/), xem [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/#iphone-ipad).
 
-*Cập nhật: 06/11/2026.*
+*Cập nhật: 11/11/2026.*
 
 ---
 
-Trang: CocoLauncher (Coco Launcher): tải launcher Coco Cobblemon cho Windows, macOS, Android
+Trang: CocoLauncher (Coco Launcher): launcher Minecraft Cobblemon cho PC, Android, iPhone
 URL: https://coconubs.github.io/cocolauncher/
 
 # CocoLauncher (Coco Launcher)
 
-CocoLauncher là launcher của server Coco Cobblemon, tự cài Java, Minecraft, Fabric và gói mod để người chơi vào server chỉ bằng một nút. Nhà phát hành là Coconubs.
+CocoLauncher là launcher Minecraft Java của server Coco Cobblemon, tự cài Java, Minecraft, Fabric và gói mod để người chơi vào server chỉ bằng một nút. Nhà phát hành là Coconubs.
 
 ## Tải CocoLauncher
 
@@ -253,7 +264,8 @@ CocoLauncher là launcher của server Coco Cobblemon, tự cài Java, Minecraft
 | macOS Intel | [CocoLauncher-Mac-Intel.dmg](https://github.com/Coconubs/cocolauncher-pack/releases/download/launcher/CocoLauncher-Mac-Intel.dmg) | [macOS](https://coconubs.github.io/cocolauncher/macos/) |
 | Android (thử nghiệm, RAM từ 6 GB) | [CocoLauncher-Android.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android.apk) | [Điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/) |
 | Android trên giả lập PC (MuMu, LDPlayer) | [CocoLauncher-Android-GiaLap.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android-GiaLap.apk) | [Điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/#gia-lap) |
-| iOS, Linux | Chưa có | |
+| iPhone, iPad (thử nghiệm) | [Trang CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/) | [Điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/#iphone-ipad) |
+| Linux | Chưa có | |
 
 Chỉ tải từ các link trên (Microsoft Store hoặc [GitHub Releases của Coconubs](https://github.com/Coconubs/cocolauncher-pack/releases)). Bản đăng lại ở trang khác có thể đã bị sửa. Cách đối chiếu file ở trang [CocoLauncher có an toàn không](https://coconubs.github.io/cocolauncher/an-toan/).
 
@@ -275,6 +287,7 @@ CocoLauncher chỉ dùng để vào server Coco Cobblemon. Muốn chơi Cobblemo
 | Windows | Windows 10 hoặc 11 bản 64-bit |
 | macOS | Máy Mac chip Apple (M1-M4 và mới hơn) hoặc Intel |
 | Android | RAM từ 6 GB (khuyên 8 GB), chip tầm trung trở lên, trống khoảng 2 GB |
+| iPhone, iPad | iOS 14 trở lên, khuyên máy 8 GB RAM. Lần đầu cần máy tính và cáp khoảng 30 phút để cài, xem [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/) |
 | RAM máy tính | Launcher mặc định cấp cho game 2 đến 4 GB, nên máy nên có từ 8 GB RAM |
 
 ## Hỏi nhanh
@@ -292,11 +305,12 @@ Không. App giao diện điện thoại tên "Coco Launcher" trên Google Play l
 
 - [Cài CocoLauncher trên Windows](https://coconubs.github.io/cocolauncher/windows/)
 - [CocoLauncher cho macOS](https://coconubs.github.io/cocolauncher/macos/)
-- [Chơi Cobblemon trên điện thoại Android](https://coconubs.github.io/cobblemon-dien-thoai/)
+- [Chơi Cobblemon trên điện thoại Android, iPhone](https://coconubs.github.io/cobblemon-dien-thoai/)
+- [CocoLauncher iOS: tải và cài trên iPhone, iPad](https://coconubs.github.io/CocoLauncher-iOS/)
 - [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/)
 - [CocoLauncher có an toàn không? Cách kiểm tra file tải](https://coconubs.github.io/cocolauncher/an-toan/)
 
-*Cập nhật: 07/11/2026.*
+*Cập nhật: 11/11/2026.*
 
 ---
 
@@ -379,16 +393,18 @@ Nếu máy báo app "is damaged", tải lại file từ link trên và [đối c
 
 Bản Mac không tự cập nhật launcher. Khi có thông báo bản mới, tải lại file .dmg và kéo đè vào Applications. Dữ liệu game giữ nguyên. Gói mod vẫn tự cập nhật mỗi lần bấm Chơi.
 
+**Xem thêm:** [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/) · [CocoLauncher có an toàn không](https://coconubs.github.io/cocolauncher/an-toan/) · [Cách vào server](https://coconubs.github.io/cach-vao-server/)
+
 *Cập nhật: 06/11/2026.*
 
 ---
 
-Trang: Chơi Cobblemon trên điện thoại Android bằng CocoLauncher Android
+Trang: Chơi Cobblemon trên điện thoại Android, iPhone bằng CocoLauncher
 URL: https://coconubs.github.io/cobblemon-dien-thoai/
 
-# Chơi Cobblemon trên điện thoại Android
+# Chơi Cobblemon trên điện thoại Android, iPhone
 
-Cobblemon là mod cho Minecraft Java Edition, nên không cài được vào Minecraft PE hay Bedrock. Muốn chơi Cobblemon trên điện thoại, server Coco Cobblemon có **CocoLauncher Android**: bản thử nghiệm chạy Java Edition ngay trên máy Android và vào chung server với người chơi máy tính.
+Cobblemon là mod cho Minecraft Java Edition, nên không cài được vào Minecraft PE hay Bedrock. Muốn chơi Cobblemon trên điện thoại, server Coco Cobblemon có **CocoLauncher Android**: bản thử nghiệm chạy Java Edition ngay trên máy Android và vào chung server với người chơi máy tính. iPhone, iPad có bản thử nghiệm riêng là [CocoLauncher iOS](#iphone-ipad).
 
 [Tải CocoLauncher-Android.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android.apk)
 
@@ -417,7 +433,16 @@ Giả lập trên máy tính dùng bản riêng: [CocoLauncher-Android-GiaLap.ap
 
 ## iPhone, iPad
 
-Chưa có bản iOS.
+Có bản thử nghiệm **CocoLauncher iOS**, tải và xem hướng dẫn cài ở trang [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/). iPhone không cài app ngoài App Store trực tiếp được, nên cách cài dài hơn Android:
+
+| Cần | Chi tiết |
+|---|---|
+| Máy | iPhone, iPad chạy iOS 14 trở lên. Khuyên máy 8 GB RAM (iPhone 15 Pro, 16, 17); máy 6 GB chơi được ở cấu hình Thấp |
+| Máy tính | Windows hoặc Mac và cáp, dùng 1 lần khoảng 30 phút để cài SideStore và mở khoá RAM cho app |
+| Tài khoản | Một Apple ID, nên dùng Apple ID phụ |
+| Giữ app mở được | Cứ 7 ngày vào SideStore bấm Refresh. Quá hạn thì app không mở được cho tới khi Refresh |
+
+Lần đầu app tải khoảng 1,5 GB, nên dùng Wi-Fi. Lỗi khi cài hoặc văng game: hỏi trên [Discord](https://discord.gg/hyspace), gửi kèm ảnh chụp và file `latestlog.txt` (app Tệp › CocoLauncher).
 
 ## Mẹo cho máy yếu
 
@@ -447,7 +472,7 @@ Fold Craft Launcher (FCL) và PojavLauncher chạy được Minecraft Java Editi
 **Chơi bằng Minecraft PE được không?**
 Không. Cobblemon là mod cho Java Edition, Minecraft PE và Bedrock không vào được server. Gói "Cobblemon PE" trên mạng là addon của người khác, xem [Cobblemon PE, Bedrock](https://coconubs.github.io/cobblemon-pe/).
 
-*Cập nhật: 07/11/2026.*
+*Cập nhật: 11/11/2026.*
 
 ---
 
@@ -496,6 +521,8 @@ Có thể quét file bằng Microsoft Defender (chuột phải vào file, chọn
 ## Launcher lưu gì trên máy
 
 Launcher lưu Minecraft, Java, gói mod và thiết lập của bạn trong thư mục game. Tên chơi và mức RAM lưu ở máy của bạn để lần sau không phải nhập lại.
+
+**Xem thêm:** [Tải CocoLauncher](https://coconubs.github.io/cocolauncher/) · [Cài trên Windows](https://coconubs.github.io/cocolauncher/windows/) · [CocoLauncher cho macOS](https://coconubs.github.io/cocolauncher/macos/) · [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/) · [Hỏi đáp](https://coconubs.github.io/hoi-dap/)
 
 *Cập nhật: 06/11/2026.*
 
@@ -604,6 +631,8 @@ Số dư hiện trên scoreboard bên phải màn hình và đầu Menu.
 ## Breeding
 
 Cần 1 Pasture Block và 2 Pokémon cùng nhóm trứng (một đực, một cái) hoặc 1 Pokémon với Ditto. Khoảng 4 đến 8 giờ có 1 trứng. Breeding trên server chậm hơn bản gốc 5 lần, đặt Pasture trong đất bang thì bớt 10% thời gian mỗi cấp bang. Chi tiết ở [Breeding](https://coconubs.github.io/tinh-nang/breeding/).
+
+**Xem thêm:** [Tất cả tính năng](https://coconubs.github.io/tinh-nang/) · [Tiền tệ, Shop và Chợ GTS](https://coconubs.github.io/tinh-nang/kinh-te/) · [Việc hằng ngày](https://coconubs.github.io/tinh-nang/hang-ngay/) · [Hỏi đáp](https://coconubs.github.io/hoi-dap/)
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026. Con số có thể đổi theo cập nhật, Menu trong game luôn là bản đúng nhất.*
 
@@ -720,6 +749,8 @@ Hai bên thấy loài 6 con của nhau (không thấy vật phẩm cầm, level,
 
 Tab **ĐANG ĐẤU** xem trực tiếp các trận Đấu Đơn (Đấu Đôi không xem trực tiếp để giữ bí mật đội hình). Tab **LỊCH SỬ** xem lại trận của bạn trong 3 ngày.
 
+**Xem thêm:** [BattleTower 555 tầng](https://coconubs.github.io/tinh-nang/battletower/) · [Gym, Tứ Thiên Vương và NPC Tiền Thưởng](https://coconubs.github.io/tinh-nang/gym-npc/) · [Bang Hội Chiến](https://coconubs.github.io/tinh-nang/bang-hoi/) · [Cách vào server Coco Cobblemon](https://coconubs.github.io/cach-vao-server/)
+
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
 
 ---
@@ -755,6 +786,8 @@ Thua tụt 5 tầng nhưng không dưới mốc an toàn (25, 50, 75...). Ví d�
 - Lần đầu vượt mỗi mốc 50 tầng, cả bang của bạn nhận Quà Bang.
 
 Trong sàn đấu không đặt hay đập block, không bay, không PvP, không dùng lệnh dịch chuyển.
+
+**Xem thêm:** [Đấu Xếp Hạng tính Elo](https://coconubs.github.io/tinh-nang/dau-xep-hang/) · [Gym và NPC Tiền Thưởng](https://coconubs.github.io/tinh-nang/gym-npc/) · [Tokens và BattleTower Points dùng vào đâu](https://coconubs.github.io/tinh-nang/kinh-te/) · [Việc hằng ngày](https://coconubs.github.io/tinh-nang/hang-ngay/)
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
 
@@ -826,6 +859,8 @@ Khi 1 thành viên làm được việc lớn, các thành viên còn lại nh�
 
 Điều kiện: vào bang từ 24 giờ, tối đa 15 hộp mỗi ngày. Offline thì quà giữ 72 giờ.
 
+**Xem thêm:** [Claim đất và khoá đất riêng](https://coconubs.github.io/tinh-nang/dat-nha/) · [Breeding nhanh hơn trong đất bang](https://coconubs.github.io/tinh-nang/breeding/) · [Legendary tích luỹ](https://coconubs.github.io/tinh-nang/legendary/) · [Raid Thế Giới](https://coconubs.github.io/tinh-nang/raid/)
+
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
 
 ---
@@ -873,6 +908,8 @@ Mỗi người đấu với 1 bản thể ở sàn riêng. Mọi sát thương v
 | Sát thương cao nhất | 5 Tinh Thể Shiny + 3 Trứng + 500 Tokens + 1 Chìa Raid |
 | Kết liễu | 2 Tinh Thể Shiny + 200 Tokens + 1 Chìa Raid + 1 Trứng Quý |
 | Mọi người có gây sát thương | 10.000$ + 100 Tokens + 1 Trứng |
+
+**Xem thêm:** [Cách có Pokémon Shiny](https://coconubs.github.io/tinh-nang/shiny/) · [Legendary tích luỹ và Giờ Vàng](https://coconubs.github.io/tinh-nang/legendary/) · [Boss Bang](https://coconubs.github.io/tinh-nang/bang-hoi/) · [Lịch sự kiện trong tuần theo giờ Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/)
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
 
@@ -923,6 +960,8 @@ Altar, Shrine, Legendary Monuments và máy hồi sinh hoá thạch vẫn dùng 
 - Trứng Huyền Thoại: chỉ ra Legendary (không Mythical, UB, Paradox), cấp 50.
 - [Boss Bang](https://coconubs.github.io/tinh-nang/bang-hoi/#boss-bang): đổi Mảnh loài boss lấy 1 con Lv 50.
 
+**Xem thêm:** [Cách có Pokémon Shiny](https://coconubs.github.io/tinh-nang/shiny/) · [Giờ Vàng trong lịch sự kiện tuần](https://coconubs.github.io/server-cobblemon-viet-nam/) · [Hỏi đáp](https://coconubs.github.io/hoi-dap/)
+
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
 
 ---
@@ -959,6 +998,8 @@ Trên Coco Cobblemon, **Shiny không xuất hiện tự nhiên** và không ra t
 ## Breeding có ra Shiny không
 
 Breeding gần như không ra Shiny, và Ditto Shiny không truyền Shiny cho trứng.
+
+**Xem thêm:** [Breeding: cách lấy trứng Pokémon](https://coconubs.github.io/tinh-nang/breeding/) · [Raid Thế Giới](https://coconubs.github.io/tinh-nang/raid/) · [Battle Pass và Daily Shop](https://coconubs.github.io/tinh-nang/hang-ngay/) · [Legendary tích luỹ](https://coconubs.github.io/tinh-nang/legendary/)
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
 
@@ -1020,6 +1061,8 @@ Thêm ngẫu nhiên: Rare Candy, EXP Candy, Trứng, Ability Capsule, Bottle Cap
 
 Chơi bình thường là có cơ hội rơi Túi May Mắn: bắt Pokémon, thắng trận, đào quặng, thu hoạch berry, câu cá, online đủ giờ. Bên trong là khoáng sản, gỗ, Apricorn, bóng Pokémon, lông EV, Mint. Hiếm hơn là Túi May Mắn Hoàng Kim với nhiều món xịn hơn.
 
+**Xem thêm:** [Tiền tệ, Shop và Chợ GTS](https://coconubs.github.io/tinh-nang/kinh-te/) · [Cách có Pokémon Shiny](https://coconubs.github.io/tinh-nang/shiny/) · [Câu cá 100 loài](https://coconubs.github.io/tinh-nang/cau-ca/) · [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/)
+
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
 
 ---
@@ -1064,6 +1107,8 @@ Mỗi tối **19:00-22:00** có thanh đếm ngược trên màn hình. Ai câu 
 ## Danh hiệu câu cá
 
 Câu đủ mọi loài của một độ hiếm sẽ nhận danh hiệu: Cần Thủ, Cần Thủ Đồng, Bạc, Vàng, Bạch Kim, Tinh Anh, Thách Đấu. Câu đủ tất cả các loài được danh hiệu **Đại Hải Trình**.
+
+**Xem thêm:** [Việc hằng ngày](https://coconubs.github.io/tinh-nang/hang-ngay/) · [Tiền tệ, Shop và Chợ GTS](https://coconubs.github.io/tinh-nang/kinh-te/) · [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/) · [Lịch sự kiện trong tuần theo giờ Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/)
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
 
@@ -1263,6 +1308,8 @@ Có. Mỗi trận Gym có mốc cấp, Pokémon cao hơn mốc được hạ v�
 **NPC Tiền Thưởng ở đâu?**
 Xuất hiện ngẫu nhiên mỗi ngày trong vùng đã khám phá; gõ `/tienthuong` để xem hướng và toạ độ.
 
+**Xem thêm:** [Tiền tệ, Shop và Chợ GTS](https://coconubs.github.io/tinh-nang/kinh-te/) · [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/) · [Cách vào server](https://coconubs.github.io/cach-vao-server/)
+
 *Nội dung lấy từ Hướng dẫn trong game ngày 07/11/2026. Con số có thể đổi theo cập nhật, Menu trong game luôn là bản đúng nhất.*
 
 ---
@@ -1318,6 +1365,8 @@ Waystone: chuột phải để kích hoạt, rồi dịch chuyển giữa các W
 
 **Xây ở đâu cho an toàn?**
 Trong ±30.000 theo X và Z. Ngoài vùng này không claim được, không đặt được rương, balo, Pasture, và reset 2 tuần một lần.
+
+**Xem thêm:** [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/) · [Tiền tệ, Shop và Chợ GTS](https://coconubs.github.io/tinh-nang/kinh-te/) · [Hỏi đáp](https://coconubs.github.io/hoi-dap/)
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 07/11/2026. Con số có thể đổi theo cập nhật, Menu trong game luôn là bản đúng nhất.*
 
@@ -1386,9 +1435,9 @@ Tải CocoLauncher và vào server không mất phí. Trong game có Rank và Ba
 
 Windows 10 hoặc 11 bản 64-bit, hoặc máy Mac chip Apple hay Intel. Launcher mặc định cấp cho game 2 đến 4 GB RAM, nên máy nên có từ 8 GB RAM. Chưa có bản cho Linux.
 
-### Chơi Cobblemon trên điện thoại Android được không? Có server Việt nào vào được bằng điện thoại không?
+### Chơi Cobblemon trên điện thoại Android, iPhone được không? Có server Việt nào vào được bằng điện thoại không?
 
-Được trên Android. Coco Cobblemon vào được bằng CocoLauncher Android, bản thử nghiệm chạy Java Edition, cần RAM từ 6 GB, khuyên dùng 8 GB trở lên. Hiện chưa có bản iOS. Cách cài ở trang [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/).
+Được. Trên Android, Coco Cobblemon vào được bằng CocoLauncher Android, bản thử nghiệm chạy Java Edition, cần RAM từ 6 GB, khuyên dùng 8 GB trở lên. Trên iPhone, iPad có bản thử nghiệm CocoLauncher iOS, cài qua SideStore và lần đầu cần máy tính. Cách cài ở trang [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/).
 
 ### Có chơi được bằng Minecraft Bedrock hay PE không?
 
@@ -1426,7 +1475,7 @@ Hyper Space là tên server Discord của cộng đồng Coco Cobblemon: https:/
 
 Hỏi trên Discord: https://discord.gg/hyspace. Lỗi launcher xem trước trang [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/).
 
-*Cập nhật: 07/11/2026.*
+*Cập nhật: 11/11/2026.*
 
 ---
 
@@ -1532,6 +1581,8 @@ Các thay đổi chính của server Coco Cobblemon, mới nhất ở trên. B�
 - CocoLauncher có giao diện mới, đủ bản Windows, macOS và Android.
 - Đấu Xếp Hạng: thời gian chọn Pokémon tăng lên 3 phút.
 
+**Xem thêm:** [Tính năng server](https://coconubs.github.io/tinh-nang/) · [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/) · [Hỏi đáp](https://coconubs.github.io/hoi-dap/) · [Tải CocoLauncher](https://coconubs.github.io/cocolauncher/)
+
 *Cập nhật: 07/11/2026.*
 
 ---
@@ -1560,7 +1611,7 @@ Cobblemon là mod cho Minecraft Java Edition, nên cần một launcher cài đ�
 | Cài Cobblemon thế nào | Cài Cobblemon Official Modpack [Fabric] ở tab Discover | Cài một modpack Cobblemon trong mục Modpacks | Nhập modpack từ Modrinth hoặc CurseForge | Tự cài đúng bộ mod của Coco Cobblemon |
 | Phải tự cài Java? | Không, app tự tải | Không | Không, có thể tự tải | Không, launcher tự cài |
 | Hợp với | Người mới chơi một mình | Người đã dùng CurseForge | Người thích tự chỉnh | Người vào Coco Cobblemon |
-| Có bản điện thoại | Không | Không | Không | Android, thử nghiệm |
+| Có bản điện thoại | Không | Không | Không | Android, iPhone (thử nghiệm) |
 | Phí | Không mất phí | Không mất phí | Không mất phí | Không mất phí |
 
 ## Từng launcher
@@ -1571,7 +1622,7 @@ Cobblemon là mod cho Minecraft Java Edition, nên cần một launcher cài đ�
 
 **Prism Launcher.** Mã nguồn mở, có bản Windows, macOS, Linux, nhập được modpack từ Modrinth và CurseForge. Hợp với người muốn tự chỉnh từng bản cài; người mới sẽ thấy nhiều tuỳ chọn hơn.
 
-**CocoLauncher.** Launcher riêng của server Coco Cobblemon, giao diện tiếng Việt, có bản Windows (Microsoft Store), macOS và Android thử nghiệm. Nhập tên, bấm **Chơi**, launcher tự cài Java, Minecraft, Fabric và đúng bộ mod của server, mod tự cập nhật theo server. CocoLauncher chỉ dùng để vào Coco Cobblemon, không dùng để chơi một mình hay vào server khác. Tải ở trang [Tải CocoLauncher](https://coconubs.github.io/cocolauncher/).
+**CocoLauncher.** Launcher riêng của server Coco Cobblemon, giao diện tiếng Việt, có bản Windows (Microsoft Store), macOS, và bản thử nghiệm cho Android, iPhone. Nhập tên, bấm **Chơi**, launcher tự cài Java, Minecraft, Fabric và đúng bộ mod của server, mod tự cập nhật theo server. CocoLauncher chỉ dùng để vào Coco Cobblemon, không dùng để chơi một mình hay vào server khác. Tải ở trang [Tải CocoLauncher](https://coconubs.github.io/cocolauncher/).
 
 ## Vì sao modpack Cobblemon chính thức không vào được Coco Cobblemon
 
@@ -1593,6 +1644,8 @@ Modrinth App, CurseForge App và Prism Launcher không có bản Android. Trên 
 
 CocoLauncher Android là bản thử nghiệm chỉ để vào Coco Cobblemon: launcher tự cài gói Coco Lite khoảng 125 mod, cần RAM từ 6 GB, khuyên 8 GB trở lên. Xem [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/).
 
+Trên iPhone, iPad cũng có CocoLauncher iOS bản thử nghiệm, chỉ để vào Coco Cobblemon; lần đầu cài cần máy tính. Xem [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/).
+
 ## Hỏi nhanh
 
 **Launcher nào dễ dùng nhất cho người mới ở Việt Nam?**
@@ -1604,40 +1657,116 @@ Không launcher nào ở trên cài Cobblemon vào Bedrock hay PE, vì Cobblemon
 **Launcher có mất phí không?**
 Modrinth App, CurseForge App, Prism Launcher và CocoLauncher đều tải không mất phí.
 
-*Cập nhật: 07/11/2026.*
+*Cập nhật: 11/11/2026.*
 
 ---
 
-Trang: Cách tải Cobblemon cho Minecraft Java: chơi cùng người Việt hoặc bản gốc
+Trang: Cách tải và cài Cobblemon cho Minecraft Java: Modrinth App, Fabric, server Việt
 URL: https://coconubs.github.io/cach-tai-cobblemon/
 
 # Cách tải Cobblemon cho Minecraft Java
 
-Hai cách tuỳ theo bạn muốn vào server người Việt hay tự chơi bản gốc.
+Cobblemon là mod Pokémon cho Minecraft **Java Edition**. Cách dễ nhất để tải Cobblemon là cài **Cobblemon Official Modpack** bằng Modrinth App: app tự tải đúng Minecraft, Fabric và mod. Muốn vào server người Việt Coco Cobblemon thì dùng CocoLauncher. Cobblemon không có bản cho Minecraft Bedrock hay PE.
 
-> **Lưu ý trước khi tải:** Cobblemon là mod cho Minecraft **Java Edition**, không chạy trên Bedrock. Mỗi server cần đúng phiên bản: tại ngày 01/11/2026 Modrinth có bản Fabric 1.8.4F, còn server Coco Cobblemon dùng **1.7.3**. Bản mới hơn có thể đã ra, hãy kiểm tra trên Modrinth.
+## Chọn cách tải
 
-## Cách 1: dùng CocoLauncher
+| Cách | Hợp với | Vào được Coco Cobblemon? |
+|---|---|---|
+| [Modrinth App + Cobblemon Official Modpack](#cach-1) | Người mới chơi một mình, bản gốc | Không, khác phiên bản |
+| [Tự cài file mod với Fabric](#cach-2) | Người muốn tự chọn mod | Không, thiếu bộ mod của server |
+| [CocoLauncher](#cach-3) | Người muốn vào server người Việt | Có, launcher tự cài đúng bộ mod |
 
-Nhanh nhất nếu bạn muốn chơi cùng người Việt: launcher lo hết phiên bản và mod. Xem [các bước vào server](https://coconubs.github.io/cach-vao-server/).
+## Cần gì trước khi tải
 
-## Cách 2: tự cài Cobblemon bản gốc
+| | |
+|---|---|
+| **Game** | Minecraft: Java Edition trên Windows, macOS hoặc Linux |
+| **Phiên bản** | Cobblemon 1.7 và 1.8 chạy trên Minecraft 1.21.1. Bản cũ hơn có cho 1.20.1 và 1.19.2 |
+| **Bộ nạp mod** | Fabric (Fabric Loader và Fabric API). Cobblemon cũng có bản NeoForge, nhưng bản Fabric và bản NeoForge không dùng lẫn được |
+| **Java** | Minecraft 1.21.1 cần Java 21. Modrinth App, Minecraft Launcher và CocoLauncher tự kèm Java |
+| **RAM** | Máy nên có từ 8 GB RAM. Cấp RAM cho game trong cài đặt launcher, không quá nửa RAM của máy |
 
-Dành cho chơi một mình hoặc server riêng. Bản này không vào được server Coco Cobblemon vì khác phiên bản và thiếu gói mod.
+Bản mới nhất ngày 11/11/2026 trên [trang Cobblemon ở Modrinth](https://modrinth.com/mod/cobblemon) là **1.8.4F** cho Fabric, ra ngày 27/10/2026, chạy trên Minecraft 1.21.1. Server Coco Cobblemon dùng **1.7.3**. Bản mới hơn có thể đã ra, hãy xem trang Modrinth trước khi tải.
 
-1. Cài [Modrinth App](https://modrinth.com/app).
-2. Tìm **Cobblemon Official Modpack** trong tab Modpacks, chọn bản Fabric, bấm Install. App tự tải đúng Minecraft, Fabric và mod phụ thuộc.
-3. Trong cài đặt instance, tăng RAM nếu game chậm, rồi bấm Play.
+## Cách 1: Modrinth App và Cobblemon Official Modpack
 
-Cũng có thể tải riêng mod tại [trang Cobblemon trên Modrinth](https://modrinth.com/mod/cobblemon), nhưng phải tự cài Fabric Loader, Fabric API và Fabric Language Kotlin. So sánh các launcher ở trang [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/).
+Modrinth App là launcher không mất phí, có bản Windows, macOS và Linux. Cobblemon Official Modpack là gói do chính nhóm Cobblemon làm, gồm Cobblemon và các mod cần thiết.
 
-## Lỗi hay gặp
+1. Tải và cài [Modrinth App](https://modrinth.com/app).
+2. Mở app, đăng nhập tài khoản Microsoft có Minecraft: Java Edition (Modrinth App cần tài khoản này để chạy game).
+3. Vào mục tìm nội dung, chọn loại **Modpacks**, gõ "Cobblemon".
+4. Chọn **Cobblemon Official Modpack [Fabric]**, bấm **Install**. App tự tải Minecraft 1.21.1, Fabric, Java và mod.
+5. Cài xong, bản cài hiện trong thư viện của app. Bấm **Play**.
+6. Game chậm hoặc văng thì vào cài đặt của bản cài để tăng RAM.
 
-- **Sai phiên bản khi vào server:** client và server phải cùng bản Minecraft, Cobblemon và bộ mod bắt buộc.
-- **Game văng lúc khởi động:** kiểm tra Java tương thích và RAM cấp cho game. CocoLauncher tự kèm Java.
-- **Điện thoại:** bản Android của CocoLauncher là bản thử nghiệm, xem [yêu cầu cấu hình](https://coconubs.github.io/cobblemon-dien-thoai/).
+Modpack chính thức hợp để chơi một mình hoặc vào server dùng đúng bản này. Nó không vào được Coco Cobblemon: lý do ở [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/).
 
-*Cập nhật: 06/11/2026.*
+## Cách 2: tự cài file mod với Fabric
+
+Dành cho người muốn tự chọn mod hoặc dùng Minecraft Launcher chính thức.
+
+1. Tải **Fabric Installer** ở trang [fabricmc.net](https://fabricmc.net/use/installer/), chọn Minecraft **1.21.1**, bấm Install. Minecraft Launcher sẽ có thêm bản cài tên `fabric-loader-1.21.1`.
+2. Ở [Modrinth](https://modrinth.com/mod/cobblemon), tải file Cobblemon cho **Fabric 1.21.1** (tên file dạng `Cobblemon-fabric-...+1.21.1.jar`).
+3. Tải [Fabric API](https://modrinth.com/mod/fabric-api) cho 1.21.1.
+4. Chép cả 2 file .jar vào thư mục `mods`:
+   - Windows: gõ `%appdata%\.minecraft` vào thanh địa chỉ của File Explorer, mở (hoặc tạo) thư mục `mods`.
+   - macOS: `~/Library/Application Support/minecraft/mods`.
+5. Mở Minecraft Launcher, chọn bản cài `fabric-loader-1.21.1`, bấm Play.
+
+Không cần cài riêng Fabric Language Kotlin: file Cobblemon 1.7.3 cho Fabric đã kèm sẵn thư viện này, và trên Modrinth các bản 1.7 tới 1.8.4F chỉ ghi Fabric API là mod bắt buộc.
+
+## Cách 3: vào server người Việt bằng CocoLauncher
+
+Coco Cobblemon là server Cobblemon cho cộng đồng người Việt (Minecraft Java 1.21.1, Cobblemon 1.7.3, địa chỉ `coco.ultramc.co`). Server có bộ mod riêng: menu tiếng Việt, Đấu Xếp Hạng, bang hội và nhiều mod khác, nên không vào bằng Cách 1 hay Cách 2 được.
+
+1. Tải [CocoLauncher](https://coconubs.github.io/cocolauncher/) cho Windows, macOS, Android hoặc iPhone (Android, iPhone là bản thử nghiệm).
+2. Nhập tên trong game, bấm **Chơi**. Launcher tự cài Java, Minecraft, Fabric, Cobblemon 1.7.3 và đúng bộ mod của server, mod tự cập nhật theo server.
+3. Vào game, gõ `/menu` để mở Hướng dẫn tiếng Việt.
+
+Chi tiết từng bước ở [Cách vào server](https://coconubs.github.io/cach-vao-server/).
+
+## Tải Cobblemon trên điện thoại
+
+Cobblemon không cài được vào Minecraft PE hay Bedrock, kể cả trên điện thoại. Addon "Cobblemon PE" là sản phẩm khác, xem [Cobblemon PE, Bedrock](https://coconubs.github.io/cobblemon-pe/).
+
+- **Android:** chạy Minecraft Java Edition bằng launcher như Fold Craft Launcher (FCL) hay PojavLauncher rồi tự cài Fabric và Cobblemon; hoặc dùng CocoLauncher Android để vào Coco Cobblemon.
+- **iPhone, iPad:** CocoLauncher iOS là bản thử nghiệm để vào Coco Cobblemon, lần đầu cài cần máy tính.
+
+Yêu cầu máy và cách cài ở trang [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/).
+
+## Lỗi hay gặp khi cài Cobblemon
+
+| Lỗi | Cách sửa |
+|---|---|
+| Game báo thiếu Fabric API | Tải Fabric API đúng bản 1.21.1, chép vào thư mục `mods` |
+| Game văng ngay khi mở | Xem file có đúng bản Fabric không: file `Cobblemon-neoforge-...` không chạy với Fabric. Bỏ bớt mod khác để tìm mod gây lỗi |
+| Không có bản cài Fabric trong Minecraft Launcher | Chạy lại Fabric Installer, chọn đúng Minecraft 1.21.1 |
+| Vào server bị từ chối vì sai mod hoặc sai phiên bản | Bản Minecraft, Cobblemon và các mod có nội dung phải khớp server. Hỏi server họ dùng bản nào hoặc dùng launcher của server |
+| Game giật, thiếu bộ nhớ | Tăng RAM trong cài đặt launcher, không quá nửa RAM của máy |
+| Dùng Minecraft Bedrock, PE | Cobblemon chỉ có cho Java Edition |
+
+Dùng CocoLauncher mà gặp lỗi thì xem [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/).
+
+## Hỏi nhanh
+
+**Cobblemon có mất phí không?**
+Mod Cobblemon tải không mất phí trên Modrinth và CurseForge. Cần có Minecraft: Java Edition để chạy mod.
+
+**Tải Cobblemon ở đâu cho an toàn?**
+Ở trang Cobblemon trên [Modrinth](https://modrinth.com/mod/cobblemon) hoặc CurseForge. Trang đăng lại mod thường gắn quảng cáo hoặc file giả.
+
+**Cobblemon có tiếng Việt không?**
+Có một phần: Cobblemon 1.7.3 có sẵn ngôn ngữ Tiếng Việt cho khoảng 60% số dòng chữ. Cách bật và gói Việt hoá cộng đồng ở trang [Cobblemon Việt hoá](https://coconubs.github.io/cobblemon-viet-hoa/).
+
+**Cài Cobblemon xong vào server nào cũng được không?**
+Không. Mỗi server chạy một bản Minecraft, Cobblemon và bộ mod riêng, máy bạn phải khớp. Server người Việt Coco Cobblemon vào bằng [CocoLauncher](https://coconubs.github.io/cocolauncher/).
+
+**Có cần tự cài Java không?**
+Không, nếu dùng Modrinth App, Minecraft Launcher hoặc CocoLauncher. Chỉ khi tự chạy game bằng launcher khác mới cần chọn Java 21 bản 64-bit.
+
+**Xem thêm:** [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/) · [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](https://coconubs.github.io/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/) · [Hỏi đáp](https://coconubs.github.io/hoi-dap/)
+
+*Cập nhật: 11/11/2026. Số phiên bản kiểm trên Modrinth ngày 11/11/2026.*
 
 ---
 
@@ -1710,12 +1839,11 @@ Trên các trang addon cho Minecraft PE có nhiều gói mang tên Cobblemon, c�
 
 ## Muốn chơi Cobblemon trên điện thoại
 
-Cách chơi Cobblemon thật trên điện thoại là chạy Minecraft Java Edition trên Android bằng một launcher Java:
+Cách chơi Cobblemon thật trên điện thoại là chạy Minecraft Java Edition bằng một launcher Java, trên Android hoặc iPhone:
 
 - **Fold Craft Launcher (FCL), PojavLauncher:** chạy Java Edition trên Android; bạn tự cài Fabric và Cobblemon. Hợp để chơi một mình hoặc vào server tự chọn.
 - **CocoLauncher Android:** bản thử nghiệm chỉ để vào server Coco Cobblemon. Launcher tự cài gói Coco Lite khoảng 125 mod, cần RAM từ 6 GB, khuyên 8 GB trở lên. Xem [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/).
-
-CocoLauncher chưa có bản cho iPhone, iPad.
+- **CocoLauncher iOS:** bản thử nghiệm cho iPhone, iPad, cũng chạy Java Edition và chỉ để vào server Coco Cobblemon. Cài qua SideStore, lần đầu cần máy tính khoảng 30 phút. Xem [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/).
 
 ## Server Cobblemon cho người chơi PE
 
@@ -1732,7 +1860,7 @@ Không. Coco Cobblemon là server Minecraft Java 1.21.1 chạy Cobblemon 1.7.3 c
 **Minecraft PE có Pokémon không?**
 Có vài addon Pokémon cho Bedrock do cộng đồng làm. Cobblemon và Pixelmon là mod cho Java Edition, xem [Chơi Pokémon trong Minecraft](https://coconubs.github.io/pokemon-trong-minecraft/).
 
-*Cập nhật: 07/11/2026.*
+*Cập nhật: 11/11/2026.*
 
 ---
 
@@ -1803,7 +1931,7 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 | **Version** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
 | **Hosted in** | Singapore, about 29 ms ping from Ho Chi Minh City (measured 6 November 2026) |
 | **Language** | Vietnamese, with an English option in the launcher and the in-game menu |
-| **Join with** | CocoLauncher for Windows, macOS and Android |
+| **Join with** | CocoLauncher for Windows, macOS, Android and iPhone (Android and iPhone builds are experimental) |
 | **Cost** | Free to download and join |
 | **Event times** | Vietnam time (UTC+7) |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace) (Discord server name: Hyper Space) |
@@ -1830,7 +1958,7 @@ Details on the [Features](https://coconubs.github.io/en/features/) page.
 | macOS (Apple silicon, Intel) | Yes |
 | Android | Experimental build that runs Java Edition, 6 GB of RAM or more. See [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/) |
 | Linux | No launcher build yet |
-| iPhone, iPad | Not available |
+| iPhone, iPad | Experimental build, see [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/) (guide in Vietnamese) |
 | Minecraft Bedrock, Pocket Edition | No, Cobblemon is a Java Edition mod |
 
 ## Can I join from outside Vietnam?
@@ -1843,12 +1971,12 @@ Yes. Anyone can download CocoLauncher and join. Most players and most of the cha
 - [CocoLauncher download](https://coconubs.github.io/en/cocolauncher/)
 - [How to join](https://coconubs.github.io/en/how-to-join/)
 - [Features](https://coconubs.github.io/en/features/)
-- [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/)
+- [Play Cobblemon on Android and iPhone](https://coconubs.github.io/en/cobblemon-android/)
 - [Which launcher for Cobblemon](https://coconubs.github.io/en/cobblemon-launcher/)
 - [Troubleshooting](https://coconubs.github.io/en/troubleshooting/)
 - [FAQ](https://coconubs.github.io/en/faq/)
 
-*Updated: 7 November 2026.*
+*Updated: 11 November 2026.*
 
 ---
 
@@ -1867,7 +1995,7 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 | **Version** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
 | **Hosted in** | Singapore. Measured on 6 November 2026: about 29 ms ping from Ho Chi Minh City |
 | **Language** | Vietnamese, with an English option in the launcher and the in-game menu (`/ngonngu en`) |
-| **How to join** | CocoLauncher for Windows, macOS and Android |
+| **How to join** | CocoLauncher for Windows, macOS, Android and iPhone (Android and iPhone builds are experimental) |
 | **Event times** | Vietnam time (UTC+7) |
 | **Cost** | Downloading the launcher and joining are free. Ranks and the Premium Battle Pass are optional |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace), the Discord server is called Hyper Space |
@@ -1905,7 +2033,7 @@ There is no official ranking of Cobblemon servers in Vietnam. If you are compari
 | How mods are installed | Installing by hand often misses a mod or a version | CocoLauncher installs everything and keeps mods in sync with the server |
 | Ping | High ping delays battles, flying and mining | Hosted in Singapore, about 29 ms from Ho Chi Minh City |
 | Language | Menus, quests and guides you can read | Vietnamese, with English |
-| Devices | Many servers are PC only | Windows, macOS, Android (experimental) |
+| Devices | Many servers are PC only | Windows, macOS, Android and iPhone (experimental) |
 | Long-term goals | Only catching Pokémon gets old | Ranked battles, Battle Tower, Guild War, World Raids, accumulating Legendary chance |
 | What costs money | Know what is free | Free to join. Ranks and the Premium Battle Pass are optional |
 | Support | Launcher errors or lost items need someone to help | Ask on the Hyper Space Discord |
@@ -1929,7 +2057,9 @@ Older videos and posts may use these names. They all mean the same server, Coco 
 - **Hyper Space**: the community Discord server.
 - **Coco's Hyper Space**, **Coco Cobbleverse**: names used in a few older videos and Facebook posts.
 
-*Updated: 7 November 2026.*
+**See also:** [Server features](https://coconubs.github.io/en/features/) · [FAQ](https://coconubs.github.io/en/faq/) · [Play on Android and iPhone](https://coconubs.github.io/en/cobblemon-android/)
+
+*Updated: 11 November 2026.*
 
 ---
 
@@ -1980,13 +2110,15 @@ Not recommended. The server needs its exact mod set, so other launchers end up m
 
 ## Bedrock or Pocket Edition?
 
-No. Cobblemon is a Java Edition mod. On Android phones, CocoLauncher Android is an experimental build that runs Java Edition. There is no iOS version.
+No. Cobblemon is a Java Edition mod. On Android phones, CocoLauncher Android is an experimental build that runs Java Edition. iPhone and iPad have an experimental CocoLauncher iOS build, see [Play Cobblemon on Android and iPhone](https://coconubs.github.io/en/cobblemon-android/#iphone-and-ipad).
 
-*Updated: 06/11/2026.*
+**See also:** [Cobblemon server in Vietnam](https://coconubs.github.io/en/vietnam-cobblemon-server/) · [Server features](https://coconubs.github.io/en/features/) · [FAQ](https://coconubs.github.io/en/faq/)
+
+*Updated: 11 November 2026.*
 
 ---
 
-Trang: CocoLauncher (Coco Launcher): download for Windows, macOS and Android
+Trang: CocoLauncher (Coco Launcher): Minecraft Cobblemon launcher for PC, Android, iPhone
 URL: https://coconubs.github.io/en/cocolauncher/
 
 # CocoLauncher (Coco Launcher)
@@ -2003,7 +2135,8 @@ CocoLauncher is the launcher of the Coco Cobblemon server. It installs Java, Min
 | macOS Intel | [CocoLauncher-Mac-Intel.dmg](https://github.com/Coconubs/cocolauncher-pack/releases/download/launcher/CocoLauncher-Mac-Intel.dmg) |
 | Android (experimental, 6 GB of RAM or more) | [CocoLauncher-Android.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android.apk) |
 | Android on a PC emulator (MuMu, LDPlayer) | [CocoLauncher-Android-GiaLap.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android-GiaLap.apk) |
-| iOS, Linux | Not available |
+| iPhone, iPad (experimental) | [CocoLauncher iOS page](https://coconubs.github.io/CocoLauncher-iOS/), see [iPhone and iPad](https://coconubs.github.io/en/cobblemon-android/#iphone-and-ipad) |
+| Linux | Not available |
 
 Only download from the Microsoft Store or [Coconubs GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases). Copies on other sites may have been modified.
 
@@ -2043,9 +2176,12 @@ If the hashes do not match, do not open the file. Download it again from the off
 ## System requirements
 
 - Windows 10 or 11 (64-bit), or a Mac with Apple silicon or Intel.
+- Android: 6 GB of RAM or more (8 GB recommended). iPhone, iPad: iOS 14 or later, 8 GB of RAM recommended, and a computer once for setup; see [iPhone and iPad](https://coconubs.github.io/en/cobblemon-android/#iphone-and-ipad).
 - The launcher gives the game 2 to 4 GB of RAM by default, so 8 GB of RAM or more is recommended.
 
-*Updated: 06/11/2026.*
+**See also:** [Troubleshooting](https://coconubs.github.io/en/troubleshooting/) · [FAQ](https://coconubs.github.io/en/faq/) · [How to join](https://coconubs.github.io/en/how-to-join/)
+
+*Updated: 11 November 2026.*
 
 ---
 
@@ -2102,6 +2238,8 @@ Open with `/xephang` or the RANKED tile in the main menu.
 - **Daily Shop:** 7 random Lv 50 Pokémon cards each day.
 - **Fishing:** 100 fish species in 7 rarities, a collection book, craftable rods and a golden hour contest every evening, 19:00-22:00.
 - **Mini-games:** Tiến Lên (a Vietnamese card game), a Monopoly-style board game and chess with Elo.
+
+**See also:** [Cobblemon server in Vietnam](https://coconubs.github.io/en/vietnam-cobblemon-server/) · [How to join](https://coconubs.github.io/en/how-to-join/) · [Download CocoLauncher](https://coconubs.github.io/en/cocolauncher/) · [FAQ](https://coconubs.github.io/en/faq/)
 
 *Taken from the in-game guide on 06/11/2026. Numbers can change with updates; the in-game menu is always the most accurate.*
 
@@ -2160,7 +2298,7 @@ Windows 10 or 11 (64-bit), or a Mac with Apple silicon or Intel. The launcher gi
 
 ### Can I play Cobblemon on my phone?
 
-On Android, yes: CocoLauncher Android is an experimental build that runs Java Edition and needs 6 GB of RAM or more (8 GB recommended). There is no iOS version. See [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/).
+Yes. On Android, CocoLauncher Android is an experimental build that runs Java Edition and needs 6 GB of RAM or more (8 GB recommended). On iPhone and iPad there is an experimental CocoLauncher iOS build, installed through SideStore with a computer the first time. See [Play Cobblemon on Android and iPhone](https://coconubs.github.io/en/cobblemon-android/).
 
 ### Can I play on Bedrock or Pocket Edition?
 
@@ -2182,16 +2320,16 @@ No. Coco Cobblemon is a community server. It is not an official product of, or e
 
 Hyper Space is the name of the Coco Cobblemon community Discord server: https://discord.gg/hyspace. Some older videos call the server Coco's Hyper Space; it is the same server, Coco Cobblemon.
 
-*Updated: 7 November 2026.*
+*Updated: 11 November 2026.*
 
 ---
 
-Trang: Play Cobblemon on Android with CocoLauncher Android
+Trang: Play Cobblemon on Android and iPhone with CocoLauncher
 URL: https://coconubs.github.io/en/cobblemon-android/
 
-# Play Cobblemon on Android
+# Play Cobblemon on Android and iPhone
 
-Cobblemon is a mod for Minecraft Java Edition, so it does not install into Minecraft Pocket Edition or Bedrock. To play on a phone, the Coco Cobblemon server has **CocoLauncher Android**, an experimental app that runs Java Edition on the Android device and joins the same server as PC players.
+Cobblemon is a mod for Minecraft Java Edition, so it does not install into Minecraft Pocket Edition or Bedrock. To play on a phone, the Coco Cobblemon server has **CocoLauncher Android**, an experimental app that runs Java Edition on the Android device and joins the same server as PC players. iPhone and iPad have a separate experimental build, [CocoLauncher iOS](#iphone-and-ipad).
 
 [Download CocoLauncher-Android.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android.apk)
 
@@ -2220,7 +2358,13 @@ Emulators use a separate build: [CocoLauncher-Android-GiaLap.apk](https://github
 
 ## iPhone and iPad
 
-Not available.
+There is an experimental **CocoLauncher iOS** build. Download it and follow the install guide on the [CocoLauncher iOS page](https://coconubs.github.io/CocoLauncher-iOS/) (in Vietnamese). iPhones cannot install apps from outside the App Store directly, so setup takes longer than on Android:
+
+- iPhone or iPad on iOS 14 or later. 8 GB of RAM is recommended (iPhone 15 Pro, 16, 17); 6 GB devices run on the Low preset.
+- A Windows PC or Mac with a cable, used once for about 30 minutes, to install SideStore and unlock more memory for the app.
+- An Apple ID (a secondary one is recommended). Refresh the app in SideStore every 7 days, or it will not open until you do.
+
+The first start downloads about 1.5 GB, so use Wi-Fi. For install problems or crashes, ask on [Discord](https://discord.gg/hyspace) with a screenshot and the `latestlog.txt` file.
 
 ## Common problems
 
@@ -2233,7 +2377,9 @@ Not available.
 
 Still stuck: use the send-log button in the launcher settings and ask on [Discord](https://discord.gg/hyspace).
 
-*Updated: 06/11/2026.*
+**See also:** [FAQ](https://coconubs.github.io/en/faq/) · [Troubleshooting](https://coconubs.github.io/en/troubleshooting/) · [How to join](https://coconubs.github.io/en/how-to-join/) · [Which launcher for Cobblemon](https://coconubs.github.io/en/cobblemon-launcher/)
+
+*Updated: 11 November 2026.*
 
 ---
 
@@ -2252,7 +2398,7 @@ Cobblemon is a mod for Minecraft Java Edition, so you need a launcher that can i
 | Use modpacks from CurseForge | CurseForge App |
 | Manage many installs and versions yourself | Prism Launcher |
 | Join the Coco Cobblemon server | CocoLauncher |
-| Play on Android | CocoLauncher Android (experimental, for the Coco server only) |
+| Play on Android or iPhone | CocoLauncher Android or CocoLauncher iOS (experimental, for the Coco server only) |
 
 ## The launchers
 
@@ -2262,7 +2408,7 @@ Cobblemon is a mod for Minecraft Java Edition, so you need a launcher that can i
 
 **Prism Launcher.** Open source, for Windows, macOS and Linux, and it imports modpacks from Modrinth and CurseForge. Good if you like to tune each install; new players will see more options than they need.
 
-**CocoLauncher.** The launcher of the Coco Cobblemon server, for Windows (Microsoft Store), macOS and an experimental Android build. Enter a name and press **Play**; it installs Java, Minecraft, Fabric and the server's mod set, and keeps the mods in step with the server. CocoLauncher only joins Coco Cobblemon; it is not for single player or other servers. Downloads are on the [main page](https://coconubs.github.io/en/cocolauncher/).
+**CocoLauncher.** The launcher of the Coco Cobblemon server, for Windows (Microsoft Store), macOS, and experimental Android and iPhone builds. Enter a name and press **Play**; it installs Java, Minecraft, Fabric and the server's mod set, and keeps the mods in step with the server. CocoLauncher only joins Coco Cobblemon; it is not for single player or other servers. Downloads are on the [main page](https://coconubs.github.io/en/cocolauncher/).
 
 ## Joining a server
 
@@ -2276,7 +2422,7 @@ The same applies to any Cobblemon server: before joining, check which Minecraft 
 
 ## Cobblemon launchers on Android
 
-Modrinth App, CurseForge App and Prism Launcher have no Android version. On Android, launchers that run Minecraft Java Edition, such as Fold Craft Launcher (FCL) or PojavLauncher, need you to install Fabric and every mod yourself. CocoLauncher Android is an experimental build made only for Coco Cobblemon: it installs the Coco Lite pack (about 125 mods) and needs 6 GB of RAM or more, 8 GB recommended. See [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/).
+Modrinth App, CurseForge App and Prism Launcher have no Android version. On Android, launchers that run Minecraft Java Edition, such as Fold Craft Launcher (FCL) or PojavLauncher, need you to install Fabric and every mod yourself. CocoLauncher Android is an experimental build made only for Coco Cobblemon: it installs the Coco Lite pack (about 125 mods) and needs 6 GB of RAM or more, 8 GB recommended. See [Play Cobblemon on Android](https://coconubs.github.io/en/cobblemon-android/). iPhone and iPad have an experimental CocoLauncher iOS build for the same server; setup needs a computer once, see [iPhone and iPad](https://coconubs.github.io/en/cobblemon-android/#iphone-and-ipad).
 
 ## Quick answers
 
@@ -2286,7 +2432,7 @@ No. Cobblemon is a Java Edition mod. On Android, CocoLauncher Android is an expe
 **Do they cost anything?**
 Modrinth App, CurseForge App, Prism Launcher and CocoLauncher are all free to download.
 
-*Updated: 7 November 2026.*
+*Updated: 11 November 2026.*
 
 ---
 
@@ -2324,5 +2470,7 @@ Known problems and fixes by operating system. If yours is not here, ask on [Disc
 | Hot phone, stutter | Lower the resolution to 50-70% |
 | Crashes mid-game | Keep game memory at the recommended level, close other apps |
 | The .apk download sits at 100% | Pull down the notification shade, Chrome is waiting for you to keep the file |
+
+**See also:** [FAQ](https://coconubs.github.io/en/faq/) · [CocoLauncher download](https://coconubs.github.io/en/cocolauncher/) · [Play on Android and iPhone](https://coconubs.github.io/en/cobblemon-android/) · [How to join](https://coconubs.github.io/en/how-to-join/)
 
 *Updated: 06/11/2026.*
