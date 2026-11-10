@@ -53,6 +53,6 @@ Nhìn vào Pokémon hoang dã ở gần rồi bấm R: Pokémon đang chọn tro
 
 **Tuỳ chọn** > **Điều khiển** > **Gán phím**, kéo xuống nhóm **Cobblemon**. Menu tiếng Anh: **Options** > **Controls** > **Key Binds**.
 
-**Xem thêm:** [Cách tải Cobblemon](/cach-tai-cobblemon/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/) · [Cobblemon Việt hoá](/cobblemon-viet-hoa/) · [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/)
+**Xem thêm:** [Lệnh Cobblemon](/lenh-cobblemon/) · [Cách tải Cobblemon](/cach-tai-cobblemon/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/) · [Cobblemon Việt hoá](/cobblemon-viet-hoa/) · [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/)
 
 *Cập nhật: 11/11/2026.*

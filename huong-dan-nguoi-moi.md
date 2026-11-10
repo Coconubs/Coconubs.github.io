@@ -53,6 +53,8 @@ Số dư hiện trên scoreboard bên phải màn hình và đầu Menu.
 | Hằng ngày | `/nghenghiep` · `/xephang` Đấu Xếp Hạng · `/battletower` · `/cauca` |
 | Khác | `/link` liên kết Discord · `/ngonngu en` đổi sang tiếng Anh · `/help` đủ lệnh |
 
+Lệnh riêng của mod Cobblemon (`/pokespawn`, `/pokegive`...) cần quyền quản trị, xem [Lệnh Cobblemon](/lenh-cobblemon/).
+
 ## Đất và nhà
 
 - Đất giữ theo chunk (ô 16×16 khối). Bấm F3 + G để hiện đường kẻ chunk.

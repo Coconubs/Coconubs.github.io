@@ -57,6 +57,6 @@ Cả hai là mod Pokémon cho Minecraft Java. Cobblemon chạy trên Fabric và 
 
 Được trên Android nếu chạy Minecraft Java Edition bằng một launcher Java, không chạy trong Minecraft PE. Xem [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/).
 
-**Xem thêm:** [Cách tải Cobblemon](/cach-tai-cobblemon/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Chơi Pokémon trong Minecraft](/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/)
+**Xem thêm:** [Lệnh Cobblemon](/lenh-cobblemon/) · [Cách tải Cobblemon](/cach-tai-cobblemon/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Chơi Pokémon trong Minecraft](/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/)
 
 *Cập nhật: 11/11/2026.*

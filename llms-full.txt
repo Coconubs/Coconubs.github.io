@@ -73,6 +73,7 @@ Coco Cobblemon là server cộng đồng, không phải sản phẩm chính th�
 - [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/)
 - [Cách tải Cobblemon cho Minecraft Java](https://coconubs.github.io/cach-tai-cobblemon/)
 - [Các phím chơi Cobblemon: phím tắt mặc định](https://coconubs.github.io/phim-tat-cobblemon/)
+- [Lệnh Cobblemon: /pokespawn, /pokegive, /pokeheal](https://coconubs.github.io/lenh-cobblemon/)
 - [Cobblemon Việt hoá: chơi bằng tiếng Việt](https://coconubs.github.io/cobblemon-viet-hoa/)
 - [Cobblemon PE, Bedrock: có bản cho Minecraft PE không?](https://coconubs.github.io/cobblemon-pe/)
 - [Cobblemon trên iPhone, iPad (iOS)](https://coconubs.github.io/cobblemon-ios/)
@@ -716,6 +717,8 @@ Số dư hiện trên scoreboard bên phải màn hình và đầu Menu.
 | Tiền và Pokémon | `/sell` bán đồ · `/pay` chuyển tiền · `/gts` hoặc `/ah` Chợ GTS (Chợ Đen) |
 | Hằng ngày | `/nghenghiep` · `/xephang` Đấu Xếp Hạng · `/battletower` · `/cauca` |
 | Khác | `/link` liên kết Discord · `/ngonngu en` đổi sang tiếng Anh · `/help` đủ lệnh |
+
+Lệnh riêng của mod Cobblemon (`/pokespawn`, `/pokegive`...) cần quyền quản trị, xem [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/).
 
 ## Đất và nhà
 
@@ -2018,7 +2021,7 @@ Cả hai là mod Pokémon cho Minecraft Java. Cobblemon chạy trên Fabric và 
 
 Được trên Android nếu chạy Minecraft Java Edition bằng một launcher Java, không chạy trong Minecraft PE. Xem [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/).
 
-**Xem thêm:** [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Chơi Pokémon trong Minecraft](https://coconubs.github.io/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/)
+**Xem thêm:** [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/) · [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Chơi Pokémon trong Minecraft](https://coconubs.github.io/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/)
 
 *Cập nhật: 11/11/2026.*
 
@@ -2194,7 +2197,73 @@ Nhìn vào Pokémon hoang dã ở gần rồi bấm R: Pokémon đang chọn tro
 
 **Tuỳ chọn** > **Điều khiển** > **Gán phím**, kéo xuống nhóm **Cobblemon**. Menu tiếng Anh: **Options** > **Controls** > **Key Binds**.
 
-**Xem thêm:** [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/) · [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/) · [Cobblemon Việt hoá](https://coconubs.github.io/cobblemon-viet-hoa/) · [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/)
+**Xem thêm:** [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/) · [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/) · [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/) · [Cobblemon Việt hoá](https://coconubs.github.io/cobblemon-viet-hoa/) · [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/)
+
+*Cập nhật: 11/11/2026.*
+
+---
+
+Trang: Lệnh Cobblemon: triệu hồi, cho Pokémon, hồi máu (/pokespawn, /pokegive)
+URL: https://coconubs.github.io/lenh-cobblemon/
+
+# Lệnh Cobblemon
+
+Hầu hết lệnh của Cobblemon 1.7.3 cần quyền dùng lệnh gian lận (cấp quyền 2, như lệnh `/give` của Minecraft): trong thế giới chơi một mình phải bật **Cho phép sử dụng lệnh**, trên server thì chỉ dùng được khi chủ server cấp quyền. Lệnh hay dùng nhất: `/pokespawn` triệu hồi Pokémon, `/pokegive` cho Pokémon, `/pokeheal` hồi máu đội hình, `/pc` mở PC ở bất kỳ đâu. Ví dụ triệu hồi Pikachu Shiny cấp 50: `/pokespawn pikachu shiny=yes level=50`.
+
+## Bảng lệnh hay dùng
+
+| Lệnh | Tên khác | Dùng để | Quyền cần |
+|---|---|---|---|
+| `/pokespawn <Pokémon>` | `/spawnpokemon` | Triệu hồi Pokémon hoang dã ngay chỗ bạn đứng | Cấp 2 |
+| `/pokegive <Pokémon>` | `/givepokemon` | Cho bạn 1 Pokémon | Cấp 2 |
+| `/pokeheal` | `/healpokemon` | Hồi máu đội hình | Cấp 2 |
+| `/pc` | | Mở PC ở bất kỳ đâu | Cấp 2 |
+| `/openstarterscreen <người chơi>` | | Mở màn chọn Pokémon khởi đầu cho người chưa chọn | Cấp 2 |
+| `/spawnallpokemon`, `/giveallpokemon` | | Triệu hồi hoặc cho mọi loài | Cấp 4 (toàn quyền) |
+
+Tên lệnh và cấp quyền đọc từ file `Cobblemon-fabric-1.7.3+1.21.1.jar` (lớp lệnh và bảng quyền `CobblemonPermissions`), kiểm ngày 11/11/2026. Cấp 2 là mức "lệnh gian lận và khối lệnh" của Minecraft, cấp 4 là toàn quyền.
+
+## Thêm thuộc tính cho Pokémon
+
+Sau tên Pokémon (tên tiếng Anh viết liền, chữ thường, ví dụ `pikachu`, `charizard`, `mrmime`) có thể thêm thuộc tính dạng `tên=giá trị`:
+
+| Thuộc tính | Ví dụ | Nghĩa |
+|---|---|---|
+| `level` (hoặc `lvl`) | `level=50` | Cấp |
+| `shiny` | `shiny=yes` | Bản Shiny |
+| `nature` | `nature=adamant` | Tính cách |
+| `ability` | `ability=intimidate` | Đặc tính |
+| `gender` | `gender=female` | Giới tính |
+| `nickname` | `nickname=Pika` | Biệt danh |
+
+Danh sách khoá thuộc tính đọc từ lớp `PokemonProperties` trong cùng file Cobblemon 1.7.3. Ví dụ: `/pokegive charizard level=100 shiny=yes`.
+
+## Bật quyền dùng lệnh khi chơi một mình
+
+- **Thế giới mới:** khi tạo thế giới, bật **Cho phép sử dụng lệnh** (Allow Commands).
+- **Thế giới đã có:** bấm Esc, chọn **Mở cho mạng LAN**, bật **Cho phép gian lận** (Allow Cheats), rồi bắt đầu. Quyền lệnh có tác dụng tới khi thoát thế giới.
+
+Chưa có quyền mà gõ lệnh thì game báo **Lệnh không rõ hoặc chưa hoàn thành**.
+
+## Trên server Coco Cobblemon
+
+Người chơi trên server Coco Cobblemon dùng các lệnh của server như `/menu`, `/sethome`, `/rtp`, `/claim`, `/gts`, `/nghenghiep`, `/xephang`, `/battletower`. Danh sách đủ ở [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/). Các lệnh Cobblemon cần quyền ở bảng trên chỉ dùng được khi chủ server cấp quyền.
+
+## Hỏi nhanh
+
+### Lệnh triệu hồi Pokémon trong Cobblemon là gì?
+
+`/pokespawn <tên Pokémon>`, ví dụ `/pokespawn pikachu`. Thêm `shiny=yes` để ra Shiny, `level=50` để chọn cấp. Cần quyền dùng lệnh (bật Cho phép sử dụng lệnh khi chơi một mình).
+
+### Lệnh cho Pokémon trong Cobblemon là gì?
+
+`/pokegive <tên Pokémon>`, ví dụ `/pokegive charizard level=50`. Lệnh này cũng cần quyền dùng lệnh.
+
+### Vì sao gõ lệnh Cobblemon báo "Lệnh không rõ"?
+
+Vì chưa có quyền dùng lệnh: các lệnh này cần cấp quyền 2. Chơi một mình thì bật Cho phép sử dụng lệnh, hoặc Mở cho mạng LAN và bật Cho phép gian lận. Trên server thì chỉ chủ server cấp được.
+
+**Xem thêm:** [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/) · [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/) · [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/)
 
 *Cập nhật: 11/11/2026.*
 
