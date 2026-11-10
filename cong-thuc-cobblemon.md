@@ -3,6 +3,7 @@ title: Công thức chế tạo Cobblemon
 seo_title: "Công thức Cobblemon: Poké Ball, PC, máy hồi máu"
 description: "Công thức chế tạo trong Cobblemon 1.7.3: Poké Ball, Great Ball, Ultra Ball, PC, Máy Chữa Lành (máy hồi máu), Khối đồng cỏ, Pokédex. Đọc từ file mod."
 nav_order: 8.7
+alt: /en/cobblemon-recipes/
 last_modified_at: 2026-11-11T04:47:50+07:00
 ---
 

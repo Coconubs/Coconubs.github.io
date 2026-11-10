@@ -101,6 +101,7 @@ Yes. Anyone can download CocoLauncher and join. Most players and most of the cha
 - [Cobblemon on Bedrock and Pocket Edition](/en/cobblemon-bedrock/)
 - [Cobblemon controls: default keybinds](/en/cobblemon-controls/)
 - [Cobblemon commands: /pokespawn, /pokegive, /pokeheal](/en/cobblemon-commands/)
+- [Cobblemon crafting recipes: Poké Ball, PC, Healing Machine](/en/cobblemon-recipes/)
 - [What is Cobblemon, and how many Pokémon it has](/en/what-is-cobblemon/)
 - [Which launcher for Cobblemon](/en/cobblemon-launcher/)
 - [Troubleshooting](/en/troubleshooting/)

@@ -67,6 +67,6 @@ Players on the Coco Cobblemon server use the server's own commands such as `/men
 
 You do not have permission yet: these commands need permission level 2. In single player turn on Allow Commands, or use Open to LAN with Allow Cheats. On a server only the owner can grant it.
 
-**See also:** [Cobblemon controls](/en/cobblemon-controls/) · [What is Cobblemon](/en/what-is-cobblemon/) · [How to join](/en/how-to-join/) · [FAQ](/en/faq/)
+**See also:** [Cobblemon recipes](/en/cobblemon-recipes/) · [Cobblemon controls](/en/cobblemon-controls/) · [What is Cobblemon](/en/what-is-cobblemon/) · [How to join](/en/how-to-join/) · [FAQ](/en/faq/)
 
 *Updated: 11 November 2026.*
