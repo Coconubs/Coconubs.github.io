@@ -4,7 +4,7 @@ seo_title: "Cobblemon PE, Bedrock: có bản cho Minecraft PE không?"
 description: "Cobblemon có bản cho Minecraft PE, Bedrock không? Cobblemon chính thức chỉ có cho Java Edition. Addon Cobblemon PE khác gì, cách chơi Cobblemon trên điện thoại Android."
 nav_order: 9.5
 alt: /en/cobblemon-bedrock/
-last_modified_at: 2026-11-11T04:04:24+07:00
+last_modified_at: 2026-11-11T04:07:29+07:00
 ---
 
 # Cobblemon PE, Bedrock: có bản cho Minecraft PE không?
@@ -51,6 +51,10 @@ Không có bản chính thức cho PE. Gói mang tên Cobblemon cho PE là addon
 ### Cobblemon PE có vào được server Coco Cobblemon không?
 
 Không. Coco Cobblemon là server Minecraft Java 1.21.1 chạy Cobblemon 1.7.3 cùng bộ mod riêng, vào bằng CocoLauncher (các bản ở trang [Tải CocoLauncher](/cocolauncher/)).
+
+### Addon "Cobblemon PE Việt hoá" (mcaddon) có phải Cobblemon không?
+
+Không. Các gói "Cobblemon PE Việt hoá", "Cobblemon mcaddon" là addon Bedrock do người khác làm lại, không phải bản của nhóm Cobblemon và không vào được server Cobblemon chạy Java. Cobblemon thật trên Minecraft Java có sẵn tiếng Việt: bản 1.7.3 dịch khoảng 60% số khoá, bật trong Options, Language, xem [Cobblemon Việt hoá](/cobblemon-viet-hoa/).
 
 ### Minecraft PE có Pokémon không?
 
