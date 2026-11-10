@@ -343,4 +343,8 @@ Hyper Space là tên server Discord của cộng đồng Coco Cobblemon: https:/
 
 Người chơi Coco Cobblemon hỏi trên Discord Hyper Space: https://discord.gg/hyspace. Lỗi launcher xem trước trang [Sửa lỗi CocoLauncher](/cocolauncher/sua-loi/).
 
+## Tìm hiểu thêm về Cobblemon
+
+[Cobblemon là gì, có bao nhiêu Pokémon](/cobblemon-la-gi/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Lệnh Cobblemon](/lenh-cobblemon/) · [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/)
+
 *Cập nhật: 11/11/2026.*

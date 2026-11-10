@@ -167,6 +167,8 @@ Danh sách đầy đủ ở trang [Tính năng](https://coconubs.github.io/tinh-
 - **Breeding chậm hơn bản gốc 5 lần**, nhanh hơn khi đặt Pasture trong đất bang.
 - **Menu tiếng Việt** có Pokédex mô hình 3D, tra cứu và hướng dẫn từng tính năng.
 
+Cobblemon bản gốc là gì, có bao nhiêu Pokémon, phím, lệnh và công thức chế tạo: xem [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/), [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/), [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/), [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/).
+
 ## Vào server thế nào
 
 1. Tải CocoLauncher ở trang [CocoLauncher](https://coconubs.github.io/cocolauncher/).
@@ -1758,6 +1760,10 @@ Hyper Space là tên server Discord của cộng đồng Coco Cobblemon: https:/
 
 Người chơi Coco Cobblemon hỏi trên Discord Hyper Space: https://discord.gg/hyspace. Lỗi launcher xem trước trang [Sửa lỗi CocoLauncher](https://coconubs.github.io/cocolauncher/sua-loi/).
 
+## Tìm hiểu thêm về Cobblemon
+
+[Cobblemon là gì, có bao nhiêu Pokémon](https://coconubs.github.io/cobblemon-la-gi/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/) · [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/)
+
 *Cập nhật: 11/11/2026.*
 
 ---
@@ -3108,6 +3114,10 @@ No. Coco Cobblemon is a community server. It is not an official product of, or e
 ### What is Hyper Space?
 
 Hyper Space is the name of the Coco Cobblemon community Discord server: https://discord.gg/hyspace. Some older videos call the server Coco's Hyper Space; it is the same server, Coco Cobblemon.
+
+## More about Cobblemon
+
+[What is Cobblemon, and how many Pokémon it has](https://coconubs.github.io/en/what-is-cobblemon/) · [Cobblemon controls](https://coconubs.github.io/en/cobblemon-controls/) · [Cobblemon commands](https://coconubs.github.io/en/cobblemon-commands/) · [Cobblemon recipes](https://coconubs.github.io/en/cobblemon-recipes/)
 
 *Updated: 11 November 2026.*
 

@@ -87,6 +87,8 @@ Danh sách đầy đủ ở trang [Tính năng](/tinh-nang/). Thay đổi mới 
 - **Breeding chậm hơn bản gốc 5 lần**, nhanh hơn khi đặt Pasture trong đất bang.
 - **Menu tiếng Việt** có Pokédex mô hình 3D, tra cứu và hướng dẫn từng tính năng.
 
+Cobblemon bản gốc là gì, có bao nhiêu Pokémon, phím, lệnh và công thức chế tạo: xem [Cobblemon là gì](/cobblemon-la-gi/), [Các phím chơi Cobblemon](/phim-tat-cobblemon/), [Lệnh Cobblemon](/lenh-cobblemon/), [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/).
+
 ## Vào server thế nào
 
 1. Tải CocoLauncher ở trang [CocoLauncher](/cocolauncher/).

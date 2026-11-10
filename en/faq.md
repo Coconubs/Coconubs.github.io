@@ -259,4 +259,8 @@ No. Coco Cobblemon is a community server. It is not an official product of, or e
 
 Hyper Space is the name of the Coco Cobblemon community Discord server: https://discord.gg/hyspace. Some older videos call the server Coco's Hyper Space; it is the same server, Coco Cobblemon.
 
+## More about Cobblemon
+
+[What is Cobblemon, and how many Pokémon it has](/en/what-is-cobblemon/) · [Cobblemon controls](/en/cobblemon-controls/) · [Cobblemon commands](/en/cobblemon-commands/) · [Cobblemon recipes](/en/cobblemon-recipes/)
+
 *Updated: 11 November 2026.*
