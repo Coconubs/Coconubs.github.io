@@ -1,7 +1,7 @@
 ---
 title: CocoLauncher download
-seo_title: "CocoLauncher (Coco Launcher): download for Windows, macOS and Android"
-description: "Download CocoLauncher (Coco Launcher), the launcher of the Coco Cobblemon server: Microsoft Store, Windows .exe, macOS Apple silicon and Intel, Android. Installs Java, Minecraft, Fabric and mods."
+seo_title: "CocoLauncher (Coco Launcher): download for Windows, macOS, Android, iPhone"
+description: "Download CocoLauncher (Coco Launcher), the launcher of the Coco Cobblemon server: Microsoft Store, Windows .exe, macOS Apple silicon and Intel, Android, iPhone (experimental). Installs Java, Minecraft, Fabric, mods."
 parent: English
 nav_order: 1
 permalink: /en/cocolauncher/
@@ -94,6 +94,7 @@ If the hashes do not match, do not open the file. Download it again from the off
 ## System requirements
 
 - Windows 10 or 11 (64-bit), or a Mac with Apple silicon or Intel.
+- Android: 6 GB of RAM or more (8 GB recommended). iPhone, iPad: iOS 14 or later, 8 GB of RAM recommended, and a computer once for setup; see [iPhone and iPad](/en/cobblemon-android/#iphone-and-ipad).
 - The launcher gives the game 2 to 4 GB of RAM by default, so 8 GB of RAM or more is recommended.
 
 **See also:** [Troubleshooting](/en/troubleshooting/) · [FAQ](/en/faq/) · [How to join](/en/how-to-join/)

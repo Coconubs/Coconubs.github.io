@@ -6,7 +6,7 @@ parent: English
 nav_order: 5
 permalink: /en/cobblemon-launcher/
 alt: /launcher-cobblemon/
-last_modified_at: 2026-11-07T20:38:41+07:00
+last_modified_at: 2026-11-11T02:35:11+07:00
 ---
 
 # Which launcher for Cobblemon? Modrinth App, CurseForge, Prism Launcher, CocoLauncher
@@ -21,7 +21,7 @@ Cobblemon is a mod for Minecraft Java Edition, so you need a launcher that can i
 | Use modpacks from CurseForge | CurseForge App |
 | Manage many installs and versions yourself | Prism Launcher |
 | Join the Coco Cobblemon server | CocoLauncher |
-| Play on Android | CocoLauncher Android (experimental, for the Coco server only) |
+| Play on Android or iPhone | CocoLauncher Android or CocoLauncher iOS (experimental, for the Coco server only) |
 
 ## The launchers
 
@@ -31,7 +31,7 @@ Cobblemon is a mod for Minecraft Java Edition, so you need a launcher that can i
 
 **Prism Launcher.** Open source, for Windows, macOS and Linux, and it imports modpacks from Modrinth and CurseForge. Good if you like to tune each install; new players will see more options than they need.
 
-**CocoLauncher.** The launcher of the Coco Cobblemon server, for Windows (Microsoft Store), macOS and an experimental Android build. Enter a name and press **Play**; it installs Java, Minecraft, Fabric and the server's mod set, and keeps the mods in step with the server. CocoLauncher only joins Coco Cobblemon; it is not for single player or other servers. Downloads are on the [main page](/en/cocolauncher/).
+**CocoLauncher.** The launcher of the Coco Cobblemon server, for Windows (Microsoft Store), macOS, and experimental Android and iPhone builds. Enter a name and press **Play**; it installs Java, Minecraft, Fabric and the server's mod set, and keeps the mods in step with the server. CocoLauncher only joins Coco Cobblemon; it is not for single player or other servers. Downloads are on the [main page](/en/cocolauncher/).
 
 ## Joining a server
 
@@ -45,7 +45,7 @@ The same applies to any Cobblemon server: before joining, check which Minecraft 
 
 ## Cobblemon launchers on Android
 
-Modrinth App, CurseForge App and Prism Launcher have no Android version. On Android, launchers that run Minecraft Java Edition, such as Fold Craft Launcher (FCL) or PojavLauncher, need you to install Fabric and every mod yourself. CocoLauncher Android is an experimental build made only for Coco Cobblemon: it installs the Coco Lite pack (about 125 mods) and needs 6 GB of RAM or more, 8 GB recommended. See [Play Cobblemon on Android](/en/cobblemon-android/).
+Modrinth App, CurseForge App and Prism Launcher have no Android version. On Android, launchers that run Minecraft Java Edition, such as Fold Craft Launcher (FCL) or PojavLauncher, need you to install Fabric and every mod yourself. CocoLauncher Android is an experimental build made only for Coco Cobblemon: it installs the Coco Lite pack (about 125 mods) and needs 6 GB of RAM or more, 8 GB recommended. See [Play Cobblemon on Android](/en/cobblemon-android/). iPhone and iPad have an experimental CocoLauncher iOS build for the same server; setup needs a computer once, see [iPhone and iPad](/en/cobblemon-android/#iphone-and-ipad).
 
 ## Quick answers
 
@@ -55,4 +55,4 @@ No. Cobblemon is a Java Edition mod. On Android, CocoLauncher Android is an expe
 **Do they cost anything?**
 Modrinth App, CurseForge App, Prism Launcher and CocoLauncher are all free to download.
 
-*Updated: 7 November 2026.*
+*Updated: 11 November 2026.*

@@ -4,7 +4,7 @@ seo_title: "Launcher Cobblemon nào tốt? Modrinth App, CurseForge, Prism, Coco
 description: "Launcher nào để chơi Cobblemon cho người Việt: so sánh Modrinth App, CurseForge App, Prism Launcher và CocoLauncher. Lỗi hay gặp khi tự cài, launcher cho Android."
 nav_order: 7
 alt: /en/cobblemon-launcher/
-last_modified_at: 2026-11-07T20:38:41+07:00
+last_modified_at: 2026-11-11T02:35:11+07:00
 ---
 
 # Launcher nào để chơi Cobblemon? Modrinth App, CurseForge, Prism Launcher, CocoLauncher
@@ -28,7 +28,7 @@ Cobblemon là mod cho Minecraft Java Edition, nên cần một launcher cài đ�
 | Cài Cobblemon thế nào | Cài Cobblemon Official Modpack [Fabric] ở tab Discover | Cài một modpack Cobblemon trong mục Modpacks | Nhập modpack từ Modrinth hoặc CurseForge | Tự cài đúng bộ mod của Coco Cobblemon |
 | Phải tự cài Java? | Không, app tự tải | Không | Không, có thể tự tải | Không, launcher tự cài |
 | Hợp với | Người mới chơi một mình | Người đã dùng CurseForge | Người thích tự chỉnh | Người vào Coco Cobblemon |
-| Có bản điện thoại | Không | Không | Không | Android, thử nghiệm |
+| Có bản điện thoại | Không | Không | Không | Android, iPhone (thử nghiệm) |
 | Phí | Không mất phí | Không mất phí | Không mất phí | Không mất phí |
 
 ## Từng launcher
@@ -39,7 +39,7 @@ Cobblemon là mod cho Minecraft Java Edition, nên cần một launcher cài đ�
 
 **Prism Launcher.** Mã nguồn mở, có bản Windows, macOS, Linux, nhập được modpack từ Modrinth và CurseForge. Hợp với người muốn tự chỉnh từng bản cài; người mới sẽ thấy nhiều tuỳ chọn hơn.
 
-**CocoLauncher.** Launcher riêng của server Coco Cobblemon, giao diện tiếng Việt, có bản Windows (Microsoft Store), macOS và Android thử nghiệm. Nhập tên, bấm **Chơi**, launcher tự cài Java, Minecraft, Fabric và đúng bộ mod của server, mod tự cập nhật theo server. CocoLauncher chỉ dùng để vào Coco Cobblemon, không dùng để chơi một mình hay vào server khác. Tải ở trang [Tải CocoLauncher](/cocolauncher/).
+**CocoLauncher.** Launcher riêng của server Coco Cobblemon, giao diện tiếng Việt, có bản Windows (Microsoft Store), macOS, và bản thử nghiệm cho Android, iPhone. Nhập tên, bấm **Chơi**, launcher tự cài Java, Minecraft, Fabric và đúng bộ mod của server, mod tự cập nhật theo server. CocoLauncher chỉ dùng để vào Coco Cobblemon, không dùng để chơi một mình hay vào server khác. Tải ở trang [Tải CocoLauncher](/cocolauncher/).
 
 ## Vì sao modpack Cobblemon chính thức không vào được Coco Cobblemon
 
@@ -61,6 +61,8 @@ Modrinth App, CurseForge App và Prism Launcher không có bản Android. Trên 
 
 CocoLauncher Android là bản thử nghiệm chỉ để vào Coco Cobblemon: launcher tự cài gói Coco Lite khoảng 125 mod, cần RAM từ 6 GB, khuyên 8 GB trở lên. Xem [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/).
 
+Trên iPhone, iPad cũng có CocoLauncher iOS bản thử nghiệm, chỉ để vào Coco Cobblemon; lần đầu cài cần máy tính. Xem [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/).
+
 ## Hỏi nhanh
 
 **Launcher nào dễ dùng nhất cho người mới ở Việt Nam?**
@@ -72,4 +74,4 @@ Không launcher nào ở trên cài Cobblemon vào Bedrock hay PE, vì Cobblemon
 **Launcher có mất phí không?**
 Modrinth App, CurseForge App, Prism Launcher và CocoLauncher đều tải không mất phí.
 
-*Cập nhật: 07/11/2026.*
+*Cập nhật: 11/11/2026.*

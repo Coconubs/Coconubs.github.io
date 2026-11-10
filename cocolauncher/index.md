@@ -1,7 +1,7 @@
 ---
 title: CocoLauncher
-seo_title: "CocoLauncher (Coco Launcher): tải launcher Coco Cobblemon cho Windows, macOS, Android"
-description: "Tải CocoLauncher (Coco Launcher), launcher của server Coco Cobblemon: Microsoft Store, file .exe, macOS chip Apple và Intel, Android. Tự cài Java, Minecraft, Fabric và gói mod."
+seo_title: "CocoLauncher (Coco Launcher): tải launcher Coco Cobblemon cho PC, Android, iPhone"
+description: "Tải CocoLauncher (Coco Launcher), launcher của server Coco Cobblemon: Microsoft Store, file .exe, macOS chip Apple và Intel, Android, iPhone (thử nghiệm). Tự cài Java, Minecraft, Fabric, gói mod."
 nav_order: 2
 has_children: true
 has_toc: false
@@ -76,6 +76,7 @@ CocoLauncher chỉ dùng để vào server Coco Cobblemon. Muốn chơi Cobblemo
 | Windows | Windows 10 hoặc 11 bản 64-bit |
 | macOS | Máy Mac chip Apple (M1-M4 và mới hơn) hoặc Intel |
 | Android | RAM từ 6 GB (khuyên 8 GB), chip tầm trung trở lên, trống khoảng 2 GB |
+| iPhone, iPad | iOS 14 trở lên, khuyên máy 8 GB RAM. Lần đầu cần máy tính và cáp khoảng 30 phút để cài, xem [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/) |
 | RAM máy tính | Launcher mặc định cấp cho game 2 đến 4 GB, nên máy nên có từ 8 GB RAM |
 
 ## Hỏi nhanh
@@ -93,7 +94,8 @@ Không. App giao diện điện thoại tên "Coco Launcher" trên Google Play l
 
 - [Cài CocoLauncher trên Windows](/cocolauncher/windows/)
 - [CocoLauncher cho macOS](/cocolauncher/macos/)
-- [Chơi Cobblemon trên điện thoại Android](/cobblemon-dien-thoai/)
+- [Chơi Cobblemon trên điện thoại Android, iPhone](/cobblemon-dien-thoai/)
+- [CocoLauncher iOS: tải và cài trên iPhone, iPad](https://coconubs.github.io/CocoLauncher-iOS/)
 - [Sửa lỗi CocoLauncher](/cocolauncher/sua-loi/)
 - [CocoLauncher có an toàn không? Cách kiểm tra file tải](/cocolauncher/an-toan/)
 
