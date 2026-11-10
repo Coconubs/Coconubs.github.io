@@ -51,6 +51,7 @@ Key facts in English (checked 11 November 2026):
 - [Cobblemon recipes](https://coconubs.github.io/en/cobblemon-recipes/): Poké Ball, Great Ball, Ultra Ball, PC, Healing Machine, Pasture Block, Pokédex (Cobblemon 1.7.3)
 - [How to catch Pokémon in Cobblemon](https://coconubs.github.io/en/cobblemon-catching/): battle first (x0.5 outside battle), HP, status, balls, low-level bonus; plain Cobblemon 1.7.3 never spawns Legendaries naturally, Coco Cobblemon has several sources
 - [How to ride Pokémon in Cobblemon](https://coconubs.github.io/en/cobblemon-riding/): hold Shift, right-click, choose Ride; 84 rideable species in Cobblemon 1.7.3 (74 land, 38 flying, 17 swimming); no stamina limit on Coco Cobblemon
+- [How to Mega Evolve in Cobblemon](https://coconubs.github.io/en/cobblemon-mega/): plain Cobblemon 1.7.3 has no Mega; on Coco Cobblemon (Mega Showdown 1.9.9) wear a Mega Bracelet, hold the Mega Stone, press the Mega button; Mega Rayquaza needs Dragon Ascent; 78 species
 - [How to evolve Pokémon in Cobblemon](https://coconubs.github.io/en/cobblemon-evolution/): level up then press Evolve, 10 evolution stones, Link Cable instead of trading, all 8 Eevee evolutions, Mega on Coco Cobblemon (Cobblemon 1.7.3)
 - [Cobblemon commands](https://coconubs.github.io/en/cobblemon-commands/): /pokespawn, /pokegive, /pokeheal, /pc, permission levels and properties (Cobblemon 1.7.3)
 - [Cobblemon controls](https://coconubs.github.io/en/cobblemon-controls/): default keybinds of Cobblemon 1.7.3 and how to change them

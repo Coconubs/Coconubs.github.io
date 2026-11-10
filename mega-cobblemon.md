@@ -3,6 +3,7 @@ title: Mega Cobblemon
 seo_title: "Cách tiến hoá Mega trong Cobblemon: Mega Bracelet, đá Mega, Rayquaza"
 description: "Cách tiến hoá Mega trong Cobblemon trên server Coco Cobblemon (mod Mega Showdown): Mega Bracelet, đá Mega, nút Mega, Mega Rayquaza, 78 loài có đá Mega."
 nav_order: 8.85
+alt: /en/cobblemon-mega/
 jsonld: |
   {
     "@context": "https://schema.org",

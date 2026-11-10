@@ -3,7 +3,7 @@ title: Hướng dẫn người mới
 seo_title: "Hướng dẫn người mới Coco Cobblemon: việc ngày đầu và lệnh hay dùng"
 description: "Người mới vào Coco Cobblemon nên làm gì: liên kết Discord, Battle Pass, Nghề nghiệp, Viễn Chinh, BattleTower, claim đất. Danh sách lệnh hay dùng: /menu, /sethome, /rtp, /claim, /gts."
 nav_order: 5
-last_modified_at: 2026-11-11T03:37:57+07:00
+last_modified_at: 2026-11-11T05:28:50+07:00
 ---
 
 # Hướng dẫn người mới
@@ -66,6 +66,16 @@ Lệnh riêng của mod Cobblemon (`/pokespawn`, `/pokegive`...) cần quyền q
 ## Breeding
 
 Cần 1 Pasture Block và 2 Pokémon cùng nhóm trứng (một đực, một cái) hoặc 1 Pokémon với Ditto. Khoảng 4 đến 8 giờ có 1 trứng. Breeding trên server chậm hơn bản gốc 5 lần, đặt Pasture trong đất bang thì bớt 10% thời gian mỗi cấp bang. Chi tiết ở [Breeding](/tinh-nang/breeding/).
+
+## Học chơi Cobblemon
+
+Các trang hướng dẫn cơ chế của Cobblemon, đọc thẳng từ file mod 1.7.3 và ghi rõ phần riêng của Coco Cobblemon:
+
+- [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/): đấu trước rồi ném bóng, tỉ lệ bắt, loại bóng, Legendary.
+- [Cách tiến hoá Pokémon](/tien-hoa-cobblemon/): lên cấp rồi bấm Tiến Hóa, đá tiến hoá, Link Cable, 8 dạng Eevee.
+- [Cách tiến hoá Mega](/mega-cobblemon/): Mega Bracelet, đá Mega, Mega Rayquaza.
+- [Cách cưỡi Pokémon](/cuoi-pokemon-cobblemon/): 84 loài cưỡi được, bay, bơi.
+- [Các phím chơi Cobblemon](/phim-tat-cobblemon/), [Công thức chế tạo](/cong-thuc-cobblemon/), [Lệnh Cobblemon](/lenh-cobblemon/).
 
 ## Hỏi nhanh
 

@@ -97,7 +97,7 @@ In Cobblemon, Leafeon and Glaceon use a Leaf Stone and an Ice Stone; there is no
 
 Only 1 of your Pokémon can be in Mega form at a time: while any Pokémon in your party or PC is still in Mega form, the Mega button does not appear. Mega Stones are sold in **Shop Tokens** (Menu > Shop > Shop Tokens). Mega is allowed in ranked doubles (Regulation H allows Mega and Tera) and in the BattleTower, except on floors that ban it.
 
-Mega Showdown's default Mega Bracelet recipe: top row Iron Ingot, Diamond, Iron Ingot; middle row White Apricorn, Keystone, White Apricorn; bottom row 3 Iron Ingots. Keystones come from Keystone Ore.
+Mega Showdown's default Mega Bracelet recipe: top row Iron Ingot, Diamond, Iron Ingot; middle row White Apricorn, Keystone, White Apricorn; bottom row 3 Iron Ingots. Keystones come from Keystone Ore. More details, the species list and Mega Rayquaza: [How to Mega Evolve in Cobblemon](/en/cobblemon-mega/).
 
 ## On the Coco Cobblemon server
 
