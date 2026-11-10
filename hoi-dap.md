@@ -123,10 +123,10 @@ jsonld: |
       },
       {
         "@type": "Question",
-        "name": "Chơi Cobblemon trên điện thoại Android được không? Có server Việt nào vào được bằng điện thoại không?",
+        "name": "Chơi Cobblemon trên điện thoại Android, iPhone được không? Có server Việt nào vào được bằng điện thoại không?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Được trên Android. Coco Cobblemon vào được bằng CocoLauncher Android, bản thử nghiệm chạy Java Edition, cần RAM từ 6 GB, khuyên dùng 8 GB trở lên. Hiện chưa có bản iOS. Cách cài ở trang Chơi Cobblemon trên điện thoại."
+          "text": "Được. Trên Android, Coco Cobblemon vào được bằng CocoLauncher Android, bản thử nghiệm chạy Java Edition, cần RAM từ 6 GB, khuyên dùng 8 GB trở lên. Trên iPhone, iPad có bản thử nghiệm CocoLauncher iOS, cài qua SideStore và lần đầu cần máy tính. Cách cài ở trang Chơi Cobblemon trên điện thoại."
         }
       },
       {
@@ -203,7 +203,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-07T20:38:41+07:00
+last_modified_at: 2026-11-11T02:29:42+07:00
 ---
 
 # Hỏi đáp Coco Cobblemon
@@ -267,9 +267,9 @@ Tải CocoLauncher và vào server không mất phí. Trong game có Rank và Ba
 
 Windows 10 hoặc 11 bản 64-bit, hoặc máy Mac chip Apple hay Intel. Launcher mặc định cấp cho game 2 đến 4 GB RAM, nên máy nên có từ 8 GB RAM. Chưa có bản cho Linux.
 
-### Chơi Cobblemon trên điện thoại Android được không? Có server Việt nào vào được bằng điện thoại không?
+### Chơi Cobblemon trên điện thoại Android, iPhone được không? Có server Việt nào vào được bằng điện thoại không?
 
-Được trên Android. Coco Cobblemon vào được bằng CocoLauncher Android, bản thử nghiệm chạy Java Edition, cần RAM từ 6 GB, khuyên dùng 8 GB trở lên. Hiện chưa có bản iOS. Cách cài ở trang [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/).
+Được. Trên Android, Coco Cobblemon vào được bằng CocoLauncher Android, bản thử nghiệm chạy Java Edition, cần RAM từ 6 GB, khuyên dùng 8 GB trở lên. Trên iPhone, iPad có bản thử nghiệm CocoLauncher iOS, cài qua SideStore và lần đầu cần máy tính. Cách cài ở trang [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/).
 
 ### Có chơi được bằng Minecraft Bedrock hay PE không?
 
@@ -307,4 +307,4 @@ Hyper Space là tên server Discord của cộng đồng Coco Cobblemon: https:/
 
 Hỏi trên Discord: https://discord.gg/hyspace. Lỗi launcher xem trước trang [Sửa lỗi CocoLauncher](/cocolauncher/sua-loi/).
 
-*Cập nhật: 07/11/2026.*
+*Cập nhật: 11/11/2026.*

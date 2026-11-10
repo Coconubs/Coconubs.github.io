@@ -15,7 +15,7 @@ jsonld: |
     "url": "https://coconubs.github.io/en/cocolauncher/",
     "description": "The launcher of the Coco Cobblemon server. It installs Java, Minecraft, Fabric and the server modpack so players can join with one button.",
     "applicationCategory": "GameApplication",
-    "operatingSystem": "Windows 10, Windows 11, macOS, Android",
+    "operatingSystem": "Windows 10, Windows 11, macOS, Android, iOS",
     "inLanguage": ["vi", "en"],
     "installUrl": "https://apps.microsoft.com/detail/9NPG31VS7T2H",
     "downloadUrl": "https://github.com/Coconubs/cocolauncher-pack/releases",
@@ -34,7 +34,7 @@ jsonld: |
       "https://github.com/Coconubs/cocolauncher-pack"
     ]
   }
-last_modified_at: 2026-11-06T11:30:01+07:00
+last_modified_at: 2026-11-11T02:29:42+07:00
 ---
 
 # CocoLauncher (Coco Launcher)
@@ -52,7 +52,8 @@ CocoLauncher is the launcher of the Coco Cobblemon server. It installs Java, Min
 | macOS Intel | [CocoLauncher-Mac-Intel.dmg](https://github.com/Coconubs/cocolauncher-pack/releases/download/launcher/CocoLauncher-Mac-Intel.dmg) |
 | Android (experimental, 6 GB of RAM or more) | [CocoLauncher-Android.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android.apk) |
 | Android on a PC emulator (MuMu, LDPlayer) | [CocoLauncher-Android-GiaLap.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android-GiaLap.apk) |
-| iOS, Linux | Not available |
+| iPhone, iPad (experimental) | [CocoLauncher iOS page](https://coconubs.github.io/CocoLauncher-iOS/), see [iPhone and iPad](/en/cobblemon-android/#iphone-and-ipad) |
+| Linux | Not available |
 
 Only download from the Microsoft Store or [Coconubs GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases). Copies on other sites may have been modified.
 
@@ -95,4 +96,4 @@ If the hashes do not match, do not open the file. Download it again from the off
 - Windows 10 or 11 (64-bit), or a Mac with Apple silicon or Intel.
 - The launcher gives the game 2 to 4 GB of RAM by default, so 8 GB of RAM or more is recommended.
 
-*Updated: 06/11/2026.*
+*Updated: 11 November 2026.*

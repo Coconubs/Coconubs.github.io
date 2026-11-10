@@ -6,7 +6,7 @@ parent: English
 nav_order: 8
 permalink: /en/vietnam-cobblemon-server/
 alt: /server-cobblemon-viet-nam/
-last_modified_at: 2026-11-07T20:45:09+07:00
+last_modified_at: 2026-11-11T02:29:42+07:00
 ---
 
 # Cobblemon server in Vietnam: Coco Cobblemon
@@ -22,7 +22,7 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 | **Version** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
 | **Hosted in** | Singapore. Measured on 6 November 2026: about 29 ms ping from Ho Chi Minh City |
 | **Language** | Vietnamese, with an English option in the launcher and the in-game menu (`/ngonngu en`) |
-| **How to join** | CocoLauncher for Windows, macOS and Android |
+| **How to join** | CocoLauncher for Windows, macOS, Android and iPhone (Android and iPhone builds are experimental) |
 | **Event times** | Vietnam time (UTC+7) |
 | **Cost** | Downloading the launcher and joining are free. Ranks and the Premium Battle Pass are optional |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace), the Discord server is called Hyper Space |
@@ -60,7 +60,7 @@ There is no official ranking of Cobblemon servers in Vietnam. If you are compari
 | How mods are installed | Installing by hand often misses a mod or a version | CocoLauncher installs everything and keeps mods in sync with the server |
 | Ping | High ping delays battles, flying and mining | Hosted in Singapore, about 29 ms from Ho Chi Minh City |
 | Language | Menus, quests and guides you can read | Vietnamese, with English |
-| Devices | Many servers are PC only | Windows, macOS, Android (experimental) |
+| Devices | Many servers are PC only | Windows, macOS, Android and iPhone (experimental) |
 | Long-term goals | Only catching Pokémon gets old | Ranked battles, Battle Tower, Guild War, World Raids, accumulating Legendary chance |
 | What costs money | Know what is free | Free to join. Ranks and the Premium Battle Pass are optional |
 | Support | Launcher errors or lost items need someone to help | Ask on the Hyper Space Discord |
@@ -84,4 +84,4 @@ Older videos and posts may use these names. They all mean the same server, Coco 
 - **Hyper Space**: the community Discord server.
 - **Coco's Hyper Space**, **Coco Cobbleverse**: names used in a few older videos and Facebook posts.
 
-*Updated: 7 November 2026.*
+*Updated: 11 November 2026.*

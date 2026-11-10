@@ -24,7 +24,7 @@ jsonld: |
       "https://discord.gg/hyspace"
     ]
   }
-last_modified_at: 2026-11-07T22:06:58+07:00
+last_modified_at: 2026-11-11T02:29:42+07:00
 ---
 
 # Coco Cobblemon: a Cobblemon server in Vietnam
@@ -45,7 +45,7 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 | **Version** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
 | **Hosted in** | Singapore, about 29 ms ping from Ho Chi Minh City (measured 6 November 2026) |
 | **Language** | Vietnamese, with an English option in the launcher and the in-game menu |
-| **Join with** | CocoLauncher for Windows, macOS and Android |
+| **Join with** | CocoLauncher for Windows, macOS, Android and iPhone (Android and iPhone builds are experimental) |
 | **Cost** | Free to download and join |
 | **Event times** | Vietnam time (UTC+7) |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace) (Discord server name: Hyper Space) |
@@ -72,7 +72,7 @@ Details on the [Features](/en/features/) page.
 | macOS (Apple silicon, Intel) | Yes |
 | Android | Experimental build that runs Java Edition, 6 GB of RAM or more. See [Play Cobblemon on Android](/en/cobblemon-android/) |
 | Linux | No launcher build yet |
-| iPhone, iPad | Not available |
+| iPhone, iPad | Experimental build, see [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/) (guide in Vietnamese) |
 | Minecraft Bedrock, Pocket Edition | No, Cobblemon is a Java Edition mod |
 
 ## Can I join from outside Vietnam?
@@ -85,9 +85,9 @@ Yes. Anyone can download CocoLauncher and join. Most players and most of the cha
 - [CocoLauncher download](/en/cocolauncher/)
 - [How to join](/en/how-to-join/)
 - [Features](/en/features/)
-- [Play Cobblemon on Android](/en/cobblemon-android/)
+- [Play Cobblemon on Android and iPhone](/en/cobblemon-android/)
 - [Which launcher for Cobblemon](/en/cobblemon-launcher/)
 - [Troubleshooting](/en/troubleshooting/)
 - [FAQ](/en/faq/)
 
-*Updated: 7 November 2026.*
+*Updated: 11 November 2026.*

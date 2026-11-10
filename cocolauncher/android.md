@@ -1,17 +1,17 @@
 ---
 title: Chơi trên điện thoại
-seo_title: "Chơi Cobblemon trên điện thoại Android bằng CocoLauncher Android"
-description: "Cobblemon có chơi trên điện thoại được không? Có, trên Android bằng CocoLauncher Android (bản thử nghiệm chạy Java Edition, RAM từ 6 GB). Cách cài, giả lập MuMu, LDPlayer, mẹo máy yếu."
+seo_title: "Chơi Cobblemon trên điện thoại Android, iPhone bằng CocoLauncher"
+description: "Cobblemon có chơi trên điện thoại được không? Có: Android dùng CocoLauncher Android (thử nghiệm, RAM từ 6 GB), iPhone, iPad dùng CocoLauncher iOS (thử nghiệm). Cách cài, giả lập, mẹo máy yếu."
 parent: CocoLauncher
 nav_order: 3
 permalink: /cobblemon-dien-thoai/
 alt: /en/cobblemon-android/
-last_modified_at: 2026-11-07T21:58:09+07:00
+last_modified_at: 2026-11-11T02:29:42+07:00
 ---
 
-# Chơi Cobblemon trên điện thoại Android
+# Chơi Cobblemon trên điện thoại Android, iPhone
 
-Cobblemon là mod cho Minecraft Java Edition, nên không cài được vào Minecraft PE hay Bedrock. Muốn chơi Cobblemon trên điện thoại, server Coco Cobblemon có **CocoLauncher Android**: bản thử nghiệm chạy Java Edition ngay trên máy Android và vào chung server với người chơi máy tính.
+Cobblemon là mod cho Minecraft Java Edition, nên không cài được vào Minecraft PE hay Bedrock. Muốn chơi Cobblemon trên điện thoại, server Coco Cobblemon có **CocoLauncher Android**: bản thử nghiệm chạy Java Edition ngay trên máy Android và vào chung server với người chơi máy tính. iPhone, iPad có bản thử nghiệm riêng là [CocoLauncher iOS](#iphone-ipad).
 {: .fs-5 .fw-300 }
 
 [Tải CocoLauncher-Android.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android.apk){: .btn .btn-primary }
@@ -42,7 +42,16 @@ Giả lập trên máy tính dùng bản riêng: [CocoLauncher-Android-GiaLap.ap
 
 ## iPhone, iPad
 
-Chưa có bản iOS.
+Có bản thử nghiệm **CocoLauncher iOS**, tải và xem hướng dẫn cài ở trang [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/). iPhone không cài app ngoài App Store trực tiếp được, nên cách cài dài hơn Android:
+
+| Cần | Chi tiết |
+|---|---|
+| Máy | iPhone, iPad chạy iOS 14 trở lên. Khuyên máy 8 GB RAM (iPhone 15 Pro, 16, 17); máy 6 GB chơi được ở cấu hình Thấp |
+| Máy tính | Windows hoặc Mac và cáp, dùng 1 lần khoảng 30 phút để cài SideStore và mở khoá RAM cho app |
+| Tài khoản | Một Apple ID, nên dùng Apple ID phụ |
+| Giữ app mở được | Cứ 7 ngày vào SideStore bấm Refresh. Quá hạn thì app không mở được cho tới khi Refresh |
+
+Lần đầu app tải khoảng 1,5 GB, nên dùng Wi-Fi. Lỗi khi cài hoặc văng game: hỏi trên [Discord](https://discord.gg/hyspace), gửi kèm ảnh chụp và file `latestlog.txt` (app Tệp › CocoLauncher).
 
 ## Mẹo cho máy yếu
 
@@ -72,4 +81,4 @@ Fold Craft Launcher (FCL) và PojavLauncher chạy được Minecraft Java Editi
 **Chơi bằng Minecraft PE được không?**
 Không. Cobblemon là mod cho Java Edition, Minecraft PE và Bedrock không vào được server. Gói "Cobblemon PE" trên mạng là addon của người khác, xem [Cobblemon PE, Bedrock](/cobblemon-pe/).
 
-*Cập nhật: 07/11/2026.*
+*Cập nhật: 11/11/2026.*

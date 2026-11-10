@@ -104,7 +104,7 @@ jsonld: |
         "name": "Can I play Cobblemon on my phone?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "On Android, yes: CocoLauncher Android is an experimental build that runs Java Edition and needs 6 GB of RAM or more (8 GB recommended). There is no iOS version. See Play Cobblemon on Android."
+          "text": "Yes. On Android, CocoLauncher Android is an experimental build that runs Java Edition and needs 6 GB of RAM or more (8 GB recommended). On iPhone and iPad there is an experimental CocoLauncher iOS build, installed through SideStore with a computer the first time. See Play Cobblemon on Android and iPhone."
         }
       },
       {
@@ -149,7 +149,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-07T20:38:41+07:00
+last_modified_at: 2026-11-11T02:29:42+07:00
 ---
 
 # Coco Cobblemon FAQ
@@ -203,7 +203,7 @@ Windows 10 or 11 (64-bit), or a Mac with Apple silicon or Intel. The launcher gi
 
 ### Can I play Cobblemon on my phone?
 
-On Android, yes: CocoLauncher Android is an experimental build that runs Java Edition and needs 6 GB of RAM or more (8 GB recommended). There is no iOS version. See [Play Cobblemon on Android](/en/cobblemon-android/).
+Yes. On Android, CocoLauncher Android is an experimental build that runs Java Edition and needs 6 GB of RAM or more (8 GB recommended). On iPhone and iPad there is an experimental CocoLauncher iOS build, installed through SideStore with a computer the first time. See [Play Cobblemon on Android and iPhone](/en/cobblemon-android/).
 
 ### Can I play on Bedrock or Pocket Edition?
 
@@ -225,4 +225,4 @@ No. Coco Cobblemon is a community server. It is not an official product of, or e
 
 Hyper Space is the name of the Coco Cobblemon community Discord server: https://discord.gg/hyspace. Some older videos call the server Coco's Hyper Space; it is the same server, Coco Cobblemon.
 
-*Updated: 7 November 2026.*
+*Updated: 11 November 2026.*

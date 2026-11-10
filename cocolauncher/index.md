@@ -15,7 +15,7 @@ jsonld: |
     "url": "https://coconubs.github.io/cocolauncher/",
     "description": "Launcher của server Coco Cobblemon, tự cài Java, Minecraft, Fabric và gói mod để vào server chỉ bằng một nút.",
     "applicationCategory": "GameApplication",
-    "operatingSystem": "Windows 10, Windows 11, macOS, Android",
+    "operatingSystem": "Windows 10, Windows 11, macOS, Android, iOS",
     "inLanguage": ["vi", "en"],
     "installUrl": "https://apps.microsoft.com/detail/9NPG31VS7T2H",
     "downloadUrl": "https://github.com/Coconubs/cocolauncher-pack/releases",
@@ -34,7 +34,7 @@ jsonld: |
       "https://github.com/Coconubs/cocolauncher-pack"
     ]
   }
-last_modified_at: 2026-11-07T21:30:02+07:00
+last_modified_at: 2026-11-11T02:29:42+07:00
 ---
 
 # CocoLauncher (Coco Launcher)
@@ -52,7 +52,8 @@ CocoLauncher là launcher của server Coco Cobblemon, tự cài Java, Minecraft
 | macOS Intel | [CocoLauncher-Mac-Intel.dmg](https://github.com/Coconubs/cocolauncher-pack/releases/download/launcher/CocoLauncher-Mac-Intel.dmg) | [macOS](/cocolauncher/macos/) |
 | Android (thử nghiệm, RAM từ 6 GB) | [CocoLauncher-Android.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android.apk) | [Điện thoại](/cobblemon-dien-thoai/) |
 | Android trên giả lập PC (MuMu, LDPlayer) | [CocoLauncher-Android-GiaLap.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android-GiaLap.apk) | [Điện thoại](/cobblemon-dien-thoai/#gia-lap) |
-| iOS, Linux | Chưa có | |
+| iPhone, iPad (thử nghiệm) | [Trang CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/) | [Điện thoại](/cobblemon-dien-thoai/#iphone-ipad) |
+| Linux | Chưa có | |
 
 Chỉ tải từ các link trên (Microsoft Store hoặc [GitHub Releases của Coconubs](https://github.com/Coconubs/cocolauncher-pack/releases)). Bản đăng lại ở trang khác có thể đã bị sửa. Cách đối chiếu file ở trang [CocoLauncher có an toàn không](/cocolauncher/an-toan/).
 
@@ -96,4 +97,4 @@ Không. App giao diện điện thoại tên "Coco Launcher" trên Google Play l
 - [Sửa lỗi CocoLauncher](/cocolauncher/sua-loi/)
 - [CocoLauncher có an toàn không? Cách kiểm tra file tải](/cocolauncher/an-toan/)
 
-*Cập nhật: 07/11/2026.*
+*Cập nhật: 11/11/2026.*

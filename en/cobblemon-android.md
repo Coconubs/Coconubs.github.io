@@ -1,17 +1,17 @@
 ---
 title: Play on Android
-seo_title: "Play Cobblemon on Android with CocoLauncher Android"
-description: "Can you play Cobblemon on a phone? On Android, yes: CocoLauncher Android is an experimental build that runs Minecraft Java Edition (6 GB of RAM or more) and joins the Coco Cobblemon server."
+seo_title: "Play Cobblemon on Android and iPhone with CocoLauncher"
+description: "Can you play Cobblemon on a phone? Yes: CocoLauncher Android (experimental, 6 GB of RAM or more) and CocoLauncher iOS (experimental) run Minecraft Java Edition and join the Coco Cobblemon server."
 parent: English
 nav_order: 4
 permalink: /en/cobblemon-android/
 alt: /cobblemon-dien-thoai/
-last_modified_at: 2026-11-06T11:30:01+07:00
+last_modified_at: 2026-11-11T02:29:42+07:00
 ---
 
-# Play Cobblemon on Android
+# Play Cobblemon on Android and iPhone
 
-Cobblemon is a mod for Minecraft Java Edition, so it does not install into Minecraft Pocket Edition or Bedrock. To play on a phone, the Coco Cobblemon server has **CocoLauncher Android**, an experimental app that runs Java Edition on the Android device and joins the same server as PC players.
+Cobblemon is a mod for Minecraft Java Edition, so it does not install into Minecraft Pocket Edition or Bedrock. To play on a phone, the Coco Cobblemon server has **CocoLauncher Android**, an experimental app that runs Java Edition on the Android device and joins the same server as PC players. iPhone and iPad have a separate experimental build, [CocoLauncher iOS](#iphone-and-ipad).
 {: .fs-5 .fw-300 }
 
 [Download CocoLauncher-Android.apk](https://github.com/Coconubs/cocolauncher-pack/releases/download/android-app/CocoLauncher-Android.apk){: .btn .btn-primary }
@@ -41,7 +41,13 @@ Emulators use a separate build: [CocoLauncher-Android-GiaLap.apk](https://github
 
 ## iPhone and iPad
 
-Not available.
+There is an experimental **CocoLauncher iOS** build. Download it and follow the install guide on the [CocoLauncher iOS page](https://coconubs.github.io/CocoLauncher-iOS/) (in Vietnamese). iPhones cannot install apps from outside the App Store directly, so setup takes longer than on Android:
+
+- iPhone or iPad on iOS 14 or later. 8 GB of RAM is recommended (iPhone 15 Pro, 16, 17); 6 GB devices run on the Low preset.
+- A Windows PC or Mac with a cable, used once for about 30 minutes, to install SideStore and unlock more memory for the app.
+- An Apple ID (a secondary one is recommended). Refresh the app in SideStore every 7 days, or it will not open until you do.
+
+The first start downloads about 1.5 GB, so use Wi-Fi. For install problems or crashes, ask on [Discord](https://discord.gg/hyspace) with a screenshot and the `latestlog.txt` file.
 
 ## Common problems
 
@@ -54,4 +60,4 @@ Not available.
 
 Still stuck: use the send-log button in the launcher settings and ask on [Discord](https://discord.gg/hyspace).
 
-*Updated: 06/11/2026.*
+*Updated: 11 November 2026.*

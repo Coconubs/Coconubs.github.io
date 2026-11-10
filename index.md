@@ -22,7 +22,7 @@ jsonld: |
       "https://discord.gg/hyspace"
     ]
   }
-last_modified_at: 2026-11-07T22:13:26+07:00
+last_modified_at: 2026-11-11T02:29:42+07:00
 ---
 
 # Coco Cobblemon
@@ -43,7 +43,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 | **Phiên bản** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
 | **Máy chủ** | Đặt ở Singapore, ping khoảng 29 ms từ TP.HCM (đo 06/11/2026) |
 | **Ngôn ngữ** | Tiếng Việt, có nút chọn tiếng Anh trong menu |
-| **Vào game bằng** | CocoLauncher cho Windows, macOS, Android |
+| **Vào game bằng** | CocoLauncher cho Windows, macOS, Android, iPhone (Android và iPhone là bản thử nghiệm) |
 | **Chi phí** | Tải launcher và vào server không mất phí |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace) (tên server Discord: Hyper Space) |
 
@@ -52,7 +52,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 | Bạn muốn | Đọc trang |
 |---|---|
 | Tải launcher cho máy tính | [CocoLauncher (Coco Launcher)](/cocolauncher/) |
-| Chơi trên điện thoại | [Chơi Cobblemon trên điện thoại Android](/cobblemon-dien-thoai/) |
+| Chơi trên điện thoại | [Chơi Cobblemon trên điện thoại Android, iPhone](/cobblemon-dien-thoai/) |
 | Vào server lần đầu | [Cách vào server Coco Cobblemon](/cach-vao-server/) |
 | Biết nên làm gì ngày đầu, lệnh hay dùng | [Hướng dẫn người mới](/huong-dan-nguoi-moi/) |
 | Xem server có gì | [Tính năng](/tinh-nang/) |
@@ -84,4 +84,4 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 - [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](/pokemon-trong-minecraft/)
 - [Nhật ký cập nhật](/cap-nhat/): Chợ GTS mới, Shop và Ngân hàng trong menu, lệnh bang hội (07/11/2026)
 
-*Cập nhật: 07/11/2026.*
+*Cập nhật: 11/11/2026.*

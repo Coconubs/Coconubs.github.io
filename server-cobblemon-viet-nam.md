@@ -4,7 +4,7 @@ seo_title: "Server Cobblemon Việt Nam: Coco Cobblemon, IP, ping, lịch sự k
 description: "Coco Cobblemon là server Cobblemon Việt Nam trên Minecraft Java 1.21.1, IP coco.ultramc.co, máy chủ Singapore ping khoảng 29 ms từ TP.HCM. Lịch sự kiện, cách chọn server."
 nav_order: 4
 alt: /en/vietnam-cobblemon-server/
-last_modified_at: 2026-11-07T22:04:22+07:00
+last_modified_at: 2026-11-11T02:29:42+07:00
 ---
 
 # Server Cobblemon Việt Nam: Coco Cobblemon
@@ -20,7 +20,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 | **Phiên bản** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
 | **Máy chủ đặt ở** | Singapore. Ping đo ngày 06/11/2026: khoảng 29 ms từ TP.HCM |
 | **Ngôn ngữ** | Tiếng Việt, có nút chọn tiếng Anh trong menu (`/ngonngu en`) |
-| **Vào game** | CocoLauncher cho Windows, macOS, Android |
+| **Vào game** | CocoLauncher cho Windows, macOS, Android, iPhone (Android và iPhone là bản thử nghiệm) |
 | **Giờ sự kiện** | Giờ Việt Nam (UTC+7) |
 | **Chi phí** | Tải launcher và vào server không mất phí. Rank và Battle Pass Premium không bắt buộc |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace), tên server Discord là Hyper Space |
@@ -58,7 +58,7 @@ Không có bảng xếp hạng chính thức nào cho server Cobblemon Việt Na
 | Cách cài mod | Tự cài dễ thiếu mod hoặc lệch bản | CocoLauncher tự cài, mod tự cập nhật theo server |
 | Ping từ Việt Nam | Ping cao làm trận đấu, bay, đào khối bị trễ | Máy chủ Singapore, khoảng 29 ms từ TP.HCM |
 | Ngôn ngữ | Menu, nhiệm vụ, hướng dẫn có đọc được không | Tiếng Việt, có tiếng Anh |
-| Thiết bị | Có server chỉ chơi được trên máy tính | Windows, macOS, Android (thử nghiệm) |
+| Thiết bị | Có server chỉ chơi được trên máy tính | Windows, macOS, Android và iPhone (thử nghiệm) |
 | Việc để làm lâu dài | Chỉ bắt Pokémon thì nhanh chán | Đấu Xếp Hạng, BattleTower, Bang Hội Chiến, Raid, Legendary tích luỹ |
 | Phần phải trả tiền | Biết trước cái gì miễn phí | Vào chơi không mất phí. Rank và Battle Pass Premium là tuỳ chọn |
 | Hỗ trợ | Lỗi launcher, mất đồ cần người xử lý | Hỏi trên Discord Hyper Space |
@@ -99,7 +99,7 @@ Chi tiết ở [Cách vào server](/cach-vao-server/).
 | macOS (chip Apple, Intel) | Có |
 | Android | Có, bản thử nghiệm, RAM từ 6 GB. Xem [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/) |
 | Linux | Chưa có bản launcher |
-| iPhone, iPad | Chưa có |
+| iPhone, iPad | Có, bản thử nghiệm [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/). Lần đầu cài cần máy tính |
 | Minecraft Bedrock, PE | Không, vì Cobblemon là mod cho Java Edition |
 
 ## Tên khác của server
@@ -123,4 +123,4 @@ Có. Buổi tối là lúc đông người chơi. Lịch sự kiện và bảo t
 **Gặp lỗi khi vào thì hỏi ở đâu?**
 Xem trước [Sửa lỗi CocoLauncher](/cocolauncher/sua-loi/), chưa được thì hỏi trên [Discord](https://discord.gg/hyspace).
 
-*Cập nhật: 07/11/2026.*
+*Cập nhật: 11/11/2026.*
