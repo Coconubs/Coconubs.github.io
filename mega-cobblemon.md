@@ -35,7 +35,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T05:26:36+07:00
+last_modified_at: 2026-11-11T06:02:04+07:00
 ---
 
 # Cách tiến hoá Mega trong Cobblemon
@@ -58,13 +58,15 @@ Mega Bracelet làm theo công thức mặc định của Mega Showdown (bàn ch�
 | White Apricorn | Keystone | White Apricorn |
 | Phôi sắt | Phôi sắt | Phôi sắt |
 
-Keystone rơi ra khi đào **Keystone Ore**; quặng này nằm trong công trình **Megaroid** dưới lòng đất (theo dữ liệu của mod). Mega Showdown có thêm Mega Bracelet 6 màu khác: đỏ, hồng, vàng, xanh lá, xanh dương, đen.
+Đây là công thức mặc định trong file mod; chưa kiểm trên server. Keystone rơi ra khi đào **Keystone Ore**; quặng này nằm trong công trình **Megaroid** dưới lòng đất (theo dữ liệu của mod). Mega Showdown có thêm Mega Bracelet 6 màu khác: đỏ, hồng, vàng, xanh lá, xanh dương, đen.
 
 ## Không thấy nút Mega?
 
 - Chưa đeo Mega Bracelet, hoặc Pokémon không cầm đúng đá Mega của loài đó.
 - Còn một Pokémon khác của bạn (trong đội hình hoặc trong PC) đang ở dạng Mega: mỗi lúc chỉ được 1 con.
-- Trận đó cấm Mega: một số tầng BattleTower từ tầng 15 cấm Mega (xem nhãn trước trận), Đấu Xếp Hạng thì luật Đấu Đôi Regulation H cho dùng Mega và Tera. Xem [BattleTower](/tinh-nang/battletower/) và [Đấu Xếp Hạng](/tinh-nang/dau-xep-hang/).
+- Trận đó cấm Mega: ở BattleTower, từ tầng 15 có tầng cấm Mega (xem nhãn trước trận) và từ tầng 150 cấm mọi cơ chế. Xem [BattleTower](/tinh-nang/battletower/).
+
+Đấu Đôi xếp hạng (luật Regulation H) cho dùng Mega và Tera; Đấu Đơn có luật riêng ở tab LUẬT trong game, xem [Đấu Xếp Hạng](/tinh-nang/dau-xep-hang/).
 
 ## Mega Rayquaza
 
@@ -72,7 +74,7 @@ Rayquaza không dùng đá Mega. Rayquaza phải **biết chiêu Dragon Ascent**
 
 ## Pokémon nào tiến hoá Mega được
 
-Mega Showdown 1.9.9 có 81 viên đá Mega cho **78 loài** (Charizard, Mewtwo và Raichu mỗi loài có 2 dạng X và Y), cộng Rayquaza dùng Dragon Ascent:
+Cobblemon 1.7.3 gốc chỉ có dữ liệu 48 dạng Mega của 46 loài và không dùng được. Mega Showdown 1.9.9 mà Coco Cobblemon cài có 81 viên đá Mega cho **78 loài** (Charizard, Mewtwo và Raichu mỗi loài có 2 dạng X và Y), cộng Rayquaza dùng Dragon Ascent:
 
 Abomasnow, Absol, Aerodactyl, Aggron, Alakazam, Altaria, Ampharos, Audino, Banette, Barbaracle, Beedrill, Blastoise, Blaziken, Camerupt, Chandelure, Charizard (X, Y), Chesnaught, Chimecho, Clefable, Crabominable, Delphox, Diancie, Dragalge, Dragonite, Drampa, Eelektross, Emboar, Excadrill, Falinks, Feraligatr, Floette, Froslass, Gallade, Garchomp, Gardevoir, Gengar, Glalie, Glimmora, Golurk, Greninja, Gyarados, Hawlucha, Heracross, Houndoom, Kangaskhan, Latias, Latios, Lopunny, Lucario, Malamar, Manectric, Mawile, Medicham, Meganium, Meowstic, Metagross, Mewtwo (X, Y), Pidgeot, Pinsir, Pyroar, Raichu (X, Y), Sableye, Salamence, Sceptile, Scizor, Scolipede, Scovillain, Scrafty, Sharpedo, Skarmory, Slowbro, Staraptor, Starmie, Steelix, Swampert, Tyranitar, Venusaur, Victreebel.
 
@@ -86,15 +88,15 @@ Cobblemon gốc chưa có Mega. Trên Coco Cobblemon (mod Mega Showdown): đeo M
 
 ### Cách tiến hoá Mega Rayquaza trong Cobblemon?
 
-Rayquaza không cần đá Mega mà phải biết chiêu Dragon Ascent. Đeo Mega Bracelet, vào trận, bấm nút Mega.
+Trên Coco Cobblemon (mod Mega Showdown), Rayquaza không cần đá Mega mà phải biết chiêu Dragon Ascent. Đeo Mega Bracelet, vào trận, bấm nút Mega.
 
 ### Cách tiến hoá Mega Greninja trong Cobblemon?
 
-Cho Greninja cầm Greninjite, đeo Mega Bracelet rồi bấm nút Mega trong trận. Greninjite có trong Mega Showdown 1.9.9, bản mod server Coco Cobblemon đang dùng.
+Trên Coco Cobblemon, cho Greninja cầm Greninjite, đeo Mega Bracelet rồi bấm nút Mega trong trận. Greninjite có trong Mega Showdown 1.9.9, bản mod server Coco Cobblemon đang dùng.
 
 ### Đá Mega mua ở đâu trên Coco Cobblemon?
 
-Ở Shop Tokens: Menu (`/menu`) > Shop > Shop Tokens. Tokens kiếm từ nhiệm vụ Battle Pass và Viễn Chinh mỗi ngày.
+Đá Mega trên Coco Cobblemon bán ở Shop Tokens: Menu (`/menu`) > Shop > Shop Tokens. Tokens kiếm đều đặn nhất từ nhiệm vụ Battle Pass và Viễn Chinh mỗi ngày.
 
 **Xem thêm:** [Cách tiến hoá Pokémon](/tien-hoa-cobblemon/) · [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/) · [Đấu Xếp Hạng](/tinh-nang/dau-xep-hang/) · [BattleTower](/tinh-nang/battletower/) · [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/)
 

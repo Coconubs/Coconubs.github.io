@@ -35,7 +35,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T05:44:07+07:00
+last_modified_at: 2026-11-11T06:02:04+07:00
 ---
 
 # Cách học chiêu cho Pokémon trong Cobblemon
@@ -85,11 +85,11 @@ Vì vậy trong Cobblemon không cần đi tìm người nhắc chiêu (Move Rem
 
 ### Cách học chiêu cho Pokémon trong Cobblemon?
 
-Pokémon tự học chiêu khi lên cấp nếu còn chỗ. Đủ 4 chiêu thì bấm M, vào tab Các Đòn, chọn chiêu muốn thay, bấm Đổi Đòn rồi chọn chiêu mới.
+Trong Cobblemon, Pokémon tự học chiêu khi lên cấp nếu còn chỗ. Đủ 4 chiêu thì bấm M, vào tab Các Đòn, chọn chiêu muốn thay, bấm Đổi Đòn rồi chọn chiêu mới.
 
 ### Pokémon đủ 4 chiêu thì học chiêu mới thế nào?
 
-Chiêu mới theo cấp không tự thay chiêu cũ, nhưng luôn có trong danh sách Đổi Đòn ở Tóm Tắt (phím M), tab Các Đòn.
+Trong Cobblemon, chiêu mới theo cấp không tự thay chiêu cũ, nhưng luôn có trong danh sách Đổi Đòn ở Tóm Tắt (phím M), tab Các Đòn.
 
 ### Cobblemon có TM không?
 
@@ -97,7 +97,7 @@ Cobblemon 1.7.3 gốc thì không. Trên Coco Cobblemon có TM của mod TMCraft
 
 ### Có cần Move Reminder để nhớ lại chiêu không?
 
-Không. Đổi Đòn trong Tóm Tắt cho chọn lại mọi chiêu loài đó học khi lên cấp tới cấp hiện tại.
+Không. Trong Cobblemon, Đổi Đòn trong Tóm Tắt cho chọn lại mọi chiêu loài đó học khi lên cấp tới cấp hiện tại.
 
 **Xem thêm:** [Cách tiến hoá Pokémon](/tien-hoa-cobblemon/) · [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/)
 

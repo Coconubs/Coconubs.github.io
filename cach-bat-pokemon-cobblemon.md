@@ -40,12 +40,12 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T05:20:11+07:00
+last_modified_at: 2026-11-11T06:02:04+07:00
 ---
 
 # Cách bắt Pokémon trong Cobblemon
 
-Cách bắt Pokémon trong Cobblemon 1.7.3: nhìn vào Pokémon hoang dã ở gần và bấm **R** để vào trận, đánh cho Pokémon đó còn ít máu (gây Ngủ càng tốt), rồi bấm R để thu nhỏ màn trận, cầm Poké Ball và bấm **chuột phải** để ném. Ném bóng khi đang đấu được tỉ lệ gấp đôi so với ném vào Pokémon đang đi ngoài thế giới. Bóng tốt hơn, máu càng thấp và Pokémon càng dễ bắt (chỉ số catch rate cao) thì càng dễ thành công.
+Cách bắt Pokémon trong Cobblemon 1.7.3: nhìn vào Pokémon hoang dã ở gần và bấm **R** để vào trận, đánh cho Pokémon đó còn ít máu (gây Ngủ càng tốt), rồi bấm R để thu nhỏ màn trận, cầm Poké Ball và bấm **chuột phải** để ném. Ném bóng khi đang đấu được tỉ lệ gấp đôi so với ném vào Pokémon đang đi ngoài thế giới. Bóng càng tốt, máu càng thấp và loài có chỉ số catch rate càng cao thì càng dễ bắt.
 {: .fs-5 .fw-300 }
 
 ## Các bước bắt Pokémon
@@ -86,7 +86,7 @@ Trên server Coco Cobblemon, mở Menu (`/menu`) rồi chọn **POKÉDEX** ở t
 
 **Trên server Coco Cobblemon, Legendary có nhiều nguồn:**
 
-- Xuất hiện tự nhiên theo tỉ lệ tích luỹ, mạnh hơn vào Giờ Vàng cuối tuần và khi dùng Bùa Huyền Thoại.
+- Xuất hiện tự nhiên theo tỉ lệ tích luỹ; tỉ lệ x2 vào Giờ Vàng cuối tuần hoặc khi dùng Bùa Huyền Thoại.
 - Triệu hồi bằng Altar, đền, Legendary Monuments (tốn CobbleDollars).
 - Raid Thế Giới, Trứng Huyền Thoại, Boss Bang.
 
@@ -96,26 +96,26 @@ Legendary có chỉ số catch rate rất thấp (60 trong 71 loài Legendary l�
 
 ## Trên server Coco Cobblemon
 
-- Pokémon hoang dã xuất hiện không cầm vật phẩm. Held Item mua ở Shop Tokens (Menu > Shop > Shop Tokens), xem [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/).
+- Pokémon hoang dã xuất hiện không cầm vật phẩm (theo Hướng dẫn trong game ngày 08/11/2026). Held Item mua ở Shop Tokens (Menu > Shop > Shop Tokens), xem [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/).
 - Shiny trên Coco Cobblemon có qua Dung hợp Shiny, Trứng, Raid, Daily Shop và Battle Pass, xem [Cách có Pokémon Shiny](/tinh-nang/shiny/).
 
 ## Hỏi nhanh
 
 ### Cách bắt Pokémon trong Cobblemon?
 
-Bấm R khi nhìn vào Pokémon hoang dã để vào trận, đánh cho còn ít máu, bấm R để thu nhỏ màn trận, rồi cầm Poké Ball bấm chuột phải để ném.
+Trong Cobblemon, bấm R khi nhìn vào Pokémon hoang dã để vào trận, đánh cho còn ít máu, bấm R để thu nhỏ màn trận, rồi cầm Poké Ball bấm chuột phải để ném.
 
 ### Ném bóng không cần đấu có được không?
 
-Được, nhưng tỉ lệ bắt chỉ còn một nửa so với ném khi đang trong trận (Cobblemon 1.7.3 nhân x0,5 khi Pokémon không ở trong trận).
+Được, nhưng Cobblemon 1.7.3 nhân tỉ lệ bắt x0,5 khi Pokémon không ở trong trận, tức chỉ còn một nửa so với ném khi đang đấu.
 
 ### Bóng nào bắt dễ nhất?
 
-Master Ball luôn bắt được. Trong các bóng thường: Ultra Ball x2, Great Ball x1,5, Poké Ball x1.
+Trong Cobblemon 1.7.3, Master Ball luôn bắt được. Trong các bóng thường: Ultra Ball x2, Great Ball x1,5, Poké Ball x1; các bóng đặc biệt như Quick Ball, Dusk Ball, Net Ball mạnh hơn trong điều kiện riêng.
 
 ### Cách bắt Pokémon huyền thoại trong Cobblemon?
 
-Cobblemon 1.7.3 gốc không cho Legendary xuất hiện tự nhiên. Trên Coco Cobblemon, Legendary xuất hiện theo tỉ lệ tích luỹ, triệu hồi bằng Altar, có trong Raid và Trứng Huyền Thoại; khi gặp thì hạ máu, gây Ngủ và dùng Ultra Ball vì đa số Legendary có catch rate 3.
+Cobblemon 1.7.3 gốc không cho Legendary xuất hiện tự nhiên. Trên Coco Cobblemon, Legendary xuất hiện theo tỉ lệ tích luỹ, triệu hồi bằng Altar, có trong Raid, Trứng Huyền Thoại và Boss Bang; khi gặp thì hạ máu, gây Ngủ và dùng Ultra Ball vì đa số Legendary có catch rate 3.
 
 **Xem thêm:** [Cách tiến hoá Pokémon](/tien-hoa-cobblemon/) · [Cách cưỡi Pokémon](/cuoi-pokemon-cobblemon/) · [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Legendary trên Coco Cobblemon](/tinh-nang/legendary/)
 

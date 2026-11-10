@@ -103,7 +103,7 @@ Yes. Anyone can download CocoLauncher and join. Most players and most of the cha
 - [Cobblemon commands: /pokespawn, /pokegive, /pokeheal](/en/cobblemon-commands/)
 - [Cobblemon crafting recipes: Poké Ball, PC, Healing Machine](/en/cobblemon-recipes/)
 - [How to catch Pokémon in Cobblemon: catch rate, balls, Legendaries](/en/cobblemon-catching/)
-- [How to evolve Pokémon in Cobblemon: stones, trading, Eevee, Mega](/en/cobblemon-evolution/)
+- [How to evolve Pokémon in Cobblemon: stones, trading, Link Cable, Eevee](/en/cobblemon-evolution/)
 - [How to Mega Evolve in Cobblemon: Mega Bracelet, Mega Stones, Rayquaza](/en/cobblemon-mega/)
 - [How to ride Pokémon in Cobblemon: which Pokémon are rideable](/en/cobblemon-riding/)
 - [How Pokémon learn moves in Cobblemon: Switch Move, TMs](/en/cobblemon-moves/)

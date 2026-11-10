@@ -37,7 +37,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T05:45:03+07:00
+last_modified_at: 2026-11-11T06:02:04+07:00
 ---
 
 # How Pokémon learn moves in Cobblemon
@@ -87,7 +87,7 @@ So in Cobblemon there is no need to find a Move Reminder to get back a level-up 
 
 ### How do Pokémon learn moves in Cobblemon?
 
-They learn level-up moves on their own when they have a free slot. With 4 moves, press M, open the Moves tab, pick the move to replace, press Switch Move and choose the new one.
+In Cobblemon, Pokémon learn level-up moves on their own when they have a free slot. With 4 moves, press M, open the Moves tab, pick the move to replace, press Switch Move and choose the new one.
 
 ### Does Cobblemon have TMs?
 
@@ -95,7 +95,7 @@ Not in plain Cobblemon 1.7.3. Coco Cobblemon has TMs from the TMCraft mod, sold 
 
 ### Is there a Move Reminder in Cobblemon?
 
-You do not need one. Switch Move in the Summary lets you pick any move the species learns by level up to its current level.
+You do not need one: in Cobblemon, Switch Move in the Summary lets you pick any move the species learns by level up to its current level.
 
 **See also:** [How to evolve Pokémon](/en/cobblemon-evolution/) · [How to catch Pokémon](/en/cobblemon-catching/) · [Cobblemon controls](/en/cobblemon-controls/) · [Features of Coco Cobblemon](/en/features/)
 

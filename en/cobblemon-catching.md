@@ -42,7 +42,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T05:24:28+07:00
+last_modified_at: 2026-11-11T06:02:04+07:00
 ---
 
 # How to catch Pokémon in Cobblemon
@@ -94,7 +94,7 @@ Legendaries have a very low catch rate (60 of the 71 Legendary species have 3, C
 
 ### How do you catch Pokémon in Cobblemon?
 
-Press R while looking at a wild Pokémon to start a battle, lower its HP, press R to shrink the battle screen, then hold a Poké Ball and right-click to throw it.
+In Cobblemon, press R while looking at a wild Pokémon to start a battle, lower its HP, press R to shrink the battle screen, then hold a Poké Ball and right-click to throw it.
 
 ### Can you catch Pokémon without battling?
 
@@ -102,7 +102,7 @@ Yes, but the chance is halved compared with throwing during a battle (Cobblemon 
 
 ### Which ball is best?
 
-The Master Ball always catches. Among regular balls: Ultra Ball x2, Great Ball x1.5, Poké Ball x1.
+In Cobblemon, the Master Ball always catches. Among regular balls: Ultra Ball x2, Great Ball x1.5, Poké Ball x1.
 
 ### How do you get Legendary Pokémon in Cobblemon?
 

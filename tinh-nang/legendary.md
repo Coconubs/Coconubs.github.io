@@ -5,7 +5,7 @@ description: "Cách Legendary xuất hiện trên server Coco Cobblemon: tỉ l�
 parent: Tính năng
 nav_order: 5
 permalink: /tinh-nang/legendary/
-last_modified_at: 2026-11-11T05:20:11+07:00
+last_modified_at: 2026-11-11T06:02:04+07:00
 ---
 
 # Legendary tích luỹ
@@ -65,7 +65,7 @@ Thứ 7 và Chủ Nhật, 20:00-22:00 (giờ Việt Nam): tỉ lệ đang tích 
 
 Được, nhưng tốn thêm CobbleDollars, từ 5.000.000$ tới 20.000.000$ tuỳ loài. Tiền bị trừ khi bấm xác nhận triệu hồi; sau 2 phút Pokémon không xuất hiện thì tự hoàn tiền. Pokémon triệu hồi ra không bao giờ là Shiny, và triệu hồi không làm mất phần tỉ lệ đã tích luỹ.
 
-### Cách bắt Pokémon huyền thoại trong Cobblemon?
+### Săn và bắt Legendary trên Coco Cobblemon thế nào?
 
 Cobblemon 1.7.3 gốc không cho Legendary xuất hiện tự nhiên: file mod có 71 loài Legendary và 23 loài Mythical nhưng không loài nào có mục xuất hiện. Trên Coco Cobblemon, Legendary xuất hiện tự nhiên theo tỉ lệ tích luỹ ở trên, ngoài ra có Altar, Raid Thế Giới, Trứng Huyền Thoại và Boss Bang. Khi gặp thì đấu trước, hạ máu, gây Ngủ và dùng Ultra Ball, xem [Cách bắt Pokémon trong Cobblemon](/cach-bat-pokemon-cobblemon/).
 

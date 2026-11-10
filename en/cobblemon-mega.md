@@ -37,7 +37,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T05:28:50+07:00
+last_modified_at: 2026-11-11T06:02:04+07:00
 ---
 
 # How to Mega Evolve in Cobblemon
@@ -60,13 +60,15 @@ Mega Showdown's default Mega Bracelet recipe (crafting table):
 | White Apricorn | Keystone | White Apricorn |
 | Iron Ingot | Iron Ingot | Iron Ingot |
 
-Keystones drop from **Keystone Ore**, which sits inside the underground **Megaroid** structure (according to the mod's data). Mega Showdown also has the Mega Bracelet in 6 other colours: red, pink, yellow, green, blue and black.
+This is the mod file's default recipe, not checked on the server. Keystones drop from **Keystone Ore**, which sits inside the underground **Megaroid** structure (according to the mod's data). Mega Showdown also has the Mega Bracelet in 6 other colours: red, pink, yellow, green, blue and black.
 
 ## No Mega button?
 
 - You are not wearing a Mega Bracelet, or the Pokémon is not holding its own Mega Stone.
 - Another of your Pokémon (in your party or your PC) is still in Mega form: only 1 at a time.
-- The battle bans Mega: some Battle Tower floors from floor 15 ban it (check the label before the battle); ranked doubles (Regulation H) allow Mega and Tera. See [Features](/en/features/).
+- The battle bans Mega: in the Battle Tower some floors from floor 15 ban it (check the label before the battle), and from floor 150 every gimmick is banned. See [Features](/en/features/).
+
+Ranked doubles (Regulation H) allow Mega and Tera; ranked singles have their own rules in the in-game RULES tab.
 
 ## Mega Rayquaza
 
@@ -74,7 +76,7 @@ Rayquaza does not use a Mega Stone. It has to **know Dragon Ascent** to Mega Evo
 
 ## Which Pokémon can Mega Evolve
 
-Mega Showdown 1.9.9 has 81 Mega Stones for **78 species** (Charizard, Mewtwo and Raichu each have an X and a Y form), plus Rayquaza through Dragon Ascent:
+Plain Cobblemon 1.7.3 only has data for 48 Mega forms of 46 species, with no way to use them. Mega Showdown 1.9.9, installed on Coco Cobblemon, has 81 Mega Stones for **78 species** (Charizard, Mewtwo and Raichu each have an X and a Y form), plus Rayquaza through Dragon Ascent:
 
 Abomasnow, Absol, Aerodactyl, Aggron, Alakazam, Altaria, Ampharos, Audino, Banette, Barbaracle, Beedrill, Blastoise, Blaziken, Camerupt, Chandelure, Charizard (X, Y), Chesnaught, Chimecho, Clefable, Crabominable, Delphox, Diancie, Dragalge, Dragonite, Drampa, Eelektross, Emboar, Excadrill, Falinks, Feraligatr, Floette, Froslass, Gallade, Garchomp, Gardevoir, Gengar, Glalie, Glimmora, Golurk, Greninja, Gyarados, Hawlucha, Heracross, Houndoom, Kangaskhan, Latias, Latios, Lopunny, Lucario, Malamar, Manectric, Mawile, Medicham, Meganium, Meowstic, Metagross, Mewtwo (X, Y), Pidgeot, Pinsir, Pyroar, Raichu (X, Y), Sableye, Salamence, Sceptile, Scizor, Scolipede, Scovillain, Scrafty, Sharpedo, Skarmory, Slowbro, Staraptor, Starmie, Steelix, Swampert, Tyranitar, Venusaur, Victreebel.
 
@@ -86,7 +88,7 @@ Plain Cobblemon has no Mega Evolution. On Coco Cobblemon (Mega Showdown mod): we
 
 ### How do you Mega Evolve Rayquaza in Cobblemon?
 
-Rayquaza needs to know Dragon Ascent instead of holding a Mega Stone. Wear a Mega Bracelet, start a battle, press the Mega button.
+On Coco Cobblemon (Mega Showdown mod), Rayquaza needs to know Dragon Ascent instead of holding a Mega Stone. Wear a Mega Bracelet, start a battle, press the Mega button.
 
 ### Where do you buy Mega Stones on Coco Cobblemon?
 

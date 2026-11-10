@@ -40,7 +40,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T05:15:59+07:00
+last_modified_at: 2026-11-11T06:02:04+07:00
 ---
 
 # Cách cưỡi Pokémon trong Cobblemon
@@ -64,7 +64,7 @@ Không thấy nút **Lái** thì: loài đó không cưỡi được, Pokémon �
 
 **Bay được (38 loài):** Aerodactyl, Altaria, Articuno, Blastoise, Braviary, Bronzong, Charizard, Claydol, Corviknight, Dragapult, Dragonite, Drifblim, Dusknoir, Flygon, Forretress, Garchomp, Golurk, Gyarados, Heracross, Ho-Oh, Honchkrow, Hydreigon, Kilowattrel, Klinklang, Latias, Latios, Lugia, Magnezone, Mantine, Metagross, Moltres, Noivern, Salamence, Staraptor, Togekiss, Tropius, Volcarona, Zapdos.
 
-**Bơi được (17 loài):** Blastoise, Dewgong, Dhelmise, Dondozo, Dragapult, Dragonite, Garchomp, Gyarados, Lapras, Lugia, Mantine, Relicanth, Seaking, Sharpedo, Tauros, Wailmer, Wailord.
+**Bơi được (17 loài):** Blastoise, Dewgong, Dhelmise, Dondozo, Dragapult, Dragonite, Garchomp, Gyarados, Lapras, Lugia, Mantine, Relicanth, Seaking, Sharpedo, Tauros (chỉ dạng Paldea Aqua), Wailmer, Wailord.
 
 **Chỉ đi trên cạn (36 loài):** Arcanine, Ariados, Bastiodon, Bouffalant, Camerupt, Crustle, Cyclizar, Darmanitan, Dudunsparce, Espathra, Farigiraf, Gastrodon, Girafarig, Gogoat, Lickilicky, Mamoswine, Mr. Mime, Mudsdale, Orthworm, Parasect, Piloswine, Revavroom, Rhydon, Rhyhorn, Rhyperior, Scolipede, Serperior, Skiddo, Slaking, Sneasler, Tyrantrum, Ursaluna, Ursaring, Venusaur, Wyrdeer, Zebstrika.
 
@@ -78,7 +78,7 @@ Mỗi loài có kiểu cưỡi riêng, tên kiểu hiện bằng tiếng Anh tro
 |---|---|
 | Trên cạn | Standard (74) |
 | Trên không | Bird (21), Hover (8), Jet (7), Rocket (2) |
-| Dưới nước | Submarine (7), Dolphin (7), Boat (2) |
+| Dưới nước | Submarine (7), Dolphin (7), Boat (3, gồm Tauros dạng Paldea Aqua) |
 
 Đa số loài có 1 chỗ ngồi. Loài nhiều chỗ chở được thêm người: Wailord 19 chỗ, Dondozo 7, Camerupt 6, Metagross và Crustle 4, Mamoswine và Golurk 3. Trong Pokédex có mục **Ride Stats** (chỉ số cưỡi) và số chỗ ngồi (**Seats**).
 
@@ -98,7 +98,7 @@ Pokémon cưỡi được có 5 chỉ số cưỡi: **Speed** (tốc độ), **A
 
 ## Cưỡi Pokémon trên server Coco Cobblemon
 
-- **Không tốn thể lực:** server bật Infinite Ride Stamina, cưỡi bao lâu cũng được (cấu hình Cobblemon của server, kiểm ngày 10/11/2026).
+- **Không tốn thể lực:** server bật Infinite Ride Stamina, cưỡi bao lâu cũng được, nên chỉ số Stamina không ảnh hưởng trên server (cấu hình Cobblemon của server, kiểm ngày 10/11/2026).
 - **Đang bay thì không xuống được:** server tắt In-Flight Dismounting, phải hạ xuống đất rồi mới bấm R để xuống.
 - **Danh sách hơi khác bản gốc:** server có gói dữ liệu riêng thêm hoặc chỉnh khả năng cưỡi của một số loài, ví dụ Zacian, Zamazenta và Rayquaza cưỡi được trên Coco Cobblemon. Cách chắc nhất: thả Pokémon ra, giữ Shift và bấm chuột phải, có nút **Lái** là cưỡi được.
 - **Pokémon quá to hoặc quá nhỏ:** server có mod đổi kích cỡ Pokémon; con có kích cỡ quá lớn hoặc quá nhỏ so với cỡ thường có thể không cưỡi được, game báo khi bạn thử.
@@ -111,23 +111,23 @@ Cobblemon là mod cho Minecraft Java, không có trên Minecraft PE hay Bedrock 
 
 ### Cách cưỡi Pokémon trong Cobblemon?
 
-Thả Pokémon ra bằng phím R, giữ Shift và bấm chuột phải vào nó, chọn **Lái**. Bấm R để xuống. Cưỡi được từ Cobblemon 1.7.
+Từ Cobblemon 1.7, thả Pokémon ra bằng phím R, giữ Shift và bấm chuột phải vào nó, chọn **Lái**. Bấm R để xuống.
 
 ### Pokémon nào cưỡi được trong Cobblemon?
 
-Cobblemon 1.7.3 có 84 loài cưỡi được, ví dụ Charizard, Dragonite, Gyarados, Lapras, Wailord, Arcanine, Mudsdale, Garchomp, Salamence, Togekiss. Danh sách đủ ở trên. Server có gói dữ liệu riêng có thể thêm loài khác.
+Cobblemon 1.7.3 có 84 loài cưỡi được, ví dụ Charizard, Dragonite, Gyarados, Lapras, Wailord, Arcanine, Mudsdale, Garchomp, Salamence, Togekiss. Server có gói dữ liệu riêng có thể thêm loài khác.
 
 ### Cách cưỡi Pokémon bay trong Cobblemon?
 
-Pokémon bay như Charizard, Dragonite, Salamence, Corviknight cưỡi giống mọi loài: giữ Shift, bấm chuột phải, chọn **Lái**. Trên Coco Cobblemon, đang bay không xuống được, hãy hạ xuống đất trước.
+Trong Cobblemon, Pokémon bay như Charizard, Dragonite, Salamence, Corviknight cưỡi giống mọi loài: giữ Shift, bấm chuột phải, chọn **Lái**. Trên Coco Cobblemon, đang bay không xuống được, hãy hạ xuống đất trước.
 
 ### Vì sao không thấy nút Lái?
 
-Loài đó không cưỡi được, Pokémon đang ở trong Pasture, hoặc bạn đang trong trận. Trên Coco Cobblemon, Pokémon có kích cỡ quá lớn hoặc quá nhỏ cũng có thể không cưỡi được.
+Trong Cobblemon, nút Lái không hiện khi loài đó không cưỡi được, Pokémon đang ở trong Pasture, hoặc bạn đang trong trận. Trên Coco Cobblemon, Pokémon có kích cỡ quá lớn hoặc quá nhỏ cũng có thể không cưỡi được.
 
 ### Cưỡi Pokémon trên điện thoại được không?
 
-Được trên Android khi chơi Minecraft Java bằng CocoLauncher Android, cách cưỡi giống trên máy tính. Minecraft PE, Bedrock không có Cobblemon.
+Được trên Android: chơi Coco Cobblemon (Minecraft Java) bằng CocoLauncher Android thì cách cưỡi giống trên máy tính. Minecraft PE, Bedrock không có Cobblemon.
 
 **Xem thêm:** [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/) · [Cách tiến hoá Pokémon](/tien-hoa-cobblemon/) · [Cobblemon là gì](/cobblemon-la-gi/) · [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/)
 

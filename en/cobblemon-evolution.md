@@ -1,12 +1,12 @@
 ---
 title: Cobblemon evolution
-seo_title: "How to evolve Pokémon in Cobblemon: stones, trading, Eevee, Mega"
-description: "How evolution works in Cobblemon 1.7.3: level up then press Evolve, use evolution stones, a Link Cable instead of trading, all 8 Eevee evolutions, and Mega."
+seo_title: "How to evolve Pokémon in Cobblemon: stones, trading, Link Cable, Eevee"
+description: "How evolution works in Cobblemon 1.7.3: level up then press Evolve, evolution stones, a Link Cable instead of trading, special conditions, 8 Eevee evolutions."
 parent: English
 nav_order: 4.88
 permalink: /en/cobblemon-evolution/
 alt: /tien-hoa-cobblemon/
-last_modified_at: 2026-11-11T05:12:47+07:00
+last_modified_at: 2026-11-11T06:02:04+07:00
 ---
 
 # How to evolve Pokémon in Cobblemon
@@ -45,7 +45,7 @@ Each stone has its own ore in the world, for example Thunder Stone Ore; mine the
 | Weather | Sliggoo at level 50 or higher, levelling up while it rains, into Goodra |
 | Distance | Pawmo, Bramblin and Rellor after 1,000 blocks travelled into Pawmot, Brambleghast and Rabsca |
 | Using a move many times | Primeape using Rage Fist 20 times into Annihilape |
-| Defeating Pokémon | Bisharp defeating 3 Bisharp that hold a King's Rock into Kingambit |
+| Defeating Pokémon | Bisharp that defeats 3 opposing Bisharp holding a King's Rock evolves into Kingambit |
 | Full moon | Ursaring with a Peat Block at night during a full moon into Ursaluna |
 
 Friendship in Cobblemon goes up to 255; the species above need 160 or more.
@@ -87,17 +87,7 @@ In Cobblemon, Leafeon and Glaceon use a Leaf Stone and an Ice Stone; there is no
 
 ## Mega Evolution
 
-**Cobblemon 1.7.3 on its own cannot Mega Evolve.** The mod file has data for 48 Mega forms of 46 species (Charizard and Mewtwo have 2 each), but no item that enables Mega Evolution in battle: no Mega Bracelet and no Mega Stones. A server needs an extra mod for Mega, usually Mega Showdown.
-
-**On the Coco Cobblemon server** Mega Evolution comes from the Mega Showdown mod (version 1.9.9):
-
-1. Wear a **Mega Bracelet** in an accessory slot.
-2. Give the Pokémon its own Mega Stone, for example Charizardite X (Mega Charizard X) or Charizardite Y for Charizard, Greninjite (Mega Greninja) for Greninja.
-3. In battle, press the **Mega** button when you choose a move.
-
-Only 1 of your Pokémon can be in Mega form at a time: while any Pokémon in your party or PC is still in Mega form, the Mega button does not appear. Mega Stones are sold in **Shop Tokens** (Menu > Shop > Shop Tokens). Mega is allowed in ranked doubles (Regulation H allows Mega and Tera) and in the BattleTower, except on floors that ban it.
-
-Mega Showdown's default Mega Bracelet recipe: top row Iron Ingot, Diamond, Iron Ingot; middle row White Apricorn, Keystone, White Apricorn; bottom row 3 Iron Ingots. Keystones come from Keystone Ore. More details, the species list and Mega Rayquaza: [How to Mega Evolve in Cobblemon](/en/cobblemon-mega/).
+Cobblemon 1.7.3 on its own cannot Mega Evolve: the mod file has Mega form data but no Mega Bracelet and no Mega Stones. The Coco Cobblemon server has Mega Evolution through the Mega Showdown mod; the steps, Mega Rayquaza and the species list are on [How to Mega Evolve in Cobblemon](/en/cobblemon-mega/).
 
 ## On the Coco Cobblemon server
 
@@ -111,19 +101,19 @@ In Cobblemon a Pokémon that qualifies is only marked as ready to evolve. Open t
 
 ### How do I evolve trade Pokémon in single player?
 
-Use a Link Cable: craft it from 2 Nether Quartz, 2 Copper Ingots and 1 Ender Pearl, hold it and right-click the Pokémon. Pokémon that need a held item (Onix with a Metal Coat, for example) still need to hold it.
+In Cobblemon, use a Link Cable: craft it from 2 Nether Quartz, 2 Copper Ingots and 1 Ender Pearl, hold it and right-click the Pokémon. Pokémon that need a held item (Onix with a Metal Coat, for example) still need to hold it.
 
 ### How do I evolve Eevee into Sylveon in Cobblemon?
 
-Eevee needs friendship of 160 or more and at least 1 Fairy-type move, then a level up; press Evolve in the Summary.
+In Cobblemon 1.7.3, Eevee needs friendship of 160 or more and at least 1 Fairy-type move, then a level up; press Evolve in the Summary.
 
 ### How do you trade Pokémon in Cobblemon?
 
-Look at the other player, press R and choose **Trade** on the interaction wheel. Once they accept the request, the trade screen opens and both of you pick a Pokémon. On Coco Cobblemon the two players must be within 10 blocks; to sell Pokémon to anyone on the server, use the GTS market (`/gts`).
+In Cobblemon, look at the other player, press R and choose **Trade** on the interaction wheel. Once they accept the request, the trade screen opens and both of you pick a Pokémon. On Coco Cobblemon the two players must be within 10 blocks; to sell Pokémon to anyone on the server, use the GTS market (`/gts`).
 
 ### Does Cobblemon have Mega Evolution?
 
-Not in Cobblemon 1.7.3 on its own. The Coco Cobblemon server has Mega through the Mega Showdown mod: wear a Mega Bracelet, give the Pokémon its Mega Stone and press the Mega button in battle.
+Not in Cobblemon 1.7.3 on its own. The Coco Cobblemon server has Mega through the Mega Showdown mod: wear a Mega Bracelet, give the Pokémon its Mega Stone and press the Mega button in battle. See [How to Mega Evolve](/en/cobblemon-mega/).
 
 **See also:** [How to catch Pokémon](/en/cobblemon-catching/) · [Learning moves](/en/cobblemon-moves/) · [What is Cobblemon](/en/what-is-cobblemon/) · [Cobblemon riding](/en/cobblemon-riding/) · [Cobblemon recipes](/en/cobblemon-recipes/) · [Cobblemon controls](/en/cobblemon-controls/) · [Cobblemon commands](/en/cobblemon-commands/) · [Vietnam Cobblemon server](/en/vietnam-cobblemon-server/)
 
