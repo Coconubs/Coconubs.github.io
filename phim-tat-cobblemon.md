@@ -20,7 +20,7 @@ Cobblemon 1.7.3 thêm 6 phím riêng vào Minecraft Java. Mặc định: **R** t
 | M | Mở Tóm Tắt (Open Summary) | Mở màn Tóm Tắt của đội hình: thông tin, chiêu, chỉ số từng Pokémon |
 | O | Ẩn Bảng Đội Hình (Hide Party Overlay) | Ẩn hoặc hiện cột đội hình bên trái màn hình |
 | Mũi tên lên, mũi tên xuống | Dịch Chuyển Đội Hình Lên, Dịch Chuyển Đội Hình Xuống (Party Shift Up, Party Shift Down) | Chọn Pokémon phía trên hoặc phía dưới trong đội hình. Con đang chọn là con phím R sẽ thả ra |
-| Alt trái | Riding Freelook (bản tiếng Việt chưa dịch tên phím này) | Khi cưỡi Pokémon: xoay nhìn xung quanh |
+| Alt trái | Riding Freelook (bản tiếng Việt chưa dịch tên phím này) | Khi cưỡi Pokémon: xoay nhìn xung quanh. Cách cưỡi xem [Cách cưỡi Pokémon trong Cobblemon](/cuoi-pokemon-cobblemon/) |
 
 Các phím còn lại là phím của Minecraft: chuột phải (**Dùng vật phẩm/Đặt khối**) để ném Poké Ball đang cầm trên tay; chuột trái (**Tấn công/Phá hủy**) như bình thường.
 
@@ -53,6 +53,6 @@ Nhìn vào Pokémon hoang dã ở gần rồi bấm R: Pokémon đang chọn tro
 
 **Tuỳ chọn** > **Điều khiển** > **Gán phím**, kéo xuống nhóm **Cobblemon**. Menu tiếng Anh: **Options** > **Controls** > **Key Binds**.
 
-**Xem thêm:** [Lệnh Cobblemon](/lenh-cobblemon/) · [Cách tiến hoá Pokémon](/tien-hoa-cobblemon/) · [Cách tải Cobblemon](/cach-tai-cobblemon/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/) · [Cobblemon Việt hoá](/cobblemon-viet-hoa/) · [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/)
+**Xem thêm:** [Lệnh Cobblemon](/lenh-cobblemon/) · [Cách tiến hoá Pokémon](/tien-hoa-cobblemon/) · [Cách cưỡi Pokémon](/cuoi-pokemon-cobblemon/) · [Cách tải Cobblemon](/cach-tai-cobblemon/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/) · [Cobblemon Việt hoá](/cobblemon-viet-hoa/) · [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/)
 
 *Cập nhật: 11/11/2026.*

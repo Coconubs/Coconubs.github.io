@@ -76,6 +76,7 @@ Coco Cobblemon là server cộng đồng, không phải sản phẩm chính th�
 - [Lệnh Cobblemon: /pokespawn, /pokegive, /pokeheal](https://coconubs.github.io/lenh-cobblemon/)
 - [Công thức chế tạo Cobblemon: Poké Ball, PC, máy hồi máu](https://coconubs.github.io/cong-thuc-cobblemon/)
 - [Cách tiến hoá Pokémon trong Cobblemon: đá, trao đổi, Eevee, Mega](https://coconubs.github.io/tien-hoa-cobblemon/)
+- [Cách cưỡi Pokémon trong Cobblemon: Pokémon nào cưỡi được](https://coconubs.github.io/cuoi-pokemon-cobblemon/)
 - [Cobblemon Việt hoá: chơi bằng tiếng Việt](https://coconubs.github.io/cobblemon-viet-hoa/)
 - [Cobblemon PE, Bedrock: có bản cho Minecraft PE không?](https://coconubs.github.io/cobblemon-pe/)
 - [Cobblemon trên iPhone, iPad (iOS)](https://coconubs.github.io/cobblemon-ios/)
@@ -1763,7 +1764,7 @@ Người chơi Coco Cobblemon hỏi trên Discord Hyper Space: https://discord.g
 
 ## Tìm hiểu thêm về Cobblemon
 
-[Cobblemon là gì, có bao nhiêu Pokémon](https://coconubs.github.io/cobblemon-la-gi/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/) · [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/) · [Cách tiến hoá Pokémon](https://coconubs.github.io/tien-hoa-cobblemon/)
+[Cobblemon là gì, có bao nhiêu Pokémon](https://coconubs.github.io/cobblemon-la-gi/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/) · [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/) · [Cách tiến hoá Pokémon](https://coconubs.github.io/tien-hoa-cobblemon/) · [Cách cưỡi Pokémon](https://coconubs.github.io/cuoi-pokemon-cobblemon/)
 
 *Cập nhật: 11/11/2026.*
 
@@ -2004,7 +2005,7 @@ Các bước cài ở trang [Cách tải Cobblemon](https://coconubs.github.io/c
 - **Bắt Pokémon:** cầm Poké Ball rồi bấm chuột phải để ném. Poké Ball chế tạo từ Apricorn và phôi kim loại, xem [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/).
 - **Đấu theo lượt:** nhìn vào Pokémon hoang dã ở gần rồi bấm phím R, Pokémon đang chọn trong đội hình sẽ ra đấu. Trận đấu chạy theo luật của Pokémon Showdown.
 - **Đội hình và Tóm Tắt:** chọn Pokémon bằng mũi tên lên, xuống; bấm M để xem chỉ số, chiêu. Đủ các phím ở trang [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/).
-- **Tiến hoá và cưỡi:** Pokémon tiến hoá như trong game Pokémon (lên cấp, đá tiến hoá, trao đổi), xem [Cách tiến hoá Pokémon trong Cobblemon](https://coconubs.github.io/tien-hoa-cobblemon/); từ bản 1.7 có thể cưỡi một số loài.
+- **Tiến hoá và cưỡi:** Pokémon tiến hoá như trong game Pokémon (lên cấp, đá tiến hoá, trao đổi), xem [Cách tiến hoá Pokémon trong Cobblemon](https://coconubs.github.io/tien-hoa-cobblemon/); từ bản 1.7 có thể cưỡi 84 loài, xem [Cách cưỡi Pokémon trong Cobblemon](https://coconubs.github.io/cuoi-pokemon-cobblemon/).
 - **Tiếng Việt:** Cobblemon 1.7.3 có sẵn tiếng Việt cho khoảng 60% số khoá, xem [Cobblemon Việt hoá](https://coconubs.github.io/cobblemon-viet-hoa/).
 
 ## Chơi Cobblemon cùng người Việt
@@ -2176,7 +2177,7 @@ Cobblemon 1.7.3 thêm 6 phím riêng vào Minecraft Java. Mặc định: **R** t
 | M | Mở Tóm Tắt (Open Summary) | Mở màn Tóm Tắt của đội hình: thông tin, chiêu, chỉ số từng Pokémon |
 | O | Ẩn Bảng Đội Hình (Hide Party Overlay) | Ẩn hoặc hiện cột đội hình bên trái màn hình |
 | Mũi tên lên, mũi tên xuống | Dịch Chuyển Đội Hình Lên, Dịch Chuyển Đội Hình Xuống (Party Shift Up, Party Shift Down) | Chọn Pokémon phía trên hoặc phía dưới trong đội hình. Con đang chọn là con phím R sẽ thả ra |
-| Alt trái | Riding Freelook (bản tiếng Việt chưa dịch tên phím này) | Khi cưỡi Pokémon: xoay nhìn xung quanh |
+| Alt trái | Riding Freelook (bản tiếng Việt chưa dịch tên phím này) | Khi cưỡi Pokémon: xoay nhìn xung quanh. Cách cưỡi xem [Cách cưỡi Pokémon trong Cobblemon](https://coconubs.github.io/cuoi-pokemon-cobblemon/) |
 
 Các phím còn lại là phím của Minecraft: chuột phải (**Dùng vật phẩm/Đặt khối**) để ném Poké Ball đang cầm trên tay; chuột trái (**Tấn công/Phá hủy**) như bình thường.
 
@@ -2209,7 +2210,7 @@ Nhìn vào Pokémon hoang dã ở gần rồi bấm R: Pokémon đang chọn tro
 
 **Tuỳ chọn** > **Điều khiển** > **Gán phím**, kéo xuống nhóm **Cobblemon**. Menu tiếng Anh: **Options** > **Controls** > **Key Binds**.
 
-**Xem thêm:** [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/) · [Cách tiến hoá Pokémon](https://coconubs.github.io/tien-hoa-cobblemon/) · [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/) · [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/) · [Cobblemon Việt hoá](https://coconubs.github.io/cobblemon-viet-hoa/) · [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/)
+**Xem thêm:** [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/) · [Cách tiến hoá Pokémon](https://coconubs.github.io/tien-hoa-cobblemon/) · [Cách cưỡi Pokémon](https://coconubs.github.io/cuoi-pokemon-cobblemon/) · [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/) · [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/) · [Cobblemon Việt hoá](https://coconubs.github.io/cobblemon-viet-hoa/) · [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/)
 
 *Cập nhật: 11/11/2026.*
 
@@ -2494,9 +2495,105 @@ Cobblemon 1.7.3 gốc thì chưa. Trên Coco Cobblemon có Mega nhờ mod Mega S
 
 Đào quặng trong thế giới: mỗi loại đá tiến hoá có quặng riêng, ví dụ Thunder Stone Ore.
 
-**Xem thêm:** [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/) · [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/) · [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/)
+**Xem thêm:** [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/) · [Cách cưỡi Pokémon](https://coconubs.github.io/cuoi-pokemon-cobblemon/) · [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/) · [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/)
 
 *Số liệu đếm từ file `Cobblemon-fabric-1.7.3+1.21.1.jar` ngày 11/11/2026. Phần Mega theo mod Mega Showdown 1.9.9 và Hướng dẫn trong game ngày 08/11/2026. Bản Cobblemon khác hoặc server cài thêm gói dữ liệu có thể khác.*
+
+*Cập nhật: 11/11/2026.*
+
+---
+
+Trang: Cách cưỡi Pokémon trong Cobblemon: Pokémon nào cưỡi được, bay, bơi
+URL: https://coconubs.github.io/cuoi-pokemon-cobblemon/
+
+# Cách cưỡi Pokémon trong Cobblemon
+
+Cưỡi Pokémon có từ Cobblemon 1.7. Cách cưỡi: thả Pokémon ra bằng phím R, đứng gần, giữ **Shift** và bấm **chuột phải** vào nó để mở vòng tương tác, rồi chọn **Lái** (bản tiếng Anh ghi Ride). Bấm R để xuống. Trong Cobblemon 1.7.3 có 84 loài cưỡi được: 74 loài đi trên cạn, 38 loài bay và 17 loài bơi; nhiều loài đi được hai, ba kiểu.
+
+## Các bước cưỡi Pokémon
+
+1. Có trong đội hình một Pokémon cưỡi được (danh sách ở dưới).
+2. Chọn Pokémon đó bằng mũi tên lên, xuống rồi bấm **R** để thả ra.
+3. Đứng gần, giữ **Shift** (phím Đi rón rén) và bấm **chuột phải** vào Pokémon. Vòng tương tác hiện ra.
+4. Chọn **Lái**.
+5. Đi bằng các phím di chuyển như bình thường. Giữ **Alt trái** để xoay nhìn xung quanh. Bấm **R** để xuống.
+
+Không thấy nút **Lái** thì: loài đó không cưỡi được, Pokémon đang ở trong Pasture (Khối đồng cỏ), hoặc bạn đang trong trận đấu.
+
+## Pokémon nào cưỡi được trong Cobblemon 1.7.3
+
+Đếm ngày 11/11/2026 từ dữ liệu `riding` trong file `Cobblemon-fabric-1.7.3+1.21.1.jar`: loài cưỡi được là loài có kiểu cưỡi và có chỗ ngồi. Tổng 84 loài, 38 loài đi được từ 2 kiểu trở lên.
+
+**Bay được (38 loài):** Aerodactyl, Altaria, Articuno, Blastoise, Braviary, Bronzong, Charizard, Claydol, Corviknight, Dragapult, Dragonite, Drifblim, Dusknoir, Flygon, Forretress, Garchomp, Golurk, Gyarados, Heracross, Ho-Oh, Honchkrow, Hydreigon, Kilowattrel, Klinklang, Latias, Latios, Lugia, Magnezone, Mantine, Metagross, Moltres, Noivern, Salamence, Staraptor, Togekiss, Tropius, Volcarona, Zapdos.
+
+**Bơi được (17 loài):** Blastoise, Dewgong, Dhelmise, Dondozo, Dragapult, Dragonite, Garchomp, Gyarados, Lapras, Lugia, Mantine, Relicanth, Seaking, Sharpedo, Tauros, Wailmer, Wailord.
+
+**Chỉ đi trên cạn (36 loài):** Arcanine, Ariados, Bastiodon, Bouffalant, Camerupt, Crustle, Cyclizar, Darmanitan, Dudunsparce, Espathra, Farigiraf, Gastrodon, Girafarig, Gogoat, Lickilicky, Mamoswine, Mr. Mime, Mudsdale, Orthworm, Parasect, Piloswine, Revavroom, Rhydon, Rhyhorn, Rhyperior, Scolipede, Serperior, Skiddo, Slaking, Sneasler, Tyrantrum, Ursaluna, Ursaring, Venusaur, Wyrdeer, Zebstrika.
+
+Phần lớn loài bay và bơi cũng đi được trên cạn. Legendary cưỡi được trong bản gốc: Articuno, Zapdos, Moltres, Lugia, Ho-Oh, Latias, Latios. Một số loài như Rapidash, Snorlax có số liệu cưỡi trong file nhưng không có chỗ ngồi, nên chưa cưỡi được trong Cobblemon 1.7.3 gốc.
+
+## Kiểu cưỡi và chỗ ngồi
+
+Mỗi loài có kiểu cưỡi riêng, tên kiểu hiện bằng tiếng Anh trong game:
+
+| Môi trường | Kiểu cưỡi (số loài) |
+|---|---|
+| Trên cạn | Standard (74) |
+| Trên không | Bird (21), Hover (8), Jet (7), Rocket (2) |
+| Dưới nước | Submarine (7), Dolphin (7), Boat (2) |
+
+Đa số loài có 1 chỗ ngồi. Loài nhiều chỗ chở được thêm người: Wailord 19 chỗ, Dondozo 7, Camerupt 6, Metagross và Crustle 4, Mamoswine và Golurk 3. Trong Pokédex có mục **Ride Stats** (chỉ số cưỡi) và số chỗ ngồi (**Seats**).
+
+## Chỉ số cưỡi và Aprijuice
+
+Pokémon cưỡi được có 5 chỉ số cưỡi: **Speed** (tốc độ), **Accel.** (tăng tốc), **Skill** (độ lái), **Jump** (nhảy) và **Stamina** (thể lực). Cho Pokémon uống **Aprijuice** để tăng chỉ số cưỡi. Theo bảng `apricornStatEffects` trong file mod 1.7.3, màu của Aprijuice quyết định chỉ số tăng, giảm:
+
+| Aprijuice | Tăng | Giảm |
+|---|---|---|
+| Đỏ (Red) | Accel. +2 | Stamina −1 |
+| Xanh dương (Blue) | Skill +2 | Jump −1 |
+| Xanh lá (Green) | Jump +2 | Speed −1 |
+| Hồng (Pink) | Speed +2 | Accel. −1 |
+| Vàng (Yellow) | Stamina +2 | Skill −1 |
+| Trắng (White) | không | cả 5 chỉ số −2 |
+| Đen (Black) | không | không |
+
+## Cưỡi Pokémon trên server Coco Cobblemon
+
+- **Không tốn thể lực:** server bật Infinite Ride Stamina, cưỡi bao lâu cũng được (cấu hình Cobblemon của server, kiểm ngày 10/11/2026).
+- **Đang bay thì không xuống được:** server tắt In-Flight Dismounting, phải hạ xuống đất rồi mới bấm R để xuống.
+- **Danh sách hơi khác bản gốc:** server có gói dữ liệu riêng thêm hoặc chỉnh khả năng cưỡi của một số loài, ví dụ Zacian, Zamazenta và Rayquaza cưỡi được trên Coco Cobblemon. Cách chắc nhất: thả Pokémon ra, giữ Shift và bấm chuột phải, có nút **Lái** là cưỡi được.
+- **Pokémon quá to hoặc quá nhỏ:** server có mod đổi kích cỡ Pokémon; con có kích cỡ quá lớn hoặc quá nhỏ so với cỡ thường có thể không cưỡi được, game báo khi bạn thử.
+
+## Cưỡi Pokémon trên điện thoại
+
+Cobblemon là mod cho Minecraft Java, không có trên Minecraft PE hay Bedrock (gói "Cobblemon PE" là addon của người khác, xem [Cobblemon PE, Bedrock](https://coconubs.github.io/cobblemon-pe/)). Trên Android, chơi Coco Cobblemon bằng CocoLauncher Android thì cách cưỡi giống trên máy tính, thao tác bằng các nút điều khiển trên màn hình. Xem [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/).
+
+## Hỏi nhanh
+
+### Cách cưỡi Pokémon trong Cobblemon?
+
+Thả Pokémon ra bằng phím R, giữ Shift và bấm chuột phải vào nó, chọn **Lái**. Bấm R để xuống. Cưỡi được từ Cobblemon 1.7.
+
+### Pokémon nào cưỡi được trong Cobblemon?
+
+Cobblemon 1.7.3 có 84 loài cưỡi được, ví dụ Charizard, Dragonite, Gyarados, Lapras, Wailord, Arcanine, Mudsdale, Garchomp, Salamence, Togekiss. Danh sách đủ ở trên. Server có gói dữ liệu riêng có thể thêm loài khác.
+
+### Cách cưỡi Pokémon bay trong Cobblemon?
+
+Pokémon bay như Charizard, Dragonite, Salamence, Corviknight cưỡi giống mọi loài: giữ Shift, bấm chuột phải, chọn **Lái**. Trên Coco Cobblemon, đang bay không xuống được, hãy hạ xuống đất trước.
+
+### Vì sao không thấy nút Lái?
+
+Loài đó không cưỡi được, Pokémon đang ở trong Pasture, hoặc bạn đang trong trận. Trên Coco Cobblemon, Pokémon có kích cỡ quá lớn hoặc quá nhỏ cũng có thể không cưỡi được.
+
+### Cưỡi Pokémon trên điện thoại được không?
+
+Được trên Android khi chơi Minecraft Java bằng CocoLauncher Android, cách cưỡi giống trên máy tính. Minecraft PE, Bedrock không có Cobblemon.
+
+**Xem thêm:** [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Cách tiến hoá Pokémon](https://coconubs.github.io/tien-hoa-cobblemon/) · [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/) · [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/) · [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/)
+
+*Số liệu đếm từ file `Cobblemon-fabric-1.7.3+1.21.1.jar` ngày 11/11/2026; phần Coco Cobblemon theo cấu hình server kiểm ngày 10/11/2026. Bản Cobblemon khác hoặc server có gói dữ liệu riêng có thể khác.*
 
 *Cập nhật: 11/11/2026.*
 
