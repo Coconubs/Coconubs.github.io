@@ -4,7 +4,7 @@ seo_title: "Cobblemon là gì? Mod Pokémon cho Minecraft Java"
 description: "Cobblemon là mod Pokémon mã nguồn mở cho Minecraft Java. Bản 1.7.3 có 851 loài Pokémon chơi được trong 1.025 loài có dữ liệu. Cần gì để chơi, chơi cùng người Việt."
 nav_order: 7.5
 alt: /en/what-is-cobblemon/
-last_modified_at: 2026-11-11T06:02:04+07:00
+last_modified_at: 2026-11-11T06:15:44+07:00
 ---
 
 # Cobblemon là gì?
@@ -35,6 +35,12 @@ Các bước cài ở trang [Cách tải Cobblemon](/cach-tai-cobblemon/).
 - **Tiến hoá và cưỡi:** Pokémon tiến hoá như trong game Pokémon (lên cấp, đá tiến hoá, trao đổi), xem [Cách tiến hoá Pokémon trong Cobblemon](/tien-hoa-cobblemon/); từ bản 1.7 có thể cưỡi Pokémon (bản 1.7.3 có 84 loài cưỡi được), xem [Cách cưỡi Pokémon trong Cobblemon](/cuoi-pokemon-cobblemon/).
 - **Tiếng Việt:** Cobblemon 1.7.3 có sẵn tiếng Việt cho khoảng 60% số khoá, xem [Cobblemon Việt hoá](/cobblemon-viet-hoa/).
 
+## Chọn Pokémon khởi đầu trong Cobblemon
+
+Khi vào một thế giới hoặc server Cobblemon lần đầu mà chưa chọn Pokémon khởi đầu, góc màn hình hiện thông báo **Hãy xem các Pokémon khởi đầu!** kèm **Nhấn nút "M"**. Bấm **M** (phím Mở Tóm Tắt) để mở màn **Lựa Chọn Pokémon Ban Đầu**, chọn vùng, chọn Pokémon rồi bấm **Tôi chọn bạn!**.
+
+Theo cấu hình mặc định của Cobblemon 1.7.3 có 10 nhóm: Kanto, Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Galar, Hisui và Paldea, mỗi nhóm 3 Pokémon cấp 10. Nhóm Hisui là Rowlet, Cyndaquil, Oshawott dạng Hisui, đựng trong Ancient Poké Ball. Server có thể đổi danh sách hoặc tắt việc chọn (file cấu hình `config/cobblemon/starters.json`). Lỡ nhận Pokémon khác trước khi chọn thì game nhắc: cất hết Pokémon vào PC rồi bấm M.
+
 ## Chơi Cobblemon cùng người Việt
 
 Muốn chơi chung thì vào một server Cobblemon. Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, địa chỉ `coco.ultramc.co`, Minecraft Java 1.21.1, Cobblemon 1.7.3. Vào game bằng [CocoLauncher](/cocolauncher/): nhập tên, bấm **Chơi**, launcher tự cài Java, Minecraft, Fabric và đúng bộ mod của server. Thông tin server ở trang [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/).
@@ -56,6 +62,10 @@ Mặc định 1/8192: đó là giá trị `shinyRate` mặc định trong cấu 
 ### Cobblemon khác Pixelmon thế nào?
 
 Cả hai là mod Pokémon cho Minecraft Java. Cobblemon chạy trên Fabric và NeoForge, mã nguồn mở; Pixelmon chạy trên Forge, bản cho Minecraft 1.21.1 dùng NeoForge. Hai mod không vào chung server được. So sánh ở trang [Chơi Pokémon trong Minecraft](/pokemon-trong-minecraft/).
+
+### Cách chọn Pokémon khởi đầu trong Cobblemon?
+
+Trong Cobblemon 1.7.3, lần đầu vào game bấm M khi thấy thông báo "Hãy xem các Pokémon khởi đầu!", chọn vùng, chọn Pokémon rồi bấm "Tôi chọn bạn!". Mặc định có 10 nhóm vùng, mỗi nhóm 3 Pokémon cấp 10; server có thể đổi danh sách.
 
 ### Cobblemon có chơi trên điện thoại được không?
 

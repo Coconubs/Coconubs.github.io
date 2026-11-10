@@ -2040,6 +2040,12 @@ Các bước cài ở trang [Cách tải Cobblemon](https://coconubs.github.io/c
 - **Tiến hoá và cưỡi:** Pokémon tiến hoá như trong game Pokémon (lên cấp, đá tiến hoá, trao đổi), xem [Cách tiến hoá Pokémon trong Cobblemon](https://coconubs.github.io/tien-hoa-cobblemon/); từ bản 1.7 có thể cưỡi Pokémon (bản 1.7.3 có 84 loài cưỡi được), xem [Cách cưỡi Pokémon trong Cobblemon](https://coconubs.github.io/cuoi-pokemon-cobblemon/).
 - **Tiếng Việt:** Cobblemon 1.7.3 có sẵn tiếng Việt cho khoảng 60% số khoá, xem [Cobblemon Việt hoá](https://coconubs.github.io/cobblemon-viet-hoa/).
 
+## Chọn Pokémon khởi đầu trong Cobblemon
+
+Khi vào một thế giới hoặc server Cobblemon lần đầu mà chưa chọn Pokémon khởi đầu, góc màn hình hiện thông báo **Hãy xem các Pokémon khởi đầu!** kèm **Nhấn nút "M"**. Bấm **M** (phím Mở Tóm Tắt) để mở màn **Lựa Chọn Pokémon Ban Đầu**, chọn vùng, chọn Pokémon rồi bấm **Tôi chọn bạn!**.
+
+Theo cấu hình mặc định của Cobblemon 1.7.3 có 10 nhóm: Kanto, Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Galar, Hisui và Paldea, mỗi nhóm 3 Pokémon cấp 10. Nhóm Hisui là Rowlet, Cyndaquil, Oshawott dạng Hisui, đựng trong Ancient Poké Ball. Server có thể đổi danh sách hoặc tắt việc chọn (file cấu hình `config/cobblemon/starters.json`). Lỡ nhận Pokémon khác trước khi chọn thì game nhắc: cất hết Pokémon vào PC rồi bấm M.
+
 ## Chơi Cobblemon cùng người Việt
 
 Muốn chơi chung thì vào một server Cobblemon. Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, địa chỉ `coco.ultramc.co`, Minecraft Java 1.21.1, Cobblemon 1.7.3. Vào game bằng [CocoLauncher](https://coconubs.github.io/cocolauncher/): nhập tên, bấm **Chơi**, launcher tự cài Java, Minecraft, Fabric và đúng bộ mod của server. Thông tin server ở trang [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/).
@@ -2061,6 +2067,10 @@ Mặc định 1/8192: đó là giá trị `shinyRate` mặc định trong cấu 
 ### Cobblemon khác Pixelmon thế nào?
 
 Cả hai là mod Pokémon cho Minecraft Java. Cobblemon chạy trên Fabric và NeoForge, mã nguồn mở; Pixelmon chạy trên Forge, bản cho Minecraft 1.21.1 dùng NeoForge. Hai mod không vào chung server được. So sánh ở trang [Chơi Pokémon trong Minecraft](https://coconubs.github.io/pokemon-trong-minecraft/).
+
+### Cách chọn Pokémon khởi đầu trong Cobblemon?
+
+Trong Cobblemon 1.7.3, lần đầu vào game bấm M khi thấy thông báo "Hãy xem các Pokémon khởi đầu!", chọn vùng, chọn Pokémon rồi bấm "Tôi chọn bạn!". Mặc định có 10 nhóm vùng, mỗi nhóm 3 Pokémon cấp 10; server có thể đổi danh sách.
 
 ### Cobblemon có chơi trên điện thoại được không?
 
@@ -4476,6 +4486,12 @@ The Cobblemon 1.7.3 file for Fabric contains data for **1,025 species** (Nationa
 - **Party and Summary:** pick a Pokémon with the Up and Down arrow keys and press M to see its stats and moves. All keys are on the [Cobblemon controls](https://coconubs.github.io/en/cobblemon-controls/) page.
 - **Evolution and riding:** Pokémon evolve as in the Pokémon games (levels, evolution stones, trades), see [How to evolve Pokémon in Cobblemon](https://coconubs.github.io/en/cobblemon-evolution/); since version 1.7 Pokémon can be ridden (84 species in 1.7.3), see [How to ride Pokémon in Cobblemon](https://coconubs.github.io/en/cobblemon-riding/).
 
+## Choosing a starter in Cobblemon
+
+When you join a Cobblemon world or server for the first time without a starter, a notice appears: **Check out the starters!** with **Press the "M" key**. Press **M** (the Open Summary key) to open **Starter Selection**, pick a region, pick a Pokémon and press **I choose you!**.
+
+With Cobblemon 1.7.3's default config there are 10 groups: Kanto, Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Galar, Hisui and Paldea, each with 3 Pokémon at level 10. The Hisui group is Rowlet, Cyndaquil and Oshawott in their Hisuian forms, in Ancient Poké Balls. Servers can change the list or turn the choice off (config file `config/cobblemon/starters.json`). If you received another Pokémon before choosing, the game tells you to put all your Pokémon in the PC and press M.
+
 ## Play Cobblemon with others
 
 To play together, join a Cobblemon server. Coco Cobblemon is a Vietnamese community Minecraft Java server running Cobblemon 1.7.3 on Minecraft 1.21.1, address `coco.ultramc.co`. Join with [CocoLauncher](https://coconubs.github.io/en/cocolauncher/): enter a name and press **Play**, and the launcher installs Java, Minecraft, Fabric and the server's mods. Anyone can join; most players are Vietnamese and the menus have an English option. See [Cobblemon server in Vietnam](https://coconubs.github.io/en/vietnam-cobblemon-server/).
@@ -4493,6 +4509,10 @@ Cobblemon 1.7.3 has 851 finished Pokémon species out of the 1,025 species it ha
 ### What are the Shiny odds in Cobblemon?
 
 1 in 8192 by default: that is the default `shinyRate` in the Cobblemon 1.7.3 config (read from the mod file), and servers can change it. On Coco Cobblemon, Shiny Pokémon do not spawn naturally; they come from Shiny Fusion, Eggs, Raids, the Daily Shop and the Battle Pass, see [Features](https://coconubs.github.io/en/features/).
+
+### How do you choose a starter in Cobblemon?
+
+In Cobblemon 1.7.3, press M when the "Check out the starters!" notice appears on your first join, pick a region and a Pokémon, then press "I choose you!". By default there are 10 region groups with 3 Pokémon at level 10 each; servers can change the list.
 
 ### Is Cobblemon on mobile?
 

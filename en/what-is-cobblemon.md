@@ -6,7 +6,7 @@ parent: English
 nav_order: 4.9
 permalink: /en/what-is-cobblemon/
 alt: /cobblemon-la-gi/
-last_modified_at: 2026-11-11T06:02:04+07:00
+last_modified_at: 2026-11-11T06:15:44+07:00
 ---
 
 # What is Cobblemon?
@@ -34,6 +34,12 @@ The Cobblemon 1.7.3 file for Fabric contains data for **1,025 species** (Nationa
 - **Party and Summary:** pick a Pokémon with the Up and Down arrow keys and press M to see its stats and moves. All keys are on the [Cobblemon controls](/en/cobblemon-controls/) page.
 - **Evolution and riding:** Pokémon evolve as in the Pokémon games (levels, evolution stones, trades), see [How to evolve Pokémon in Cobblemon](/en/cobblemon-evolution/); since version 1.7 Pokémon can be ridden (84 species in 1.7.3), see [How to ride Pokémon in Cobblemon](/en/cobblemon-riding/).
 
+## Choosing a starter in Cobblemon
+
+When you join a Cobblemon world or server for the first time without a starter, a notice appears: **Check out the starters!** with **Press the "M" key**. Press **M** (the Open Summary key) to open **Starter Selection**, pick a region, pick a Pokémon and press **I choose you!**.
+
+With Cobblemon 1.7.3's default config there are 10 groups: Kanto, Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Galar, Hisui and Paldea, each with 3 Pokémon at level 10. The Hisui group is Rowlet, Cyndaquil and Oshawott in their Hisuian forms, in Ancient Poké Balls. Servers can change the list or turn the choice off (config file `config/cobblemon/starters.json`). If you received another Pokémon before choosing, the game tells you to put all your Pokémon in the PC and press M.
+
 ## Play Cobblemon with others
 
 To play together, join a Cobblemon server. Coco Cobblemon is a Vietnamese community Minecraft Java server running Cobblemon 1.7.3 on Minecraft 1.21.1, address `coco.ultramc.co`. Join with [CocoLauncher](/en/cocolauncher/): enter a name and press **Play**, and the launcher installs Java, Minecraft, Fabric and the server's mods. Anyone can join; most players are Vietnamese and the menus have an English option. See [Cobblemon server in Vietnam](/en/vietnam-cobblemon-server/).
@@ -51,6 +57,10 @@ Cobblemon 1.7.3 has 851 finished Pokémon species out of the 1,025 species it ha
 ### What are the Shiny odds in Cobblemon?
 
 1 in 8192 by default: that is the default `shinyRate` in the Cobblemon 1.7.3 config (read from the mod file), and servers can change it. On Coco Cobblemon, Shiny Pokémon do not spawn naturally; they come from Shiny Fusion, Eggs, Raids, the Daily Shop and the Battle Pass, see [Features](/en/features/).
+
+### How do you choose a starter in Cobblemon?
+
+In Cobblemon 1.7.3, press M when the "Check out the starters!" notice appears on your first join, pick a region and a Pokémon, then press "I choose you!". By default there are 10 region groups with 3 Pokémon at level 10 each; servers can change the list.
 
 ### Is Cobblemon on mobile?
 
