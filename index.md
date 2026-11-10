@@ -30,13 +30,13 @@ jsonld: |
       "https://discord.gg/hyspace"
     ]
   }
-last_modified_at: 2026-11-11T04:04:24+07:00
+last_modified_at: 2026-11-11T04:12:04+07:00
 ---
 
 # Coco Cobblemon
 {: .fs-9 }
 
-Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher.
+Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Địa chỉ server: `coco.ultramc.co`, Minecraft Java 1.21.1, Cobblemon 1.7.3.
 {: .fs-6 .fw-300 }
 
 [Tải CocoLauncher](/cocolauncher/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

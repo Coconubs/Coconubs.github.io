@@ -11,7 +11,7 @@ URL: https://coconubs.github.io/
 
 # Coco Cobblemon
 
-Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher.
+Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Địa chỉ server: `coco.ultramc.co`, Minecraft Java 1.21.1, Cobblemon 1.7.3.
 
 [Tải CocoLauncher](https://coconubs.github.io/cocolauncher/)
 [Cách vào server](https://coconubs.github.io/cach-vao-server/)
@@ -1721,7 +1721,7 @@ Không nên. Server cần đúng phiên bản Minecraft, Cobblemon và bộ mod 
 
 ### Coco Cobblemon có tiếng Việt không?
 
-Có. Trên Coco Cobblemon, launcher, Menu, Hướng dẫn và thông báo server bằng tiếng Việt, có nút chọn tiếng Anh. Một số nội dung của Cobblemon và mod khác vẫn có thể hiện tiếng Anh. Xem [Cobblemon Việt hoá](https://coconubs.github.io/cobblemon-viet-hoa/).
+Có. Trên Coco Cobblemon, launcher, Menu, Hướng dẫn và thông báo server bằng tiếng Việt, có nút chọn tiếng Anh. Tên Pokémon, chiêu thức trong trận đi theo ngôn ngữ bạn chọn trong Minecraft; Cobblemon 1.7.3 có sẵn tiếng Việt cho khoảng 60% số khoá (kiểm kê 01/11/2026). Một số nội dung của Cobblemon và mod khác vẫn có thể hiện tiếng Anh. Xem [Cobblemon Việt hoá](https://coconubs.github.io/cobblemon-viet-hoa/).
 
 ### Server có những tính năng gì?
 

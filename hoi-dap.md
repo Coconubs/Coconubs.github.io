@@ -166,7 +166,7 @@ jsonld: |
         "name": "Coco Cobblemon có tiếng Việt không?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Có. Trên Coco Cobblemon, launcher, Menu, Hướng dẫn và thông báo server bằng tiếng Việt, có nút chọn tiếng Anh. Một số nội dung của Cobblemon và mod khác vẫn có thể hiện tiếng Anh. Xem Cobblemon Việt hoá."
+          "text": "Có. Trên Coco Cobblemon, launcher, Menu, Hướng dẫn và thông báo server bằng tiếng Việt, có nút chọn tiếng Anh. Tên Pokémon, chiêu thức trong trận đi theo ngôn ngữ bạn chọn trong Minecraft; Cobblemon 1.7.3 có sẵn tiếng Việt cho khoảng 60% số khoá (kiểm kê 01/11/2026). Một số nội dung của Cobblemon và mod khác vẫn có thể hiện tiếng Anh. Xem Cobblemon Việt hoá."
         }
       },
       {
@@ -219,7 +219,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T04:04:24+07:00
+last_modified_at: 2026-11-11T04:12:04+07:00
 ---
 
 # Hỏi đáp Coco Cobblemon
@@ -315,7 +315,7 @@ Không nên. Server cần đúng phiên bản Minecraft, Cobblemon và bộ mod 
 
 ### Coco Cobblemon có tiếng Việt không?
 
-Có. Trên Coco Cobblemon, launcher, Menu, Hướng dẫn và thông báo server bằng tiếng Việt, có nút chọn tiếng Anh. Một số nội dung của Cobblemon và mod khác vẫn có thể hiện tiếng Anh. Xem [Cobblemon Việt hoá](/cobblemon-viet-hoa/).
+Có. Trên Coco Cobblemon, launcher, Menu, Hướng dẫn và thông báo server bằng tiếng Việt, có nút chọn tiếng Anh. Tên Pokémon, chiêu thức trong trận đi theo ngôn ngữ bạn chọn trong Minecraft; Cobblemon 1.7.3 có sẵn tiếng Việt cho khoảng 60% số khoá (kiểm kê 01/11/2026). Một số nội dung của Cobblemon và mod khác vẫn có thể hiện tiếng Anh. Xem [Cobblemon Việt hoá](/cobblemon-viet-hoa/).
 
 ### Server có những tính năng gì?
 
