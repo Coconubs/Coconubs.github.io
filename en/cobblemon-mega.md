@@ -37,7 +37,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T06:02:04+07:00
+last_modified_at: 2026-11-11T06:11:26+07:00
 ---
 
 # How to Mega Evolve in Cobblemon
@@ -70,9 +70,9 @@ This is the mod file's default recipe, not checked on the server. Keystones drop
 
 Ranked doubles (Regulation H) allow Mega and Tera; ranked singles have their own rules in the in-game RULES tab.
 
-## Mega Rayquaza
+## How to Mega Evolve Rayquaza in Cobblemon
 
-Rayquaza does not use a Mega Stone. It has to **know Dragon Ascent** to Mega Evolve; without the move the game says "Rayquaza doesn't have dragonascent". The rest is the same: wear a Mega Bracelet, start a battle, press the Mega button.
+On Coco Cobblemon (Mega Showdown 1.9.9), Rayquaza does not use a Mega Stone. It has to **know Dragon Ascent** to Mega Evolve; without the move the game says "Rayquaza doesn't have dragonascent". The rest is the same: wear a Mega Bracelet, start a battle, press the Mega button.
 
 ## Which Pokémon can Mega Evolve
 

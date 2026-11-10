@@ -4,7 +4,38 @@ seo_title: "Cách tiến hoá Pokémon trong Cobblemon: đá, trao đổi, Link 
 description: "Cách tiến hoá Pokémon trong Cobblemon 1.7.3: lên cấp rồi bấm nút Tiến Hóa, dùng đá tiến hoá, Link Cable thay trao đổi, điều kiện đặc biệt, 8 dạng Eevee."
 nav_order: 8.8
 alt: /en/cobblemon-evolution/
-last_modified_at: 2026-11-11T06:02:04+07:00
+jsonld: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Cách tiến hoá Pokémon trong Cobblemon",
+    "description": "Cách tiến hoá Pokémon trong Cobblemon 1.7.3: lên cấp rồi bấm nút Tiến Hóa, dùng đá tiến hoá, Link Cable thay trao đổi, điều kiện đặc biệt, 8 dạng Eevee.",
+    "inLanguage": "vi",
+    "url": "https://coconubs.github.io/tien-hoa-cobblemon/",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "text": "Cho Pokémon lên đủ cấp và đủ các điều kiện khác của loài đó (xem bảng Điều kiện đặc biệt)."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "text": "Chờ game báo \"(tên Pokémon) dường như sẵn sàng tiến hóa!\"."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "text": "Bấm M để mở Tóm Tắt và chọn Pokémon đó."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "text": "Bấm nút Tiến Hóa; nếu Pokémon đủ điều kiện cho nhiều dạng thì chọn dạng muốn tiến hoá."
+      }
+    ]
+  }
+last_modified_at: 2026-11-11T06:11:26+07:00
 ---
 
 # Cách tiến hoá Pokémon trong Cobblemon
@@ -23,6 +54,13 @@ Trong Cobblemon 1.7.3, Pokémon đủ điều kiện lên cấp không tự đ�
 | Trao đổi | 26 | Kadabra thành Alakazam | Trao đổi với người chơi khác, hoặc dùng Link Cable |
 
 Vật phẩm tiến hoá chỉ dùng được cho Pokémon của chính bạn. Khi một Pokémon đủ điều kiện cho nhiều dạng cùng lúc (ví dụ Eevee), màn **Tiến Hóa** cho bạn chọn dạng.
+
+## Các bước tiến hoá khi lên cấp
+
+1. Cho Pokémon lên đủ cấp và đủ các điều kiện khác của loài đó (xem bảng Điều kiện đặc biệt).
+2. Chờ game báo "**(tên Pokémon) dường như sẵn sàng tiến hóa!**".
+3. Bấm **M** để mở Tóm Tắt và chọn Pokémon đó.
+4. Bấm nút **Tiến Hóa**; nếu Pokémon đủ điều kiện cho nhiều dạng thì chọn dạng muốn tiến hoá.
 
 ## Đá tiến hoá
 
@@ -43,7 +81,7 @@ Mỗi loại đá có quặng riêng sinh trong thế giới, ví dụ Thunder S
 | Thời tiết | Sliggoo từ cấp 50 lên cấp khi trời mưa thành Goodra |
 | Quãng đường | Pawmo, Bramblin, Rellor đi đủ 1.000 khối thì thành Pawmot, Brambleghast, Rabsca |
 | Dùng chiêu nhiều lần | Primeape dùng Rage Fist 20 lần thành Annihilape |
-| Hạ Pokémon | Bisharp hạ được 3 Bisharp đối thủ đang cầm King's Rock thì thành Kingambit |
+| Hạ Pokémon | Bisharp hạ được 3 Bisharp đối thủ đang cầm King's Rock thì thành Kingambit (trên Coco Cobblemon, Pokémon hoang dã không cầm vật phẩm) |
 | Trăng tròn | Ursaring dùng Peat Block vào ban đêm lúc trăng tròn thành Ursaluna |
 
 Độ thân thiết của Cobblemon tối đa là 255; các loài trong bảng cần từ 160 trở lên.
@@ -58,7 +96,7 @@ Mỗi loại đá có quặng riêng sinh trong thế giới, ví dụ Thunder S
 
 Công thức Link Cable (bàn chế tạo, lưới 3x3, trong file Cobblemon 1.7.3):
 
-| | | |
+| Cột 1 | Cột 2 | Cột 3 |
 |---|---|---|
 | | | Thạch anh Nether |
 | Phôi đồng | Ngọc Ender | Phôi đồng |
@@ -68,7 +106,7 @@ Cần 2 Thạch anh Nether, 2 Phôi đồng, 1 Ngọc Ender. Các công thức k
 
 ## Cách tiến hoá Eevee trong Cobblemon
 
-Eevee có 8 dạng tiến hoá trong Cobblemon 1.7.3. Tiến hoá Eevee đủ 8 dạng sẽ mở thành tựu **Những Eevee Quý Giá**.
+Trong Cobblemon 1.7.3, Eevee có 8 dạng tiến hoá. 5 dạng dùng đá (cầm đá, bấm chuột phải vào Eevee): Water Stone ra Vaporeon, Thunder Stone ra Jolteon, Fire Stone ra Flareon, Leaf Stone ra Leafeon, Ice Stone ra Glaceon. 3 dạng cần độ thân thiết từ 160 rồi lên cấp: ban ngày ra Espeon, ban đêm ra Umbreon, biết chiêu hệ Tiên thì ra Sylveon. Tiến hoá Eevee đủ 8 dạng sẽ mở thành tựu **Những Eevee Quý Giá**.
 
 | Dạng | Cách tiến hoá |
 |---|---|
@@ -101,7 +139,11 @@ Trong Cobblemon, Pokémon đủ điều kiện chỉ được báo là sẵn sà
 
 Trong Cobblemon, dùng Link Cable: chế tạo từ 2 Thạch anh Nether, 2 Phôi đồng và 1 Ngọc Ender, cầm trên tay rồi bấm chuột phải vào Pokémon. Pokémon cần cầm vật phẩm (ví dụ Onix cầm Metal Coat) thì vẫn phải cầm.
 
-### Cách tiến hoá Eevee thành Sylveon trong Cobblemon?
+### Cách tiến hóa Eevee trong Cobblemon?
+
+Trong Cobblemon 1.7.3, Eevee có 8 dạng: dùng Water, Thunder, Fire, Leaf, Ice Stone ra Vaporeon, Jolteon, Flareon, Leafeon, Glaceon; độ thân thiết từ 160 rồi lên cấp ra Espeon (ban ngày), Umbreon (ban đêm) hoặc Sylveon (biết chiêu hệ Tiên).
+
+### Cách tiến hóa Eevee thành Sylveon trong Cobblemon?
 
 Trong Cobblemon 1.7.3, Eevee cần độ thân thiết từ 160 và biết ít nhất 1 chiêu hệ Tiên, rồi lên cấp và bấm **Tiến Hóa** trong Tóm Tắt.
 

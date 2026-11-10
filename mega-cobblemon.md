@@ -35,7 +35,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T06:02:04+07:00
+last_modified_at: 2026-11-11T06:11:26+07:00
 ---
 
 # Cách tiến hoá Mega trong Cobblemon
@@ -68,9 +68,9 @@ Mega Bracelet làm theo công thức mặc định của Mega Showdown (bàn ch�
 
 Đấu Đôi xếp hạng (luật Regulation H) cho dùng Mega và Tera; Đấu Đơn có luật riêng ở tab LUẬT trong game, xem [Đấu Xếp Hạng](/tinh-nang/dau-xep-hang/).
 
-## Mega Rayquaza
+## Cách tiến hoá Mega Rayquaza trong Cobblemon
 
-Rayquaza không dùng đá Mega. Rayquaza phải **biết chiêu Dragon Ascent** mới tiến hoá Mega được; chưa có chiêu này thì game báo "Rayquaza doesn't have dragonascent". Các bước còn lại giống loài khác: đeo Mega Bracelet, vào trận, bấm nút Mega.
+Trên Coco Cobblemon (mod Mega Showdown 1.9.9), Rayquaza không dùng đá Mega. Rayquaza phải **biết chiêu Dragon Ascent** mới tiến hoá Mega được; chưa có chiêu này thì game báo "Rayquaza doesn't have dragonascent". Các bước còn lại giống loài khác: đeo Mega Bracelet, vào trận, bấm nút Mega.
 
 ## Pokémon nào tiến hoá Mega được
 
@@ -82,15 +82,15 @@ Tên đá thường là tên loài thêm đuôi "-ite", ví dụ Gengarite, Luca
 
 ## Hỏi nhanh
 
-### Cách tiến hoá Mega trong Cobblemon?
+### Cách tiến hóa Mega trong Cobblemon?
 
 Cobblemon gốc chưa có Mega. Trên Coco Cobblemon (mod Mega Showdown): đeo Mega Bracelet, cho Pokémon cầm đá Mega của nó, vào trận và bấm nút Mega khi chọn chiêu.
 
-### Cách tiến hoá Mega Rayquaza trong Cobblemon?
+### Cách tiến hóa Mega Rayquaza trong Cobblemon?
 
 Trên Coco Cobblemon (mod Mega Showdown), Rayquaza không cần đá Mega mà phải biết chiêu Dragon Ascent. Đeo Mega Bracelet, vào trận, bấm nút Mega.
 
-### Cách tiến hoá Mega Greninja trong Cobblemon?
+### Cách tiến hóa Mega Greninja trong Cobblemon?
 
 Trên Coco Cobblemon, cho Greninja cầm Greninjite, đeo Mega Bracelet rồi bấm nút Mega trong trận. Greninjite có trong Mega Showdown 1.9.9, bản mod server Coco Cobblemon đang dùng.
 

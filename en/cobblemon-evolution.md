@@ -6,7 +6,38 @@ parent: English
 nav_order: 4.88
 permalink: /en/cobblemon-evolution/
 alt: /tien-hoa-cobblemon/
-last_modified_at: 2026-11-11T06:02:04+07:00
+jsonld: |
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "How to evolve Pokémon in Cobblemon",
+    "description": "How evolution works in Cobblemon 1.7.3: level up then press Evolve, evolution stones, a Link Cable instead of trading, special conditions, 8 Eevee evolutions.",
+    "inLanguage": "en",
+    "url": "https://coconubs.github.io/en/cobblemon-evolution/",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "text": "Level the Pokémon up and meet any other condition of its species (see Special conditions)."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "text": "Wait for the game to say \"(Pokémon) seems ready to evolve!\"."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "text": "Press M to open the Summary and pick that Pokémon."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "text": "Press Evolve; if the Pokémon qualifies for several evolutions, pick the one you want."
+      }
+    ]
+  }
+last_modified_at: 2026-11-11T06:11:26+07:00
 ---
 
 # How to evolve Pokémon in Cobblemon
@@ -25,6 +56,13 @@ Counted on 11 November 2026 from `Cobblemon-fabric-1.7.3+1.21.1.jar` (folder `da
 | Trade | 26 | Kadabra into Alakazam | Trade with another player, or use a Link Cable |
 
 Evolution items only work on your own Pokémon. When a Pokémon qualifies for more than one evolution at the same time (Eevee, for example), the Evolve screen lets you choose.
+
+## Steps to evolve on level up
+
+1. Level the Pokémon up and meet any other condition of its species (see Special conditions).
+2. Wait for the game to say "**(Pokémon) seems ready to evolve!**".
+3. Press **M** to open the Summary and pick that Pokémon.
+4. Press **Evolve**; if the Pokémon qualifies for several evolutions, pick the one you want.
 
 ## Evolution stones
 
@@ -45,7 +83,7 @@ Each stone has its own ore in the world, for example Thunder Stone Ore; mine the
 | Weather | Sliggoo at level 50 or higher, levelling up while it rains, into Goodra |
 | Distance | Pawmo, Bramblin and Rellor after 1,000 blocks travelled into Pawmot, Brambleghast and Rabsca |
 | Using a move many times | Primeape using Rage Fist 20 times into Annihilape |
-| Defeating Pokémon | Bisharp that defeats 3 opposing Bisharp holding a King's Rock evolves into Kingambit |
+| Defeating Pokémon | Bisharp that defeats 3 opposing Bisharp holding a King's Rock evolves into Kingambit (on Coco Cobblemon, wild Pokémon hold no items) |
 | Full moon | Ursaring with a Peat Block at night during a full moon into Ursaluna |
 
 Friendship in Cobblemon goes up to 255; the species above need 160 or more.
@@ -70,7 +108,7 @@ You need 2 Nether Quartz, 2 Copper Ingots and 1 Ender Pearl. More recipes: [Cobb
 
 ## How to evolve Eevee in Cobblemon
 
-Eevee has 8 evolutions in Cobblemon 1.7.3. Evolving Eevee into all 8 unlocks the advancement **Valued Veevees**.
+In Cobblemon 1.7.3, Eevee has 8 evolutions. 5 use a stone (hold the stone and right-click Eevee): Water Stone for Vaporeon, Thunder Stone for Jolteon, Fire Stone for Flareon, Leaf Stone for Leafeon, Ice Stone for Glaceon. 3 need friendship of 160 or more and a level up: Espeon during the day, Umbreon at night, Sylveon if it knows a Fairy-type move. Evolving Eevee into all 8 unlocks the advancement **Valued Veevees**.
 
 | Evolution | How |
 |---|---|

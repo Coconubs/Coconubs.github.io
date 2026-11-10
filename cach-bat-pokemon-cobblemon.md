@@ -40,7 +40,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T06:02:04+07:00
+last_modified_at: 2026-11-11T06:11:26+07:00
 ---
 
 # Cách bắt Pokémon trong Cobblemon
@@ -82,6 +82,8 @@ Trên server Coco Cobblemon, mở Menu (`/menu`) rồi chọn **POKÉDEX** ở t
 
 ## Cách bắt Pokémon huyền thoại (Legendary) trong Cobblemon
 
+Legendary có chỉ số catch rate rất thấp (60 trong 71 loài Legendary là 3, Caterpie là 255), nên hãy đấu trước, hạ máu thật thấp, gây Ngủ và dùng Ultra Ball.
+
 **Trong Cobblemon 1.7.3 gốc, Legendary và Mythical không xuất hiện tự nhiên:** file mod có 71 loài gắn nhãn Legendary và 23 loài Mythical, nhưng không loài nào có mục xuất hiện trong thư mục `spawn_pool_world`. Muốn có Legendary trong thế giới chơi một mình thì dùng lệnh `/pokespawn` (cần bật quyền lệnh, xem [Lệnh Cobblemon](/lenh-cobblemon/)) hoặc cài thêm mod.
 
 **Trên server Coco Cobblemon, Legendary có nhiều nguồn:**
@@ -91,8 +93,6 @@ Trên server Coco Cobblemon, mở Menu (`/menu`) rồi chọn **POKÉDEX** ở t
 - Raid Thế Giới, Trứng Huyền Thoại, Boss Bang.
 
 Chi tiết tỉ lệ, giờ và phí ở trang [Legendary trên Coco Cobblemon](/tinh-nang/legendary/). Mythical (Mew, Celebi, Arceus...) không xuất hiện tự nhiên trên server.
-
-Legendary có chỉ số catch rate rất thấp (60 trong 71 loài Legendary là 3, Caterpie là 255), nên hãy đấu trước, hạ máu thật thấp, gây Ngủ và dùng Ultra Ball.
 
 ## Trên server Coco Cobblemon
 
