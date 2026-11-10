@@ -3,12 +3,12 @@ title: Hướng dẫn người mới
 seo_title: "Hướng dẫn người mới Coco Cobblemon: việc ngày đầu và lệnh hay dùng"
 description: "Người mới vào Coco Cobblemon nên làm gì: liên kết Discord, Battle Pass, Nghề nghiệp, Viễn Chinh, BattleTower, claim đất. Danh sách lệnh hay dùng: /menu, /sethome, /rtp, /claim, /gts."
 nav_order: 5
-last_modified_at: 2026-11-07T22:10:29+07:00
+last_modified_at: 2026-11-11T03:37:57+07:00
 ---
 
 # Hướng dẫn người mới
 
-Trang này tóm tắt mục Hướng dẫn trong Menu của server. Trong game gõ `/menu`, chọn **HƯỚNG DẪN** để xem bản đầy đủ.
+Người mới vào Coco Cobblemon nên làm 6 việc ngày đầu: liên kết Discord và điểm danh, làm nhiệm vụ Battle Pass, nhận việc Nghề nghiệp, làm Ải Viễn Chinh, leo BattleTower, rồi claim đất và đặt nhà. Bản đầy đủ có trong game: gõ `/menu`, chọn **HƯỚNG DẪN**.
 {: .fs-5 .fw-300 }
 
 ## Việc nên làm ngày đầu
@@ -64,6 +64,20 @@ Số dư hiện trên scoreboard bên phải màn hình và đầu Menu.
 ## Breeding
 
 Cần 1 Pasture Block và 2 Pokémon cùng nhóm trứng (một đực, một cái) hoặc 1 Pokémon với Ditto. Khoảng 4 đến 8 giờ có 1 trứng. Breeding trên server chậm hơn bản gốc 5 lần, đặt Pasture trong đất bang thì bớt 10% thời gian mỗi cấp bang. Chi tiết ở [Breeding](/tinh-nang/breeding/).
+
+## Hỏi nhanh
+
+### Mở Menu và Hướng dẫn trong game thế nào?
+
+Gõ `/menu` hoặc cầm vật phẩm Menu ở ô cuối thanh công cụ (ô 9) rồi bấm chuột phải, chọn **HƯỚNG DẪN**. Nút cờ VI/EN ở góc phải để đổi ngôn ngữ, hoặc gõ `/ngonngu en` để chuyển sang tiếng Anh.
+
+### Xây nhà ở đâu để không bị mất?
+
+Trong vòng ±30.000 khối (X hoặc Z): ngoài khoảng đó không claim được và khu đó reset 2 tuần một lần. Đứng trong chunk muốn giữ rồi gõ `/claim`, sau đó `/sethome`.
+
+### Kiếm tiền trên Coco Cobblemon thế nào?
+
+CobbleDollars có từ Nghề nghiệp (`/nghenghiep`, mỗi nhiệm vụ 1.000$ tới 10.000$), Ải Viễn Chinh và bán đồ (`/sell`). Tokens có từ nhiệm vụ Battle Pass, Ải Viễn Chinh và điểm danh. BattleTower Points nhận mỗi ngày theo tầng BattleTower.
 
 **Xem thêm:** [Tất cả tính năng](/tinh-nang/) · [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/) · [Việc hằng ngày](/tinh-nang/hang-ngay/) · [Hỏi đáp](/hoi-dap/)
 
