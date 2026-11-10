@@ -3,6 +3,7 @@ title: Cobblemon là gì
 seo_title: "Cobblemon là gì? Mod Pokémon cho Minecraft Java"
 description: "Cobblemon là mod Pokémon mã nguồn mở cho Minecraft Java. Bản 1.7.3 có 851 loài Pokémon chơi được trong 1.025 loài có dữ liệu. Cần gì để chơi, chơi cùng người Việt."
 nav_order: 7.5
+alt: /en/what-is-cobblemon/
 last_modified_at: 2026-11-11T04:32:32+07:00
 ---
 

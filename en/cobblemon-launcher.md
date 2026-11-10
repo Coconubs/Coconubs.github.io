@@ -57,4 +57,6 @@ No. Cobblemon is a Java Edition mod, see [Cobblemon on Bedrock and PE](/en/cobbl
 
 Modrinth App, CurseForge App, Prism Launcher and CocoLauncher are all free to download.
 
+**See also:** [What is Cobblemon](/en/what-is-cobblemon/) · [Cobblemon controls](/en/cobblemon-controls/)
+
 *Updated: 11 November 2026.*
