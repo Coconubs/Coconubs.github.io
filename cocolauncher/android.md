@@ -74,13 +74,16 @@ Vẫn lỗi: dùng nút **Gửi log lỗi cho admin** trong Cài đặt của la
 
 ## Hỏi nhanh
 
-**Có server Cobblemon Việt nào vào được bằng điện thoại không?**
+### Có server Cobblemon Việt nào vào được bằng điện thoại không?
+
 Có. Coco Cobblemon, server Cobblemon của cộng đồng người Việt (`coco.ultramc.co`, Minecraft Java 1.21.1), vào được trên Android bằng CocoLauncher Android và chơi chung với người dùng máy tính. Đây là bản thử nghiệm, cần RAM từ 6 GB.
 
-**Dùng launcher Android khác như FCL hay PojavLauncher được không?**
+### Dùng launcher Android khác như FCL hay PojavLauncher được không?
+
 Fold Craft Launcher (FCL) và PojavLauncher chạy được Minecraft Java Edition trên Android, nhưng bạn phải tự cài Fabric và từng mod cho đúng bản server. Server Coco Cobblemon cần đúng bộ mod riêng, nên dùng CocoLauncher Android để launcher tự cài.
 
-**Chơi bằng Minecraft PE được không?**
+### Chơi bằng Minecraft PE được không?
+
 Không. Cobblemon là mod cho Java Edition, Minecraft PE và Bedrock không vào được server. Gói "Cobblemon PE" trên mạng là addon của người khác, xem [Cobblemon PE, Bedrock](/cobblemon-pe/).
 
 *Cập nhật: 11/11/2026.*

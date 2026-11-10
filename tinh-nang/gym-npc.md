@@ -42,10 +42,12 @@ Thắng Trainer NPC ngoài tháp như Red hay Champion nhận 1.000-5.000$.
 
 ## Hỏi nhanh
 
-**Đánh Gym trên Coco Cobblemon có bị giới hạn cấp không?**
+### Đánh Gym trên Coco Cobblemon có bị giới hạn cấp không?
+
 Có. Mỗi trận Gym có mốc cấp, Pokémon cao hơn mốc được hạ về đúng mốc trong trận, Pokémon thật không đổi.
 
-**NPC Tiền Thưởng ở đâu?**
+### NPC Tiền Thưởng ở đâu?
+
 Xuất hiện ngẫu nhiên mỗi ngày trong vùng đã khám phá; gõ `/tienthuong` để xem hướng và toạ độ.
 
 **Xem thêm:** [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/) · [Cách vào server](/cach-vao-server/)

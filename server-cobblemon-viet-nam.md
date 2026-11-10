@@ -115,16 +115,20 @@ Trong video hoặc bài cũ, bạn có thể gặp các tên dưới đây. Tấ
 
 ## Hỏi nhanh
 
-**Có server Cobblemon nói tiếng Việt không?**
+### Có server Cobblemon nói tiếng Việt không?
+
 Có. Coco Cobblemon dùng tiếng Việt cho launcher, menu, hướng dẫn và thông báo. Một số chữ của Cobblemon và mod khác vẫn có thể hiện tiếng Anh.
 
-**Ping từ Việt Nam tới server bao nhiêu?**
+### Ping từ Việt Nam tới server bao nhiêu?
+
 Máy chủ đặt ở Singapore. Đo ngày 06/11/2026, ping từ TP.HCM khoảng 29 ms. Ping thật còn tuỳ nhà mạng và nơi bạn ở; trong game, danh sách server của Minecraft có hiện vạch ping.
 
-**Server có chạy cả ngày không?**
+### Server có chạy cả ngày không?
+
 Có. Buổi tối là lúc đông người chơi. Lịch sự kiện và bảo trì báo trên Discord.
 
-**Gặp lỗi khi vào thì hỏi ở đâu?**
+### Gặp lỗi khi vào thì hỏi ở đâu?
+
 Xem trước [Sửa lỗi CocoLauncher](/cocolauncher/sua-loi/), chưa được thì hỏi trên [Discord](https://discord.gg/hyspace).
 
 *Cập nhật: 11/11/2026.*

@@ -87,13 +87,16 @@ Dùng đĩa TM cho Pokémon chỉ học được chiêu đó qua Tutor hoặc Eg
 
 ## Hỏi nhanh
 
-**Held Item kiếm ở đâu trên Coco Cobblemon?**
+### Held Item kiếm ở đâu trên Coco Cobblemon?
+
 Ở Shop Tokens (Menu, Shop, Shop Tokens), giá 5 tới 100 Tokens tuỳ loại. Held Item không rơi ngoài thế giới.
 
-**Bán Pokémon cho người khác thế nào?**
+### Bán Pokémon cho người khác thế nào?
+
 Đăng bán ở Chợ GTS: gõ `/gts` hoặc `/ah`.
 
-**Tokens kiếm nhanh nhất bằng gì?**
+### Tokens kiếm nhanh nhất bằng gì?
+
 Làm đủ nhiệm vụ Battle Pass và Ải Viễn Chinh mỗi ngày, thêm Raid Thế Giới lúc 9:00 và 19:00.
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 07/11/2026. Con số có thể đổi theo cập nhật, Menu trong game luôn là bản đúng nhất.*

@@ -6,7 +6,7 @@ nav_order: 6
 has_children: true
 has_toc: false
 alt: /en/features/
-last_modified_at: 2026-11-07T22:10:29+07:00
+last_modified_at: 2026-11-11T03:20:06+07:00
 ---
 
 # Tính năng Coco Cobblemon
@@ -61,5 +61,15 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 ## Tiếng Việt
 
 Launcher, Menu và Hướng dẫn của Coco bằng tiếng Việt, kèm nút chọn tiếng Anh. Một số nội dung của Cobblemon và mod khác vẫn có thể hiện tiếng Anh. Xem thêm [Cobblemon Việt hoá](/cobblemon-viet-hoa/).
+
+## Hỏi nhanh
+
+### Server Coco Cobblemon có những hoạt động nào?
+
+Đấu Xếp Hạng tính Elo, BattleTower 555 tầng, Gym, Tứ Thiên Vương, Champion và NPC Tiền Thưởng; Raid Thế Giới; Legendary tích luỹ và nhiều cách có Shiny (Dung hợp, Trứng, Raid, Daily Shop, Battle Pass); bang hội với Bang Hội Chiến, Boss Bang, Quà Bang; việc hằng ngày: Battle Pass, Nghề nghiệp, Ải Viễn Chinh, Daily Shop, điểm danh; câu cá 100 loài, Breeding, đất và nhà, Chợ GTS.
+
+### Hoạt động nào có giờ cố định?
+
+Theo giờ Việt Nam: Raid Thế Giới lúc 9:00 và 19:00 mỗi ngày; Bang Hội Chiến Thứ 2 tới Thứ 6, 9h-22h; khung giờ vàng câu cá 19:00-22:00 mỗi tối; Giờ Vàng Legendary Thứ 7 và Chủ Nhật, 20:00-22:00. Boss Bang mới, nhiệm vụ ngày Battle Pass, Nghề nghiệp, Ải Viễn Chinh và Daily Shop làm mới lúc 0h00.
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*

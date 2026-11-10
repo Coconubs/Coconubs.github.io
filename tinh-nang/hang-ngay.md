@@ -5,7 +5,7 @@ description: "Việc hằng ngày trên server Coco Cobblemon: Battle Pass 100 c
 parent: Tính năng
 nav_order: 7
 permalink: /tinh-nang/hang-ngay/
-last_modified_at: 2026-11-06T11:30:01+07:00
+last_modified_at: 2026-11-11T03:20:06+07:00
 ---
 
 # Việc hằng ngày
@@ -66,6 +66,24 @@ Thêm ngẫu nhiên: Rare Candy, EXP Candy, Trứng, Ability Capsule, Bottle Cap
 ## Túi May Mắn
 
 Chơi bình thường là có cơ hội rơi Túi May Mắn: bắt Pokémon, thắng trận, đào quặng, thu hoạch berry, câu cá, online đủ giờ. Bên trong là khoáng sản, gỗ, Apricorn, bóng Pokémon, lông EV, Mint. Hiếm hơn là Túi May Mắn Hoàng Kim với nhiều món xịn hơn.
+
+## Hỏi nhanh
+
+### Việc hằng ngày làm mới lúc mấy giờ?
+
+Lúc 0h00 giờ Việt Nam: nhiệm vụ ngày của Battle Pass, nhiệm vụ Nghề nghiệp, ải Viễn Chinh và 7 thẻ Daily Shop. Nhiệm vụ tuần của Battle Pass làm mới vào thứ Hai.
+
+### Battle Pass có bắt buộc trả phí không?
+
+Không. Pass thường dành cho mọi người, có quà mỗi 5 cấp gồm tiền, Tokens, Trứng, Chìa Raid, Tinh Thể, Crate Shiny. Pass Premium không bắt buộc, có thêm quà ở mọi cấp. Mỗi kỳ Battle Pass kéo dài 60 ngày, có 100 cấp.
+
+### Daily Shop có ra Shiny hay Legendary không?
+
+Có. Mỗi ngày bạn có 7 thẻ Pokémon ngẫu nhiên cấp 50. Mỗi thẻ có tỉ lệ 1/2048 là Shiny, và 0,1% là Legendary, Mythical, UB hoặc Paradox.
+
+### Điểm danh ở đâu?
+
+Gõ `;diemdanh` ở kênh Spam Bot trên [Discord](https://discord.gg/hyspace), sau khi đã [liên kết tài khoản](/cach-vao-server/#lien-ket-discord). Chuỗi ngày liên tiếp nhận thưởng mốc trong Menu; đứt chuỗi thì các mốc tính lại từ đầu.
 
 **Xem thêm:** [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/) · [Cách có Pokémon Shiny](/tinh-nang/shiny/) · [Câu cá 100 loài](/tinh-nang/cau-ca/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/)
 

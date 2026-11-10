@@ -54,16 +54,20 @@ Do not install with shared or enterprise certificates or SideInstaller: they get
 
 ## Quick answers
 
-**Is Cobblemon on the App Store?**
+### Is Cobblemon on the App Store?
+
 There is no official version. The Cobblemon team only makes a mod for Minecraft Java Edition. Apps named "Cobblemon" on the App Store are Minecraft PE add-ons or other third-party apps.
 
-**Can Minecraft PE on iPhone run Cobblemon?**
+### Can Minecraft PE on iPhone run Cobblemon?
+
 No. Minecraft PE is the Bedrock edition, and Cobblemon only runs on Java Edition.
 
-**Do I need a computer to play Cobblemon on iPhone?**
+### Do I need a computer to play Cobblemon on iPhone?
+
 Once, for about 30 minutes, to install SideStore and CocoLauncher (unless you have your own IPA signing certificate). After that you play on the iPhone and refresh the app in SideStore every 7 days.
 
-**Which iPhones work?**
+### Which iPhones work?
+
 iOS 14 or later. 8 GB of RAM is recommended, such as iPhone 15 Pro, 16 or 17; 6 GB devices run on the Low preset.
 
 **See also:** [Play Cobblemon on Android and iPhone](/en/cobblemon-android/) · [Cobblemon server in Vietnam](/en/vietnam-cobblemon-server/) · [How to join](/en/how-to-join/) · [FAQ](/en/faq/)

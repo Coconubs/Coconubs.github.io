@@ -38,13 +38,16 @@ Trong server có Đấu Xếp Hạng tính Elo, BattleTower 555 tầng, Gym, Ban
 
 ## Hỏi nhanh
 
-**Minecraft PE có chơi Pokémon được không?**
+### Minecraft PE có chơi Pokémon được không?
+
 Cobblemon và Pixelmon không chạy trên Bedrock hay PE. Trên Android, CocoLauncher Android là bản thử nghiệm chạy Java Edition, cần máy từ 6 GB RAM, xem [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/).
 
-**Cài Pixelmon rồi vào server Cobblemon được không?**
+### Cài Pixelmon rồi vào server Cobblemon được không?
+
 Không. Mỗi server chỉ nhận đúng mod và đúng phiên bản của nó.
 
-**Có mất phí không?**
+### Có mất phí không?
+
 Cobblemon và Pixelmon tải không mất phí. Tải CocoLauncher và vào server Coco Cobblemon cũng không mất phí.
 
 *Cập nhật: 06/11/2026.*

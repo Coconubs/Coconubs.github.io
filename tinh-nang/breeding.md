@@ -53,13 +53,16 @@ Trên server, Berry và Apricorn lớn chậm hơn bản gốc 4 lần, và khô
 
 ## Hỏi nhanh
 
-**Breeding Cobblemon cần những gì?**
+### Breeding Cobblemon cần những gì?
+
 1 Pasture Block và 2 Pokémon cùng nhóm trứng (một đực, một cái), hoặc 1 Pokémon với Ditto.
 
-**Bao lâu thì có trứng?**
+### Bao lâu thì có trứng?
+
 Khoảng 4 đến 8 giờ 1 trứng. Pasture trong đất bang cấp cao ra trứng nhanh hơn.
 
-**Breeding có ra Shiny không?**
+### Breeding có ra Shiny không?
+
 Gần như không. Trên Coco Cobblemon, Shiny có qua Dung hợp Shiny, Trứng Pokémon từ điểm danh và Viễn Chinh, Raid, Daily Shop và Battle Pass.
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 07/11/2026. Con số có thể đổi theo cập nhật, Menu trong game luôn là bản đúng nhất.*

@@ -60,13 +60,16 @@ Tab **ĐANG ĐẤU** xem trực tiếp các trận Đấu Đơn (Đấu Đôi kh
 
 ## Hỏi nhanh
 
-**Đấu Xếp Hạng trên Coco Cobblemon đấu thế nào?**
+### Đấu Xếp Hạng trên Coco Cobblemon đấu thế nào?
+
 Thể thức chính là Đấu Đôi 4v4: mang 6 con, xem đội đối thủ, chọn 4, tính Elo, luật Regulation H. Đấu Đơn 6v6 là giao hữu, đếm thắng thua. Ghép trận ẩn theo Elo, mở bằng `/xephang`.
 
-**Pokémon có bị đưa về cấp 50 không?**
+### Pokémon có bị đưa về cấp 50 không?
+
 Có. Trong trận mọi con về Lv 50 (bản sao, Pokémon thật không đổi), mỗi lượt 90 giây.
 
-**Có những hạng nào?**
+### Có những hạng nào?
+
 Đồng, Bạc, Vàng, Bạch Kim, Kim Cương, Cao Thủ, mỗi hạng 3 bậc. Top 5 Cao Thủ là Thách Đấu. Người mới bắt đầu ở 1000 Elo.
 
 **Xem thêm:** [BattleTower 555 tầng](/tinh-nang/battletower/) · [Gym, Tứ Thiên Vương và NPC Tiền Thưởng](/tinh-nang/gym-npc/) · [Bang Hội Chiến](/tinh-nang/bang-hoi/) · [Cách vào server Coco Cobblemon](/cach-vao-server/)

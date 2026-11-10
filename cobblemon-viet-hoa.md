@@ -32,13 +32,16 @@ Muốn dịch kỹ hơn, có thể xem [Viethoa [Cobbemon]](https://modrinth.com
 
 ## Hỏi nhanh
 
-**Cobblemon Việt hoá tải ở đâu?**
+### Cobblemon Việt hoá tải ở đâu?
+
 Không cần tải thêm để có phần dịch cơ bản: Cobblemon 1.7.3 có sẵn ngôn ngữ Tiếng Việt, bật trong Options, Language. Muốn dịch kỹ hơn thì xem gói Viethoa [Cobbemon] trên Modrinth ở mục trên, nhớ kiểm có khớp bản Cobblemon bạn chơi không.
 
-**Có server Cobblemon tiếng Việt không?**
+### Có server Cobblemon tiếng Việt không?
+
 Có. Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt: launcher, menu, hướng dẫn và thông báo bằng tiếng Việt, có nút chọn tiếng Anh. Địa chỉ `coco.ultramc.co`, Minecraft Java 1.21.1, Cobblemon 1.7.3, vào game bằng [CocoLauncher](/cocolauncher/). Xem thêm [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/).
 
-**Cobblemon Việt hoá có chơi được trên Minecraft PE không?**
+### Cobblemon Việt hoá có chơi được trên Minecraft PE không?
+
 Không. Cobblemon là mod cho Minecraft Java Edition; gói "Cobblemon PE" là addon của người khác, xem [Cobblemon PE, Bedrock](/cobblemon-pe/). Trên điện thoại Android, xem [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/).
 
 *Cập nhật: 07/11/2026.*

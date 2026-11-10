@@ -49,10 +49,12 @@ Modrinth App, CurseForge App and Prism Launcher have no Android version. On Andr
 
 ## Quick answers
 
-**Can any of these install Cobblemon on Bedrock or Pocket Edition?**
+### Can any of these install Cobblemon on Bedrock or Pocket Edition?
+
 No. Cobblemon is a Java Edition mod. On Android, CocoLauncher Android is an experimental build that runs Java Edition to join Coco Cobblemon, see [Play Cobblemon on Android](/en/cobblemon-android/).
 
-**Do they cost anything?**
+### Do they cost anything?
+
 Modrinth App, CurseForge App, Prism Launcher and CocoLauncher are all free to download.
 
 *Updated: 11 November 2026.*

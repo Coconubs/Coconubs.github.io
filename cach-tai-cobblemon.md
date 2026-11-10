@@ -95,19 +95,24 @@ Dùng CocoLauncher mà gặp lỗi thì xem [Sửa lỗi CocoLauncher](/cocolaun
 
 ## Hỏi nhanh
 
-**Cobblemon có mất phí không?**
+### Cobblemon có mất phí không?
+
 Mod Cobblemon tải không mất phí trên Modrinth và CurseForge. Cần có Minecraft: Java Edition để chạy mod.
 
-**Tải Cobblemon ở đâu cho an toàn?**
+### Tải Cobblemon ở đâu cho an toàn?
+
 Ở trang Cobblemon trên [Modrinth](https://modrinth.com/mod/cobblemon) hoặc CurseForge. Trang đăng lại mod thường gắn quảng cáo hoặc file giả.
 
-**Cobblemon có tiếng Việt không?**
+### Cobblemon có tiếng Việt không?
+
 Có một phần: Cobblemon 1.7.3 có sẵn ngôn ngữ Tiếng Việt cho khoảng 60% số dòng chữ. Cách bật và gói Việt hoá cộng đồng ở trang [Cobblemon Việt hoá](/cobblemon-viet-hoa/).
 
-**Cài Cobblemon xong vào server nào cũng được không?**
+### Cài Cobblemon xong vào server nào cũng được không?
+
 Không. Mỗi server chạy một bản Minecraft, Cobblemon và bộ mod riêng, máy bạn phải khớp. Server người Việt Coco Cobblemon vào bằng [CocoLauncher](/cocolauncher/).
 
-**Có cần tự cài Java không?**
+### Có cần tự cài Java không?
+
 Không, nếu dùng Modrinth App, Minecraft Launcher hoặc CocoLauncher. Chỉ khi tự chạy game bằng launcher khác mới cần chọn Java 21 bản 64-bit.
 
 **Xem thêm:** [Launcher nào để chơi Cobblemon](/launcher-cobblemon/) · [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/) · [Hỏi đáp](/hoi-dap/)

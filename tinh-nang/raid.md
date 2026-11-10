@@ -52,13 +52,16 @@ Mỗi người đấu với 1 bản thể ở sàn riêng. Mọi sát thương v
 
 ## Hỏi nhanh
 
-**Raid Thế Giới mở lúc mấy giờ?**
+### Raid Thế Giới mở lúc mấy giờ?
+
 Lúc 9:00 và 19:00 mỗi ngày (giờ Việt Nam) tại Lobby, mỗi lượt kéo dài 2 tiếng. Bot Discord báo khi boss xuất hiện.
 
-**Vào Raid cần gì?**
+### Vào Raid cần gì?
+
 Mỗi lần vào tốn 1 Chìa Khoá Raid (có trong Shop BattleTower và Battle Pass), và đội phải đúng điều kiện, bảng cấm riêng của boss. Chuột phải khối Raid ở Lobby hoặc gõ `/raid join`.
 
-**Ai được bắt boss Raid?**
+### Ai được bắt boss Raid?
+
 Top 5 sát thương mỗi người có 3 lượt bắt, người kết liễu thêm 3 lượt, không dùng Master Ball. Boss có tỉ lệ Shiny 1/4096, bắt được là Shiny.
 
 **Xem thêm:** [Cách có Pokémon Shiny](/tinh-nang/shiny/) · [Legendary tích luỹ và Giờ Vàng](/tinh-nang/legendary/) · [Boss Bang](/tinh-nang/bang-hoi/) · [Lịch sự kiện trong tuần theo giờ Việt Nam](/server-cobblemon-viet-nam/)

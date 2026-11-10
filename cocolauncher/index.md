@@ -81,13 +81,16 @@ CocoLauncher chỉ dùng để vào server Coco Cobblemon. Muốn chơi Cobblemo
 
 ## Hỏi nhanh
 
-**CocoLauncher là gì?**
+### CocoLauncher là gì?
+
 CocoLauncher (Coco Launcher) là launcher Minecraft Java của server Coco Cobblemon, do Coconubs phát hành. Nhập tên, bấm **Chơi**, launcher tự cài Java, Minecraft 1.21.1, Fabric, Cobblemon 1.7.3 và gói mod rồi vào server `coco.ultramc.co`. Bản trên Microsoft Store và bản trên GitHub Releases là cùng một launcher.
 
-**CocoLauncher có an toàn không?**
+### CocoLauncher có an toàn không?
+
 Không phần mềm nào bảo đảm được tuyệt đối, nên hãy tự kiểm chứng. Trên Windows, cài từ Microsoft Store (nhà phát hành Coconubs) là cách an toàn nhất. File .exe chưa có chữ ký số nên SmartScreen có thể cảnh báo; mỗi file trên GitHub Releases có mã SHA-256 để đối chiếu. Cách kiểm ở trang [CocoLauncher có an toàn không](/cocolauncher/an-toan/).
 
-**CocoLauncher có phải app "Coco Launcher" trên Google Play không?**
+### CocoLauncher có phải app "Coco Launcher" trên Google Play không?
+
 Không. App giao diện điện thoại tên "Coco Launcher" trên Google Play là ứng dụng khác. CocoLauncher Android chỉ tải ở [GitHub Releases của Coconubs](https://github.com/Coconubs/cocolauncher-pack/releases).
 
 ## Các trang về CocoLauncher

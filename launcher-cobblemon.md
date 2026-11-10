@@ -65,13 +65,16 @@ Trên iPhone, iPad cũng có CocoLauncher iOS bản thử nghiệm, chỉ để 
 
 ## Hỏi nhanh
 
-**Launcher nào dễ dùng nhất cho người mới ở Việt Nam?**
+### Launcher nào dễ dùng nhất cho người mới ở Việt Nam?
+
 Muốn vào Coco Cobblemon thì dùng CocoLauncher: giao diện tiếng Việt, chỉ cần nhập tên và bấm Chơi. Muốn chơi Cobblemon một mình thì dùng Modrinth App với Cobblemon Official Modpack.
 
-**Minecraft Bedrock hay PE dùng được launcher nào?**
+### Minecraft Bedrock hay PE dùng được launcher nào?
+
 Không launcher nào ở trên cài Cobblemon vào Bedrock hay PE, vì Cobblemon là mod cho Java Edition. Trên Android, CocoLauncher Android là bản thử nghiệm chạy Java Edition để vào Coco Cobblemon, xem [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/).
 
-**Launcher có mất phí không?**
+### Launcher có mất phí không?
+
 Modrinth App, CurseForge App, Prism Launcher và CocoLauncher đều tải không mất phí.
 
 *Cập nhật: 11/11/2026.*

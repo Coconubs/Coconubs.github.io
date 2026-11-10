@@ -52,19 +52,24 @@ Không cài bằng "chứng chỉ chung", chứng chỉ doanh nghiệp hay SideI
 
 ## Hỏi nhanh
 
-**Cobblemon có trên App Store không?**
+### Cobblemon có trên App Store không?
+
 Không có bản chính thức. Nhóm Cobblemon chỉ làm mod cho Minecraft Java Edition. App tên "Cobblemon" trên App Store là addon Minecraft PE hoặc app của bên khác.
 
-**Minecraft PE trên iPhone cài Cobblemon được không?**
+### Minecraft PE trên iPhone cài Cobblemon được không?
+
 Không. Minecraft PE là bản Bedrock, Cobblemon chỉ chạy trên Java Edition. Xem [Cobblemon PE, Bedrock](/cobblemon-pe/).
 
-**Chơi Cobblemon trên iPhone có cần máy tính không?**
+### Chơi Cobblemon trên iPhone có cần máy tính không?
+
 Lần đầu cần, khoảng 30 phút, để cài SideStore và CocoLauncher (trừ khi bạn đã có chứng chỉ ký IPA riêng). Sau đó chơi trên iPhone, 7 ngày Refresh 1 lần trong SideStore.
 
-**iPhone nào chơi được?**
+### iPhone nào chơi được?
+
 iOS 14 trở lên. Khuyên máy 8 GB RAM như iPhone 15 Pro, 16, 17; máy 6 GB chơi được ở cấu hình Thấp.
 
-**Bị lỗi khi cài hoặc văng game thì hỏi ở đâu?**
+### Bị lỗi khi cài hoặc văng game thì hỏi ở đâu?
+
 Hỏi trên [Discord](https://discord.gg/hyspace) của Coco, gửi kèm ảnh chụp và file `latestlog.txt` (app Tệp › CocoLauncher).
 
 **Xem thêm:** [Chơi Cobblemon trên điện thoại Android, iPhone](/cobblemon-dien-thoai/) · [Cách tải Cobblemon](/cach-tai-cobblemon/) · [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/) · [Hỏi đáp](/hoi-dap/)

@@ -5,7 +5,7 @@ description: "Cách Legendary xuất hiện trên server Coco Cobblemon: tỉ l�
 parent: Tính năng
 nav_order: 5
 permalink: /tinh-nang/legendary/
-last_modified_at: 2026-11-06T11:30:01+07:00
+last_modified_at: 2026-11-11T03:20:06+07:00
 ---
 
 # Legendary tích luỹ
@@ -50,6 +50,24 @@ Altar, Shrine, Legendary Monuments và máy hồi sinh hoá thạch vẫn dùng 
 - [Raid Thế Giới](/tinh-nang/raid/): top 5 sát thương được bắt boss Legendary.
 - Trứng Huyền Thoại: chỉ ra Legendary (không Mythical, UB, Paradox), cấp 50.
 - [Boss Bang](/tinh-nang/bang-hoi/#boss-bang): đổi Mảnh loài boss lấy 1 con Lv 50.
+
+## Hỏi nhanh
+
+### Legendary trên Coco Cobblemon xuất hiện thế nào?
+
+Legendary xuất hiện tự nhiên theo tỉ lệ tích luỹ: khởi đầu 0,001%, cứ 20 phút cả server chưa có Legendary xuất hiện tự nhiên thì cộng 0,001%, tối đa 1%. Có 1 Legendary xuất hiện tự nhiên ở bất kỳ đâu thì tỉ lệ cả server về lại 0,001%. Tỉ lệ hiện tại luôn hiện ở HUD góc dưới bên trái.
+
+### Giờ Vàng Legendary là lúc nào?
+
+Thứ 7 và Chủ Nhật, 20:00-22:00 (giờ Việt Nam): tỉ lệ đang tích luỹ x2, tối đa 2%, có thông báo trước 10 phút. Bùa Huyền Thoại cũng x2 trong 60 phút quanh bạn, nhưng Bùa và Giờ Vàng không cộng dồn.
+
+### Triệu hồi Legendary bằng Altar được không?
+
+Được, nhưng tốn thêm CobbleDollars, từ 5.000.000$ tới 20.000.000$ tuỳ loài. Tiền bị trừ khi bấm xác nhận triệu hồi; sau 2 phút Pokémon không xuất hiện thì tự hoàn tiền. Pokémon triệu hồi ra không bao giờ là Shiny, và triệu hồi không làm mất phần tỉ lệ đã tích luỹ.
+
+### Mythical như Mew, Arceus có xuất hiện tự nhiên không?
+
+Không. Mythical (Mew, Celebi, Deoxys, Darkrai, Arceus...) không xuất hiện tự nhiên và đã bị khoá triệu hồi. Trứng Huyền Thoại cũng chỉ ra Legendary, không ra Mythical, UB hay Paradox. Thẻ [Daily Shop](/tinh-nang/hang-ngay/#daily-shop) có 0,1% là Legendary, Mythical, UB hoặc Paradox.
 
 **Xem thêm:** [Cách có Pokémon Shiny](/tinh-nang/shiny/) · [Giờ Vàng trong lịch sự kiện tuần](/server-cobblemon-viet-nam/) · [Hỏi đáp](/hoi-dap/)
 

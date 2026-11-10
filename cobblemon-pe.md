@@ -43,13 +43,16 @@ Server dùng mod Cobblemon chạy Java Edition, nên app Minecraft PE không và
 
 ## Hỏi nhanh
 
-**Tải Cobblemon cho Minecraft PE ở đâu?**
+### Tải Cobblemon cho Minecraft PE ở đâu?
+
 Không có bản chính thức cho PE. Gói mang tên Cobblemon cho PE là addon của người khác, không phải Cobblemon.
 
-**Cobblemon PE có vào được server Coco Cobblemon không?**
+### Cobblemon PE có vào được server Coco Cobblemon không?
+
 Không. Coco Cobblemon là server Minecraft Java 1.21.1 chạy Cobblemon 1.7.3 cùng bộ mod riêng, vào bằng CocoLauncher trên Windows, macOS hoặc Android.
 
-**Minecraft PE có Pokémon không?**
+### Minecraft PE có Pokémon không?
+
 Có vài addon Pokémon cho Bedrock do cộng đồng làm. Cobblemon và Pixelmon là mod cho Java Edition, xem [Chơi Pokémon trong Minecraft](/pokemon-trong-minecraft/).
 
 *Cập nhật: 11/11/2026.*

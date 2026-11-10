@@ -52,10 +52,12 @@ Waystone: chuột phải để kích hoạt, rồi dịch chuyển giữa các W
 
 ## Hỏi nhanh
 
-**Làm sao để không ai phá nhà?**
+### Làm sao để không ai phá nhà?
+
 `/claim` các chunk quanh nhà. Muốn cả thành viên bang khác cũng không vào được thì dùng `/dat khoa`.
 
-**Xây ở đâu cho an toàn?**
+### Xây ở đâu cho an toàn?
+
 Trong ±30.000 theo X và Z. Ngoài vùng này không claim được, không đặt được rương, balo, Pasture, và reset 2 tuần một lần.
 
 **Xem thêm:** [Hướng dẫn người mới](/huong-dan-nguoi-moi/) · [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/) · [Hỏi đáp](/hoi-dap/)

@@ -5,7 +5,7 @@ description: "Bang hội trên server Coco Cobblemon: tạo bang, Bang Hội Chi
 parent: Tính năng
 nav_order: 3
 permalink: /tinh-nang/bang-hoi/
-last_modified_at: 2026-11-07T20:48:46+07:00
+last_modified_at: 2026-11-11T03:20:06+07:00
 ---
 
 # Bang hội
@@ -74,6 +74,24 @@ Khi 1 thành viên làm được việc lớn, các thành viên còn lại nh�
 | Hạ Boss Bang | 25.000$ + 100 Tokens |
 
 Điều kiện: vào bang từ 24 giờ, tối đa 15 hộp mỗi ngày. Offline thì quà giữ 72 giờ.
+
+## Hỏi nhanh
+
+### Tạo bang hội trên Coco Cobblemon thế nào?
+
+Gõ `/oparties create` để tạo bang, rồi `/oparties member invite <tên>` để mời thành viên. Bang hội dùng Party của Open Parties and Claims; lệnh của bang là `/banghoi`, `/bangchien` và `/bossbang`.
+
+### Bang Hội Chiến diễn ra lúc nào?
+
+Thứ 2 tới Thứ 6, từ 9h tới 22h (giờ Việt Nam). Các bang treo Cờ Chiến rồi khiêu chiến nhau để cướp cờ; tới 22h, bang giữ nhiều cờ nhất là Bá chủ hôm nay. Bang cần ít nhất 2 thành viên, tính cả Bang chủ.
+
+### Thua Bang Hội Chiến có bị loại không?
+
+Không. Thua thì mất hết cờ nhưng không bị loại, được treo cờ lại sau 1 giờ. Trận lỗi do máy chủ (kick, timeout, tắt server) bị huỷ, không ai mất cờ.
+
+### Boss Bang đánh thế nào?
+
+Mỗi ngày 0:00 có 1 boss mới cho mọi bang, mở bằng `/bossbang`. Mỗi người có 3 lượt mỗi ngày, đánh bằng đội hiện tại, và phải vào bang từ 24 giờ mới được đánh.
 
 **Xem thêm:** [Claim đất và khoá đất riêng](/tinh-nang/dat-nha/) · [Breeding nhanh hơn trong đất bang](/tinh-nang/breeding/) · [Legendary tích luỹ](/tinh-nang/legendary/) · [Raid Thế Giới](/tinh-nang/raid/)
 
