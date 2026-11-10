@@ -3,18 +3,23 @@ title: Cobblemon Việt hoá
 seo_title: "Cobblemon Việt hoá: cách chơi Cobblemon bằng tiếng Việt"
 description: "Cobblemon có tiếng Việt không? Cobblemon 1.7.3 có sẵn ngôn ngữ vi_vn khoảng 60% số khoá. Cách bật Tiếng Việt, gói Việt hoá cộng đồng, server Cobblemon tiếng Việt."
 nav_order: 9
-last_modified_at: 2026-11-07T21:58:09+07:00
+last_modified_at: 2026-11-11T03:28:53+07:00
 ---
 
 # Cobblemon Việt Hoá: cách chơi Cobblemon bằng tiếng Việt
 
-Từ ngôn ngữ có sẵn trong game tới gói dịch của cộng đồng.
+Cobblemon có sẵn tiếng Việt: Cobblemon 1.7.3 có ngôn ngữ `vi_vn` cho khoảng 60% số khoá (kiểm kê 01/11/2026), bật bằng **Options**, **Language**, **Tiếng Việt (Việt Nam)**. Bản dịch do cộng đồng làm trên Weblate của nhóm Cobblemon; muốn dịch kỹ hơn có gói Việt hoá của tác giả khác trên Modrinth. Muốn chơi cùng người Việt với menu và hướng dẫn tiếng Việt, có server Coco Cobblemon (`coco.ultramc.co`).
+{: .fs-5 .fw-300 }
 
 ## Cobblemon có sẵn tiếng Việt không?
 
 Có. File Cobblemon 1.7.3 cho Fabric có sẵn ngôn ngữ `vi_vn` với 5.450 mục, bản tiếng Anh `en_us` có 9.061 mục, tức khoảng 60% số khoá. Kiểm kê ngày 01/11/2026 bằng cách đếm khoá trong `assets/cobblemon/lang/vi_vn.json` và `en_us.json` của file `Cobblemon-fabric-1.7.3+1.21.1.jar`.
 
 Đây là tỉ lệ khoá, không phản ánh chất lượng dịch và không có nghĩa 60% những gì bạn thấy trong game là tiếng Việt. Mục chưa dịch và chữ của mod khác vẫn hiện tiếng Anh. Bản Cobblemon khác có thể có số khác.
+
+## Ai dịch Cobblemon sang tiếng Việt
+
+Phần tiếng Việt của Cobblemon được cộng đồng dịch trên [Cobblemon Weblate](https://lang.cobblemon.com/languages/vi/), trang dịch của nhóm Cobblemon. Ngày 11/11/2026, trang này ghi tiếng Việt đã dịch 59% số chuỗi (5.679 trên 9.587 chuỗi). Muốn góp bản dịch, đăng ký tài khoản trên trang đó.
 
 ## Cách bật
 
@@ -44,4 +49,4 @@ Có. Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộ
 
 Không. Cobblemon là mod cho Minecraft Java Edition; gói "Cobblemon PE" là addon của người khác, xem [Cobblemon PE, Bedrock](/cobblemon-pe/). Trên điện thoại Android, xem [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/).
 
-*Cập nhật: 07/11/2026.*
+*Cập nhật: 11/11/2026.*
