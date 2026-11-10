@@ -3,6 +3,7 @@ title: Tiến hoá Cobblemon
 seo_title: "Cách tiến hoá Pokémon trong Cobblemon: đá, trao đổi, Eevee, Mega"
 description: "Cách tiến hoá Pokémon trong Cobblemon 1.7.3: lên cấp rồi bấm Tiến Hóa, dùng đá tiến hoá, Link Cable thay trao đổi, 8 dạng Eevee, Mega trên Coco Cobblemon."
 nav_order: 8.8
+alt: /en/cobblemon-evolution/
 last_modified_at: 2026-11-11T05:11:15+07:00
 ---
 
