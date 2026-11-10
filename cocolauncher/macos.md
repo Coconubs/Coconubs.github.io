@@ -5,6 +5,7 @@ description: "Tải và cài CocoLauncher (Coco Launcher) trên máy Mac: chọn
 parent: CocoLauncher
 nav_order: 2
 permalink: /cocolauncher/macos/
+last_modified_at: 2026-11-06T11:30:01+07:00
 ---
 
 # CocoLauncher cho macOS

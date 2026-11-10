@@ -5,6 +5,7 @@ description: "CocoLauncher (Coco Launcher) có an toàn không: tải ở đâu 
 parent: CocoLauncher
 nav_order: 5
 permalink: /cocolauncher/an-toan/
+last_modified_at: 2026-11-06T11:30:01+07:00
 ---
 
 # CocoLauncher có an toàn không?

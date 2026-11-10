@@ -5,6 +5,7 @@ description: "Đánh Gym, Tứ Thiên Vương, Champion trên server Coco Cobble
 parent: Tính năng
 nav_order: 11
 permalink: /tinh-nang/gym-npc/
+last_modified_at: 2026-11-07T22:10:29+07:00
 ---
 
 # Gym, Tứ Thiên Vương, Champion và NPC Tiền Thưởng

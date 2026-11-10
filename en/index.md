@@ -24,6 +24,7 @@ jsonld: |
       "https://discord.gg/hyspace"
     ]
   }
+last_modified_at: 2026-11-07T22:06:58+07:00
 ---
 
 # Coco Cobblemon: a Cobblemon server in Vietnam

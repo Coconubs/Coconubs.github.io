@@ -3,6 +3,7 @@ title: Hướng dẫn người mới
 seo_title: "Hướng dẫn người mới Coco Cobblemon: việc ngày đầu và lệnh hay dùng"
 description: "Người mới vào Coco Cobblemon nên làm gì: liên kết Discord, Battle Pass, Nghề nghiệp, Viễn Chinh, BattleTower, claim đất. Danh sách lệnh hay dùng: /menu, /sethome, /rtp, /claim, /gts."
 nav_order: 5
+last_modified_at: 2026-11-07T22:10:29+07:00
 ---
 
 # Hướng dẫn người mới

@@ -5,6 +5,7 @@ description: "Việc hằng ngày trên server Coco Cobblemon: Battle Pass 100 c
 parent: Tính năng
 nav_order: 7
 permalink: /tinh-nang/hang-ngay/
+last_modified_at: 2026-11-06T11:30:01+07:00
 ---
 
 # Việc hằng ngày

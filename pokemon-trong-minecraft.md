@@ -3,6 +3,7 @@ title: Pokémon trong Minecraft
 seo_title: "Chơi Pokémon trong Minecraft: Cobblemon, Pixelmon và server cho người Việt"
 description: "Muốn chơi Pokémon trong Minecraft cần gì: Minecraft Java Edition và mod Cobblemon hoặc Pixelmon. So sánh hai mod, chơi một mình hay vào server Pokémon cho người Việt."
 nav_order: 10
+last_modified_at: 2026-11-06T11:30:01+07:00
 ---
 
 # Chơi Pokémon trong Minecraft: Cobblemon, Pixelmon và server cho người Việt

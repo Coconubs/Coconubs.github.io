@@ -34,6 +34,7 @@ jsonld: |
       "https://github.com/Coconubs/cocolauncher-pack"
     ]
   }
+last_modified_at: 2026-11-07T21:30:02+07:00
 ---
 
 # CocoLauncher (Coco Launcher)

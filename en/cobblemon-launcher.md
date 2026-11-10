@@ -6,6 +6,7 @@ parent: English
 nav_order: 5
 permalink: /en/cobblemon-launcher/
 alt: /launcher-cobblemon/
+last_modified_at: 2026-11-07T20:38:41+07:00
 ---
 
 # Which launcher for Cobblemon? Modrinth App, CurseForge, Prism Launcher, CocoLauncher

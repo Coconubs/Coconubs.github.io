@@ -6,6 +6,7 @@ parent: English
 nav_order: 8
 permalink: /en/vietnam-cobblemon-server/
 alt: /server-cobblemon-viet-nam/
+last_modified_at: 2026-11-07T20:45:09+07:00
 ---
 
 # Cobblemon server in Vietnam: Coco Cobblemon

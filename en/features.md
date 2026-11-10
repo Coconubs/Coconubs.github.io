@@ -6,6 +6,7 @@ parent: English
 nav_order: 3
 permalink: /en/features/
 alt: /tinh-nang/
+last_modified_at: 2026-11-06T11:30:01+07:00
 ---
 
 # Coco Cobblemon features

@@ -5,6 +5,7 @@ description: "Bang hội trên server Coco Cobblemon: tạo bang, Bang Hội Chi
 parent: Tính năng
 nav_order: 3
 permalink: /tinh-nang/bang-hoi/
+last_modified_at: 2026-11-07T20:48:46+07:00
 ---
 
 # Bang hội

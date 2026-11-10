@@ -6,6 +6,7 @@ parent: CocoLauncher
 nav_order: 3
 permalink: /cobblemon-dien-thoai/
 alt: /en/cobblemon-android/
+last_modified_at: 2026-11-07T21:58:09+07:00
 ---
 
 # Chơi Cobblemon trên điện thoại Android

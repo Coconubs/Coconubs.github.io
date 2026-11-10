@@ -5,6 +5,7 @@ description: "Đấu Xếp Hạng trên server Coco Cobblemon: Đấu Đôi 4v4 
 parent: Tính năng
 nav_order: 1
 permalink: /tinh-nang/dau-xep-hang/
+last_modified_at: 2026-11-06T11:30:01+07:00
 ---
 
 # Đấu Xếp Hạng

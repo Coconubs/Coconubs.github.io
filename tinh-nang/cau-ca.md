@@ -5,6 +5,7 @@ description: "Câu cá trên server Coco Cobblemon: 100 loài cá với 7 độ 
 parent: Tính năng
 nav_order: 8
 permalink: /tinh-nang/cau-ca/
+last_modified_at: 2026-11-06T11:30:01+07:00
 ---
 
 # Câu cá

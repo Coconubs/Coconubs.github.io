@@ -6,6 +6,7 @@ parent: English
 nav_order: 2
 permalink: /en/how-to-join/
 alt: /cach-vao-server/
+last_modified_at: 2026-11-06T11:30:01+07:00
 ---
 
 # How to join Coco Cobblemon

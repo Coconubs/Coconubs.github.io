@@ -5,6 +5,7 @@ description: "Raid Thế Giới trên server Coco Cobblemon: mở lúc 9:00 và 
 parent: Tính năng
 nav_order: 4
 permalink: /tinh-nang/raid/
+last_modified_at: 2026-11-06T11:30:01+07:00
 ---
 
 # Raid Thế Giới

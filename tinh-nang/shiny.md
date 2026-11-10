@@ -5,6 +5,7 @@ description: "Trên server Coco Cobblemon, Shiny không xuất hiện tự nhiê
 parent: Tính năng
 nav_order: 6
 permalink: /tinh-nang/shiny/
+last_modified_at: 2026-11-06T11:30:01+07:00
 ---
 
 # Shiny

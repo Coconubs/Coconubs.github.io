@@ -5,6 +5,7 @@ description: "Kinh tế server Coco Cobblemon: CobbleDollars, Tokens, BattleTowe
 parent: Tính năng
 nav_order: 9
 permalink: /tinh-nang/kinh-te/
+last_modified_at: 2026-11-07T22:04:22+07:00
 ---
 
 # Tiền tệ, Shop và Chợ GTS

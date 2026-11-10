@@ -6,6 +6,7 @@ parent: CocoLauncher
 nav_order: 4
 permalink: /cocolauncher/sua-loi/
 alt: /en/troubleshooting/
+last_modified_at: 2026-11-06T11:30:01+07:00
 ---
 
 # Sửa lỗi CocoLauncher

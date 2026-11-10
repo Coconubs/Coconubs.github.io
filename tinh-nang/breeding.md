@@ -5,6 +5,7 @@ description: "Cách breeding (lấy trứng) Pokémon trên server Coco Cobblemo
 parent: Tính năng
 nav_order: 10
 permalink: /tinh-nang/breeding/
+last_modified_at: 2026-11-07T22:08:20+07:00
 ---
 
 # Breeding: cách lấy trứng Pokémon

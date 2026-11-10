@@ -5,6 +5,7 @@ description: "Cách Legendary xuất hiện trên server Coco Cobblemon: tỉ l�
 parent: Tính năng
 nav_order: 5
 permalink: /tinh-nang/legendary/
+last_modified_at: 2026-11-06T11:30:01+07:00
 ---
 
 # Legendary tích luỹ

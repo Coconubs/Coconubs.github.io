@@ -6,6 +6,7 @@ nav_order: 6
 has_children: true
 has_toc: false
 alt: /en/features/
+last_modified_at: 2026-11-07T22:10:29+07:00
 ---
 
 # Tính năng Coco Cobblemon

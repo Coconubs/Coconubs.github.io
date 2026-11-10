@@ -3,6 +3,7 @@ title: Cobblemon Việt hoá
 seo_title: "Cobblemon Việt hoá: cách chơi Cobblemon bằng tiếng Việt"
 description: "Cobblemon có tiếng Việt không? Cobblemon 1.7.3 có sẵn ngôn ngữ vi_vn khoảng 60% số khoá. Cách bật Tiếng Việt, gói Việt hoá cộng đồng, server Cobblemon tiếng Việt."
 nav_order: 9
+last_modified_at: 2026-11-07T21:58:09+07:00
 ---
 
 # Cobblemon Việt Hoá: cách chơi Cobblemon bằng tiếng Việt

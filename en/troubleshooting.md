@@ -6,6 +6,7 @@ parent: English
 nav_order: 6
 permalink: /en/troubleshooting/
 alt: /cocolauncher/sua-loi/
+last_modified_at: 2026-11-06T11:30:01+07:00
 ---
 
 # CocoLauncher troubleshooting

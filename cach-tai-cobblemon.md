@@ -3,6 +3,7 @@ title: Cách tải Cobblemon
 seo_title: "Cách tải Cobblemon cho Minecraft Java: chơi cùng người Việt hoặc bản gốc"
 description: "Cách tải Cobblemon cho Minecraft Java Edition: dùng CocoLauncher để vào server người Việt, hoặc tự cài Cobblemon Official Modpack bằng Modrinth App. Lỗi hay gặp khi cài."
 nav_order: 8
+last_modified_at: 2026-11-06T11:30:01+07:00
 ---
 
 # Cách tải Cobblemon cho Minecraft Java

@@ -5,6 +5,7 @@ description: "BattleTower trên server Coco Cobblemon: 555 tầng đấu 6v6 v�
 parent: Tính năng
 nav_order: 2
 permalink: /tinh-nang/battletower/
+last_modified_at: 2026-11-06T11:30:01+07:00
 ---
 
 # BattleTower

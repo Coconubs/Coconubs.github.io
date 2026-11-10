@@ -3,6 +3,7 @@ title: Nhật ký cập nhật
 seo_title: "Nhật ký cập nhật Coco Cobblemon: thay đổi mới nhất của server"
 description: "Nhật ký cập nhật server Coco Cobblemon và CocoLauncher: Chợ GTS mới, Shop và Ngân hàng trong menu, lệnh bang hội, máy chủ phụ tạo thế giới, khoá đất riêng."
 nav_order: 12
+last_modified_at: 2026-11-07T20:38:41+07:00
 ---
 
 # Nhật ký cập nhật Coco Cobblemon

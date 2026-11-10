@@ -4,6 +4,7 @@ seo_title: "Cách vào server Coco Cobblemon: IP coco.ultramc.co, 5 bước"
 description: "Cách vào server Coco Cobblemon (IP coco.ultramc.co, Minecraft Java 1.21.1, Cobblemon 1.7.3): tải CocoLauncher, nhập tên, bấm Chơi, đăng ký, mở /menu. Vì sao không vào bằng launcher khác."
 nav_order: 3
 alt: /en/how-to-join/
+last_modified_at: 2026-11-06T11:30:01+07:00
 ---
 
 # Cách vào server Coco Cobblemon

@@ -5,6 +5,7 @@ description: "Giữ đất và nhà trên server Coco Cobblemon: /claim theo chu
 parent: Tính năng
 nav_order: 12
 permalink: /tinh-nang/dat-nha/
+last_modified_at: 2026-11-07T22:13:02+07:00
 ---
 
 # Đất, nhà và dịch chuyển

@@ -4,6 +4,7 @@ seo_title: "Launcher Cobblemon nào tốt? Modrinth App, CurseForge, Prism, Coco
 description: "Launcher nào để chơi Cobblemon cho người Việt: so sánh Modrinth App, CurseForge App, Prism Launcher và CocoLauncher. Lỗi hay gặp khi tự cài, launcher cho Android."
 nav_order: 7
 alt: /en/cobblemon-launcher/
+last_modified_at: 2026-11-07T20:38:41+07:00
 ---
 
 # Launcher nào để chơi Cobblemon? Modrinth App, CurseForge, Prism Launcher, CocoLauncher

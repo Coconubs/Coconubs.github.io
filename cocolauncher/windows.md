@@ -5,6 +5,7 @@ description: "Cách cài CocoLauncher (Coco Launcher) trên Windows: cài từ M
 parent: CocoLauncher
 nav_order: 1
 permalink: /cocolauncher/windows/
+last_modified_at: 2026-11-06T11:30:01+07:00
 ---
 
 # Cài CocoLauncher trên Windows
