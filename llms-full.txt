@@ -74,6 +74,7 @@ Coco Cobblemon là server cộng đồng, không phải sản phẩm chính th�
 - [Cách tải Cobblemon cho Minecraft Java](https://coconubs.github.io/cach-tai-cobblemon/)
 - [Các phím chơi Cobblemon: phím tắt mặc định](https://coconubs.github.io/phim-tat-cobblemon/)
 - [Lệnh Cobblemon: /pokespawn, /pokegive, /pokeheal](https://coconubs.github.io/lenh-cobblemon/)
+- [Công thức chế tạo Cobblemon: Poké Ball, PC, máy hồi máu](https://coconubs.github.io/cong-thuc-cobblemon/)
 - [Cobblemon Việt hoá: chơi bằng tiếng Việt](https://coconubs.github.io/cobblemon-viet-hoa/)
 - [Cobblemon PE, Bedrock: có bản cho Minecraft PE không?](https://coconubs.github.io/cobblemon-pe/)
 - [Cobblemon trên iPhone, iPad (iOS)](https://coconubs.github.io/cobblemon-ios/)
@@ -1993,7 +1994,7 @@ Các bước cài ở trang [Cách tải Cobblemon](https://coconubs.github.io/c
 
 ## Trong Cobblemon làm được gì
 
-- **Bắt Pokémon:** cầm Poké Ball rồi bấm chuột phải để ném.
+- **Bắt Pokémon:** cầm Poké Ball rồi bấm chuột phải để ném. Poké Ball chế tạo từ Apricorn và phôi kim loại, xem [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/).
 - **Đấu theo lượt:** nhìn vào Pokémon hoang dã ở gần rồi bấm phím R, Pokémon đang chọn trong đội hình sẽ ra đấu. Trận đấu chạy theo luật của Pokémon Showdown.
 - **Đội hình và Tóm Tắt:** chọn Pokémon bằng mũi tên lên, xuống; bấm M để xem chỉ số, chiêu. Đủ các phím ở trang [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/).
 - **Tiến hoá và cưỡi:** Pokémon tiến hoá như trong game Pokémon; từ bản 1.7 có thể cưỡi một số loài.
@@ -2025,7 +2026,7 @@ Cả hai là mod Pokémon cho Minecraft Java. Cobblemon chạy trên Fabric và 
 
 Được trên Android nếu chạy Minecraft Java Edition bằng một launcher Java, không chạy trong Minecraft PE. Xem [Chơi Cobblemon trên điện thoại](https://coconubs.github.io/cobblemon-dien-thoai/).
 
-**Xem thêm:** [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/) · [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Chơi Pokémon trong Minecraft](https://coconubs.github.io/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/)
+**Xem thêm:** [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/) · [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/) · [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Chơi Pokémon trong Minecraft](https://coconubs.github.io/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/)
 
 *Cập nhật: 11/11/2026.*
 
@@ -2147,7 +2148,7 @@ Cài Cobblemon (dễ nhất là Cobblemon Official Modpack bằng Modrinth App, 
 
 Không, nếu dùng Modrinth App, Minecraft Launcher hoặc CocoLauncher. Chỉ khi tự chạy game bằng launcher khác mới cần chọn Java 21 bản 64-bit.
 
-**Xem thêm:** [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/) · [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](https://coconubs.github.io/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/) · [Hỏi đáp](https://coconubs.github.io/hoi-dap/)
+**Xem thêm:** [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/) · [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/) · [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](https://coconubs.github.io/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/) · [Hỏi đáp](https://coconubs.github.io/hoi-dap/)
 
 *Cập nhật: 11/11/2026. Số phiên bản kiểm trên Modrinth ngày 11/11/2026.*
 
@@ -2267,7 +2268,102 @@ Người chơi trên server Coco Cobblemon dùng các lệnh của server như `
 
 Vì chưa có quyền dùng lệnh: các lệnh này cần cấp quyền 2. Chơi một mình thì bật Cho phép sử dụng lệnh, hoặc Mở cho mạng LAN và bật Cho phép gian lận. Trên server thì chỉ chủ server cấp được.
 
-**Xem thêm:** [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/) · [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/) · [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/)
+**Xem thêm:** [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/) · [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/) · [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/)
+
+*Cập nhật: 11/11/2026.*
+
+---
+
+Trang: Công thức Cobblemon: Poké Ball, PC, máy hồi máu
+URL: https://coconubs.github.io/cong-thuc-cobblemon/
+
+# Công thức chế tạo Cobblemon
+
+Công thức trong Cobblemon 1.7.3, làm ở **Bàn chế tạo**: **Poké Ball** là 4 Red Apricorn xếp quanh 1 Phôi đồng (ra 4 quả); **Great Ball** là 2 Blue Apricorn, 2 Red Apricorn quanh 1 Phôi sắt; **Ultra Ball** là 2 Black Apricorn, 2 Yellow Apricorn quanh 1 Phôi vàng; **PC** cần Phôi sắt, Phôi đồng, Thủy tinh và Đá mịn; **Máy Chữa Lành** (máy hồi máu) cần Phôi đồng, Phôi sắt, 1 Max Revive và Bột Redstone.
+
+Các công thức dưới đây đọc từ thư mục `data/cobblemon/recipe` của file `Cobblemon-fabric-1.7.3+1.21.1.jar`, kiểm ngày 11/11/2026. Tên vật phẩm theo bản tiếng Việt của Minecraft và Cobblemon; vật phẩm nào Cobblemon chưa dịch thì giữ tên tiếng Anh. Server có thể đổi công thức, nên khi chơi trên server hãy xem sách công thức trong game.
+
+## Poké Ball (ra 4 quả)
+
+| Hàng | Trái | Giữa | Phải |
+|---|---|---|---|
+| Trên | | Red Apricorn | |
+| Giữa | Red Apricorn | Phôi đồng | Red Apricorn |
+| Dưới | | Red Apricorn | |
+
+## Great Ball (ra 4 quả)
+
+| Hàng | Trái | Giữa | Phải |
+|---|---|---|---|
+| Trên | | Blue Apricorn | |
+| Giữa | Red Apricorn | Phôi sắt | Red Apricorn |
+| Dưới | | Blue Apricorn | |
+
+## Ultra Ball (ra 4 quả)
+
+| Hàng | Trái | Giữa | Phải |
+|---|---|---|---|
+| Trên | | Black Apricorn | |
+| Giữa | Yellow Apricorn | Phôi vàng | Yellow Apricorn |
+| Dưới | | Black Apricorn | |
+
+## PC
+
+| Hàng | Trái | Giữa | Phải |
+|---|---|---|---|
+| Trên | Phôi sắt | Thủy tinh | Phôi sắt |
+| Giữa | Phôi sắt | Phôi đồng | Phôi sắt |
+| Dưới | Đá mịn | Phôi đồng | Đá mịn |
+
+## Máy Chữa Lành (máy hồi máu)
+
+| Hàng | Trái | Giữa | Phải |
+|---|---|---|---|
+| Trên | Phôi đồng | Phôi đồng | Phôi đồng |
+| Giữa | Phôi sắt | Max Revive | Phôi sắt |
+| Dưới | Phôi sắt | Bột Redstone | Phôi sắt |
+
+## Khối đồng cỏ (Pasture Block)
+
+Khối đồng cỏ cần 1 PC đã chế tạo ở trên.
+
+| Hàng | Trái | Giữa | Phải |
+|---|---|---|---|
+| Trên | Ván gỗ | Ván gỗ | Ván gỗ |
+| Giữa | Ván gỗ | PC | Ván gỗ |
+| Dưới | Lúa mì | Cái phễu | Lúa mì |
+
+Ván gỗ loại nào cũng được.
+
+## Pokédex
+
+Bản màu đỏ dùng Red Apricorn; các bản xanh dương, xanh lá, hồng, đen, trắng xếp y hệt nhưng dùng Apricorn cùng màu (Blue, Green, Pink, Black, White Apricorn). Ô giữa là phần màn hình, dùng 1 trong các vật phẩm: Bright Powder, Túi mực phát sáng, Bột Redstone, Bột đá phát sáng, Bột quỷ lửa.
+
+| Hàng | Trái | Giữa | Phải |
+|---|---|---|---|
+| Trên | Phôi sắt | Red Apricorn | Phôi đồng |
+| Giữa | Phôi sắt | Màn hình (xem trên) | Phôi sắt |
+| Dưới | Phôi sắt | Red Apricorn | Phôi đồng |
+
+## Hỏi nhanh
+
+### Cách chế tạo Poké Ball trong Cobblemon?
+
+Ở Bàn chế tạo, đặt 1 Phôi đồng ở ô giữa và 4 Red Apricorn ở 4 ô trên, dưới, trái, phải: ra 4 Poké Ball.
+
+### Cách chế tạo PC trong Cobblemon?
+
+Hàng trên: Phôi sắt, Thủy tinh, Phôi sắt. Hàng giữa: Phôi sắt, Phôi đồng, Phôi sắt. Hàng dưới: Đá mịn, Phôi đồng, Đá mịn.
+
+### Cách chế tạo máy hồi máu trong Cobblemon?
+
+Máy hồi máu là Máy Chữa Lành (Healing Machine). Hàng trên: 3 Phôi đồng. Hàng giữa: Phôi sắt, Max Revive, Phôi sắt. Hàng dưới: Phôi sắt, Bột Redstone, Phôi sắt.
+
+### Cách chế tạo Ultra Ball?
+
+Đặt 1 Phôi vàng ở giữa, 2 Black Apricorn ở trên và dưới, 2 Yellow Apricorn ở trái và phải: ra 4 Ultra Ball.
+
+**Xem thêm:** [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/) · [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/)
 
 *Cập nhật: 11/11/2026.*
 

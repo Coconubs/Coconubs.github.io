@@ -123,6 +123,6 @@ Cài Cobblemon (dễ nhất là Cobblemon Official Modpack bằng Modrinth App, 
 
 Không, nếu dùng Modrinth App, Minecraft Launcher hoặc CocoLauncher. Chỉ khi tự chạy game bằng launcher khác mới cần chọn Java 21 bản 64-bit.
 
-**Xem thêm:** [Cobblemon là gì](/cobblemon-la-gi/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Launcher nào để chơi Cobblemon](/launcher-cobblemon/) · [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/) · [Hỏi đáp](/hoi-dap/)
+**Xem thêm:** [Cobblemon là gì](/cobblemon-la-gi/) · [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Launcher nào để chơi Cobblemon](/launcher-cobblemon/) · [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/) · [Hỏi đáp](/hoi-dap/)
 
 *Cập nhật: 11/11/2026. Số phiên bản kiểm trên Modrinth ngày 11/11/2026.*

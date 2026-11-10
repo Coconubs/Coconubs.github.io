@@ -4,7 +4,7 @@ seo_title: "Cobblemon là gì? Mod Pokémon cho Minecraft Java"
 description: "Cobblemon là mod Pokémon mã nguồn mở cho Minecraft Java. Bản 1.7.3 có 851 loài Pokémon chơi được trong 1.025 loài có dữ liệu. Cần gì để chơi, chơi cùng người Việt."
 nav_order: 7.5
 alt: /en/what-is-cobblemon/
-last_modified_at: 2026-11-11T04:44:22+07:00
+last_modified_at: 2026-11-11T04:47:50+07:00
 ---
 
 # Cobblemon là gì?
@@ -29,7 +29,7 @@ Các bước cài ở trang [Cách tải Cobblemon](/cach-tai-cobblemon/).
 
 ## Trong Cobblemon làm được gì
 
-- **Bắt Pokémon:** cầm Poké Ball rồi bấm chuột phải để ném.
+- **Bắt Pokémon:** cầm Poké Ball rồi bấm chuột phải để ném. Poké Ball chế tạo từ Apricorn và phôi kim loại, xem [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/).
 - **Đấu theo lượt:** nhìn vào Pokémon hoang dã ở gần rồi bấm phím R, Pokémon đang chọn trong đội hình sẽ ra đấu. Trận đấu chạy theo luật của Pokémon Showdown.
 - **Đội hình và Tóm Tắt:** chọn Pokémon bằng mũi tên lên, xuống; bấm M để xem chỉ số, chiêu. Đủ các phím ở trang [Các phím chơi Cobblemon](/phim-tat-cobblemon/).
 - **Tiến hoá và cưỡi:** Pokémon tiến hoá như trong game Pokémon; từ bản 1.7 có thể cưỡi một số loài.
@@ -61,6 +61,6 @@ Cả hai là mod Pokémon cho Minecraft Java. Cobblemon chạy trên Fabric và 
 
 Được trên Android nếu chạy Minecraft Java Edition bằng một launcher Java, không chạy trong Minecraft PE. Xem [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/).
 
-**Xem thêm:** [Lệnh Cobblemon](/lenh-cobblemon/) · [Cách tải Cobblemon](/cach-tai-cobblemon/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Chơi Pokémon trong Minecraft](/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/)
+**Xem thêm:** [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/) · [Lệnh Cobblemon](/lenh-cobblemon/) · [Cách tải Cobblemon](/cach-tai-cobblemon/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Chơi Pokémon trong Minecraft](/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/)
 
 *Cập nhật: 11/11/2026.*

@@ -65,6 +65,6 @@ Người chơi trên server Coco Cobblemon dùng các lệnh của server như `
 
 Vì chưa có quyền dùng lệnh: các lệnh này cần cấp quyền 2. Chơi một mình thì bật Cho phép sử dụng lệnh, hoặc Mở cho mạng LAN và bật Cho phép gian lận. Trên server thì chỉ chủ server cấp được.
 
-**Xem thêm:** [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Cobblemon là gì](/cobblemon-la-gi/) · [Cách tải Cobblemon](/cach-tai-cobblemon/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/)
+**Xem thêm:** [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Cobblemon là gì](/cobblemon-la-gi/) · [Cách tải Cobblemon](/cach-tai-cobblemon/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/)
 
 *Cập nhật: 11/11/2026.*
