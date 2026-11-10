@@ -6,7 +6,7 @@ parent: English
 nav_order: 4
 permalink: /en/cobblemon-android/
 alt: /cobblemon-dien-thoai/
-last_modified_at: 2026-11-11T02:29:42+07:00
+last_modified_at: 2026-11-11T02:48:44+07:00
 ---
 
 # Play Cobblemon on Android and iPhone
@@ -48,6 +48,8 @@ There is an experimental **CocoLauncher iOS** build. Download it and follow the 
 - An Apple ID (a secondary one is recommended). Refresh the app in SideStore every 7 days, or it will not open until you do.
 
 The first start downloads about 1.5 GB, so use Wi-Fi. For install problems or crashes, ask on [Discord](https://discord.gg/hyspace) with a screenshot and the `latestlog.txt` file.
+
+Requirements, steps and quick answers for iPhone: see [Cobblemon on iPhone and iPad](/en/cobblemon-ios/).
 
 ## Common problems
 

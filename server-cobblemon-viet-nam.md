@@ -4,12 +4,12 @@ seo_title: "Server Cobblemon Việt Nam (Pokémon Minecraft): Coco Cobblemon, IP
 description: "Coco Cobblemon là server Cobblemon Việt Nam trên Minecraft Java 1.21.1, IP coco.ultramc.co, máy chủ Singapore ping khoảng 29 ms từ TP.HCM. Lịch sự kiện, cách chọn server."
 nav_order: 4
 alt: /en/vietnam-cobblemon-server/
-last_modified_at: 2026-11-11T02:29:42+07:00
+last_modified_at: 2026-11-11T02:48:44+07:00
 ---
 
 # Server Cobblemon Việt Nam: Coco Cobblemon
 
-Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Cobblemon là mod Pokémon cho Minecraft Java, nên server Cobblemon cũng là server Pokémon Minecraft. Trang này dành cho người đang tìm một server Cobblemon Việt Nam: thông số server, ping từ Việt Nam, số người chơi có ngày đo, lịch sự kiện theo giờ Việt Nam và những điều nên kiểm trước khi chọn server.
+Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Cobblemon là mod Pokémon cho Minecraft Java, nên server Cobblemon cũng là server Pokémon Minecraft. Địa chỉ `coco.ultramc.co`, chạy Minecraft Java 1.21.1, Fabric và Cobblemon 1.7.3, máy chủ đặt ở Singapore (ping khoảng 29 ms từ TP.HCM, đo 06/11/2026). Menu và hướng dẫn bằng tiếng Việt, có tiếng Anh. Lúc 20:28 Thứ 7, 07/11/2026 có 110 người online. Tải launcher và vào server không mất phí.
 {: .fs-5 .fw-300 }
 
 ## Thông số nhanh
@@ -48,9 +48,13 @@ Buổi tối, nhất là Thứ 7 và Chủ Nhật, là lúc nhiều người onl
 | Thứ 7, Chủ Nhật | Boss Bang là Legendary, BattleTower Points nhân 3 |
 | Thứ 7, Chủ Nhật, 20:00-22:00 | Giờ Vàng [Legendary](/tinh-nang/legendary/), tỉ lệ đang tích luỹ nhân 2 |
 
+## Server Cobblemon Việt Nam nào tốt nhất?
+
+Không có bảng xếp hạng chính thức nào cho server Cobblemon Việt Nam. Nên so phiên bản, cách cài mod, ping, ngôn ngữ, thiết bị và chi phí. Coco Cobblemon chạy Minecraft Java 1.21.1 với Cobblemon 1.7.3, cài mod qua CocoLauncher, máy chủ đặt ở Singapore và vào chơi không mất phí.
+
 ## Nên kiểm gì trước khi chọn một server Cobblemon
 
-Không có bảng xếp hạng chính thức nào cho server Cobblemon Việt Nam. Nếu đang so vài server, đây là những điểm quyết định bạn chơi có thoải mái không, kèm câu trả lời của Coco Cobblemon.
+Nếu đang so vài server, đây là những điểm quyết định bạn chơi có thoải mái không, kèm câu trả lời của Coco Cobblemon.
 
 | Điều nên kiểm | Vì sao | Coco Cobblemon |
 |---|---|---|
@@ -87,7 +91,7 @@ Danh sách đầy đủ ở trang [Tính năng](/tinh-nang/). Thay đổi mới 
 
 1. Tải CocoLauncher ở trang [CocoLauncher](/cocolauncher/).
 2. Nhập tên trong game, bấm **Chơi**. Launcher tự cài Java, Minecraft, Fabric và đúng bộ mod của server.
-3. Vào game, gõ `/menu` để mở Hướng dẫn tiếng Việt.
+3. Vào game, làm theo hướng dẫn đăng ký trên màn hình, rồi gõ `/menu` để mở Hướng dẫn tiếng Việt.
 
 Chi tiết ở [Cách vào server](/cach-vao-server/).
 

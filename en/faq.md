@@ -61,6 +61,14 @@ jsonld: |
       },
       {
         "@type": "Question",
+        "name": "What is the difference between Coco Cobblemon and CocoLauncher?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Coco Cobblemon is a Minecraft Java server running the Cobblemon mod, address coco.ultramc.co. CocoLauncher is the launcher you install to join that server, published by Coconubs; it installs Java, Minecraft, Fabric and the mod pack. CocoLauncher is only for joining Coco Cobblemon."
+        }
+      },
+      {
+        "@type": "Question",
         "name": "What is CocoLauncher?",
         "acceptedAnswer": {
           "@type": "Answer",
@@ -109,6 +117,14 @@ jsonld: |
       },
       {
         "@type": "Question",
+        "name": "Is there a Cobblemon iOS version for iPhone?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Cobblemon has no App Store app and does not run in Minecraft PE. On iPhone and iPad you can join Coco Cobblemon with CocoLauncher iOS, an experimental build that runs Minecraft Java Edition; it needs iOS 14 or later, 8 GB of RAM is recommended, and the first install needs a computer for about 30 minutes. See Cobblemon on iPhone and iPad."
+        }
+      },
+      {
+        "@type": "Question",
         "name": "Can I play on Bedrock or Pocket Edition?",
         "acceptedAnswer": {
           "@type": "Answer",
@@ -149,7 +165,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T02:29:42+07:00
+last_modified_at: 2026-11-11T02:48:44+07:00
 ---
 
 # Coco Cobblemon FAQ
@@ -181,6 +197,10 @@ It changes by the hour. At 20:28 Vietnam time on Saturday, 7 November 2026, 110 
 
 Cobblemon 1.7.3 on Minecraft Java 1.21.1 with Fabric, plus the server's own mods. The latest Cobblemon Official Modpack (Cobblemon 1.8) cannot join, so use CocoLauncher, which installs the right versions.
 
+### What is the difference between Coco Cobblemon and CocoLauncher?
+
+Coco Cobblemon is a Minecraft Java server running the Cobblemon mod, address `coco.ultramc.co`. CocoLauncher is the launcher you install to join that server, published by Coconubs; it installs Java, Minecraft, Fabric and the mod pack. CocoLauncher is only for joining Coco Cobblemon.
+
 ### What is CocoLauncher?
 
 CocoLauncher (Coco Launcher) is the launcher of the Coco Cobblemon server, published by Coconubs. It installs Java, Minecraft, Fabric and the server modpack so you can join with one button. It is not the phone home-screen app with a similar name on Google Play.
@@ -204,6 +224,10 @@ Windows 10 or 11 (64-bit), or a Mac with Apple silicon or Intel. The launcher gi
 ### Can I play Cobblemon on my phone?
 
 Yes. On Android, CocoLauncher Android is an experimental build that runs Java Edition and needs 6 GB of RAM or more (8 GB recommended). On iPhone and iPad there is an experimental CocoLauncher iOS build, installed through SideStore with a computer the first time. See [Play Cobblemon on Android and iPhone](/en/cobblemon-android/).
+
+### Is there a Cobblemon iOS version for iPhone?
+
+Cobblemon has no App Store app and does not run in Minecraft PE. On iPhone and iPad you can join Coco Cobblemon with CocoLauncher iOS, an experimental build that runs Minecraft Java Edition; it needs iOS 14 or later, 8 GB of RAM is recommended, and the first install needs a computer for about 30 minutes. See [Cobblemon on iPhone and iPad](/en/cobblemon-ios/).
 
 ### Can I play on Bedrock or Pocket Edition?
 

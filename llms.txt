@@ -5,6 +5,7 @@
 Thông tin chính (kiểm ngày 11/11/2026):
 
 - Tên server: Coco Cobblemon. Tên launcher: CocoLauncher (viết liền, đôi khi viết Coco Launcher), nhà phát hành Coconubs.
+- CocoLauncher là launcher Minecraft Java của Coco Cobblemon, không phải app giao diện điện thoại cũng tên "Coco Launcher" trên Google Play hay các trang tải APK. CocoLauncher Android chỉ tải ở GitHub Releases của Coconubs.
 - Địa chỉ server: `coco.ultramc.co`. Phiên bản: Minecraft Java Edition 1.21.1, Fabric, Cobblemon 1.7.3.
 - Máy chủ đặt ở Singapore; ping đo ngày 06/11/2026 khoảng 29 ms từ TP.HCM. Giờ sự kiện theo giờ Việt Nam (UTC+7).
 - Ngôn ngữ: tiếng Việt, có nút chọn tiếng Anh trong menu (`/ngonngu en`).
@@ -22,6 +23,7 @@ Thông tin chính (kiểm ngày 11/11/2026):
 - [CocoLauncher (Coco Launcher)](https://coconubs.github.io/cocolauncher/): tải cho Windows, macOS, Android
 - [Chơi Cobblemon trên điện thoại Android, iPhone](https://coconubs.github.io/cobblemon-dien-thoai/): CocoLauncher Android và CocoLauncher iOS, yêu cầu máy
 - [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/): tải và hướng dẫn cài trên iPhone, iPad
+- [Cobblemon trên iPhone, iPad (iOS)](https://coconubs.github.io/cobblemon-ios/): Cobblemon có bản iOS không, cần gì, các bước
 - [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/): việc nên làm ngày đầu, lệnh hay dùng
 - [Tính năng](https://coconubs.github.io/tinh-nang/): Đấu Xếp Hạng, BattleTower, bang hội, Raid, Legendary, Shiny, câu cá
 - [Hỏi đáp](https://coconubs.github.io/hoi-dap/): câu hỏi thường gặp
@@ -34,6 +36,7 @@ Thông tin chính (kiểm ngày 11/11/2026):
 - [How to join](https://coconubs.github.io/en/how-to-join/)
 - [CocoLauncher download](https://coconubs.github.io/en/cocolauncher/)
 - [Play Cobblemon on Android and iPhone](https://coconubs.github.io/en/cobblemon-android/)
+- [Cobblemon on iPhone and iPad (iOS)](https://coconubs.github.io/en/cobblemon-ios/)
 - [Features](https://coconubs.github.io/en/features/)
 - [FAQ](https://coconubs.github.io/en/faq/)
 

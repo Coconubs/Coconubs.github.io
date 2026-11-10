@@ -67,6 +67,14 @@ jsonld: |
       },
       {
         "@type": "Question",
+        "name": "Coco Cobblemon và CocoLauncher khác nhau thế nào?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Coco Cobblemon là server Minecraft Java chơi mod Cobblemon, địa chỉ coco.ultramc.co. CocoLauncher là launcher cài trên máy để vào server đó, do Coconubs phát hành; launcher tự cài Java, Minecraft, Fabric và gói mod. CocoLauncher chỉ dùng để vào Coco Cobblemon."
+        }
+      },
+      {
+        "@type": "Question",
         "name": "CocoLauncher là gì?",
         "acceptedAnswer": {
           "@type": "Answer",
@@ -127,6 +135,14 @@ jsonld: |
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "Được. Trên Android, Coco Cobblemon vào được bằng CocoLauncher Android, bản thử nghiệm chạy Java Edition, cần RAM từ 6 GB, khuyên dùng 8 GB trở lên. Trên iPhone, iPad có bản thử nghiệm CocoLauncher iOS, cài qua SideStore và lần đầu cần máy tính. Cách cài ở trang Chơi Cobblemon trên điện thoại."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Cobblemon có bản iOS cho iPhone không?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Cobblemon không có app trên App Store và không chạy trong Minecraft PE. Trên iPhone, iPad chơi được Coco Cobblemon bằng CocoLauncher iOS, bản thử nghiệm chạy Minecraft Java Edition, cần iOS 14 trở lên, khuyên máy 8 GB RAM; lần đầu cài cần máy tính khoảng 30 phút. Xem Cobblemon trên iPhone, iPad."
         }
       },
       {
@@ -203,7 +219,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T02:29:42+07:00
+last_modified_at: 2026-11-11T02:48:44+07:00
 ---
 
 # Hỏi đáp Coco Cobblemon
@@ -239,6 +255,10 @@ Số người chơi thay đổi theo giờ. Lúc 20:28 Thứ 7, 07/11/2026 có 1
 
 Cobblemon 1.7.3 trên Minecraft Java 1.21.1, Fabric, cùng bộ mod riêng của server. Cobblemon Official Modpack bản mới (đi cùng Cobblemon 1.8) không vào được server, nên hãy dùng CocoLauncher để launcher tự cài đúng bản.
 
+### Coco Cobblemon và CocoLauncher khác nhau thế nào?
+
+Coco Cobblemon là server Minecraft Java chơi mod Cobblemon, địa chỉ `coco.ultramc.co`. CocoLauncher là launcher cài trên máy để vào server đó, do Coconubs phát hành; launcher tự cài Java, Minecraft, Fabric và gói mod. CocoLauncher chỉ dùng để vào Coco Cobblemon.
+
 ### CocoLauncher là gì?
 
 CocoLauncher (Coco Launcher) là launcher của server Coco Cobblemon, do Coconubs phát hành. Launcher tự cài Java, Minecraft, Fabric và gói mod để vào server chỉ bằng một nút. Đây không phải app giao diện điện thoại cùng tên trên Google Play.
@@ -270,6 +290,10 @@ Windows 10 hoặc 11 bản 64-bit, hoặc máy Mac chip Apple hay Intel. Launche
 ### Chơi Cobblemon trên điện thoại Android, iPhone được không? Có server Việt nào vào được bằng điện thoại không?
 
 Được. Trên Android, Coco Cobblemon vào được bằng CocoLauncher Android, bản thử nghiệm chạy Java Edition, cần RAM từ 6 GB, khuyên dùng 8 GB trở lên. Trên iPhone, iPad có bản thử nghiệm CocoLauncher iOS, cài qua SideStore và lần đầu cần máy tính. Cách cài ở trang [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/).
+
+### Cobblemon có bản iOS cho iPhone không?
+
+Cobblemon không có app trên App Store và không chạy trong Minecraft PE. Trên iPhone, iPad chơi được Coco Cobblemon bằng CocoLauncher iOS, bản thử nghiệm chạy Minecraft Java Edition, cần iOS 14 trở lên, khuyên máy 8 GB RAM; lần đầu cài cần máy tính khoảng 30 phút. Xem [Cobblemon trên iPhone, iPad](/cobblemon-ios/).
 
 ### Có chơi được bằng Minecraft Bedrock hay PE không?
 

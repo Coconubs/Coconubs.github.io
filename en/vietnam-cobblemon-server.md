@@ -6,7 +6,7 @@ parent: English
 nav_order: 8
 permalink: /en/vietnam-cobblemon-server/
 alt: /server-cobblemon-viet-nam/
-last_modified_at: 2026-11-11T02:29:42+07:00
+last_modified_at: 2026-11-11T02:48:44+07:00
 ---
 
 # Cobblemon server in Vietnam: Coco Cobblemon
@@ -50,9 +50,13 @@ Evenings, especially Saturday and Sunday, are the busiest. Maintenance and event
 | Saturday and Sunday | The Guild Boss is a Legendary, Battle Tower Points x3 |
 | Saturday and Sunday, 20:00-22:00 | Legendary Golden Hours, the current Legendary chance x2 |
 
+## Is there a best Cobblemon server in Vietnam?
+
+There is no official ranking of Cobblemon servers in Vietnam. Compare the version, how mods are installed, ping, language, devices and cost. Coco Cobblemon runs Minecraft Java 1.21.1 with Cobblemon 1.7.3, installs mods through CocoLauncher, is hosted in Singapore and is free to join.
+
 ## What to check before you pick a Cobblemon server
 
-There is no official ranking of Cobblemon servers in Vietnam. If you are comparing a few, these are the points that decide whether you will enjoy playing, with Coco Cobblemon's answer for each.
+If you are comparing a few servers, these are the points that decide whether you will enjoy playing, with Coco Cobblemon's answer for each.
 
 | Check | Why it matters | Coco Cobblemon |
 |---|---|---|
@@ -73,7 +77,7 @@ Yes. Anyone with CocoLauncher can join. The server is in Singapore, so ping is l
 
 1. Download CocoLauncher from the [CocoLauncher page](/en/cocolauncher/).
 2. Enter a player name and press **Play**. The launcher installs Java, Minecraft, Fabric and the server's mod set.
-3. In game, type `/menu` for the guide and `/ngonngu en` for English.
+3. In game, follow the on-screen registration, then type `/menu` for the guide and `/ngonngu en` for English.
 
 The latest Cobblemon Official Modpack (Cobblemon 1.8) cannot join, because the server runs Cobblemon 1.7.3 with its own mods. Details in [How to join](/en/how-to-join/) and [Which launcher for Cobblemon](/en/cobblemon-launcher/).
 

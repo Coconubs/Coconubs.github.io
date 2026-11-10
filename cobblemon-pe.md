@@ -3,7 +3,7 @@ title: Cobblemon PE, Bedrock
 seo_title: "Cobblemon PE, Bedrock: có bản cho Minecraft PE không?"
 description: "Cobblemon có bản cho Minecraft PE, Bedrock không? Cobblemon chính thức chỉ có cho Java Edition. Addon Cobblemon PE khác gì, cách chơi Cobblemon trên điện thoại Android."
 nav_order: 9.5
-last_modified_at: 2026-11-11T02:29:42+07:00
+last_modified_at: 2026-11-11T02:48:44+07:00
 ---
 
 # Cobblemon PE, Bedrock: có bản cho Minecraft PE không?
@@ -35,7 +35,7 @@ Cách chơi Cobblemon thật trên điện thoại là chạy Minecraft Java Edi
 
 - **Fold Craft Launcher (FCL), PojavLauncher:** chạy Java Edition trên Android; bạn tự cài Fabric và Cobblemon. Hợp để chơi một mình hoặc vào server tự chọn.
 - **CocoLauncher Android:** bản thử nghiệm chỉ để vào server Coco Cobblemon. Launcher tự cài gói Coco Lite khoảng 125 mod, cần RAM từ 6 GB, khuyên 8 GB trở lên. Xem [Chơi Cobblemon trên điện thoại](/cobblemon-dien-thoai/).
-- **CocoLauncher iOS:** bản thử nghiệm cho iPhone, iPad, cũng chạy Java Edition và chỉ để vào server Coco Cobblemon. Cài qua SideStore, lần đầu cần máy tính khoảng 30 phút. Xem [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/).
+- **CocoLauncher iOS:** bản thử nghiệm cho iPhone, iPad, cũng chạy Java Edition và chỉ để vào server Coco Cobblemon. Cài qua SideStore, lần đầu cần máy tính khoảng 30 phút. Xem [Cobblemon trên iPhone, iPad](/cobblemon-ios/).
 
 ## Server Cobblemon cho người chơi PE
 

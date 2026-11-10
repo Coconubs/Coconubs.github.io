@@ -4,12 +4,12 @@ seo_title: "Cách vào server Coco Cobblemon: IP coco.ultramc.co, 5 bước"
 description: "Cách vào server Coco Cobblemon (IP coco.ultramc.co, Java 1.21.1, Cobblemon 1.7.3): tải CocoLauncher, nhập tên, bấm Chơi, mở /menu. Cách vào một server Cobblemon bất kỳ."
 nav_order: 3
 alt: /en/how-to-join/
-last_modified_at: 2026-11-11T02:41:07+07:00
+last_modified_at: 2026-11-11T02:48:44+07:00
 ---
 
 # Cách vào server Coco Cobblemon
 
-Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Trang này đi từ lúc tải launcher tới khi mở Menu trong game.
+Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Tóm tắt: tải CocoLauncher, nhập tên trong game, bấm **Chơi**, làm theo hướng dẫn đăng ký, rồi gõ `/menu`. Launcher tự cài Java, Minecraft 1.21.1, Fabric, Cobblemon 1.7.3 và gói mod, rồi tự kết nối tới `coco.ultramc.co`, nên không cần tự cài mod hay nhập IP.
 {: .fs-5 .fw-300 }
 
 | | |

@@ -32,7 +32,7 @@ jsonld: |
       "https://discord.gg/hyspace"
     ]
   }
-last_modified_at: 2026-11-11T02:29:42+07:00
+last_modified_at: 2026-11-11T02:48:44+07:00
 ---
 
 # Coco Cobblemon: a Cobblemon server in Vietnam
@@ -94,6 +94,7 @@ Yes. Anyone can download CocoLauncher and join. Most players and most of the cha
 - [How to join](/en/how-to-join/)
 - [Features](/en/features/)
 - [Play Cobblemon on Android and iPhone](/en/cobblemon-android/)
+- [Cobblemon on iPhone and iPad (iOS)](/en/cobblemon-ios/)
 - [Which launcher for Cobblemon](/en/cobblemon-launcher/)
 - [Troubleshooting](/en/troubleshooting/)
 - [FAQ](/en/faq/)
