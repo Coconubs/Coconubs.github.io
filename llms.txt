@@ -39,6 +39,19 @@ Key facts in English (checked 11 November 2026):
 - [Hỏi đáp](https://coconubs.github.io/hoi-dap/): câu hỏi thường gặp
 - [Nhật ký cập nhật](https://coconubs.github.io/cap-nhat/): thay đổi mới nhất của server
 
+## Hướng dẫn Cobblemon (đọc từ file mod Cobblemon 1.7.3, ghi rõ phần riêng của Coco Cobblemon)
+
+- [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/): mod Pokémon mã nguồn mở cho Minecraft Java; bản 1.7.3 có 851 loài chơi được trong 1.025 loài có dữ liệu
+- [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/)
+- [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/): phím mặc định của Cobblemon 1.7.3 (R, M, O, mũi tên lên xuống, Alt trái) và cách đổi phím
+- [Cách bắt Pokémon trong Cobblemon](https://coconubs.github.io/cach-bat-pokemon-cobblemon/): đấu trước rồi ném bóng (ngoài trận x0,5), máu, trạng thái, loại bóng, Pokémon cấp thấp; Legendary không xuất hiện tự nhiên trong Cobblemon 1.7.3 gốc, trên Coco Cobblemon có nhiều nguồn
+- [Cách tiến hoá Pokémon trong Cobblemon](https://coconubs.github.io/tien-hoa-cobblemon/): lên cấp rồi bấm Tiến Hóa, 10 loại đá, Link Cable thay trao đổi, 8 dạng Eevee, Mega trên Coco Cobblemon (Cobblemon 1.7.3)
+- [Cách tiến hoá Mega trong Cobblemon](https://coconubs.github.io/mega-cobblemon/): Cobblemon 1.7.3 gốc chưa có Mega; trên Coco Cobblemon (mod Mega Showdown 1.9.9) đeo Mega Bracelet, cầm đá Mega, bấm nút Mega; Mega Rayquaza cần Dragon Ascent; 78 loài có đá Mega
+- [Cách cưỡi Pokémon trong Cobblemon](https://coconubs.github.io/cuoi-pokemon-cobblemon/): Shift + chuột phải rồi chọn Lái; 84 loài cưỡi được (74 trên cạn, 38 bay, 17 bơi) trong Cobblemon 1.7.3; trên Coco Cobblemon cưỡi không tốn thể lực
+- [Cách học chiêu cho Pokémon trong Cobblemon](https://coconubs.github.io/hoc-chieu-cobblemon/): chiêu theo cấp tự vào khi còn chỗ, Đổi Đòn trong Tóm Tắt cho chọn mọi chiêu theo cấp tới cấp hiện tại; Cobblemon 1.7.3 gốc không có TM, Coco Cobblemon có TM (mod TMCraft) ở Shop Tokens
+- [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/): Poké Ball, Great Ball, Ultra Ball, PC, Máy Chữa Lành, Khối đồng cỏ, Pokédex (Cobblemon 1.7.3)
+- [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/): /pokespawn, /pokegive, /pokeheal, /pc, cấp quyền và thuộc tính (Cobblemon 1.7.3)
+
 ## English
 
 - [Coco Cobblemon in English](https://coconubs.github.io/en/)
@@ -69,16 +82,6 @@ Key facts in English (checked 11 November 2026):
 ## Optional
 
 - [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/): so sánh Modrinth App, CurseForge, Prism Launcher, CocoLauncher
-- [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/): mod Pokémon mã nguồn mở cho Minecraft Java; bản 1.7.3 có 851 loài chơi được trong 1.025 loài có dữ liệu
-- [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/)
-- [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/): Poké Ball, Great Ball, Ultra Ball, PC, Máy Chữa Lành, Khối đồng cỏ, Pokédex (Cobblemon 1.7.3)
-- [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/): /pokespawn, /pokegive, /pokeheal, /pc, cấp quyền và thuộc tính (Cobblemon 1.7.3)
-- [Cách bắt Pokémon trong Cobblemon](https://coconubs.github.io/cach-bat-pokemon-cobblemon/): đấu trước rồi ném bóng (ngoài trận x0,5), máu, trạng thái, loại bóng, Pokémon cấp thấp; Legendary không xuất hiện tự nhiên trong Cobblemon 1.7.3 gốc, trên Coco Cobblemon có nhiều nguồn
-- [Cách học chiêu cho Pokémon trong Cobblemon](https://coconubs.github.io/hoc-chieu-cobblemon/): chiêu theo cấp tự vào khi còn chỗ, Đổi Đòn trong Tóm Tắt cho chọn mọi chiêu theo cấp tới cấp hiện tại; Cobblemon 1.7.3 gốc không có TM, Coco Cobblemon có TM (mod TMCraft) ở Shop Tokens
-- [Cách cưỡi Pokémon trong Cobblemon](https://coconubs.github.io/cuoi-pokemon-cobblemon/): Shift + chuột phải rồi chọn Lái; 84 loài cưỡi được (74 trên cạn, 38 bay, 17 bơi) trong Cobblemon 1.7.3; trên Coco Cobblemon cưỡi không tốn thể lực
-- [Cách tiến hoá Mega trong Cobblemon](https://coconubs.github.io/mega-cobblemon/): Cobblemon 1.7.3 gốc chưa có Mega; trên Coco Cobblemon (mod Mega Showdown 1.9.9) đeo Mega Bracelet, cầm đá Mega, bấm nút Mega; Mega Rayquaza cần Dragon Ascent; 78 loài có đá Mega
-- [Cách tiến hoá Pokémon trong Cobblemon](https://coconubs.github.io/tien-hoa-cobblemon/): lên cấp rồi bấm Tiến Hóa, 10 loại đá, Link Cable thay trao đổi, 8 dạng Eevee, Mega trên Coco Cobblemon (Cobblemon 1.7.3)
-- [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/): phím mặc định của Cobblemon 1.7.3 (R, M, O, mũi tên lên xuống, Alt trái) và cách đổi phím
 - [Cobblemon Việt hoá](https://coconubs.github.io/cobblemon-viet-hoa/)
 - [Cobblemon PE, Bedrock](https://coconubs.github.io/cobblemon-pe/): Cobblemon chính thức chỉ có cho Java Edition; addon PE là của người khác
 - [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](https://coconubs.github.io/pokemon-trong-minecraft/)
