@@ -149,6 +149,22 @@ jsonld: |
       },
       {
         "@type": "Question",
+        "name": "Does Coco Cobblemon have Mega Evolution?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Coco Cobblemon uses the Mega Showdown mod: wear a Mega Bracelet, give the Pokémon its Mega Stone (sold in Shop Tokens), then press the Mega button in battle. Only 1 of your Pokémon can be in Mega form at a time. See How to Mega Evolve."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you ride Pokémon on Coco Cobblemon?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Send the Pokémon out, hold Shift, right-click it and choose Ride. Cobblemon 1.7.3 has 84 rideable species, and the Coco Cobblemon server's data packs add some more, such as Zacian, Zamazenta and Rayquaza; riding uses no stamina on the server. See How to ride Pokémon."
+        }
+      },
+      {
+        "@type": "Question",
         "name": "Is Coco Cobblemon an official Cobblemon server?",
         "acceptedAnswer": {
           "@type": "Answer",
@@ -165,7 +181,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T03:23:47+07:00
+last_modified_at: 2026-11-11T05:40:10+07:00
 ---
 
 # Coco Cobblemon FAQ
@@ -250,6 +266,14 @@ The community and most server content are Vietnamese. The launcher and the in-ga
 ### What time zone are events in?
 
 All event times are Vietnam time (UTC+7). For example World Raids open at 9:00 and 19:00, and Legendary Golden Hours run on Saturday and Sunday, 20:00-22:00.
+
+### Does Coco Cobblemon have Mega Evolution?
+
+Yes. Coco Cobblemon uses the Mega Showdown mod: wear a Mega Bracelet, give the Pokémon its Mega Stone (sold in Shop Tokens), then press the Mega button in battle. Only 1 of your Pokémon can be in Mega form at a time. See [How to Mega Evolve](/en/cobblemon-mega/).
+
+### Can you ride Pokémon on Coco Cobblemon?
+
+Yes. Send the Pokémon out, hold Shift, right-click it and choose Ride. Cobblemon 1.7.3 has 84 rideable species, and the Coco Cobblemon server's data packs add some more, such as Zacian, Zamazenta and Rayquaza; riding uses no stamina on the server. See [How to ride Pokémon](/en/cobblemon-riding/).
 
 ### Is Coco Cobblemon an official Cobblemon server?
 

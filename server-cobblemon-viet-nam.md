@@ -87,7 +87,7 @@ Danh sách đầy đủ ở trang [Tính năng](/tinh-nang/). Thay đổi mới 
 - **Breeding chậm hơn bản gốc 5 lần**, nhanh hơn khi đặt Pasture trong đất bang.
 - **Menu tiếng Việt** có Pokédex mô hình 3D, tra cứu và hướng dẫn từng tính năng.
 
-Cobblemon bản gốc là gì, có bao nhiêu Pokémon, phím, lệnh, công thức chế tạo và cách tiến hoá: xem [Cobblemon là gì](/cobblemon-la-gi/), [Các phím chơi Cobblemon](/phim-tat-cobblemon/), [Lệnh Cobblemon](/lenh-cobblemon/), [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/), [Cách tiến hoá Pokémon trong Cobblemon](/tien-hoa-cobblemon/).
+Cobblemon bản gốc là gì, có bao nhiêu Pokémon, phím, lệnh, công thức chế tạo và cách tiến hoá: xem [Cobblemon là gì](/cobblemon-la-gi/), [Các phím chơi Cobblemon](/phim-tat-cobblemon/), [Lệnh Cobblemon](/lenh-cobblemon/), [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/), [Cách tiến hoá Pokémon trong Cobblemon](/tien-hoa-cobblemon/), [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/), [Cách cưỡi Pokémon](/cuoi-pokemon-cobblemon/), [Tiến hoá Mega](/mega-cobblemon/).
 
 ## Vào server thế nào
 

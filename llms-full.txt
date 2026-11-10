@@ -171,7 +171,7 @@ Danh sách đầy đủ ở trang [Tính năng](https://coconubs.github.io/tinh-
 - **Breeding chậm hơn bản gốc 5 lần**, nhanh hơn khi đặt Pasture trong đất bang.
 - **Menu tiếng Việt** có Pokédex mô hình 3D, tra cứu và hướng dẫn từng tính năng.
 
-Cobblemon bản gốc là gì, có bao nhiêu Pokémon, phím, lệnh, công thức chế tạo và cách tiến hoá: xem [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/), [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/), [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/), [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/), [Cách tiến hoá Pokémon trong Cobblemon](https://coconubs.github.io/tien-hoa-cobblemon/).
+Cobblemon bản gốc là gì, có bao nhiêu Pokémon, phím, lệnh, công thức chế tạo và cách tiến hoá: xem [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/), [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/), [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/), [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/), [Cách tiến hoá Pokémon trong Cobblemon](https://coconubs.github.io/tien-hoa-cobblemon/), [Cách bắt Pokémon](https://coconubs.github.io/cach-bat-pokemon-cobblemon/), [Cách cưỡi Pokémon](https://coconubs.github.io/cuoi-pokemon-cobblemon/), [Tiến hoá Mega](https://coconubs.github.io/mega-cobblemon/).
 
 ## Vào server thế nào
 
@@ -1768,6 +1768,14 @@ Không. Trên Coco Cobblemon, Shiny có qua Dung hợp Shiny, Trứng Pokémon, 
 
 Theo tỉ lệ tích luỹ: khởi đầu 0,001%, cứ 20 phút server chưa có Legendary thì cộng 0,001%, tối đa 1%. Giờ Vàng Thứ 7 và Chủ Nhật 20h-22h nhân đôi tỉ lệ. Xem [Legendary](https://coconubs.github.io/tinh-nang/legendary/).
 
+### Coco Cobblemon có tiến hoá Mega không?
+
+Có. Coco Cobblemon dùng mod Mega Showdown: đeo Mega Bracelet, cho Pokémon cầm đá Mega của nó (đá Mega bán ở Shop Tokens), vào trận rồi bấm nút Mega. Mỗi lúc chỉ 1 Pokémon của bạn ở dạng Mega. Xem [Cách tiến hoá Mega](https://coconubs.github.io/mega-cobblemon/).
+
+### Trên Coco Cobblemon có cưỡi Pokémon được không?
+
+Được. Thả Pokémon ra, giữ Shift, bấm chuột phải vào nó rồi chọn Lái. Cobblemon 1.7.3 có 84 loài cưỡi được, gói dữ liệu của server Coco Cobblemon thêm một số loài như Zacian, Zamazenta, Rayquaza; trên server cưỡi không tốn thể lực. Xem [Cách cưỡi Pokémon](https://coconubs.github.io/cuoi-pokemon-cobblemon/).
+
 ## Server chính thức, Discord và hỗ trợ
 
 ### Coco Cobblemon có phải server chính thức của Cobblemon không?
@@ -2176,7 +2184,7 @@ Cài Cobblemon (dễ nhất là Cobblemon Official Modpack bằng Modrinth App, 
 
 Không, nếu dùng Modrinth App, Minecraft Launcher hoặc CocoLauncher. Chỉ khi tự chạy game bằng launcher khác mới cần chọn Java 21 bản 64-bit.
 
-**Xem thêm:** [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/) · [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/) · [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](https://coconubs.github.io/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/) · [Hỏi đáp](https://coconubs.github.io/hoi-dap/)
+**Xem thêm:** [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/) · [Cách bắt Pokémon](https://coconubs.github.io/cach-bat-pokemon-cobblemon/) · [Cách tiến hoá Pokémon](https://coconubs.github.io/tien-hoa-cobblemon/) · [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Launcher nào để chơi Cobblemon](https://coconubs.github.io/launcher-cobblemon/) · [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](https://coconubs.github.io/pokemon-trong-minecraft/) · [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/) · [Hỏi đáp](https://coconubs.github.io/hoi-dap/)
 
 *Cập nhật: 11/11/2026. Số phiên bản kiểm trên Modrinth ngày 11/11/2026.*
 
@@ -3510,6 +3518,14 @@ The community and most server content are Vietnamese. The launcher and the in-ga
 ### What time zone are events in?
 
 All event times are Vietnam time (UTC+7). For example World Raids open at 9:00 and 19:00, and Legendary Golden Hours run on Saturday and Sunday, 20:00-22:00.
+
+### Does Coco Cobblemon have Mega Evolution?
+
+Yes. Coco Cobblemon uses the Mega Showdown mod: wear a Mega Bracelet, give the Pokémon its Mega Stone (sold in Shop Tokens), then press the Mega button in battle. Only 1 of your Pokémon can be in Mega form at a time. See [How to Mega Evolve](https://coconubs.github.io/en/cobblemon-mega/).
+
+### Can you ride Pokémon on Coco Cobblemon?
+
+Yes. Send the Pokémon out, hold Shift, right-click it and choose Ride. Cobblemon 1.7.3 has 84 rideable species, and the Coco Cobblemon server's data packs add some more, such as Zacian, Zamazenta and Rayquaza; riding uses no stamina on the server. See [How to ride Pokémon](https://coconubs.github.io/en/cobblemon-riding/).
 
 ### Is Coco Cobblemon an official Cobblemon server?
 

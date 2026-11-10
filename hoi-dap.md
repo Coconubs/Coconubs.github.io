@@ -195,6 +195,22 @@ jsonld: |
       },
       {
         "@type": "Question",
+        "name": "Coco Cobblemon có tiến hoá Mega không?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Có. Coco Cobblemon dùng mod Mega Showdown: đeo Mega Bracelet, cho Pokémon cầm đá Mega của nó (đá Mega bán ở Shop Tokens), vào trận rồi bấm nút Mega. Mỗi lúc chỉ 1 Pokémon của bạn ở dạng Mega. Xem Cách tiến hoá Mega."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Trên Coco Cobblemon có cưỡi Pokémon được không?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Được. Thả Pokémon ra, giữ Shift, bấm chuột phải vào nó rồi chọn Lái. Cobblemon 1.7.3 có 84 loài cưỡi được, gói dữ liệu của server Coco Cobblemon thêm một số loài như Zacian, Zamazenta, Rayquaza; trên server cưỡi không tốn thể lực. Xem Cách cưỡi Pokémon."
+        }
+      },
+      {
+        "@type": "Question",
         "name": "Coco Cobblemon có phải server chính thức của Cobblemon không?",
         "acceptedAnswer": {
           "@type": "Answer",
@@ -219,7 +235,7 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T04:12:04+07:00
+last_modified_at: 2026-11-11T05:40:10+07:00
 ---
 
 # Hỏi đáp Coco Cobblemon
@@ -328,6 +344,14 @@ Không. Trên Coco Cobblemon, Shiny có qua Dung hợp Shiny, Trứng Pokémon, 
 ### Legendary xuất hiện thế nào?
 
 Theo tỉ lệ tích luỹ: khởi đầu 0,001%, cứ 20 phút server chưa có Legendary thì cộng 0,001%, tối đa 1%. Giờ Vàng Thứ 7 và Chủ Nhật 20h-22h nhân đôi tỉ lệ. Xem [Legendary](/tinh-nang/legendary/).
+
+### Coco Cobblemon có tiến hoá Mega không?
+
+Có. Coco Cobblemon dùng mod Mega Showdown: đeo Mega Bracelet, cho Pokémon cầm đá Mega của nó (đá Mega bán ở Shop Tokens), vào trận rồi bấm nút Mega. Mỗi lúc chỉ 1 Pokémon của bạn ở dạng Mega. Xem [Cách tiến hoá Mega](/mega-cobblemon/).
+
+### Trên Coco Cobblemon có cưỡi Pokémon được không?
+
+Được. Thả Pokémon ra, giữ Shift, bấm chuột phải vào nó rồi chọn Lái. Cobblemon 1.7.3 có 84 loài cưỡi được, gói dữ liệu của server Coco Cobblemon thêm một số loài như Zacian, Zamazenta, Rayquaza; trên server cưỡi không tốn thể lực. Xem [Cách cưỡi Pokémon](/cuoi-pokemon-cobblemon/).
 
 ## Server chính thức, Discord và hỗ trợ
 
