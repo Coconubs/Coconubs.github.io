@@ -63,3 +63,6 @@ What is different on Coco:
 - Wild Pokémon on Coco are never shiny by chance.
 
 More on evolving: [Evolution](/en/cobblemon-evolution/). Mega Evolution: [Mega](/en/cobblemon-mega/).
+
+Pokémon images: PokéAPI. Pokémon © Nintendo / Game Freak / The Pokémon Company.
+{: .fs-2 }

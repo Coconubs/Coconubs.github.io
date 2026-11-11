@@ -5,7 +5,8 @@
   if (!root) { return; }
   var EN = root.getAttribute('data-lang') === 'en';
   var BASE = '/assets/pokedex/';
-  var V = '?v=20261111';
+  var V = '?v=20261112';
+  var IMG = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/';
   var S = EN ? {
     count: function (n, all) { return n === all ? all + ' entries' : n + ' of ' + all; },
     none: 'Nothing found.', more: 'Show more', loading: 'Loading data…', fail: 'Could not load the data. Reload the page.',
@@ -73,6 +74,13 @@
   function monName(id) { var m = D.monById[id]; return m ? m.n : (D.mon.names[id] || id); }
   function itemName(id) { var it = D.it && D.it[id]; return it ? (EN ? it.e : it.v) : id.split(':').pop().replace(/_/g, ' '); }
   function abName(id) { var a = D.abById && D.abById[id]; return a ? a[1] : id; }
+  // Ảnh: sprite PokéAPI 96px, hotlink, chỉ tải khi hiện (lazy). m.im === 0 = loài không có ảnh; f.im = id ảnh của dạng.
+  function stem(m, f) { if (f && f.im) { return f.im; } return m && m.im !== 0 ? m.d : null; }
+  function img(s, size, alt, cls) {
+    if (s == null) { return '<span class="pdx-img pdx-img--none" style="width:' + size + 'px;height:' + size + 'px" aria-hidden="true"></span>'; }
+    return '<img class="pdx-img' + (cls ? ' ' + cls : '') + '" src="' + IMG + s + '.png" width="' + size + '" height="' + size + '" loading="lazy" decoding="async" alt="' + esc(alt) + '">';
+  }
+  function monImg(id, size) { var m = D.monById[id]; return img(stem(m), size, m ? m.n : id); }
   function link(tab, q, text) { return '<button type="button" class="pdx-link" data-go="' + tab + '" data-q="' + esc(q) + '">' + esc(text) + '</button>'; }
 
   // ---------- hash: #mon/gyarados, #drop/dragon scale ----------
@@ -134,7 +142,7 @@
       list = D.mon.mons.filter(function (m) { return q === String(m.d) ? true : match(m.k, q); });
       if (/^\d+$/.test(q)) { list = D.mon.mons.filter(function (m) { return String(m.d) === q; }); }
       html = '<ul class="pdx-list">' + list.slice(0, limit).map(function (m) {
-        return row('m:' + m.i, '#' + String(m.d).padStart(4, '0'), esc(m.n), m.t.map(tBadge).join(''));
+        return row('m:' + m.i, '#' + String(m.d).padStart(4, '0'), esc(m.n), m.t.map(tBadge).join(''), img(stem(m), 48, m.n));
       }).join('') + '</ul>' + moreBtn(list.length);
     } else if (cur === 'ab') {
       all = D.ab.length;
@@ -170,8 +178,8 @@
     if (list.length === 1 && q) { var r1 = $out.querySelector('.pdx-row'); if (r1) { r1.click(); } }
   }
 
-  function row(key, no, name, sub) {
-    return '<li class="pdx-item"><button type="button" class="pdx-row" aria-expanded="false" data-key="' + esc(key) + '">' + (no ? '<span class="pdx-no">' + no + '</span>' : '') +
+  function row(key, no, name, sub, pic) {
+    return '<li class="pdx-item"><button type="button" class="pdx-row" aria-expanded="false" data-key="' + esc(key) + '">' + (no ? '<span class="pdx-no">' + no + '</span>' : '') + (pic || '') +
       '<span class="pdx-nm">' + name + (sub ? '<span class="pdx-sub">' + sub + '</span>' : '') + '</span></button></li>';
   }
 
@@ -238,11 +246,11 @@
       if (f.t) { bits.push(f.t.map(tBadge).join('')); }
       if (f.s) { bits.push(f.s.join('/') + ' (' + S.total + ' ' + f.s.reduce(function (a, b) { return a + b; }, 0) + ')'); }
       if (f.a) { bits.push(abilHtml(f.a)); }
-      return '<li><b>' + esc(f.n) + '</b>' + (f.b ? ' <span class="pdx-tag">' + S.battle + '</span>' : '') + (bits.length ? ': ' + bits.join(' · ') : '') + '</li>';
+      return '<li class="pdx-fl">' + img(stem(m, f), 48, m.n + ' ' + f.n) + '<span><b>' + esc(f.n) + '</b>' + (f.b ? ' <span class="pdx-tag">' + S.battle + '</span>' : '') + (bits.length ? ': ' + bits.join(' · ') : '') + '</span></li>';
     }).join('') + '</ul>';
   }
   function monDetail(m) {
-    return (m.g ? '<p><span class="pdx-tag">' + S.gen + ' ' + esc(m.g) + '</span></p>' : '') + statsHtml(m.s) +
+    return '<div class="pdx-head">' + img(stem(m), 96, m.n, 'pdx-img--big') + (m.g ? '<p><span class="pdx-tag">' + S.gen + ' ' + esc(m.g) + '</span></p>' : '') + '</div>' + statsHtml(m.s) +
       '<h3>' + S.abil + '</h3><p>' + abilHtml(m.a) + '</p>' + evoHtml(m) + formsHtml(m) + dropsHtml(m) + spawnHtml(m);
   }
   function abDetail(a) {
@@ -257,7 +265,7 @@
       '<h3>' + S.droppedBy + ' (' + by.length + ')</h3>' + (by.length ? dropList(by) : '<p>' + S.noDrop + '</p>') + (it.b ? '<p class="pdx-note">' + S.blockedNote + '</p>' : '');
   }
   function dropList(by) {
-    return '<ul>' + by.map(function (x) { var d = x[1]; return '<li' + (d[3] ? ' class="pdx-blocked"' : '') + '>' + link('mon', monName(x[0]), monName(x[0])) + ' · ' + num(d[1]) + '%' + (d[2] ? ' · ' + S.qty + ' ' + esc(d[2]) : '') + '</li>'; }).join('') + '</ul>';
+    return '<ul>' + by.map(function (x) { var d = x[1]; return '<li class="pdx-dl' + (d[3] ? ' pdx-blocked' : '') + '">' + monImg(x[0], 40) + link('mon', monName(x[0]), monName(x[0])) + ' · ' + num(d[1]) + '%' + (d[2] ? ' · ' + S.qty + ' ' + esc(d[2]) : '') + '</li>'; }).join('') + '</ul>';
   }
 
   // ---------- Item rơi ----------
@@ -272,7 +280,7 @@
     }
     if (mons.length) {
       h += '<h3>' + S.mons + '</h3>' + mons.map(function (m) {
-        return '<div class="pdx-item" style="padding:.5rem .8rem;margin-bottom:.4rem"><b>' + esc(m.n) + '</b> <span class="pdx-note">#' + m.d + '</span>' + dropsHtml(m).replace(/<h3>[^<]*<\/h3>/, '') + '</div>';
+        return '<div class="pdx-item" style="padding:.5rem .8rem;margin-bottom:.4rem"><div class="pdx-head">' + img(stem(m), 48, m.n) + '<span><b>' + esc(m.n) + '</b> <span class="pdx-note">#' + m.d + '</span></span></div>' + dropsHtml(m).replace(/<h3>[^<]*<\/h3>/, '') + '</div>';
       }).join('');
     }
     return h || '<p>' + S.none + '</p>';
@@ -313,6 +321,13 @@
   // ---------- sự kiện ----------
   var timer;
   $q.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(function () { limit = 60; setHash(); draw(); }, 120); });
+  // ảnh lỗi -> ô trống cùng cỡ, không vỡ khung
+  root.addEventListener('error', function (e) {
+    var t = e.target;
+    if (t.tagName !== 'IMG' || !t.classList.contains('pdx-img')) { return; }
+    var s = document.createElement('span'); s.className = 'pdx-img pdx-img--none'; s.setAttribute('aria-hidden', 'true');
+    s.style.width = t.width + 'px'; s.style.height = t.height + 'px'; t.replaceWith(s);
+  }, true);
   root.addEventListener('change', function (e) { if (e.target.id === 'pdx-t1' || e.target.id === 'pdx-t2') { typeCalc(); } });
   root.addEventListener('click', function (e) {
     var t = e.target.closest('[data-tab],[data-go],[data-more],.pdx-row');

@@ -66,6 +66,14 @@
 .pdx-nat td:nth-child(3){color:#b91c1c;font-weight:600}
 .pdx .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}
 .pdx-blocked{text-decoration:line-through;opacity:.75}
+.pdx-img{flex:none;display:inline-block;vertical-align:middle;object-fit:contain}
+.pdx-img--none{background:var(--c-surface-2);border-radius:8px}
+.pdx-img--big{image-rendering:pixelated}
+.pdx-row .pdx-img{margin:-.35rem 0}
+.pdx-head{display:flex;align-items:center;gap:.75rem;margin:.25rem 0}
+.main-content .pdx-body li.pdx-fl{list-style:none;display:flex;gap:.4rem;align-items:center;margin-left:-1.1rem}
+.main-content .pdx-body li.pdx-fl::before{content:none}
+.main-content li.pdx-dl{display:flex;flex-wrap:wrap;align-items:center;gap:.3rem}
 @media (prefers-color-scheme:dark){.pdx-nat td:nth-child(2){color:#86efac}.pdx-nat td:nth-child(3){color:#fca5a5}}
 </style>
 <div class="pdx" id="pdx" data-lang="{{ include.lang | default: 'vi' }}">
@@ -81,4 +89,5 @@
 </div>
 <noscript><p>{{ t_noscript }}</p></noscript>
 </div>
-<script src="/assets/js/pokedex.js" defer></script>
+<link rel="preconnect" href="https://raw.githubusercontent.com">
+<script src="/assets/js/pokedex.js?v=20261112" defer></script>
