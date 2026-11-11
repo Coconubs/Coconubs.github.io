@@ -5,7 +5,7 @@
   if (!root) { return; }
   var EN = root.getAttribute('data-lang') === 'en';
   var BASE = '/assets/pokedex/';
-  var V = '?v=20261112f';
+  var V = '?v=20261112g';
   var IMG = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/';
   var S = EN ? {
     count: function (n, all) { return n === all ? all + ' entries' : n + ' of ' + all; },
@@ -290,10 +290,10 @@
       h += '<p>' + S.from + ':</p><ul>' + m.p.map(function (p) {
         var pm = D.monById[p], es = ((pm && pm.e) || []).filter(function (e) { return e[0] === m.i && !ASP[e[1]]; });
         if (!es.length) { return '<li class="pdx-dl">' + monImg(p, 40) + link('mon', monName(p), monName(p)) + '</li>'; }
-        return es.map(function (e) { return evoLine(e, monImg(p, 40) + link('mon', monName(p), monName(p))).replace('<li>', '<li class="pdx-dl">'); }).join('');
+        return es.map(function (e) { return evoLine(e, monImg(p, 40) + link('mon', monName(p), monName(p))).replace('<li>', '<li class="pdx-ev">'); }).join('');
       }).join('') + '</ul>';
     }
-    if (m.e) { h += '<p>' + S.to + ':</p><ul>' + m.e.map(function (e) { return evoLine(e, monImg(e[0], 40) + link('mon', monName(e[0]), monName(e[0]))).replace('<li>', '<li class="pdx-dl">'); }).join('') + '</ul>'; }
+    if (m.e) { h += '<p>' + S.to + ':</p><ul>' + m.e.map(function (e) { return evoLine(e, monImg(e[0], 40) + link('mon', monName(e[0]), monName(e[0]))).replace('<li>', '<li class="pdx-ev">'); }).join('') + '</ul>'; }
     return h ? '<h3>' + S.evo + '</h3>' + h : '';
   }
   // Cách ra một dạng: Mega/Primal = cầm đá; dạng vùng = nhánh tiến hoá có aspect tương ứng.
@@ -307,7 +307,7 @@
     var asp = Object.keys(ASP).filter(function (k) { return ASP[k] === f.n; })[0];
     if (asp) {
       var out = [];
-      (m.p || []).forEach(function (p) { var pm = D.monById[p]; ((pm && pm.e) || []).forEach(function (e) { if (e[0] === m.i && e[1] === asp) { out.push(evoLine(e, monImg(p, 40) + link('mon', monName(p), monName(p))).replace('<li>', '<li class="pdx-dl">')); } }); });
+      (m.p || []).forEach(function (p) { var pm = D.monById[p]; ((pm && pm.e) || []).forEach(function (e) { if (e[0] === m.i && e[1] === asp) { out.push(evoLine(e, monImg(p, 40) + link('mon', monName(p), monName(p))).replace('<li>', '<li class="pdx-ev">')); } }); });
       if (out.length) { return '<p>' + S.from + ':</p><ul>' + out.join('') + '</ul>'; }
     }
     if (f.n === 'Gmax') { return EN ? 'Gigantamax in battle (needs Gigantamax Factor).' : 'Gigantamax trong trận (cần Gigantamax Factor).'; }
