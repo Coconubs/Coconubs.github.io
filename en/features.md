@@ -61,6 +61,16 @@ Open with `/xephang` or the RANKED tile in the main menu.
 - **Fishing:** 100 fish species in 7 rarities, a collection book, craftable rods and a golden hour contest every evening, 19:00-22:00.
 - **Mini-games:** Tiến Lên (a Vietnamese card game), a Monopoly-style board game and chess with Elo.
 
+## In-game screens
+
+<div class="coco-gallery">
+<figure class="coco-gallery__wide"><a href="/assets/images/game/menu-coco-cobblemon-944.webp"><img src="/assets/images/game/menu-coco-cobblemon-944.webp" srcset="/assets/images/game/menu-coco-cobblemon-640.webp 640w, /assets/images/game/menu-coco-cobblemon-944.webp 944w" sizes="(min-width: 50rem) 800px, 100vw" width="944" height="436" loading="lazy" decoding="async" alt="Coco Cobblemon main menu in game, in Vietnamese: tiles for Daily Shop, Expeditions, Fishing, Guilds, Leaderboards, Titles, Fusion, Costumes and the GTS market"></a><figcaption>Main menu (Vietnamese): each tile opens a feature, such as the Daily Shop, Expeditions, Fishing, Guilds, Shiny Fusion and the GTS market.</figcaption></figure>
+<figure><a href="/assets/images/game/cau-ca-coco-cobblemon-1290.webp"><img src="/assets/images/game/cau-ca-coco-cobblemon-1290.webp" srcset="/assets/images/game/cau-ca-coco-cobblemon-800.webp 800w, /assets/images/game/cau-ca-coco-cobblemon-1290.webp 1290w" sizes="(min-width: 50rem) 400px, (min-width: 31.25rem) 50vw, 100vw" width="1290" height="725" loading="lazy" decoding="async" alt="Fishing screen in the Coco Cobblemon menu: sell fish, fish storage, fish book, rod crafting and the 19:00-22:00 golden hour"></a><figcaption>Fishing: sell fish, fish storage, the collection book, rod crafting and the 19:00-22:00 golden hour.</figcaption></figure>
+<figure><a href="/assets/images/game/huong-dan-trong-game-coco-cobblemon-1366.webp"><img src="/assets/images/game/huong-dan-trong-game-coco-cobblemon-1366.webp" srcset="/assets/images/game/huong-dan-trong-game-coco-cobblemon-800.webp 800w, /assets/images/game/huong-dan-trong-game-coco-cobblemon-1366.webp 1366w" sizes="(min-width: 50rem) 400px, (min-width: 31.25rem) 50vw, 100vw" width="1366" height="768" loading="lazy" decoding="async" alt="In-game guide in the Coco Cobblemon menu, by topic: getting started, currencies, Pokémon items, Shiny, Legendary and Raids, daily activities"></a><figcaption>The in-game guide, by topic: getting started, currencies, Pokémon items, Shiny, Legendary and Raids.</figcaption></figure>
+</div>
+
+*In-game menu screens from 28 and 30 October 2026, shown in Vietnamese (switch with `/ngonngu en`). The numbers in the top bar are the balance of the account used for the capture.*
+
 ## Quick answers
 
 ### What can you do on Coco Cobblemon?

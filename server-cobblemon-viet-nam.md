@@ -20,7 +20,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 | **Phiên bản** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
 | **Máy chủ đặt ở** | Singapore. Ping đo ngày 06/11/2026: khoảng 29 ms từ TP.HCM |
 | **Ngôn ngữ** | Tiếng Việt, có tiếng Anh trong launcher và menu (`/ngonngu en`) |
-| **Vào game** | CocoLauncher cho Windows, macOS, Android, iPhone (Android và iPhone là bản thử nghiệm) |
+| **Vào game** | CocoLauncher cho Windows, macOS, Android, iPhone |
 | **Giờ sự kiện** | Giờ Việt Nam (UTC+7) |
 | **Chi phí** | Tải launcher và vào server không mất phí. Rank và Battle Pass Premium không bắt buộc |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace), tên server Discord là Hyper Space |
@@ -62,7 +62,7 @@ Nếu đang so vài server, đây là những điểm quyết định bạn chơ
 | Cách cài mod | Tự cài dễ thiếu mod hoặc lệch bản | CocoLauncher tự cài, mod tự cập nhật theo server |
 | Ping từ Việt Nam | Ping cao làm trận đấu, bay, đào khối bị trễ | Máy chủ Singapore, khoảng 29 ms từ TP.HCM |
 | Ngôn ngữ | Menu, nhiệm vụ, hướng dẫn có đọc được không | Tiếng Việt, có tiếng Anh |
-| Thiết bị | Có server chỉ chơi được trên máy tính | Windows, macOS, Android và iPhone (thử nghiệm) |
+| Thiết bị | Có server chỉ chơi được trên máy tính | Windows, macOS, Android và iPhone |
 | Việc để làm lâu dài | Chỉ bắt Pokémon thì nhanh chán | Đấu Xếp Hạng, BattleTower, Bang Hội Chiến, Raid, Legendary tích luỹ |
 | Phần phải trả tiền | Biết trước cái gì miễn phí | Vào chơi không mất phí. Rank và Battle Pass Premium là tuỳ chọn |
 | Hỗ trợ | Lỗi launcher, mất đồ cần người xử lý | Hỏi trên Discord Hyper Space |

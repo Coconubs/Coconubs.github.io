@@ -333,31 +333,63 @@ hr {
   }
 }
 
+// Nhóm gập trong thanh bên (Hướng dẫn, Cobblemon)
+.nav-list.coco-nav-groups {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--n-line);
+}
+
+.nav-list .nav-list-item.coco-nav-group {
+  > .nav-list-expander {
+    position: static;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: auto;
+    min-height: 2.5rem;
+    padding: 0.35rem 0.75rem 0.35rem 1rem;
+    font-size: 0.8125rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-align: left;
+    text-transform: uppercase;
+    color: var(--n-muted);
+    cursor: pointer;
+
+    svg {
+      flex: none;
+      width: 1.1rem;
+      height: 1.1rem;
+      transform: rotate(0deg);
+      transition: transform 0.15s ease;
+    }
+
+    &:hover {
+      color: #fff;
+    }
+  }
+
+  &.active > .nav-list-expander {
+    color: #fff;
+
+    svg {
+      transform: rotate(90deg);
+    }
+  }
+
+  > .nav-list {
+    padding-left: 0;
+  }
+}
+
 .site-nav {
   padding-right: 0.5rem;
   padding-left: 0.5rem;
 
   @include mq(md) {
     padding-top: 1.5rem;
-  }
-}
-
-.side-bar .site-footer {
-  color: var(--n-muted);
-  line-height: 1.5;
-
-  @include mq(md) {
-    padding-left: 1.5rem;
-  }
-
-  a {
-    color: #c4b5fd;
-  }
-
-  code {
-    color: var(--gold);
-    background: rgba(255, 213, 79, 0.08);
-    border-color: rgba(255, 213, 79, 0.25);
   }
 }
 
@@ -814,21 +846,6 @@ blockquote.warning {
   }
 }
 
-.coco-hero__platforms {
-  margin: 0.9rem 0 0 !important;
-  font-size: 0.875rem;
-  color: var(--n-sub);
-
-  a {
-    color: #c4b5fd;
-    text-decoration-color: rgba(196, 181, 253, 0.5);
-
-    &:hover {
-      color: #fff;
-    }
-  }
-}
-
 // Ô địa chỉ server + nút sao chép
 .coco-ip {
   display: flex;
@@ -1129,16 +1146,10 @@ blockquote.warning {
   color: var(--c-muted);
 }
 
-// Danh sách link 2 cột trên màn rộng
-.coco-links {
-  @include mq(md) {
-    columns: 2;
-    column-gap: 2.5rem;
-
-    > li {
-      break-inside: avoid;
-    }
-  }
+// Link "xem tất cả" dưới thẻ tính năng
+.coco-more {
+  margin-top: 0 !important;
+  font-weight: 600;
 }
 
 @media (prefers-reduced-motion: reduce) {

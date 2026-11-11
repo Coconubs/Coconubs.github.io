@@ -1,0 +1,14 @@
+{%- comment -%}
+  Thanh bên: tiêu đề + menu theo ngôn ngữ của trang (không còn dòng địa chỉ server ở cuối thanh bên).
+{%- endcomment -%}
+
+<header class="side-bar">
+  <div class="site-header">
+    <a href="{% if page.lang == 'en' %}{{ '/en/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}" class="site-title lh-tight">{% include title.html %}</a>
+    <button id="menu-button" class="site-button btn-reset" aria-label="Menu" aria-expanded="false">
+      <svg viewBox="0 0 24 24" class="icon" aria-hidden="true"><use xlink:href="#svg-menu"></use></svg>
+    </button>
+  </div>
+
+  {% include_cached components/site_nav.html lang=page.lang %}
+</header>

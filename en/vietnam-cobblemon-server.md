@@ -22,7 +22,7 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 | **Version** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
 | **Hosted in** | Singapore. Measured on 6 November 2026: about 29 ms ping from Ho Chi Minh City |
 | **Language** | Vietnamese, with an English option in the launcher and the in-game menu (`/ngonngu en`) |
-| **How to join** | CocoLauncher for Windows, macOS, Android and iPhone (Android and iPhone builds are experimental) |
+| **How to join** | CocoLauncher for Windows, macOS, Android and iPhone |
 | **Event times** | Vietnam time (UTC+7) |
 | **Cost** | Downloading the launcher and joining are free. Ranks and the Premium Battle Pass are optional |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace), the Discord server is called Hyper Space |
@@ -64,7 +64,7 @@ If you are comparing a few servers, these are the points that decide whether you
 | How mods are installed | Installing by hand often misses a mod or a version | CocoLauncher installs everything and keeps mods in sync with the server |
 | Ping | High ping delays battles, flying and mining | Hosted in Singapore, about 29 ms from Ho Chi Minh City |
 | Language | Menus, quests and guides you can read | Vietnamese, with English |
-| Devices | Many servers are PC only | Windows, macOS, Android and iPhone (experimental) |
+| Devices | Many servers are PC only | Windows, macOS, Android and iPhone |
 | Long-term goals | Only catching Pokémon gets old | Ranked battles, Battle Tower, Guild War, World Raids, accumulating Legendary chance |
 | What costs money | Know what is free | Free to join. Ranks and the Premium Battle Pass are optional |
 | Support | Launcher errors or lost items need someone to help | Ask on the Hyper Space Discord |
@@ -72,6 +72,17 @@ If you are comparing a few servers, these are the points that decide whether you
 ## Can I join from outside Vietnam?
 
 Yes. Anyone with CocoLauncher can join. The server is in Singapore, so ping is lowest from Southeast Asia and higher from Europe or America. Most players and most of the chat are Vietnamese.
+
+## Which devices work
+
+| Device | Supported |
+|---|---|
+| Windows 10, 11 | Yes |
+| macOS (Apple silicon, Intel) | Yes |
+| Android | Experimental build that runs Java Edition, 6 GB of RAM or more. See [Play Cobblemon on Android](/en/cobblemon-android/) |
+| Linux | No launcher build yet |
+| iPhone, iPad | Experimental build, see [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/) (guide in Vietnamese) |
+| Minecraft Bedrock, Pocket Edition | No, Cobblemon is a Java Edition mod. See [Cobblemon on Bedrock](/en/cobblemon-bedrock/) |
 
 ## How to join
 

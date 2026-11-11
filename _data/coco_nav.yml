@@ -1,0 +1,66 @@
+# Thanh bên: mục chính luôn hiện, các nhóm gập lại (mở khi bấm hoặc khi đang ở trang trong nhóm).
+# "children" = lấy các trang con có parent bằng tên này, xếp theo nav_order.
+vi:
+  main:
+    - { title: "Trang chủ", url: "/" }
+    - { title: "Tải CocoLauncher", url: "/cocolauncher/" }
+    - { title: "Cách vào server", url: "/cach-vao-server/" }
+    - { title: "Tính năng", url: "/tinh-nang/", children: "Tính năng" }
+    - { title: "Hỏi đáp", url: "/hoi-dap/" }
+  groups:
+    - title: "Hướng dẫn"
+      items:
+        - { title: "Hướng dẫn người mới", url: "/huong-dan-nguoi-moi/" }
+        - { title: "Cài trên Windows", url: "/cocolauncher/windows/" }
+        - { title: "Cài trên macOS", url: "/cocolauncher/macos/" }
+        - { title: "Chơi trên điện thoại", url: "/cobblemon-dien-thoai/" }
+        - { title: "Sửa lỗi CocoLauncher", url: "/cocolauncher/sua-loi/" }
+        - { title: "CocoLauncher có an toàn không", url: "/cocolauncher/an-toan/" }
+        - { title: "Server Cobblemon Việt Nam", url: "/server-cobblemon-viet-nam/" }
+        - { title: "Nhật ký cập nhật", url: "/cap-nhat/" }
+    - title: "Cobblemon"
+      items:
+        - { title: "Cobblemon là gì", url: "/cobblemon-la-gi/" }
+        - { title: "Launcher Cobblemon", url: "/launcher-cobblemon/" }
+        - { title: "Cách tải Cobblemon", url: "/cach-tai-cobblemon/" }
+        - { title: "Phím chơi", url: "/phim-tat-cobblemon/" }
+        - { title: "Lệnh", url: "/lenh-cobblemon/" }
+        - { title: "Công thức chế tạo", url: "/cong-thuc-cobblemon/" }
+        - { title: "Bắt Pokémon", url: "/cach-bat-pokemon-cobblemon/" }
+        - { title: "Tiến hoá", url: "/tien-hoa-cobblemon/" }
+        - { title: "Mega", url: "/mega-cobblemon/" }
+        - { title: "Cưỡi Pokémon", url: "/cuoi-pokemon-cobblemon/" }
+        - { title: "Học chiêu", url: "/hoc-chieu-cobblemon/" }
+        - { title: "Hoá thạch", url: "/hoa-thach-cobblemon/" }
+        - { title: "Cobblemon Việt hoá", url: "/cobblemon-viet-hoa/" }
+        - { title: "Cobblemon PE, Bedrock", url: "/cobblemon-pe/" }
+        - { title: "Cobblemon trên iPhone", url: "/cobblemon-ios/" }
+        - { title: "Pokémon trong Minecraft", url: "/pokemon-trong-minecraft/" }
+en:
+  main:
+    - { title: "Home", url: "/en/" }
+    - { title: "Download CocoLauncher", url: "/en/cocolauncher/" }
+    - { title: "How to join", url: "/en/how-to-join/" }
+    - { title: "Features", url: "/en/features/" }
+    - { title: "FAQ", url: "/en/faq/" }
+  groups:
+    - title: "Guides"
+      items:
+        - { title: "Play on Android", url: "/en/cobblemon-android/" }
+        - { title: "Troubleshooting", url: "/en/troubleshooting/" }
+        - { title: "Cobblemon server in Vietnam", url: "/en/vietnam-cobblemon-server/" }
+    - title: "Cobblemon"
+      items:
+        - { title: "What is Cobblemon", url: "/en/what-is-cobblemon/" }
+        - { title: "Which launcher", url: "/en/cobblemon-launcher/" }
+        - { title: "Controls", url: "/en/cobblemon-controls/" }
+        - { title: "Commands", url: "/en/cobblemon-commands/" }
+        - { title: "Crafting recipes", url: "/en/cobblemon-recipes/" }
+        - { title: "Catching", url: "/en/cobblemon-catching/" }
+        - { title: "Evolution", url: "/en/cobblemon-evolution/" }
+        - { title: "Mega Evolution", url: "/en/cobblemon-mega/" }
+        - { title: "Riding", url: "/en/cobblemon-riding/" }
+        - { title: "Moves", url: "/en/cobblemon-moves/" }
+        - { title: "Fossils", url: "/en/cobblemon-fossils/" }
+        - { title: "Cobblemon on Bedrock", url: "/en/cobblemon-bedrock/" }
+        - { title: "Cobblemon on iPhone", url: "/en/cobblemon-ios/" }

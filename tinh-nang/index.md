@@ -64,6 +64,16 @@ Cách bắt, tiến hoá, cưỡi Pokémon và dùng Mega trên server: [Cách b
 
 Launcher, Menu và Hướng dẫn của Coco bằng tiếng Việt, kèm nút chọn tiếng Anh. Một số nội dung của Cobblemon và mod khác vẫn có thể hiện tiếng Anh. Xem thêm [Cobblemon Việt hoá](/cobblemon-viet-hoa/).
 
+## Ảnh trong game
+
+<div class="coco-gallery">
+<figure class="coco-gallery__wide"><a href="/assets/images/game/menu-coco-cobblemon-944.webp"><img src="/assets/images/game/menu-coco-cobblemon-944.webp" srcset="/assets/images/game/menu-coco-cobblemon-640.webp 640w, /assets/images/game/menu-coco-cobblemon-944.webp 944w" sizes="(min-width: 50rem) 800px, 100vw" width="944" height="436" loading="lazy" decoding="async" alt="Menu chính của Coco Cobblemon trong game: các ô Daily Shop, Viễn Chinh, Câu cá, Bang hội, Bảng xếp hạng, Danh hiệu, Dung hợp, Trang Phục, Chợ GTS"></a><figcaption>Menu chính trong game: mỗi ô mở một tính năng, ví dụ Daily Shop, Viễn Chinh, Câu cá, Bang hội, Dung hợp, Chợ GTS.</figcaption></figure>
+<figure><a href="/assets/images/game/cau-ca-coco-cobblemon-1290.webp"><img src="/assets/images/game/cau-ca-coco-cobblemon-1290.webp" srcset="/assets/images/game/cau-ca-coco-cobblemon-800.webp 800w, /assets/images/game/cau-ca-coco-cobblemon-1290.webp 1290w" sizes="(min-width: 50rem) 400px, (min-width: 31.25rem) 50vw, 100vw" width="1290" height="725" loading="lazy" decoding="async" alt="Màn Câu cá trong menu Coco Cobblemon: Thu mua cá, Kho cá, Sách cá, Chế tạo cần câu, Khung giờ vàng 19:00-22:00"></a><figcaption>Câu cá: bán cá, kho cá, sách sưu tập, chế tạo cần câu và khung giờ vàng 19:00-22:00.</figcaption></figure>
+<figure><a href="/assets/images/game/huong-dan-trong-game-coco-cobblemon-1366.webp"><img src="/assets/images/game/huong-dan-trong-game-coco-cobblemon-1366.webp" srcset="/assets/images/game/huong-dan-trong-game-coco-cobblemon-800.webp 800w, /assets/images/game/huong-dan-trong-game-coco-cobblemon-1366.webp 1366w" sizes="(min-width: 50rem) 400px, (min-width: 31.25rem) 50vw, 100vw" width="1366" height="768" loading="lazy" decoding="async" alt="Mục Hướng dẫn trong menu Coco Cobblemon: Bắt đầu, Tiền tệ và Kinh tế, Vật phẩm Pokémon, Shiny, Legendary và Raid, Hoạt động hằng ngày"></a><figcaption>Hướng dẫn trong game chia theo mục: bắt đầu, tiền tệ, vật phẩm Pokémon, Shiny, Legendary và Raid.</figcaption></figure>
+</div>
+
+*Ảnh giao diện menu trong game, ngày 28/10 và 30/10/2026. Số trên thanh trên cùng là số dư của tài khoản dùng để chụp.*
+
 ## Hỏi nhanh
 
 ### Server Coco Cobblemon có những hoạt động nào?
