@@ -1,0 +1,5 @@
+{%- if page.lang == "en" -%}
+<div class="coco-lang"><a href="{{ page.alt | default: '/' | relative_url }}" hreflang="vi" lang="vi">Tiếng Việt</a></div>
+{%- else -%}
+<div class="coco-lang"><a href="{{ page.alt | default: '/en/' | relative_url }}" hreflang="en" lang="en">English</a></div>
+{%- endif -%}
