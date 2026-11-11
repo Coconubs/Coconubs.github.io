@@ -5,7 +5,7 @@
   if (!root) { return; }
   var EN = root.getAttribute('data-lang') === 'en';
   var BASE = '/assets/pokedex/';
-  var V = '?v=20261112c';
+  var V = '?v=20261112d';
   var IMG = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/';
   var S = EN ? {
     count: function (n, all) { return n === all ? all + ' entries' : n + ' of ' + all; },
@@ -33,7 +33,7 @@
     stats: ['HP', 'Tấn công', 'Phòng thủ', 'Tấn công đặc biệt', 'Phòng thủ đặc biệt', 'Tốc độ'], total: 'Tổng',
     types: 'Hệ', abil: 'Ability', hidden: 'ẩn', evo: 'Tiến hoá', from: 'Tiến hoá từ', to: 'Tiến hoá thành',
     forms: 'Dạng khác', battle: 'chỉ trong trận', drops: 'Item rơi', spawn: 'Nơi xuất hiện', nospawn: 'Không có dữ liệu xuất hiện tự nhiên.',
-    chance: 'tỉ lệ', qty: 'số lượng', blockedDrop: 'Coco đã bỏ', blockedNote: 'Món bị gạch là món luật server Coco đã bỏ khỏi đồ rơi của Pokémon (held item, vitamin, kẹo bạc hà, nắp chai…).',
+    chance: 'tỉ lệ', qty: 'số lượng', blockedDrop: 'Đã bị tắt', blockedNote: 'Món bị gạch là món đã bị tắt khỏi đồ rơi của Pokémon trên server (held item, vitamin, kẹo bạc hà, nắp chai…).',
     leg: 'Huyền thoại: không ra theo bảng spawn thường. Server tự gieo tỉ lệ riêng, Giờ Vàng gấp đôi. Câu cá và Poké Snack không ra Huyền thoại.',
     myth: 'Thần thoại: không xuất hiện tự nhiên trên Coco và bị khoá triệu hồi bằng bàn thờ.',
     legLink: '/tinh-nang/legendary/', users: 'Pokémon có Ability này', droppedBy: 'Rơi từ', dropsOf: 'Đồ rơi của',
