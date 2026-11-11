@@ -32,21 +32,40 @@ jsonld: |
       "https://discord.gg/hyspace"
     ]
   }
-last_modified_at: 2026-11-11T04:13:08+07:00
+last_modified_at: 2026-11-11T07:17:29+07:00
 ---
 
-# Coco Cobblemon: a Cobblemon server in Vietnam
-{: .fs-9 }
-
-Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher. Server address: `coco.ultramc.co`, Minecraft Java 1.21.1, Cobblemon 1.7.3.
-{: .fs-6 .fw-300 }
-
-[Download CocoLauncher](/en/cocolauncher/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[How to join](/en/how-to-join/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Discord](https://discord.gg/hyspace){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Tiếng Việt](/){: .btn .fs-5 .mb-4 .mb-md-0 }
-
----
+{% include coco_icons.html %}
+<div class="coco-hero">
+<div class="coco-hero__text">
+<h1 id="coco-cobblemon-a-cobblemon-server-in-vietnam">Coco Cobblemon: a Cobblemon server in Vietnam</h1>
+<p class="coco-hero__lead">Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher. Server address: <code>coco.ultramc.co</code>, Minecraft Java 1.21.1, Cobblemon 1.7.3.</p>
+<div class="coco-ip"><span class="coco-ip__label">Server address</span> <code class="coco-ip__addr">coco.ultramc.co</code> <button type="button" class="coco-copy" data-copy="coco.ultramc.co" data-done="Copied"><svg aria-hidden="true"><use href="#ci-content-copy"/></svg><span aria-live="polite">Copy</span></button></div>
+<div class="coco-cta">
+<a class="coco-btn coco-btn--green" href="/en/cocolauncher/"><svg aria-hidden="true"><use href="#ci-download"/></svg>Download CocoLauncher</a>
+<a class="coco-btn coco-btn--purple" href="https://discord.gg/hyspace"><svg aria-hidden="true"><use href="#ci-forum"/></svg>Join Discord</a>
+<a class="coco-btn coco-btn--ghost" href="/en/how-to-join/"><svg aria-hidden="true"><use href="#ci-login"/></svg>How to join</a>
+<a class="coco-btn coco-btn--ghost" href="/" hreflang="vi" lang="vi">Tiếng Việt</a>
+</div>
+<p class="coco-hero__platforms">CocoLauncher for Windows, macOS, <a href="/en/cobblemon-android/">Android</a> and <a href="/en/cobblemon-ios/">iPhone</a> (Android and iPhone builds are experimental).</p>
+</div>
+<div class="coco-hero__art"><img src="/assets/images/coco-cobblemon-logo-256.webp" srcset="/assets/images/coco-cobblemon-logo-176.webp 176w, /assets/images/coco-cobblemon-logo-256.webp 256w" sizes="(min-width: 50rem) 176px, 64px" width="256" height="256" alt="Coco Cobblemon server logo" fetchpriority="high"></div>
+</div>
+<script>
+document.addEventListener('click', function (e) {
+  var b = e.target.closest ? e.target.closest('.coco-copy') : null;
+  if (!b) { return; }
+  var s = b.querySelector('span'), old = s.textContent, t = b.getAttribute('data-copy');
+  var ok = function () {
+    b.classList.add('is-done'); s.textContent = b.getAttribute('data-done');
+    setTimeout(function () { b.classList.remove('is-done'); s.textContent = old; }, 2000);
+  };
+  if (navigator.clipboard) { navigator.clipboard.writeText(t).then(ok); return; }
+  var r = document.createRange(); r.selectNodeContents(b.parentNode.querySelector('code'));
+  var sel = window.getSelection(); sel.removeAllRanges(); sel.addRange(r);
+  try { document.execCommand('copy'); ok(); } catch (x) {}
+});
+</script>
 
 | Item | Details |
 |---|---|
@@ -65,15 +84,27 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 
 Most new players start by catching Pokémon, then move on to battles and guilds.
 
-- **Ranked battles:** 4v4 Doubles with Elo and 6v6 Singles, with automatic matchmaking.
-- **Battle Tower:** 555 floors, with a boss floor every 5 floors.
-- **Guilds:** Guild Wars on weekdays, a daily Guild Boss, guild gifts and a private land lock for each member.
-- **World Raids:** a shared boss for the whole server at 9:00 and 19:00 every day.
-- **Accumulating Legendary chance:** the longer the server goes without a Legendary, the higher the chance, shown on the HUD. Legendary Golden Hours run on Saturday and Sunday, 20:00-22:00 Vietnam time.
-- **Shiny:** Shiny Fusion, Pokémon Eggs, Raids, the Daily Shop and the Battle Pass.
-- **Daily play:** Battle Pass, jobs, expeditions, the Daily Shop and fishing with 100 species.
+<ul class="coco-cards">
+<li><div class="coco-card"><span class="coco-ico coco-ico--red"><svg aria-hidden="true"><use href="#ci-swords"/></svg></span><div><h3><a href="/en/features/#ranked-battles">Ranked battles</a></h3><p>4v4 Doubles with Elo and 6v6 Singles, with automatic matchmaking.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--green"><svg aria-hidden="true"><use href="#ci-castle"/></svg></span><div><h3><a href="/en/features/#battle-tower">Battle Tower</a></h3><p>555 floors, with a boss floor every 5 floors.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--blue"><svg aria-hidden="true"><use href="#ci-groups"/></svg></span><div><h3><a href="/en/features/#guilds">Guilds</a></h3><p>Guild Wars on weekdays, a daily Guild Boss, guild gifts and a private land lock for each member.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/chia-khoa-raid.webp" width="32" height="32" alt="Raid Key" loading="lazy"></span><div><h3><a href="/en/features/#world-raids">World Raids</a></h3><p>A shared boss for the whole server at 9:00 and 19:00 every day.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/bua-huyen-thoai.webp" width="32" height="32" alt="Legendary Charm" loading="lazy"></span><div><h3><a href="/en/features/#legendary-and-shiny">Accumulating Legendary chance</a></h3><p>The longer the server goes without a Legendary, the higher the chance, shown on the HUD. Legendary Golden Hours run on Saturday and Sunday, 20:00-22:00 Vietnam time.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/tinh-the-shiny.webp" width="32" height="32" alt="Shiny Crystal" loading="lazy"></span><div><h3><a href="/en/features/#legendary-and-shiny">Shiny</a></h3><p>Shiny Fusion, Pokémon Eggs, Raids, the Daily Shop and the Battle Pass.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--orange"><svg aria-hidden="true"><use href="#ci-calendar-month"/></svg></span><div><h3><a href="/en/features/#daily-play">Daily play</a></h3><p>Battle Pass, jobs, expeditions, the Daily Shop and fishing with 100 species.</p></div></div></li>
+</ul>
 
 Details on the [Features](/en/features/) page.
+
+## In-game screens
+
+<div class="coco-gallery">
+<figure class="coco-gallery__wide"><a href="/assets/images/game/menu-coco-cobblemon-944.webp"><img src="/assets/images/game/menu-coco-cobblemon-944.webp" srcset="/assets/images/game/menu-coco-cobblemon-640.webp 640w, /assets/images/game/menu-coco-cobblemon-944.webp 944w" sizes="(min-width: 50rem) 800px, 100vw" width="944" height="436" loading="lazy" decoding="async" alt="Coco Cobblemon main menu in game, in Vietnamese: tiles for Daily Shop, Expeditions, Fishing, Guilds, Leaderboards, Titles, Fusion, Costumes and the GTS market"></a><figcaption>Main menu (Vietnamese): each tile opens a feature, such as the Daily Shop, Expeditions, Fishing, Guilds, Shiny Fusion and the GTS market.</figcaption></figure>
+<figure><a href="/assets/images/game/cau-ca-coco-cobblemon-1290.webp"><img src="/assets/images/game/cau-ca-coco-cobblemon-1290.webp" srcset="/assets/images/game/cau-ca-coco-cobblemon-800.webp 800w, /assets/images/game/cau-ca-coco-cobblemon-1290.webp 1290w" sizes="(min-width: 50rem) 400px, (min-width: 31.25rem) 50vw, 100vw" width="1290" height="725" loading="lazy" decoding="async" alt="Fishing screen in the Coco Cobblemon menu: sell fish, fish storage, fish book, rod crafting and the 19:00-22:00 golden hour"></a><figcaption>Fishing: sell fish, fish storage, the collection book, rod crafting and the 19:00-22:00 golden hour.</figcaption></figure>
+<figure><a href="/assets/images/game/huong-dan-trong-game-coco-cobblemon-1366.webp"><img src="/assets/images/game/huong-dan-trong-game-coco-cobblemon-1366.webp" srcset="/assets/images/game/huong-dan-trong-game-coco-cobblemon-800.webp 800w, /assets/images/game/huong-dan-trong-game-coco-cobblemon-1366.webp 1366w" sizes="(min-width: 50rem) 400px, (min-width: 31.25rem) 50vw, 100vw" width="1366" height="768" loading="lazy" decoding="async" alt="In-game guide in the Coco Cobblemon menu, by topic: getting started, currencies, Pokémon items, Shiny, Legendary and Raids, daily activities"></a><figcaption>The in-game guide, by topic: getting started, currencies, Pokémon items, Shiny, Legendary and Raids.</figcaption></figure>
+</div>
+
+*In-game menu screens from 28 and 30 October 2026, shown in Vietnamese (switch with `/ngonngu en`). The numbers in the top bar are the balance of the account used for the capture.*
 
 ## Which devices work
 
@@ -111,5 +142,6 @@ Yes. Anyone can download CocoLauncher and join. Most players and most of the cha
 - [Which launcher for Cobblemon](/en/cobblemon-launcher/)
 - [Troubleshooting](/en/troubleshooting/)
 - [FAQ](/en/faq/)
+{: .coco-links }
 
 *Updated: 11 November 2026.*

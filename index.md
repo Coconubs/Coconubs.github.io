@@ -30,20 +30,39 @@ jsonld: |
       "https://discord.gg/hyspace"
     ]
   }
-last_modified_at: 2026-11-11T04:12:04+07:00
+last_modified_at: 2026-11-11T07:17:29+07:00
 ---
 
-# Coco Cobblemon
-{: .fs-9 }
-
-Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Địa chỉ server: `coco.ultramc.co`, Minecraft Java 1.21.1, Cobblemon 1.7.3.
-{: .fs-6 .fw-300 }
-
-[Tải CocoLauncher](/cocolauncher/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Cách vào server](/cach-vao-server/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Discord](https://discord.gg/hyspace){: .btn .fs-5 .mb-4 .mb-md-0 }
-
----
+{% include coco_icons.html %}
+<div class="coco-hero">
+<div class="coco-hero__text">
+<h1 id="coco-cobblemon">Coco Cobblemon</h1>
+<p class="coco-hero__lead">Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Địa chỉ server: <code>coco.ultramc.co</code>, Minecraft Java 1.21.1, Cobblemon 1.7.3.</p>
+<div class="coco-ip"><span class="coco-ip__label">Địa chỉ server</span> <code class="coco-ip__addr">coco.ultramc.co</code> <button type="button" class="coco-copy" data-copy="coco.ultramc.co" data-done="Đã chép"><svg aria-hidden="true"><use href="#ci-content-copy"/></svg><span aria-live="polite">Sao chép</span></button></div>
+<div class="coco-cta">
+<a class="coco-btn coco-btn--green" href="/cocolauncher/"><svg aria-hidden="true"><use href="#ci-download"/></svg>Tải CocoLauncher</a>
+<a class="coco-btn coco-btn--purple" href="https://discord.gg/hyspace"><svg aria-hidden="true"><use href="#ci-forum"/></svg>Vào Discord</a>
+<a class="coco-btn coco-btn--ghost" href="/cach-vao-server/"><svg aria-hidden="true"><use href="#ci-login"/></svg>Cách vào server</a>
+</div>
+<p class="coco-hero__platforms">CocoLauncher cho Windows, macOS, <a href="/cobblemon-dien-thoai/">Android</a>, <a href="/cobblemon-ios/">iPhone</a> (Android và iPhone là bản thử nghiệm).</p>
+</div>
+<div class="coco-hero__art"><img src="/assets/images/coco-cobblemon-logo-256.webp" srcset="/assets/images/coco-cobblemon-logo-176.webp 176w, /assets/images/coco-cobblemon-logo-256.webp 256w" sizes="(min-width: 50rem) 176px, 64px" width="256" height="256" alt="Logo server Coco Cobblemon" fetchpriority="high"></div>
+</div>
+<script>
+document.addEventListener('click', function (e) {
+  var b = e.target.closest ? e.target.closest('.coco-copy') : null;
+  if (!b) { return; }
+  var s = b.querySelector('span'), old = s.textContent, t = b.getAttribute('data-copy');
+  var ok = function () {
+    b.classList.add('is-done'); s.textContent = b.getAttribute('data-done');
+    setTimeout(function () { b.classList.remove('is-done'); s.textContent = old; }, 2000);
+  };
+  if (navigator.clipboard) { navigator.clipboard.writeText(t).then(ok); return; }
+  var r = document.createRange(); r.selectNodeContents(b.parentNode.querySelector('code'));
+  var sel = window.getSelection(); sel.removeAllRanges(); sel.addRange(r);
+  try { document.execCommand('copy'); ok(); } catch (x) {}
+});
+</script>
 
 | Mục | Thông tin |
 |---|---|
@@ -79,18 +98,32 @@ Coco Cobblemon là server cộng đồng, không phải sản phẩm chính th�
 
 ## Server Coco Cobblemon có gì?
 
-- **[Đấu Xếp Hạng](/tinh-nang/dau-xep-hang/):** Đấu Đôi 4v4 tính Elo, Đấu Đơn 6v6, ghép trận tự động.
-- **[BattleTower](/tinh-nang/battletower/):** 555 tầng, cứ 5 tầng có 1 tầng boss.
-- **[Bang hội](/tinh-nang/bang-hoi/):** Bang Hội Chiến từ Thứ 2 tới Thứ 6, Boss Bang mỗi ngày, Quà Bang, khoá đất riêng.
-- **[Raid Thế Giới](/tinh-nang/raid/):** boss chung cả server lúc 9:00 và 19:00 mỗi ngày.
-- **[Legendary tích luỹ](/tinh-nang/legendary/):** server càng lâu chưa có Legendary thì tỉ lệ càng tăng, Giờ Vàng cuối tuần 20h-22h.
-- **[Shiny](/tinh-nang/shiny/):** Dung hợp Shiny, Trứng Pokémon, Raid, Daily Shop, Battle Pass.
-- **[Việc hằng ngày](/tinh-nang/hang-ngay/):** Battle Pass, Nghề nghiệp, Ải Viễn Chinh, Daily Shop, điểm danh.
-- **[Câu cá](/tinh-nang/cau-ca/):** 100 loài cá, sách sưu tập, khung giờ vàng mỗi tối.
-- **[Gym và NPC Tiền Thưởng](/tinh-nang/gym-npc/):** Gym có mốc cấp, Tứ Thiên Vương, Champion, NPC Tiền Thưởng cấp 100 mỗi ngày.
-- **[Tiền tệ, Shop, Chợ GTS](/tinh-nang/kinh-te/):** CobbleDollars, Tokens, Held Item mua bằng Tokens, mua bán Pokémon qua `/gts`.
-- **[Breeding](/tinh-nang/breeding/):** lấy trứng bằng Pasture, nhanh hơn trong đất bang.
-- **[Đất và nhà](/tinh-nang/dat-nha/):** `/claim` giữ đất, khoá đất riêng, `/sethome`, `/rtp`.
+<ul class="coco-cards">
+<li><div class="coco-card"><span class="coco-ico coco-ico--red"><svg aria-hidden="true"><use href="#ci-swords"/></svg></span><div><h3><a href="/tinh-nang/dau-xep-hang/">Đấu Xếp Hạng</a></h3><p>Đấu Đôi 4v4 tính Elo, Đấu Đơn 6v6, ghép trận tự động.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--green"><svg aria-hidden="true"><use href="#ci-castle"/></svg></span><div><h3><a href="/tinh-nang/battletower/">BattleTower</a></h3><p>555 tầng, cứ 5 tầng có 1 tầng boss.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--blue"><svg aria-hidden="true"><use href="#ci-groups"/></svg></span><div><h3><a href="/tinh-nang/bang-hoi/">Bang hội</a></h3><p>Bang Hội Chiến từ Thứ 2 tới Thứ 6, Boss Bang mỗi ngày, Quà Bang, khoá đất riêng.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/chia-khoa-raid.webp" width="32" height="32" alt="Chìa Khoá Raid" loading="lazy"></span><div><h3><a href="/tinh-nang/raid/">Raid Thế Giới</a></h3><p>Boss chung cả server lúc 9:00 và 19:00 mỗi ngày.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/bua-huyen-thoai.webp" width="32" height="32" alt="Bùa Huyền Thoại" loading="lazy"></span><div><h3><a href="/tinh-nang/legendary/">Legendary tích luỹ</a></h3><p>Server càng lâu chưa có Legendary thì tỉ lệ càng tăng, Giờ Vàng cuối tuần 20h-22h.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/tinh-the-shiny.webp" width="32" height="32" alt="Tinh Thể Shiny" loading="lazy"></span><div><h3><a href="/tinh-nang/shiny/">Shiny</a></h3><p>Dung hợp Shiny, Trứng Pokémon, Raid, Daily Shop, Battle Pass.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--orange"><svg aria-hidden="true"><use href="#ci-calendar-month"/></svg></span><div><h3><a href="/tinh-nang/hang-ngay/">Việc hằng ngày</a></h3><p>Battle Pass, Nghề nghiệp, Ải Viễn Chinh, Daily Shop, điểm danh.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--teal"><svg aria-hidden="true"><use href="#ci-phishing"/></svg></span><div><h3><a href="/tinh-nang/cau-ca/">Câu cá</a></h3><p>100 loài cá, sách sưu tập, khung giờ vàng mỗi tối.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--purple"><svg aria-hidden="true"><use href="#ci-stadium"/></svg></span><div><h3><a href="/tinh-nang/gym-npc/">Gym và NPC Tiền Thưởng</a></h3><p>Gym có mốc cấp, Tứ Thiên Vương, Champion, NPC Tiền Thưởng cấp 100 mỗi ngày.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--gold"><svg aria-hidden="true"><use href="#ci-paid"/></svg></span><div><h3><a href="/tinh-nang/kinh-te/">Tiền tệ, Shop, Chợ GTS</a></h3><p>CobbleDollars, Tokens, Held Item mua bằng Tokens, mua bán Pokémon qua <code>/gts</code>.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/trung-pokemon.webp" width="32" height="32" alt="Trứng Pokémon" loading="lazy"></span><div><h3><a href="/tinh-nang/breeding/">Breeding</a></h3><p>Lấy trứng bằng Pasture, nhanh hơn trong đất bang.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--pink"><svg aria-hidden="true"><use href="#ci-cottage"/></svg></span><div><h3><a href="/tinh-nang/dat-nha/">Đất và nhà</a></h3><p><code>/claim</code> giữ đất, khoá đất riêng, <code>/sethome</code>, <code>/rtp</code>.</p></div></div></li>
+</ul>
+
+## Ảnh trong game
+
+Menu, hướng dẫn và thông báo trong game đều bằng tiếng Việt, có tiếng Anh (`/ngonngu en`).
+
+<div class="coco-gallery">
+<figure class="coco-gallery__wide"><a href="/assets/images/game/menu-coco-cobblemon-944.webp"><img src="/assets/images/game/menu-coco-cobblemon-944.webp" srcset="/assets/images/game/menu-coco-cobblemon-640.webp 640w, /assets/images/game/menu-coco-cobblemon-944.webp 944w" sizes="(min-width: 50rem) 800px, 100vw" width="944" height="436" loading="lazy" decoding="async" alt="Menu chính của Coco Cobblemon trong game: các ô Daily Shop, Viễn Chinh, Câu cá, Bang hội, Bảng xếp hạng, Danh hiệu, Dung hợp, Trang Phục, Chợ GTS"></a><figcaption>Menu chính trong game: mỗi ô mở một tính năng, ví dụ Daily Shop, Viễn Chinh, Câu cá, Bang hội, Dung hợp, Chợ GTS.</figcaption></figure>
+<figure><a href="/assets/images/game/cau-ca-coco-cobblemon-1290.webp"><img src="/assets/images/game/cau-ca-coco-cobblemon-1290.webp" srcset="/assets/images/game/cau-ca-coco-cobblemon-800.webp 800w, /assets/images/game/cau-ca-coco-cobblemon-1290.webp 1290w" sizes="(min-width: 50rem) 400px, (min-width: 31.25rem) 50vw, 100vw" width="1290" height="725" loading="lazy" decoding="async" alt="Màn Câu cá trong menu Coco Cobblemon: Thu mua cá, Kho cá, Sách cá, Chế tạo cần câu, Khung giờ vàng 19:00-22:00"></a><figcaption>Câu cá: bán cá, kho cá, sách sưu tập, chế tạo cần câu và khung giờ vàng 19:00-22:00.</figcaption></figure>
+<figure><a href="/assets/images/game/huong-dan-trong-game-coco-cobblemon-1366.webp"><img src="/assets/images/game/huong-dan-trong-game-coco-cobblemon-1366.webp" srcset="/assets/images/game/huong-dan-trong-game-coco-cobblemon-800.webp 800w, /assets/images/game/huong-dan-trong-game-coco-cobblemon-1366.webp 1366w" sizes="(min-width: 50rem) 400px, (min-width: 31.25rem) 50vw, 100vw" width="1366" height="768" loading="lazy" decoding="async" alt="Mục Hướng dẫn trong menu Coco Cobblemon: Bắt đầu, Tiền tệ và Kinh tế, Vật phẩm Pokémon, Shiny, Legendary và Raid, Hoạt động hằng ngày"></a><figcaption>Hướng dẫn trong game chia theo mục: bắt đầu, tiền tệ, vật phẩm Pokémon, Shiny, Legendary và Raid.</figcaption></figure>
+</div>
+
+*Ảnh giao diện menu trong game, ngày 28/10 và 30/10/2026. Số trên thanh trên cùng là số dư của tài khoản dùng để chụp.*
 
 ## Tìm hiểu thêm về Cobblemon
 
@@ -111,5 +144,6 @@ Coco Cobblemon là server cộng đồng, không phải sản phẩm chính th�
 - [Cobblemon trên iPhone, iPad (iOS)](/cobblemon-ios/)
 - [Chơi Pokémon trong Minecraft: Cobblemon và Pixelmon](/pokemon-trong-minecraft/)
 - [Nhật ký cập nhật](/cap-nhat/): màn Đăng nhập mới, nút RTP trong menu (11/11/2026)
+{: .coco-links }
 
 *Cập nhật: 11/11/2026.*

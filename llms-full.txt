@@ -13,11 +13,11 @@ URL: https://coconubs.github.io/
 
 Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Địa chỉ server: `coco.ultramc.co`, Minecraft Java 1.21.1, Cobblemon 1.7.3.
 
-[Tải CocoLauncher](https://coconubs.github.io/cocolauncher/)
-[Cách vào server](https://coconubs.github.io/cach-vao-server/)
-[Discord](https://discord.gg/hyspace)
+- [Tải CocoLauncher](https://coconubs.github.io/cocolauncher/)
+- [Vào Discord](https://discord.gg/hyspace)
+- [Cách vào server](https://coconubs.github.io/cach-vao-server/)
 
----
+CocoLauncher cho Windows, macOS, [Android](https://coconubs.github.io/cobblemon-dien-thoai/), [iPhone](https://coconubs.github.io/cobblemon-ios/) (Android và iPhone là bản thử nghiệm).
 
 | Mục | Thông tin |
 |---|---|
@@ -56,15 +56,25 @@ Coco Cobblemon là server cộng đồng, không phải sản phẩm chính th�
 - **[Đấu Xếp Hạng](https://coconubs.github.io/tinh-nang/dau-xep-hang/):** Đấu Đôi 4v4 tính Elo, Đấu Đơn 6v6, ghép trận tự động.
 - **[BattleTower](https://coconubs.github.io/tinh-nang/battletower/):** 555 tầng, cứ 5 tầng có 1 tầng boss.
 - **[Bang hội](https://coconubs.github.io/tinh-nang/bang-hoi/):** Bang Hội Chiến từ Thứ 2 tới Thứ 6, Boss Bang mỗi ngày, Quà Bang, khoá đất riêng.
-- **[Raid Thế Giới](https://coconubs.github.io/tinh-nang/raid/):** boss chung cả server lúc 9:00 và 19:00 mỗi ngày.
-- **[Legendary tích luỹ](https://coconubs.github.io/tinh-nang/legendary/):** server càng lâu chưa có Legendary thì tỉ lệ càng tăng, Giờ Vàng cuối tuần 20h-22h.
+- **[Raid Thế Giới](https://coconubs.github.io/tinh-nang/raid/):** Boss chung cả server lúc 9:00 và 19:00 mỗi ngày.
+- **[Legendary tích luỹ](https://coconubs.github.io/tinh-nang/legendary/):** Server càng lâu chưa có Legendary thì tỉ lệ càng tăng, Giờ Vàng cuối tuần 20h-22h.
 - **[Shiny](https://coconubs.github.io/tinh-nang/shiny/):** Dung hợp Shiny, Trứng Pokémon, Raid, Daily Shop, Battle Pass.
 - **[Việc hằng ngày](https://coconubs.github.io/tinh-nang/hang-ngay/):** Battle Pass, Nghề nghiệp, Ải Viễn Chinh, Daily Shop, điểm danh.
 - **[Câu cá](https://coconubs.github.io/tinh-nang/cau-ca/):** 100 loài cá, sách sưu tập, khung giờ vàng mỗi tối.
 - **[Gym và NPC Tiền Thưởng](https://coconubs.github.io/tinh-nang/gym-npc/):** Gym có mốc cấp, Tứ Thiên Vương, Champion, NPC Tiền Thưởng cấp 100 mỗi ngày.
 - **[Tiền tệ, Shop, Chợ GTS](https://coconubs.github.io/tinh-nang/kinh-te/):** CobbleDollars, Tokens, Held Item mua bằng Tokens, mua bán Pokémon qua `/gts`.
-- **[Breeding](https://coconubs.github.io/tinh-nang/breeding/):** lấy trứng bằng Pasture, nhanh hơn trong đất bang.
+- **[Breeding](https://coconubs.github.io/tinh-nang/breeding/):** Lấy trứng bằng Pasture, nhanh hơn trong đất bang.
 - **[Đất và nhà](https://coconubs.github.io/tinh-nang/dat-nha/):** `/claim` giữ đất, khoá đất riêng, `/sethome`, `/rtp`.
+
+## Ảnh trong game
+
+Menu, hướng dẫn và thông báo trong game đều bằng tiếng Việt, có tiếng Anh (`/ngonngu en`).
+
+- Ảnh / Image: Menu chính trong game: mỗi ô mở một tính năng, ví dụ Daily Shop, Viễn Chinh, Câu cá, Bang hội, Dung hợp, Chợ GTS. (https://coconubs.github.io/assets/images/game/menu-coco-cobblemon-944.webp)
+- Ảnh / Image: Câu cá: bán cá, kho cá, sách sưu tập, chế tạo cần câu và khung giờ vàng 19:00-22:00. (https://coconubs.github.io/assets/images/game/cau-ca-coco-cobblemon-1290.webp)
+- Ảnh / Image: Hướng dẫn trong game chia theo mục: bắt đầu, tiền tệ, vật phẩm Pokémon, Shiny, Legendary và Raid. (https://coconubs.github.io/assets/images/game/huong-dan-trong-game-coco-cobblemon-1366.webp)
+
+*Ảnh giao diện menu trong game, ngày 28/10 và 30/10/2026. Số trên thanh trên cùng là số dư của tài khoản dùng để chụp.*
 
 ## Tìm hiểu thêm về Cobblemon
 
@@ -3124,12 +3134,12 @@ URL: https://coconubs.github.io/en/
 
 Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher. Server address: `coco.ultramc.co`, Minecraft Java 1.21.1, Cobblemon 1.7.3.
 
-[Download CocoLauncher](https://coconubs.github.io/en/cocolauncher/)
-[How to join](https://coconubs.github.io/en/how-to-join/)
-[Discord](https://discord.gg/hyspace)
-[Tiếng Việt](https://coconubs.github.io/)
+- [Download CocoLauncher](https://coconubs.github.io/en/cocolauncher/)
+- [Join Discord](https://discord.gg/hyspace)
+- [How to join](https://coconubs.github.io/en/how-to-join/)
+- [Tiếng Việt](https://coconubs.github.io/)
 
----
+CocoLauncher for Windows, macOS, [Android](https://coconubs.github.io/en/cobblemon-android/) and [iPhone](https://coconubs.github.io/en/cobblemon-ios/) (Android and iPhone builds are experimental).
 
 | Item | Details |
 |---|---|
@@ -3148,15 +3158,23 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 
 Most new players start by catching Pokémon, then move on to battles and guilds.
 
-- **Ranked battles:** 4v4 Doubles with Elo and 6v6 Singles, with automatic matchmaking.
-- **Battle Tower:** 555 floors, with a boss floor every 5 floors.
-- **Guilds:** Guild Wars on weekdays, a daily Guild Boss, guild gifts and a private land lock for each member.
-- **World Raids:** a shared boss for the whole server at 9:00 and 19:00 every day.
-- **Accumulating Legendary chance:** the longer the server goes without a Legendary, the higher the chance, shown on the HUD. Legendary Golden Hours run on Saturday and Sunday, 20:00-22:00 Vietnam time.
-- **Shiny:** Shiny Fusion, Pokémon Eggs, Raids, the Daily Shop and the Battle Pass.
-- **Daily play:** Battle Pass, jobs, expeditions, the Daily Shop and fishing with 100 species.
+- **[Ranked battles](https://coconubs.github.io/en/features/#ranked-battles):** 4v4 Doubles with Elo and 6v6 Singles, with automatic matchmaking.
+- **[Battle Tower](https://coconubs.github.io/en/features/#battle-tower):** 555 floors, with a boss floor every 5 floors.
+- **[Guilds](https://coconubs.github.io/en/features/#guilds):** Guild Wars on weekdays, a daily Guild Boss, guild gifts and a private land lock for each member.
+- **[World Raids](https://coconubs.github.io/en/features/#world-raids):** A shared boss for the whole server at 9:00 and 19:00 every day.
+- **[Accumulating Legendary chance](https://coconubs.github.io/en/features/#legendary-and-shiny):** The longer the server goes without a Legendary, the higher the chance, shown on the HUD. Legendary Golden Hours run on Saturday and Sunday, 20:00-22:00 Vietnam time.
+- **[Shiny](https://coconubs.github.io/en/features/#legendary-and-shiny):** Shiny Fusion, Pokémon Eggs, Raids, the Daily Shop and the Battle Pass.
+- **[Daily play](https://coconubs.github.io/en/features/#daily-play):** Battle Pass, jobs, expeditions, the Daily Shop and fishing with 100 species.
 
 Details on the [Features](https://coconubs.github.io/en/features/) page.
+
+## In-game screens
+
+- Ảnh / Image: Main menu (Vietnamese): each tile opens a feature, such as the Daily Shop, Expeditions, Fishing, Guilds, Shiny Fusion and the GTS market. (https://coconubs.github.io/assets/images/game/menu-coco-cobblemon-944.webp)
+- Ảnh / Image: Fishing: sell fish, fish storage, the collection book, rod crafting and the 19:00-22:00 golden hour. (https://coconubs.github.io/assets/images/game/cau-ca-coco-cobblemon-1290.webp)
+- Ảnh / Image: The in-game guide, by topic: getting started, currencies, Pokémon items, Shiny, Legendary and Raids. (https://coconubs.github.io/assets/images/game/huong-dan-trong-game-coco-cobblemon-1366.webp)
+
+*In-game menu screens from 28 and 30 October 2026, shown in Vietnamese (switch with `/ngonngu en`). The numbers in the top bar are the balance of the account used for the capture.*
 
 ## Which devices work
 

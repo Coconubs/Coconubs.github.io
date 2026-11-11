@@ -759,6 +759,21 @@ blockquote.warning {
   }
 }
 
+.coco-hero__platforms {
+  margin: 0.9rem 0 0 !important;
+  font-size: 0.875rem;
+  color: var(--n-sub);
+
+  a {
+    color: #c4b5fd;
+    text-decoration-color: rgba(196, 181, 253, 0.5);
+
+    &:hover {
+      color: #fff;
+    }
+  }
+}
+
 // Ô địa chỉ server + nút sao chép
 .coco-ip {
   display: flex;
