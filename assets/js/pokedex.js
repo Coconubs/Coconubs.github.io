@@ -5,7 +5,7 @@
   if (!root) { return; }
   var EN = root.getAttribute('data-lang') === 'en';
   var BASE = '/assets/pokedex/';
-  var V = '?v=20261112e';
+  var V = '?v=20261112f';
   var IMG = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/';
   var S = EN ? {
     count: function (n, all) { return n === all ? all + ' entries' : n + ' of ' + all; },
@@ -26,7 +26,7 @@
     bucket: { common: 'Common', uncommon: 'Uncommon', rare: 'Rare', 'ultra-rare': 'Ultra Rare' },
     pos: { grounded: 'on land', submerged: 'underwater', surface: 'on water', seafloor: 'sea floor', fishing: 'fishing', lavafloor: 'lava' },
     ex: { rain: 'rain', thunder: 'thunderstorm', moon: 'moon phase', struct: 'near ', lure: 'lure ', t: { day: 'day', night: 'night', morning: 'morning', dusk: 'dusk', dawn: 'dawn', noon: 'noon', midnight: 'midnight', twilight: 'twilight' } },
-    form: 'form', formOf: 'A form of'
+    form: 'form', formOf: 'A form of', how: 'How to get this form'
   } : {
     count: function (n, all) { return n === all ? all + ' mục' : n + ' / ' + all + ' mục'; },
     none: 'Không thấy kết quả.', miss: function (q) { return 'Không thấy “' + q + '”. Đây là toàn bộ danh sách:'; }, more: 'Xem thêm', loading: 'Đang tải dữ liệu…', fail: 'Không tải được dữ liệu. Tải lại trang thử.',
@@ -46,7 +46,7 @@
     bucket: { common: 'Common', uncommon: 'Uncommon', rare: 'Rare', 'ultra-rare': 'Ultra Rare' },
     pos: { grounded: 'trên cạn', submerged: 'dưới nước', surface: 'mặt nước', seafloor: 'đáy biển', fishing: 'câu cá', lavafloor: 'dung nham' },
     ex: { rain: 'trời mưa', thunder: 'có sấm', moon: 'theo pha trăng', struct: 'gần ', lure: 'mồi cấp ', t: { day: 'ban ngày', night: 'ban đêm', morning: 'buổi sáng', dusk: 'chạng vạng', dawn: 'bình minh', noon: 'buổi trưa', midnight: 'nửa đêm', twilight: 'chạng vạng' } },
-    form: 'dạng', formOf: 'Dạng khác của'
+    form: 'dạng', formOf: 'Dạng khác của', how: 'Cách có dạng này'
   };
   var BIOME_VI = { overworld: 'mọi biome thường', jungle: 'rừng nhiệt đới', ocean: 'biển', swamp: 'đầm lầy', forest: 'rừng', freshwater: 'sông hồ', coast: 'bờ biển', hills: 'đồi', tropical_island: 'đảo nhiệt đới', arid: 'vùng khô', mountain: 'núi', taiga: 'rừng taiga', magical: 'vùng huyền bí', temperate: 'ôn đới', badlands: 'badlands', lush: 'vùng tươi tốt', savanna: 'xavan', frozen_ocean: 'biển băng', floral: 'vùng hoa', plains: 'đồng bằng', spooky: 'vùng u ám', grassland: 'đồng cỏ', warm_ocean: 'biển ấm', mushroom: 'đảo nấm', sky: 'trên cao', end: 'The End', beach: 'bãi biển', snowy_forest: 'rừng tuyết', freezing: 'vùng băng giá', tundra: 'lãnh nguyên', desert: 'sa mạc', cold_ocean: 'biển lạnh', bamboo: 'rừng tre', volcanic: 'núi lửa', dripstone: 'hang thạch nhũ', river: 'sông', lukewarm_ocean: 'biển ấm vừa', deep_dark: 'Deep Dark', deep_ocean: 'biển sâu', island: 'đảo', glacial: 'sông băng', thermal: 'suối nóng', nether: 'Nether', snowy: 'vùng tuyết', peak: 'đỉnh núi', cherry_blossom: 'rừng anh đào', cave: 'hang', cold: 'vùng lạnh', highlands: 'cao nguyên', sandy: 'vùng cát' };
   var TCOL = ['#6b6b4f', '#b8461a', '#2462c4', '#2e7d32', '#806500', '#1d7584', '#a12a1f', '#7b3591', '#7f561c', '#4f5fc4', '#b0305a', '#5a6a10', '#73631f', '#5a4385', '#4a32c0', '#4a3a30', '#4d6573', '#a3427a'];
@@ -224,7 +224,7 @@
   // ---------- chi tiết ----------
   function detail(key) {
     var t = key.slice(0, 1), id = key.slice(2);
-    if (t === 'f') { var ix = id.lastIndexOf(':'); return Promise.all([load('ab')]).then(function () { prep(); return formDetail(D.monById[id.slice(0, ix)], +id.slice(ix + 1)); }); }
+    if (t === 'f') { var ix = id.lastIndexOf(':'); return Promise.all([load('ab'), load('it')]).then(function () { prep(); return formDetail(D.monById[id.slice(0, ix)], +id.slice(ix + 1)); }); }
     if (t === 'm') { return Promise.all([load('it'), load('ab'), load('sp')]).then(function () { prep(); return monDetail(D.monById[id]); }); }
     if (t === 'a') { return Promise.resolve(abDetail(D.abById[id])); }
     if (t === 'i') { return Promise.resolve(itDetail(id)); }
@@ -272,11 +272,46 @@
       return '<li>' + esc(parts.join(' · ')) + '</li>';
     }).join('') + '</ul>';
   }
+  // Nhãn dạng của nhánh tiến hoá: "alolan" -> "dạng Alola", "punk_form=amped" -> "Amped".
+  var ASP = { alolan: 'Alola', galarian: 'Galar', hisuian: 'Hisui', paldean: 'Paldea' };
+  function aspName(a) {
+    if (!a) { return ''; }
+    if (ASP[a]) { return (EN ? 'Form ' : 'dạng ') + ASP[a]; }
+    var v = a.split('=').pop().replace(/_/g, ' ');
+    return v.charAt(0).toUpperCase() + v.slice(1);
+  }
+  function evoLine(e, name) {
+    var how = e[EN ? 3 : 2];
+    return '<li>' + name + (e[1] ? ' <span class="pdx-tag">' + esc(aspName(e[1])) + '</span>' : '') + (how ? ': ' + esc(how) : '') + '</li>';
+  }
   function evoHtml(m) {
     var h = '';
-    if (m.p) { h += '<p>' + S.from + ': ' + m.p.map(function (p) { return link('mon', monName(p), monName(p)); }).join(', ') + '</p>'; }
-    if (m.e) { h += '<ul>' + m.e.map(function (e) { return '<li>' + link('mon', monName(e[0]), monName(e[0])) + (e[1] ? ' (' + esc(e[1]) + ')' : '') + (e[EN ? 3 : 2] ? ': ' + esc(e[EN ? 3 : 2]) : '') + '</li>'; }).join('') + '</ul>'; }
+    if (m.p) {
+      h += '<p>' + S.from + ':</p><ul>' + m.p.map(function (p) {
+        var pm = D.monById[p], es = ((pm && pm.e) || []).filter(function (e) { return e[0] === m.i && !ASP[e[1]]; });
+        if (!es.length) { return '<li class="pdx-dl">' + monImg(p, 40) + link('mon', monName(p), monName(p)) + '</li>'; }
+        return es.map(function (e) { return evoLine(e, monImg(p, 40) + link('mon', monName(p), monName(p))).replace('<li>', '<li class="pdx-dl">'); }).join('');
+      }).join('') + '</ul>';
+    }
+    if (m.e) { h += '<p>' + S.to + ':</p><ul>' + m.e.map(function (e) { return evoLine(e, monImg(e[0], 40) + link('mon', monName(e[0]), monName(e[0]))).replace('<li>', '<li class="pdx-dl">'); }).join('') + '</ul>'; }
     return h ? '<h3>' + S.evo + '</h3>' + h : '';
+  }
+  // Cách ra một dạng: Mega/Primal = cầm đá; dạng vùng = nhánh tiến hoá có aspect tương ứng.
+  function formHow(m, f) {
+    if (f.mv) { return EN ? 'Knows ' + f.mv + ', then Mega Evolve in battle (Mega Bracelet).' : 'Biết chiêu ' + f.mv + ', bấm Mega trong trận (cần Vòng Mega).'; }
+    if (f.ms) {
+      var st = '<span class="pdx-dl" style="display:inline-flex">' + itImg(f.ms) + link('it', itemName(f.ms), itemName(f.ms)) + '</span>';
+      if (f.n === 'Primal') { return (EN ? 'Hold ' : 'Cầm ') + st + (EN ? ': turns Primal at the start of battle.' : ': tự hoá Primal khi vào trận.'); }
+      return (EN ? 'Hold ' : 'Cầm ') + st + (EN ? ', wear a Mega Bracelet, then Mega Evolve in battle.' : ', đeo Vòng Mega, bấm Mega trong trận.');
+    }
+    var asp = Object.keys(ASP).filter(function (k) { return ASP[k] === f.n; })[0];
+    if (asp) {
+      var out = [];
+      (m.p || []).forEach(function (p) { var pm = D.monById[p]; ((pm && pm.e) || []).forEach(function (e) { if (e[0] === m.i && e[1] === asp) { out.push(evoLine(e, monImg(p, 40) + link('mon', monName(p), monName(p))).replace('<li>', '<li class="pdx-dl">')); } }); });
+      if (out.length) { return '<p>' + S.from + ':</p><ul>' + out.join('') + '</ul>'; }
+    }
+    if (f.n === 'Gmax') { return EN ? 'Gigantamax in battle (needs Gigantamax Factor).' : 'Gigantamax trong trận (cần Gigantamax Factor).'; }
+    return '';
   }
   function formsHtml(m) {
     if (!m.f) { return ''; }
@@ -285,6 +320,7 @@
       if (f.t) { bits.push(f.t.map(tBadge).join('')); }
       if (f.s) { bits.push(f.s.join('/') + ' (' + S.total + ' ' + f.s.reduce(function (a, b) { return a + b; }, 0) + ')'); }
       if (f.a) { bits.push(abilHtml(f.a)); }
+      if (f.ms) { bits.push(itImg(f.ms) + ' ' + esc(itemName(f.ms))); }
       return '<li class="pdx-fl">' + img(stem(m, f), 48, m.n + ' ' + f.n) + '<span><b>' + esc(f.n) + '</b>' + (f.b ? ' <span class="pdx-tag">' + S.battle + '</span>' : '') + (bits.length ? ': ' + bits.join(' · ') : '') + '</span></li>';
     }).join('') + '</ul>';
   }
@@ -298,6 +334,7 @@
   function formDetail(m, j) {
     var f = m.f[j];
     return '<div class="pdx-head">' + img(stem(m, f), 96, formName(m, f), 'pdx-img--big') + '<p>' + (f.b ? '<span class="pdx-tag">' + S.battle + '</span> ' : '') + S.formOf + ' ' + link('mon', m.n, m.n) + '</p></div>' +
+      (function () { var h = formHow(m, f); return h ? '<h3>' + S.how + '</h3>' + (h.indexOf('<ul>') === 0 || h.indexOf('<p>') === 0 ? h : '<p>' + h + '</p>') : ''; })() +
       statsHtml(f.s || m.s) + '<h3>' + S.abil + '</h3><p>' + abilHtml(f.a || m.a) + '</p>';
   }
   function monDetail(m) {
