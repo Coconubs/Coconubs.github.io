@@ -62,6 +62,3 @@ Mấy điều riêng của Coco:
 - Pokémon hoang dã trên Coco không ra Shiny tự nhiên. Shiny có cách riêng, xem [Shiny](/tinh-nang/shiny/).
 
 Cách tiến hoá chi tiết hơn có ở [Tiến hoá](/tien-hoa-cobblemon/), Mega ở [Mega](/mega-cobblemon/).
-
-Ảnh Pokémon: PokéAPI. Ảnh item: texture trong game (Minecraft, Cobblemon, Mega Showdown). Pokémon © Nintendo / Game Freak / The Pokémon Company.
-{: .fs-2 }

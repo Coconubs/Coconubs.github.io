@@ -5,7 +5,7 @@
   if (!root) { return; }
   var EN = root.getAttribute('data-lang') === 'en';
   var BASE = '/assets/pokedex/';
-  var V = '?v=20261112g';
+  var V = '?v=20261112h';
   var IMG = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/';
   var S = EN ? {
     count: function (n, all) { return n === all ? all + ' entries' : n + ' of ' + all; },
@@ -23,7 +23,7 @@
     weak: 'Takes ×2 or more from', resist: 'Takes ×½ or less from', immune: 'Takes no damage from', none2: 'none',
     dropHelp: 'Type a Pokémon to see what it drops, or an item to see which Pokémon drop it.',
     mons: 'Pokémon', items: 'Items', gen: 'Gen', lv: 'Lv.', any: 'anywhere',
-    bucket: { common: 'Common', uncommon: 'Uncommon', rare: 'Rare', 'ultra-rare': 'Ultra Rare' },
+    bucket: { common: 'Common', uncommon: 'Uncommon', rare: 'Rare', 'ultra-rare': 'Ultra-rare' },
     pos: { grounded: 'on land', submerged: 'underwater', surface: 'on water', seafloor: 'sea floor', fishing: 'fishing', lavafloor: 'lava' },
     ex: { rain: 'rain', thunder: 'thunderstorm', moon: 'moon phase', struct: 'near ', lure: 'lure ', t: { day: 'day', night: 'night', morning: 'morning', dusk: 'dusk', dawn: 'dawn', noon: 'noon', midnight: 'midnight', twilight: 'twilight' } },
     form: 'form', formOf: 'A form of', how: 'How to get this form'
@@ -43,7 +43,7 @@
     weak: 'Bị ×2 trở lên từ', resist: 'Chỉ bị ×½ trở xuống từ', immune: 'Miễn nhiễm', none2: 'không có',
     dropHelp: 'Gõ tên Pokémon để xem nó rơi gì, hoặc tên item để xem con nào rơi.',
     mons: 'Pokémon', items: 'Item', gen: 'Thế hệ', lv: 'Cấp', any: 'mọi nơi',
-    bucket: { common: 'Common', uncommon: 'Uncommon', rare: 'Rare', 'ultra-rare': 'Ultra Rare' },
+    bucket: { common: 'Common', uncommon: 'Uncommon', rare: 'Rare', 'ultra-rare': 'Ultra-rare' },
     pos: { grounded: 'trên cạn', submerged: 'dưới nước', surface: 'mặt nước', seafloor: 'đáy biển', fishing: 'câu cá', lavafloor: 'dung nham' },
     ex: { rain: 'trời mưa', thunder: 'có sấm', moon: 'theo pha trăng', struct: 'gần ', lure: 'mồi cấp ', t: { day: 'ban ngày', night: 'ban đêm', morning: 'buổi sáng', dusk: 'chạng vạng', dawn: 'bình minh', noon: 'buổi trưa', midnight: 'nửa đêm', twilight: 'chạng vạng' } },
     form: 'dạng', formOf: 'Dạng khác của', how: 'Cách có dạng này'
@@ -71,7 +71,9 @@
   function num(x) { var s = String(Math.round(x * 100) / 100); return EN ? s : s.replace('.', ','); }
   function tName(i) { var m = D.misc; return m ? m.tn[i][EN ? 1 : 0] : ''; }
   // Icon hệ = texture thật của Cobblemon (gui/types.png, 18 ô 36px, cùng thứ tự misc.tn).
-  function tBadge(i) { return i < 0 ? '' : '<span class="pdx-t"><span class="pdx-ti" style="background-position:-' + i * 22 + 'px 0" aria-hidden="true"></span>' + esc(tName(i)) + '</span>'; }
+  // Ảnh hệ: badge PokéAPI (Scarlet/Violet); số thứ tự PokéAPI theo đúng thứ tự misc.tn.
+  var TID = [1, 10, 11, 12, 13, 15, 2, 4, 5, 3, 14, 7, 6, 8, 16, 17, 9, 18];
+  function tBadge(i) { return i < 0 ? '' : '<img class="pdx-t" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/' + TID[i] + '.png" width="90" height="18" loading="lazy" decoding="async" alt="' + esc(tName(i)) + '" title="' + esc(tName(i)) + '">'; }
   function monName(id) { var m = D.monById[id]; return m ? m.n : (D.mon.names[id] || id); }
   function itemName(id) { var it = D.it && D.it[id]; return it ? (EN ? it.e : it.v) : id.split(':').pop().replace(/_/g, ' '); }
   function abName(id) { var a = D.abById && D.abById[id]; return a ? a[1] : id; }
@@ -247,7 +249,7 @@
       var txt = itImg(d[0]) + link('drop', itemName(d[0]), itemName(d[0])) + ' · ' + num(d[1]) + '%' + (d[2] ? ' · ' + S.qty + ' ' + esc(d[2]) : '');
       return '<li class="pdx-dl' + (d[3] ? ' pdx-blocked' : '') + '">' + txt + (d[3] ? ' <span class="pdx-tag pdx-tag--warn">' + S.blockedDrop + '</span>' : '') + '</li>';
     }).join('') + '</ul>';
-    return h + (anyB ? '<p class="pdx-note">' + S.blockedNote + '</p>' : '');
+    return h;
   }
   function biome(b) { if (!b) { return S.any; } return b.split(',').map(function (x) { return EN ? x.replace(/_/g, ' ') : (BIOME_VI[x] || x.replace(/_/g, ' ')); }).join(', '); }
   function extra(e) {
@@ -350,7 +352,7 @@
     var it = D.it[id], d = EN ? it.de : (it.dv || it.de);
     var by = D.dropBy[id] || [];
     return (d ? '<p>' + esc(d) + '</p>' : '') + '<p class="pdx-note"><code>' + esc(id) + '</code></p>' +
-      '<h3>' + S.droppedBy + ' (' + by.length + ')</h3>' + (by.length ? dropList(by) : '<p>' + S.noDrop + '</p>') + (it.b ? '<p class="pdx-note">' + S.blockedNote + '</p>' : '');
+      '<h3>' + S.droppedBy + ' (' + by.length + ')</h3>' + (by.length ? dropList(by) : '<p>' + S.noDrop + '</p>');
   }
   function dropList(by) {
     return '<ul>' + by.map(function (x) { var d = x[1]; return '<li class="pdx-dl' + (d[3] ? ' pdx-blocked' : '') + '">' + monImg(x[0], 40) + link('mon', monName(x[0]), monName(x[0])) + ' · ' + num(d[1]) + '%' + (d[2] ? ' · ' + S.qty + ' ' + esc(d[2]) : '') + '</li>'; }).join('') + '</ul>';
