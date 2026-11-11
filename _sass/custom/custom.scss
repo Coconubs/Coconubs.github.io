@@ -1035,6 +1035,10 @@ blockquote.warning {
   }
 }
 
+.coco-card .anchor-heading {
+  display: none;
+}
+
 .coco-card:focus-within {
   outline: 2px solid var(--purple);
   outline-offset: 2px;
