@@ -5,7 +5,7 @@
   if (!root) { return; }
   var EN = root.getAttribute('data-lang') === 'en';
   var BASE = '/assets/pokedex/';
-  var V = '?v=20261112';
+  var V = '?v=20261112b';
   var IMG = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/';
   var S = EN ? {
     count: function (n, all) { return n === all ? all + ' entries' : n + ' of ' + all; },
@@ -79,6 +79,12 @@
   function img(s, size, alt, cls) {
     if (s == null) { return '<span class="pdx-img pdx-img--none" style="width:' + size + 'px;height:' + size + 'px" aria-hidden="true"></span>'; }
     return '<img class="pdx-img' + (cls ? ' ' + cls : '') + '" src="' + IMG + s + '.png" width="' + size + '" height="' + size + '" loading="lazy" decoding="async" alt="' + esc(alt) + '">';
+  }
+  // Ảnh item: atlas 16x16 texture thật trong game (items.webp, ô = it.x, 32 ô/hàng), vẽ 32px; CSS chỉ tải atlas khi có ô hiện ra.
+  function itImg(id) {
+    var it = D.it && D.it[id];
+    if (!it || it.x == null) { return '<span class="pdx-ii pdx-ii--none" aria-hidden="true"></span>'; }
+    return '<span class="pdx-ii" style="background-position:-' + (it.x % 32) * 32 + 'px -' + Math.floor(it.x / 32) * 32 + 'px" aria-hidden="true"></span>';
   }
   function monImg(id, size) { var m = D.monById[id]; return img(stem(m), size, m ? m.n : id); }
   function link(tab, q, text) { return '<button type="button" class="pdx-link" data-go="' + tab + '" data-q="' + esc(q) + '">' + esc(text) + '</button>'; }
@@ -155,7 +161,7 @@
       list = D.itKeys.filter(function (x) { return match(x[1], q); });
       html = '<ul class="pdx-list">' + list.slice(0, limit).map(function (x) {
         var it = D.it[x[0]], n = (D.dropBy[x[0]] || []).length;
-        return row('i:' + x[0], '', esc(EN ? it.e : it.v), esc(((EN ? it.de : (it.dv || it.de)) || '').slice(0, 110)) + (n ? ' <span class="pdx-tag">' + esc(S.itemDrop(n)) + '</span>' : ''));
+        return row('i:' + x[0], '', esc(EN ? it.e : it.v), esc(((EN ? it.de : (it.dv || it.de)) || '').slice(0, 110)) + (n ? ' <span class="pdx-tag">' + esc(S.itemDrop(n)) + '</span>' : ''), itImg(x[0]));
       }).join('') + '</ul>' + moreBtn(list.length);
     } else if (cur === 'nat') {
       all = list = D.misc.nat.length;
@@ -205,8 +211,8 @@
     var anyB = false;
     var h = '<h3>' + S.drops + '</h3><ul>' + m.dr.map(function (d) {
       if (d[3]) { anyB = true; }
-      var txt = link('drop', itemName(d[0]), itemName(d[0])) + ' · ' + num(d[1]) + '%' + (d[2] ? ' · ' + S.qty + ' ' + esc(d[2]) : '');
-      return '<li' + (d[3] ? ' class="pdx-blocked"' : '') + '>' + txt + (d[3] ? ' <span class="pdx-tag pdx-tag--warn">' + S.blockedDrop + '</span>' : '') + '</li>';
+      var txt = itImg(d[0]) + link('drop', itemName(d[0]), itemName(d[0])) + ' · ' + num(d[1]) + '%' + (d[2] ? ' · ' + S.qty + ' ' + esc(d[2]) : '');
+      return '<li class="pdx-dl' + (d[3] ? ' pdx-blocked' : '') + '">' + txt + (d[3] ? ' <span class="pdx-tag pdx-tag--warn">' + S.blockedDrop + '</span>' : '') + '</li>';
     }).join('') + '</ul>';
     return h + (anyB ? '<p class="pdx-note">' + S.blockedNote + '</p>' : '');
   }
@@ -275,7 +281,7 @@
     var h = '';
     if (its.length) {
       h += '<h3>' + S.items + '</h3>' + its.map(function (x) {
-        return '<div class="pdx-item" style="padding:.5rem .8rem;margin-bottom:.4rem"><b>' + esc(itemName(x[0])) + '</b>' + (D.it[x[0]].b ? ' <span class="pdx-tag pdx-tag--warn">' + S.blockedDrop + '</span>' : '') + '<br><span class="pdx-note">' + S.droppedBy + ' (' + D.dropBy[x[0]].length + ')</span>' + dropList(D.dropBy[x[0]]) + '</div>';
+        return '<div class="pdx-item" style="padding:.5rem .8rem;margin-bottom:.4rem"><div class="pdx-head">' + itImg(x[0]) + '<b>' + esc(itemName(x[0])) + '</b>' + (D.it[x[0]].b ? ' <span class="pdx-tag pdx-tag--warn">' + S.blockedDrop + '</span>' : '') + '</div><span class="pdx-note">' + S.droppedBy + ' (' + D.dropBy[x[0]].length + ')</span>' + dropList(D.dropBy[x[0]]) + '</div>';
       }).join('');
     }
     if (mons.length) {

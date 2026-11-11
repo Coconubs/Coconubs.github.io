@@ -64,5 +64,5 @@ What is different on Coco:
 
 More on evolving: [Evolution](/en/cobblemon-evolution/). Mega Evolution: [Mega](/en/cobblemon-mega/).
 
-Pokémon images: PokéAPI. Pokémon © Nintendo / Game Freak / The Pokémon Company.
+Pokémon images: PokéAPI. Item images: in-game textures (Minecraft, Cobblemon, Mega Showdown). Pokémon © Nintendo / Game Freak / The Pokémon Company.
 {: .fs-2 }
