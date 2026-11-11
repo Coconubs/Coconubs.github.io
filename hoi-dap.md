@@ -1,7 +1,7 @@
 ---
 title: Hỏi đáp
 seo_title: "Hỏi đáp Coco Cobblemon và CocoLauncher: IP, tải, điện thoại, phí"
-description: "Câu hỏi thường gặp về server Coco Cobblemon và CocoLauncher: IP, ping, tải launcher, có an toàn không, chơi trên điện thoại Android, Bedrock, tiếng Việt, mất phí không."
+description: "Câu hỏi thường gặp về server Coco Cobblemon và CocoLauncher: IP, tải launcher, có an toàn không, chơi trên điện thoại Android, Bedrock, tiếng Việt, mất phí không."
 nav_order: 11
 alt: /en/faq/
 jsonld: |
@@ -38,15 +38,7 @@ jsonld: |
         "name": "Nên chọn server Cobblemon Việt Nam thế nào?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Không có bảng xếp hạng chính thức nào. Nên so phiên bản Minecraft và Cobblemon, cách cài mod, ping từ Việt Nam, ngôn ngữ, thiết bị chơi được và phần nào phải trả tiền. Bảng so theo các điểm này cho Coco Cobblemon có ở trang Server Cobblemon Việt Nam."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Server đặt ở đâu? Ping từ Việt Nam bao nhiêu?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Máy chủ Coco Cobblemon đặt ở Singapore. Đo ngày 06/11/2026, ping từ TP.HCM khoảng 29 ms. Ping thật còn tuỳ nhà mạng và nơi bạn ở."
+          "text": "Không có bảng xếp hạng chính thức nào. Nên so phiên bản Minecraft và Cobblemon, cách cài mod, ngôn ngữ, thiết bị chơi được và phần nào phải trả tiền. Bảng so theo các điểm này cho Coco Cobblemon có ở trang Server Cobblemon Việt Nam."
         }
       },
       {
@@ -259,11 +251,7 @@ Có. Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộ
 
 ### Nên chọn server Cobblemon Việt Nam thế nào?
 
-Không có bảng xếp hạng chính thức nào. Nên so phiên bản Minecraft và Cobblemon, cách cài mod, ping từ Việt Nam, ngôn ngữ, thiết bị chơi được và phần nào phải trả tiền. Bảng so theo các điểm này cho Coco Cobblemon có ở trang [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/).
-
-### Server đặt ở đâu? Ping từ Việt Nam bao nhiêu?
-
-Máy chủ Coco Cobblemon đặt ở Singapore. Đo ngày 06/11/2026, ping từ TP.HCM khoảng 29 ms. Ping thật còn tuỳ nhà mạng và nơi bạn ở.
+Không có bảng xếp hạng chính thức nào. Nên so phiên bản Minecraft và Cobblemon, cách cài mod, ngôn ngữ, thiết bị chơi được và phần nào phải trả tiền. Bảng so theo các điểm này cho Coco Cobblemon có ở trang [Server Cobblemon Việt Nam](/server-cobblemon-viet-nam/).
 
 ### Server Coco Cobblemon có đông người chơi không?
 

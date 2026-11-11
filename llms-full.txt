@@ -23,7 +23,6 @@ CocoLauncher cho Windows, macOS, [Android](https://coconubs.github.io/cobblemon-
 |---|---|
 | **Địa chỉ server** | `coco.ultramc.co` |
 | **Phiên bản** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
-| **Máy chủ** | Đặt ở Singapore, ping khoảng 29 ms từ TP.HCM (đo 06/11/2026) |
 | **Ngôn ngữ** | Tiếng Việt, có tiếng Anh trong launcher và menu (`/ngonngu en`) |
 | **Vào game bằng** | CocoLauncher cho Windows, macOS, Android, iPhone (Android và iPhone là bản thử nghiệm) |
 | **Chi phí** | Tải launcher và vào server không mất phí. Rank và Battle Pass Premium không bắt buộc |
@@ -33,7 +32,7 @@ CocoLauncher cho Windows, macOS, [Android](https://coconubs.github.io/cobblemon-
 
 ## Coco Cobblemon và CocoLauncher là gì?
 
-Coco Cobblemon là server Minecraft Java chơi mod Cobblemon (mod Pokémon cho Minecraft) dành cho cộng đồng người Việt. Địa chỉ server là `coco.ultramc.co`, chạy Minecraft Java 1.21.1, Fabric và Cobblemon 1.7.3. Máy chủ đặt ở Singapore, ping khoảng 29 ms từ TP.HCM (đo 06/11/2026). Menu, hướng dẫn và thông báo bằng tiếng Việt, có tiếng Anh. Tải launcher và vào server không mất phí.
+Coco Cobblemon là server Minecraft Java chơi mod Cobblemon (mod Pokémon cho Minecraft) dành cho cộng đồng người Việt. Địa chỉ server là `coco.ultramc.co`, chạy Minecraft Java 1.21.1, Fabric và Cobblemon 1.7.3. Menu, hướng dẫn và thông báo bằng tiếng Việt, có tiếng Anh. Tải launcher và vào server không mất phí.
 
 CocoLauncher (viết tách: Coco Launcher) là launcher Minecraft Java cài trên máy để vào server Coco Cobblemon, do Coconubs phát hành trên Microsoft Store và GitHub Releases. Launcher tự cài Java, Minecraft, Fabric và gói mod. CocoLauncher không phải app giao diện điện thoại (launcher Android) cũng tên "Coco Launcher".
 
@@ -100,12 +99,12 @@ Menu, hướng dẫn và thông báo trong game đều bằng tiếng Việt, c�
 
 ---
 
-Trang: Server Cobblemon Việt Nam (Pokémon Minecraft): Coco Cobblemon, IP, ping
+Trang: Server Cobblemon Việt Nam (Pokémon Minecraft): Coco Cobblemon, IP
 URL: https://coconubs.github.io/server-cobblemon-viet-nam/
 
 # Server Cobblemon Việt Nam: Coco Cobblemon
 
-Coco Cobblemon là server Pokémon Minecraft (mod Cobblemon) của người Việt. Vào bằng CocoLauncher, miễn phí. Máy chủ ở Singapore, menu tiếng Việt. Tối Thứ 7 (07/11/2026) có 110 người cùng online.
+Coco Cobblemon là server Pokémon Minecraft (mod Cobblemon) của người Việt. Vào bằng CocoLauncher, miễn phí, menu tiếng Việt. Tối Thứ 7 (07/11/2026) có 110 người cùng online.
 
 ## Thông số nhanh
 
@@ -113,7 +112,6 @@ Coco Cobblemon là server Pokémon Minecraft (mod Cobblemon) của người Vi�
 |---|---|
 | **Địa chỉ** | `coco.ultramc.co` |
 | **Phiên bản** | Minecraft Java 1.21.1, Cobblemon 1.7.3 |
-| **Máy chủ đặt ở** | Singapore. Ping đo ngày 06/11/2026: khoảng 29 ms từ TP.HCM |
 | **Ngôn ngữ** | Tiếng Việt, có tiếng Anh trong launcher và menu (`/ngonngu en`) |
 | **Vào game** | CocoLauncher cho Windows, macOS, Android, iPhone |
 | **Giờ sự kiện** | Giờ Việt Nam (UTC+7) |
@@ -153,7 +151,6 @@ Không có bảng xếp hạng chính thức nào. Tốt nhất là vào chơi t
 |---|---|---|
 | Phiên bản Minecraft và Cobblemon | Bản ở máy bạn phải khớp server | Java 1.21.1, Cobblemon 1.7.3 |
 | Cách cài mod | Tự cài dễ thiếu mod | CocoLauncher tự cài, tự cập nhật |
-| Ping từ Việt Nam | Ping cao thì đánh trận, bay bị trễ | Máy chủ Singapore, khoảng 29 ms từ TP.HCM (06/11/2026) |
 | Ngôn ngữ | Đọc được menu, nhiệm vụ không | Tiếng Việt, có tiếng Anh |
 | Thiết bị | Có server chỉ chơi được trên máy tính | Windows, macOS, Android và iPhone |
 | Chơi lâu dài | Chỉ bắt Pokémon thì nhanh chán | Đấu Xếp Hạng, BattleTower, Bang Hội Chiến, Raid |
@@ -218,10 +215,6 @@ Cobblemon 1.7.3, không phải Pixelmon. Cài Pixelmon thì không vào được
 ### Có server Cobblemon nói tiếng Việt không?
 
 Có. Launcher, menu, hướng dẫn và thông báo đều tiếng Việt. Một số chữ của Cobblemon vẫn hiện tiếng Anh.
-
-### Ping từ Việt Nam tới server bao nhiêu?
-
-Khoảng 29 ms từ TP.HCM (đo 06/11/2026), máy chủ ở Singapore. Còn tuỳ nhà mạng và nơi bạn ở.
 
 ### Server có chạy cả ngày không?
 
@@ -1649,11 +1642,7 @@ Có. Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộ
 
 ### Nên chọn server Cobblemon Việt Nam thế nào?
 
-Không có bảng xếp hạng chính thức nào. Nên so phiên bản Minecraft và Cobblemon, cách cài mod, ping từ Việt Nam, ngôn ngữ, thiết bị chơi được và phần nào phải trả tiền. Bảng so theo các điểm này cho Coco Cobblemon có ở trang [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/).
-
-### Server đặt ở đâu? Ping từ Việt Nam bao nhiêu?
-
-Máy chủ Coco Cobblemon đặt ở Singapore. Đo ngày 06/11/2026, ping từ TP.HCM khoảng 29 ms. Ping thật còn tuỳ nhà mạng và nơi bạn ở.
+Không có bảng xếp hạng chính thức nào. Nên so phiên bản Minecraft và Cobblemon, cách cài mod, ngôn ngữ, thiết bị chơi được và phần nào phải trả tiền. Bảng so theo các điểm này cho Coco Cobblemon có ở trang [Server Cobblemon Việt Nam](https://coconubs.github.io/server-cobblemon-viet-nam/).
 
 ### Server Coco Cobblemon có đông người chơi không?
 
@@ -3120,7 +3109,6 @@ CocoLauncher for Windows, macOS, [Android](https://coconubs.github.io/en/cobblem
 |---|---|
 | **Server address** | `coco.ultramc.co` |
 | **Version** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
-| **Hosted in** | Singapore, about 29 ms ping from Ho Chi Minh City (measured 6 November 2026) |
 | **Language** | Vietnamese, with an English option in the launcher and the in-game menu |
 | **Join with** | CocoLauncher for Windows, macOS, Android and iPhone (Android and iPhone builds are experimental) |
 | **Cost** | Free to download and join. Ranks and the Premium Battle Pass are optional |
@@ -3168,7 +3156,7 @@ Yes. Anyone can download CocoLauncher and join. Most players and most of the cha
 
 ## More pages
 
-- [Cobblemon server in Vietnam: ping, schedule, how to choose](https://coconubs.github.io/en/vietnam-cobblemon-server/)
+- [Cobblemon server in Vietnam: schedule, how to choose](https://coconubs.github.io/en/vietnam-cobblemon-server/)
 - [CocoLauncher download](https://coconubs.github.io/en/cocolauncher/)
 - [How to join](https://coconubs.github.io/en/how-to-join/)
 - [Features](https://coconubs.github.io/en/features/)
@@ -3193,12 +3181,12 @@ Yes. Anyone can download CocoLauncher and join. Most players and most of the cha
 
 ---
 
-Trang: Cobblemon server in Vietnam: Coco Cobblemon IP, ping, schedule
+Trang: Cobblemon server in Vietnam: Coco Cobblemon IP, schedule
 URL: https://coconubs.github.io/en/vietnam-cobblemon-server/
 
 # Cobblemon server in Vietnam: Coco Cobblemon
 
-Coco Cobblemon is a Vietnamese Pokémon Minecraft server (Cobblemon mod). You join with CocoLauncher, for free. It is hosted in Singapore, the menus are in Vietnamese with an English option, and 110 players were online on Saturday evening, 7 November 2026.
+Coco Cobblemon is a Vietnamese Pokémon Minecraft server (Cobblemon mod). You join with CocoLauncher, for free. The menus are in Vietnamese with an English option, and 110 players were online on Saturday evening, 7 November 2026.
 
 ## Server details
 
@@ -3206,7 +3194,6 @@ Coco Cobblemon is a Vietnamese Pokémon Minecraft server (Cobblemon mod). You jo
 |---|---|
 | **Address** | `coco.ultramc.co` |
 | **Version** | Minecraft Java 1.21.1, Cobblemon 1.7.3 |
-| **Hosted in** | Singapore. Measured on 6 November 2026: about 29 ms ping from Ho Chi Minh City |
 | **Language** | Vietnamese, with an English option in the launcher and the in-game menu (`/ngonngu en`) |
 | **How to join** | CocoLauncher for Windows, macOS, Android and iPhone |
 | **Event times** | Vietnam time (UTC+7) |
@@ -3246,7 +3233,6 @@ There is no official ranking. The best test is to play a few days. If you are co
 |---|---|---|
 | Minecraft and Cobblemon version | Your version has to match the server | Java 1.21.1, Cobblemon 1.7.3 |
 | How mods are installed | Installing by hand often misses a mod | CocoLauncher installs and updates everything |
-| Ping | High ping makes battles and flying lag | Hosted in Singapore, about 29 ms from Ho Chi Minh City (6 November 2026) |
 | Language | Menus, quests and guides you can read | Vietnamese, with English |
 | Devices | Many servers are PC only | Windows, macOS, Android and iPhone |
 | Long-term goals | Only catching Pokémon gets old | Ranked battles, Battle Tower, Guild War, World Raids |
@@ -3255,7 +3241,7 @@ There is no official ranking. The best test is to play a few days. If you are co
 
 ## Can I join from outside Vietnam?
 
-Yes. Anyone with CocoLauncher can join. The server is in Singapore, so ping is lowest from Southeast Asia and higher from Europe or America. Most players and most of the chat are Vietnamese.
+Yes. Anyone with CocoLauncher can join. Most players and most of the chat are Vietnamese.
 
 ## Which devices work
 
@@ -3542,11 +3528,7 @@ The address is `coco.ultramc.co`, Minecraft Java 1.21.1. CocoLauncher connects a
 
 ### What is the best Cobblemon server in Vietnam?
 
-There is no official ranking of Vietnamese Cobblemon servers. Coco Cobblemon is a Vietnamese community server: Minecraft Java 1.21.1, Cobblemon 1.7.3, address `coco.ultramc.co`, hosted in Singapore with about 29 ms ping from Ho Chi Minh City (measured on 6 November 2026). When comparing servers, check the Minecraft and Cobblemon version, how mods are installed, ping, language, supported devices and what costs money.
-
-### Where is the server hosted?
-
-In Singapore. Measured on 6 November 2026, ping from Ho Chi Minh City was about 29 ms. Your ping depends on your network and location.
+There is no official ranking of Vietnamese Cobblemon servers. Coco Cobblemon is a Vietnamese community server: Minecraft Java 1.21.1, Cobblemon 1.7.3, address `coco.ultramc.co`. When comparing servers, check the Minecraft and Cobblemon version, how mods are installed, language, supported devices and what costs money.
 
 ### How many players does Coco Cobblemon have?
 

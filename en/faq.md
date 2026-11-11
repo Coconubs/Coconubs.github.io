@@ -1,7 +1,7 @@
 ---
 title: FAQ
 seo_title: "Coco Cobblemon and CocoLauncher FAQ: server IP, download, Android"
-description: "FAQ about the Coco Cobblemon server and CocoLauncher: server IP, best Cobblemon server in Vietnam, ping, download, safety, Android, Bedrock, language, cost."
+description: "FAQ about the Coco Cobblemon server and CocoLauncher: server IP, best Cobblemon server in Vietnam, download, safety, Android, Bedrock, language, cost."
 parent: English
 nav_order: 7
 permalink: /en/faq/
@@ -32,15 +32,7 @@ jsonld: |
         "name": "What is the best Cobblemon server in Vietnam?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "There is no official ranking of Vietnamese Cobblemon servers. Coco Cobblemon is a Vietnamese community server: Minecraft Java 1.21.1, Cobblemon 1.7.3, address coco.ultramc.co, hosted in Singapore with about 29 ms ping from Ho Chi Minh City (measured on 6 November 2026). When comparing servers, check the Minecraft and Cobblemon version, how mods are installed, ping, language, supported devices and what costs money."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Where is the server hosted?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "In Singapore. Measured on 6 November 2026, ping from Ho Chi Minh City was about 29 ms. Your ping depends on your network and location."
+          "text": "There is no official ranking of Vietnamese Cobblemon servers. Coco Cobblemon is a Vietnamese community server: Minecraft Java 1.21.1, Cobblemon 1.7.3, address coco.ultramc.co. When comparing servers, check the Minecraft and Cobblemon version, how mods are installed, language, supported devices and what costs money."
         }
       },
       {
@@ -201,11 +193,7 @@ The address is `coco.ultramc.co`, Minecraft Java 1.21.1. CocoLauncher connects a
 
 ### What is the best Cobblemon server in Vietnam?
 
-There is no official ranking of Vietnamese Cobblemon servers. Coco Cobblemon is a Vietnamese community server: Minecraft Java 1.21.1, Cobblemon 1.7.3, address `coco.ultramc.co`, hosted in Singapore with about 29 ms ping from Ho Chi Minh City (measured on 6 November 2026). When comparing servers, check the Minecraft and Cobblemon version, how mods are installed, ping, language, supported devices and what costs money.
-
-### Where is the server hosted?
-
-In Singapore. Measured on 6 November 2026, ping from Ho Chi Minh City was about 29 ms. Your ping depends on your network and location.
+There is no official ranking of Vietnamese Cobblemon servers. Coco Cobblemon is a Vietnamese community server: Minecraft Java 1.21.1, Cobblemon 1.7.3, address `coco.ultramc.co`. When comparing servers, check the Minecraft and Cobblemon version, how mods are installed, language, supported devices and what costs money.
 
 ### How many players does Coco Cobblemon have?
 

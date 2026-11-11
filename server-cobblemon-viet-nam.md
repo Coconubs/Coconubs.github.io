@@ -1,7 +1,7 @@
 ---
 title: Server Cobblemon Việt Nam
-seo_title: "Server Cobblemon Việt Nam (Pokémon Minecraft): Coco Cobblemon, IP, ping"
-description: "Coco Cobblemon là server Cobblemon Việt Nam trên Minecraft Java 1.21.1, IP coco.ultramc.co, máy chủ Singapore ping khoảng 29 ms từ TP.HCM. Lịch sự kiện, cách chọn server."
+seo_title: "Server Cobblemon Việt Nam (Pokémon Minecraft): Coco Cobblemon, IP"
+description: "Coco Cobblemon là server Cobblemon Việt Nam trên Minecraft Java 1.21.1, IP coco.ultramc.co, menu tiếng Việt, vào bằng CocoLauncher miễn phí. Lịch sự kiện, cách chọn server."
 nav_order: 4
 alt: /en/vietnam-cobblemon-server/
 last_modified_at: 2026-11-11T10:30:00+07:00
@@ -9,7 +9,7 @@ last_modified_at: 2026-11-11T10:30:00+07:00
 
 # Server Cobblemon Việt Nam: Coco Cobblemon
 
-Coco Cobblemon là server Pokémon Minecraft (mod Cobblemon) của người Việt. Vào bằng CocoLauncher, miễn phí. Máy chủ ở Singapore, menu tiếng Việt. Tối Thứ 7 (07/11/2026) có 110 người cùng online.
+Coco Cobblemon là server Pokémon Minecraft (mod Cobblemon) của người Việt. Vào bằng CocoLauncher, miễn phí, menu tiếng Việt. Tối Thứ 7 (07/11/2026) có 110 người cùng online.
 {: .fs-5 .fw-300 }
 
 ## Thông số nhanh
@@ -18,7 +18,6 @@ Coco Cobblemon là server Pokémon Minecraft (mod Cobblemon) của người Vi�
 |---|---|
 | **Địa chỉ** | `coco.ultramc.co` |
 | **Phiên bản** | Minecraft Java 1.21.1, Cobblemon 1.7.3 |
-| **Máy chủ đặt ở** | Singapore. Ping đo ngày 06/11/2026: khoảng 29 ms từ TP.HCM |
 | **Ngôn ngữ** | Tiếng Việt, có tiếng Anh trong launcher và menu (`/ngonngu en`) |
 | **Vào game** | CocoLauncher cho Windows, macOS, Android, iPhone |
 | **Giờ sự kiện** | Giờ Việt Nam (UTC+7) |
@@ -58,7 +57,6 @@ Không có bảng xếp hạng chính thức nào. Tốt nhất là vào chơi t
 |---|---|---|
 | Phiên bản Minecraft và Cobblemon | Bản ở máy bạn phải khớp server | Java 1.21.1, Cobblemon 1.7.3 |
 | Cách cài mod | Tự cài dễ thiếu mod | CocoLauncher tự cài, tự cập nhật |
-| Ping từ Việt Nam | Ping cao thì đánh trận, bay bị trễ | Máy chủ Singapore, khoảng 29 ms từ TP.HCM (06/11/2026) |
 | Ngôn ngữ | Đọc được menu, nhiệm vụ không | Tiếng Việt, có tiếng Anh |
 | Thiết bị | Có server chỉ chơi được trên máy tính | Windows, macOS, Android và iPhone |
 | Chơi lâu dài | Chỉ bắt Pokémon thì nhanh chán | Đấu Xếp Hạng, BattleTower, Bang Hội Chiến, Raid |
@@ -123,10 +121,6 @@ Cobblemon 1.7.3, không phải Pixelmon. Cài Pixelmon thì không vào được
 ### Có server Cobblemon nói tiếng Việt không?
 
 Có. Launcher, menu, hướng dẫn và thông báo đều tiếng Việt. Một số chữ của Cobblemon vẫn hiện tiếng Anh.
-
-### Ping từ Việt Nam tới server bao nhiêu?
-
-Khoảng 29 ms từ TP.HCM (đo 06/11/2026), máy chủ ở Singapore. Còn tuỳ nhà mạng và nơi bạn ở.
 
 ### Server có chạy cả ngày không?
 

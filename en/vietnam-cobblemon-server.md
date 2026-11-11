@@ -1,7 +1,7 @@
 ---
 title: Cobblemon server in Vietnam
-seo_title: "Cobblemon server in Vietnam: Coco Cobblemon IP, ping, schedule"
-description: "Coco Cobblemon is a Vietnamese Cobblemon server on Minecraft Java 1.21.1, IP coco.ultramc.co, hosted in Singapore. Ping, player numbers, weekly schedule, how to choose."
+seo_title: "Cobblemon server in Vietnam: Coco Cobblemon IP, schedule"
+description: "Coco Cobblemon is a Vietnamese Cobblemon server on Minecraft Java 1.21.1, IP coco.ultramc.co. Player numbers, weekly schedule, how to choose."
 parent: English
 nav_order: 8
 permalink: /en/vietnam-cobblemon-server/
@@ -11,7 +11,7 @@ last_modified_at: 2026-11-11T10:30:00+07:00
 
 # Cobblemon server in Vietnam: Coco Cobblemon
 
-Coco Cobblemon is a Vietnamese Pokémon Minecraft server (Cobblemon mod). You join with CocoLauncher, for free. It is hosted in Singapore, the menus are in Vietnamese with an English option, and 110 players were online on Saturday evening, 7 November 2026.
+Coco Cobblemon is a Vietnamese Pokémon Minecraft server (Cobblemon mod). You join with CocoLauncher, for free. The menus are in Vietnamese with an English option, and 110 players were online on Saturday evening, 7 November 2026.
 {: .fs-5 .fw-300 }
 
 ## Server details
@@ -20,7 +20,6 @@ Coco Cobblemon is a Vietnamese Pokémon Minecraft server (Cobblemon mod). You jo
 |---|---|
 | **Address** | `coco.ultramc.co` |
 | **Version** | Minecraft Java 1.21.1, Cobblemon 1.7.3 |
-| **Hosted in** | Singapore. Measured on 6 November 2026: about 29 ms ping from Ho Chi Minh City |
 | **Language** | Vietnamese, with an English option in the launcher and the in-game menu (`/ngonngu en`) |
 | **How to join** | CocoLauncher for Windows, macOS, Android and iPhone |
 | **Event times** | Vietnam time (UTC+7) |
@@ -60,7 +59,6 @@ There is no official ranking. The best test is to play a few days. If you are co
 |---|---|---|
 | Minecraft and Cobblemon version | Your version has to match the server | Java 1.21.1, Cobblemon 1.7.3 |
 | How mods are installed | Installing by hand often misses a mod | CocoLauncher installs and updates everything |
-| Ping | High ping makes battles and flying lag | Hosted in Singapore, about 29 ms from Ho Chi Minh City (6 November 2026) |
 | Language | Menus, quests and guides you can read | Vietnamese, with English |
 | Devices | Many servers are PC only | Windows, macOS, Android and iPhone |
 | Long-term goals | Only catching Pokémon gets old | Ranked battles, Battle Tower, Guild War, World Raids |
@@ -69,7 +67,7 @@ There is no official ranking. The best test is to play a few days. If you are co
 
 ## Can I join from outside Vietnam?
 
-Yes. Anyone with CocoLauncher can join. The server is in Singapore, so ping is lowest from Southeast Asia and higher from Europe or America. Most players and most of the chat are Vietnamese.
+Yes. Anyone with CocoLauncher can join. Most players and most of the chat are Vietnamese.
 
 ## Which devices work
 
