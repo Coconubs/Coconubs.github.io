@@ -6,6 +6,7 @@ vi:
     - { title: "Tải CocoLauncher", url: "/cocolauncher/" }
     - { title: "Cách vào server", url: "/cach-vao-server/" }
     - { title: "Tính năng", url: "/tinh-nang/", children: "Tính năng" }
+    - { title: "Pokédex", url: "/pokedex/" }
     - { title: "Hỏi đáp", url: "/hoi-dap/" }
   groups:
     - title: "Hướng dẫn"
@@ -41,6 +42,7 @@ en:
     - { title: "Download CocoLauncher", url: "/en/cocolauncher/" }
     - { title: "How to join", url: "/en/how-to-join/" }
     - { title: "Features", url: "/en/features/" }
+    - { title: "Pokédex", url: "/en/pokedex/" }
     - { title: "FAQ", url: "/en/faq/" }
   groups:
     - title: "Guides"

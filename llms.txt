@@ -51,6 +51,7 @@ Key facts in English (checked 11 November 2026):
 - [Hoá thạch Cobblemon: tìm ở đâu, cách hồi sinh](https://coconubs.github.io/hoa-thach-cobblemon/): 15 hoá thạch của Cobblemon 1.7.3 và Pokémon hồi sinh, 23 loại công trình hoá thạch (Cát/Sỏi đáng ngờ, Chổi quét), máy 3 khối, 128 điểm hữu cơ, 12 phút; trên Coco Cobblemon hoá thạch thường không mất phí, Mewtwo và Type: Null phí 20.000.000$
 - [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/): Poké Ball, Great Ball, Ultra Ball, PC, Máy Chữa Lành, Khối đồng cỏ, Pokédex (Cobblemon 1.7.3)
 - [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/): /pokespawn, /pokegive, /pokeheal, /pc, cấp quyền và thuộc tính (Cobblemon 1.7.3)
+- [Pokédex Coco Cobblemon](https://coconubs.github.io/pokedex/): tra 1.025 Pokémon (hệ, chỉ số gốc, Ability, tiến hoá, nơi xuất hiện, item rơi), Ability, item, tính cách, bảng khắc hệ; tra ngược item rơi từ con nào. Dữ liệu đọc từ mod và datapack server (Cobblemon 1.7.3, Mega Showdown 1.8.4, COBBLEVERSE DP v31) ngày 11/11/2026
 
 ## English
 
@@ -69,6 +70,7 @@ Key facts in English (checked 11 November 2026):
 - [How to Mega Evolve in Cobblemon](https://coconubs.github.io/en/cobblemon-mega/): plain Cobblemon 1.7.3 has no Mega; on Coco Cobblemon (Mega Showdown 1.9.9) wear a Mega Bracelet, hold the Mega Stone, press the Mega button; Mega Rayquaza needs Dragon Ascent; 78 species
 - [How to evolve Pokémon in Cobblemon](https://coconubs.github.io/en/cobblemon-evolution/): level up then press Evolve, 10 evolution stones, Link Cable instead of trading, special conditions, all 8 Eevee evolutions (Cobblemon 1.7.3)
 - [Cobblemon commands](https://coconubs.github.io/en/cobblemon-commands/): /pokespawn, /pokegive, /pokeheal, /pc, permission levels and properties (Cobblemon 1.7.3)
+- [Coco Cobblemon Pokédex](https://coconubs.github.io/en/pokedex/): 1,025 Pokémon (types, base stats, abilities, evolutions, spawns, drops), abilities, items, natures, type chart, reverse drop lookup; read from the server's mods and datapacks (Cobblemon 1.7.3, Mega Showdown 1.8.4, COBBLEVERSE DP v31) on 11 November 2026
 - [Cobblemon controls](https://coconubs.github.io/en/cobblemon-controls/): default keybinds of Cobblemon 1.7.3 and how to change them
 - [Cobblemon on Bedrock and Pocket Edition](https://coconubs.github.io/en/cobblemon-bedrock/): official Cobblemon is a Java Edition mod; "Cobblemon PE" packs are add-ons made by others
 - [Features](https://coconubs.github.io/en/features/)

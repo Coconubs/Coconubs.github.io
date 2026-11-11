@@ -1,0 +1,84 @@
+{%- comment -%}
+  Pokédex: khung tab + ô tìm. Dữ liệu ở /assets/pokedex/*.json (dựng từ jar + datapack của server), chỉ tải khi mở trang/tab.
+  include.lang = "vi" | "en"
+{%- endcomment -%}
+{%- if include.lang == "en" -%}
+  {%- assign t_tabs = "Pokémon|Abilities|Items|Natures|Types|Drops" | split: "|" -%}
+  {%- assign t_ph = "Search by name or number, e.g. Eevee, 133, fire" -%}
+  {%- assign t_label = "Search" -%}
+  {%- assign t_loading = "Loading data…" -%}
+  {%- assign t_noscript = "The Pokédex needs JavaScript to search." -%}
+{%- else -%}
+  {%- assign t_tabs = "Pokémon|Ability|Item|Tính cách|Hệ|Item rơi" | split: "|" -%}
+  {%- assign t_ph = "Tìm theo tên hoặc số, ví dụ Eevee, 133, lửa" -%}
+  {%- assign t_label = "Tìm" -%}
+  {%- assign t_loading = "Đang tải dữ liệu…" -%}
+  {%- assign t_noscript = "Pokédex cần bật JavaScript để tìm." -%}
+{%- endif -%}
+{%- assign t_ids = "mon|ab|it|nat|type|drop" | split: "|" -%}
+<style>
+.pdx{--pdx-bar:#8b5cf6;margin:1rem 0 2rem;min-height:36rem}
+.main-content ul.pdx-tabs{display:flex;flex-wrap:wrap;gap:.375rem;margin:0 0 .75rem;padding:0;list-style:none}
+.main-content .pdx-tabs li{margin:0}
+.main-content .pdx-tabs li::before{content:none}
+.pdx-tab{font:inherit;font-size:.9375rem;font-weight:600;padding:.4rem .8rem;border-radius:999px;border:1px solid var(--c-border);background:var(--c-surface);color:var(--c-text);cursor:pointer;min-height:2.5rem}
+.pdx-tab[aria-selected=true]{background:var(--n-850);border-color:var(--n-850);color:var(--n-text)}
+.pdx-tab:focus-visible,.pdx-row:focus-visible,.pdx-q:focus-visible{outline:2px solid var(--c-link);outline-offset:2px}
+.pdx-search{display:flex;gap:.5rem;align-items:center;margin-bottom:.5rem}
+.pdx-q{flex:1;min-width:0;font:inherit;font-size:1rem;padding:.55rem .8rem;border:1px solid var(--c-border);border-radius:10px;background:var(--c-surface);color:var(--c-text)}
+.pdx-count{font-size:.875rem;color:var(--c-muted);margin:.25rem 0 .5rem;min-height:1.3rem}
+.main-content ul.pdx-list{list-style:none;margin:0;padding:0}
+.main-content .pdx-list>li{margin:0 0 .375rem;padding:0}
+.main-content .pdx-list>li::before{content:none}
+.pdx-item{border:1px solid var(--c-border);border-radius:10px;background:var(--c-surface)}
+.pdx-row{display:flex;gap:.6rem;align-items:center;width:100%;text-align:left;font:inherit;color:inherit;background:none;border:0;padding:.55rem .75rem;cursor:pointer;border-radius:10px}
+.pdx-row .pdx-no{font-variant-numeric:tabular-nums;color:var(--c-muted);min-width:3rem;font-size:.875rem}
+.pdx-row .pdx-nm{font-weight:600;flex:1;min-width:0}
+.pdx-row .pdx-sub{color:var(--c-muted);font-size:.875rem;font-weight:400;display:block}
+.pdx-row::after{content:"+";color:var(--c-muted);font-weight:700;margin-left:auto}
+.pdx-row[aria-expanded=true]::after{content:"−"}
+.pdx-body{padding:.25rem .9rem .9rem;border-top:1px solid var(--c-border);font-size:.9375rem}
+.pdx-body h3{font-size:1rem;margin:.9rem 0 .35rem}
+.pdx-body p{margin:.3rem 0}
+.pdx-body ul{margin:.2rem 0 .2rem 1.1rem;padding:0}
+.main-content .pdx-body li{margin:.1rem 0}
+.pdx-t{display:inline-block;font-size:.75rem;font-weight:700;line-height:1;padding:.3rem .5rem;border-radius:6px;color:#fff;margin:0 .2rem .15rem 0;white-space:nowrap}
+.pdx-stats{display:grid;grid-template-columns:auto 2.5rem 1fr;gap:.15rem .5rem;align-items:center;max-width:28rem}
+.pdx-bar{height:.55rem;border-radius:4px;background:var(--pdx-bar)}
+.pdx-note{font-size:.875rem;color:var(--c-muted)}
+.pdx-tag{display:inline-block;font-size:.75rem;padding:.1rem .45rem;border-radius:6px;background:var(--c-surface-2);color:var(--c-muted);margin-left:.25rem;font-weight:600}
+.pdx-tag--warn{background:var(--c-warn-bg);color:var(--c-warn-title)}
+.pdx-tbl{width:100%;border-collapse:collapse;font-size:.875rem}
+.pdx-tbl th,.pdx-tbl td{border-bottom:1px solid var(--c-border);padding:.3rem .4rem;text-align:left;vertical-align:top}
+.pdx-more{font:inherit;margin:.5rem 0;padding:.5rem 1rem;border-radius:10px;border:1px solid var(--c-border);background:var(--c-surface-2);color:var(--c-text);cursor:pointer}
+.pdx-link{font:inherit;background:none;border:0;padding:0;color:var(--c-link);cursor:pointer;text-decoration:underline;text-underline-offset:2px}
+.pdx-chart-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid var(--c-border);border-radius:10px;background:var(--c-surface)}
+.pdx-chart{border-collapse:collapse;font-size:.75rem;margin:0}
+.pdx-chart th,.pdx-chart td{width:2.1rem;min-width:2.1rem;height:1.9rem;text-align:center;padding:0;border:1px solid var(--c-border)}
+.pdx-chart th.pdx-r{text-align:left;padding:0 .3rem;width:auto;white-space:nowrap}
+.pdx-chart thead th{writing-mode:vertical-rl;transform:rotate(180deg);height:4.6rem;padding:.2rem 0}
+.pdx-x2{background:#15803d;color:#fff;font-weight:700}
+.pdx-x05{background:#b91c1c;color:#fff;font-weight:700}
+.pdx-x0{background:#111827;color:#fff;font-weight:700}
+.pdx-pick{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:.5rem 0}
+.pdx-pick select{font:inherit;padding:.4rem .5rem;border-radius:8px;border:1px solid var(--c-border);background:var(--c-surface);color:var(--c-text)}
+.pdx-nat td:nth-child(2){color:#15803d;font-weight:600}
+.pdx-nat td:nth-child(3){color:#b91c1c;font-weight:600}
+.pdx .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}
+.pdx-blocked{text-decoration:line-through;opacity:.75}
+@media (prefers-color-scheme:dark){.pdx-nat td:nth-child(2){color:#86efac}.pdx-nat td:nth-child(3){color:#fca5a5}}
+</style>
+<div class="pdx" id="pdx" data-lang="{{ include.lang | default: 'vi' }}">
+<ul class="pdx-tabs" role="tablist" aria-label="Pokédex">
+{%- for id in t_ids %}
+<li role="presentation"><button type="button" class="pdx-tab" role="tab" id="pdx-tab-{{ id }}" data-tab="{{ id }}" aria-controls="pdx-panel" aria-selected="{% if forloop.first %}true{% else %}false{% endif %}"{% unless forloop.first %} tabindex="-1"{% endunless %}>{{ t_tabs[forloop.index0] }}</button></li>
+{%- endfor %}
+</ul>
+<div id="pdx-panel" role="tabpanel" aria-labelledby="pdx-tab-mon">
+<div class="pdx-search"><label class="sr-only" for="pdx-q">{{ t_label }}</label><input class="pdx-q" id="pdx-q" type="search" autocomplete="off" spellcheck="false" placeholder="{{ t_ph }}"></div>
+<p class="pdx-count" id="pdx-count" aria-live="polite">{{ t_loading }}</p>
+<div id="pdx-out"></div>
+</div>
+<noscript><p>{{ t_noscript }}</p></noscript>
+</div>
+<script src="/assets/js/pokedex.js" defer></script>

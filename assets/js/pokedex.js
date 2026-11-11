@@ -1,0 +1,340 @@
+/* Pokédex Coco Cobblemon: tìm phía trình duyệt trên JSON tĩnh /assets/pokedex/ (dựng từ dữ liệu server). */
+(function () {
+  'use strict';
+  var root = document.getElementById('pdx');
+  if (!root) { return; }
+  var EN = root.getAttribute('data-lang') === 'en';
+  var BASE = '/assets/pokedex/';
+  var V = '?v=20261111';
+  var S = EN ? {
+    count: function (n, all) { return n === all ? all + ' entries' : n + ' of ' + all; },
+    none: 'Nothing found.', more: 'Show more', loading: 'Loading data…', fail: 'Could not load the data. Reload the page.',
+    stats: ['HP', 'Attack', 'Defense', 'Sp. Atk', 'Sp. Def', 'Speed'], total: 'Total',
+    types: 'Type', abil: 'Abilities', hidden: 'hidden', evo: 'Evolution', from: 'Evolves from', to: 'Evolves into',
+    forms: 'Forms', battle: 'battle only', drops: 'Drops', spawn: 'Where it spawns', nospawn: 'No natural spawn data.',
+    chance: 'chance', qty: 'amount', blockedDrop: 'removed on Coco', blockedNote: 'Struck-through items are removed from Pokémon drops by the Coco server rules (held items, vitamins, mints, bottle caps…).',
+    leg: 'Legendary: never in the normal spawn table. The server rolls its own chance, doubled during Golden Hour. Fishing and Poké Snacks never give Legendaries.',
+    myth: 'Mythical: does not spawn naturally on Coco and cannot be summoned with altars.',
+    legLink: '/en/features/', users: 'Pokémon with this ability', droppedBy: 'Dropped by', dropsOf: 'Drops of',
+    noDrop: 'No Pokémon drops this item.', itemDrop: function (n) { return 'Dropped by ' + n + ' Pokémon'; },
+    natHead: ['Nature', '', 'Raises', 'Lowers'], neutral: 'no effect',
+    typeHelp: 'Pick one or two types to see what hits them hard.', atk: 'Attacking type →', def: 'Defending type ↓',
+    weak: 'Takes ×2 or more from', resist: 'Takes ×½ or less from', immune: 'Takes no damage from', none2: 'none',
+    dropHelp: 'Type a Pokémon to see what it drops, or an item to see which Pokémon drop it.',
+    mons: 'Pokémon', items: 'Items', gen: 'Gen', lv: 'Lv.', any: 'anywhere',
+    bucket: { common: 'common', uncommon: 'uncommon', rare: 'rare', 'ultra-rare': 'ultra rare' },
+    pos: { grounded: 'on land', submerged: 'underwater', surface: 'on water', seafloor: 'sea floor', fishing: 'fishing', lavafloor: 'lava' },
+    ex: { rain: 'rain', thunder: 'thunderstorm', moon: 'moon phase', struct: 'near ', lure: 'lure ', t: { day: 'day', night: 'night', morning: 'morning', dusk: 'dusk', dawn: 'dawn', noon: 'noon', midnight: 'midnight', twilight: 'twilight' } },
+    form: 'form'
+  } : {
+    count: function (n, all) { return n === all ? all + ' mục' : n + ' / ' + all + ' mục'; },
+    none: 'Không thấy kết quả.', more: 'Xem thêm', loading: 'Đang tải dữ liệu…', fail: 'Không tải được dữ liệu. Tải lại trang thử.',
+    stats: ['HP', 'Tấn công', 'Phòng thủ', 'Tấn công đặc biệt', 'Phòng thủ đặc biệt', 'Tốc độ'], total: 'Tổng',
+    types: 'Hệ', abil: 'Ability', hidden: 'ẩn', evo: 'Tiến hoá', from: 'Tiến hoá từ', to: 'Tiến hoá thành',
+    forms: 'Dạng khác', battle: 'chỉ trong trận', drops: 'Item rơi', spawn: 'Nơi xuất hiện', nospawn: 'Không có dữ liệu xuất hiện tự nhiên.',
+    chance: 'tỉ lệ', qty: 'số lượng', blockedDrop: 'Coco đã bỏ', blockedNote: 'Món bị gạch là món luật server Coco đã bỏ khỏi đồ rơi của Pokémon (held item, vitamin, kẹo bạc hà, nắp chai…).',
+    leg: 'Huyền thoại: không ra theo bảng spawn thường. Server tự gieo tỉ lệ riêng, Giờ Vàng gấp đôi. Câu cá và Poké Snack không ra Huyền thoại.',
+    myth: 'Thần thoại: không xuất hiện tự nhiên trên Coco và bị khoá triệu hồi bằng bàn thờ.',
+    legLink: '/tinh-nang/legendary/', users: 'Pokémon có Ability này', droppedBy: 'Rơi từ', dropsOf: 'Đồ rơi của',
+    noDrop: 'Không Pokémon nào rơi món này.', itemDrop: function (n) { return 'Rơi từ ' + n + ' loài'; },
+    natHead: ['Tính cách', 'Tên tiếng Anh', 'Tăng', 'Giảm'], neutral: 'không đổi',
+    typeHelp: 'Chọn 1 hoặc 2 hệ để xem bị hệ nào đánh mạnh.', atk: 'Hệ tấn công →', def: 'Hệ phòng thủ ↓',
+    weak: 'Bị ×2 trở lên từ', resist: 'Chỉ bị ×½ trở xuống từ', immune: 'Miễn nhiễm', none2: 'không có',
+    dropHelp: 'Gõ tên Pokémon để xem nó rơi gì, hoặc tên item để xem con nào rơi.',
+    mons: 'Pokémon', items: 'Item', gen: 'Thế hệ', lv: 'Cấp', any: 'mọi nơi',
+    bucket: { common: 'thường gặp', uncommon: 'ít gặp', rare: 'hiếm', 'ultra-rare': 'rất hiếm' },
+    pos: { grounded: 'trên cạn', submerged: 'dưới nước', surface: 'mặt nước', seafloor: 'đáy biển', fishing: 'câu cá', lavafloor: 'dung nham' },
+    ex: { rain: 'trời mưa', thunder: 'có sấm', moon: 'theo pha trăng', struct: 'gần ', lure: 'mồi cấp ', t: { day: 'ban ngày', night: 'ban đêm', morning: 'buổi sáng', dusk: 'chạng vạng', dawn: 'bình minh', noon: 'buổi trưa', midnight: 'nửa đêm', twilight: 'chạng vạng' } },
+    form: 'dạng'
+  };
+  var BIOME_VI = { overworld: 'mọi biome thường', jungle: 'rừng nhiệt đới', ocean: 'biển', swamp: 'đầm lầy', forest: 'rừng', freshwater: 'sông hồ', coast: 'bờ biển', hills: 'đồi', tropical_island: 'đảo nhiệt đới', arid: 'vùng khô', mountain: 'núi', taiga: 'rừng taiga', magical: 'vùng huyền bí', temperate: 'ôn đới', badlands: 'badlands', lush: 'vùng tươi tốt', savanna: 'xavan', frozen_ocean: 'biển băng', floral: 'vùng hoa', plains: 'đồng bằng', spooky: 'vùng u ám', grassland: 'đồng cỏ', warm_ocean: 'biển ấm', mushroom: 'đảo nấm', sky: 'trên cao', end: 'The End', beach: 'bãi biển', snowy_forest: 'rừng tuyết', freezing: 'vùng băng giá', tundra: 'lãnh nguyên', desert: 'sa mạc', cold_ocean: 'biển lạnh', bamboo: 'rừng tre', volcanic: 'núi lửa', dripstone: 'hang thạch nhũ', river: 'sông', lukewarm_ocean: 'biển ấm vừa', deep_dark: 'Deep Dark', deep_ocean: 'biển sâu', island: 'đảo', glacial: 'sông băng', thermal: 'suối nóng', nether: 'Nether', snowy: 'vùng tuyết', peak: 'đỉnh núi', cherry_blossom: 'rừng anh đào', cave: 'hang', cold: 'vùng lạnh', highlands: 'cao nguyên', sandy: 'vùng cát' };
+  var TCOL = ['#6b6b4f', '#b8461a', '#2462c4', '#2e7d32', '#806500', '#1d7584', '#a12a1f', '#7b3591', '#7f561c', '#4f5fc4', '#b0305a', '#5a6a10', '#73631f', '#5a4385', '#4a32c0', '#4a3a30', '#4d6573', '#a3427a'];
+
+  var D = {}, loading = {};
+  function load(name) {
+    if (D[name]) { return Promise.resolve(D[name]); }
+    if (!loading[name]) {
+      loading[name] = fetch(BASE + name + '.json' + V).then(function (r) { if (!r.ok) { throw new Error(r.status); } return r.json(); })
+        .then(function (j) { D[name] = j; return j; });
+    }
+    return loading[name];
+  }
+
+  var $q = document.getElementById('pdx-q'), $out = document.getElementById('pdx-out'), $count = document.getElementById('pdx-count');
+  var $panel = document.getElementById('pdx-panel');
+  var tabs = [].slice.call(root.querySelectorAll('.pdx-tab'));
+  var cur = 'mon', limit = 60, token = 0;
+
+  function esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function fold(s) { return String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').replace(/[^a-z0-9:]+/g, ' ').trim(); }
+  function num(x) { var s = String(Math.round(x * 100) / 100); return EN ? s : s.replace('.', ','); }
+  function tName(i) { var m = D.misc; return m ? m.tn[i][EN ? 1 : 0] : ''; }
+  function tBadge(i) { return i < 0 ? '' : '<span class="pdx-t" style="background:' + TCOL[i] + '">' + esc(tName(i)) + '</span>'; }
+  function monName(id) { var m = D.monById[id]; return m ? m.n : (D.mon.names[id] || id); }
+  function itemName(id) { var it = D.it && D.it[id]; return it ? (EN ? it.e : it.v) : id.split(':').pop().replace(/_/g, ' '); }
+  function abName(id) { var a = D.abById && D.abById[id]; return a ? a[1] : id; }
+  function link(tab, q, text) { return '<button type="button" class="pdx-link" data-go="' + tab + '" data-q="' + esc(q) + '">' + esc(text) + '</button>'; }
+
+  // ---------- hash: #mon/gyarados, #drop/dragon scale ----------
+  function setHash() {
+    var h = '#' + cur + ($q.value ? '/' + encodeURIComponent($q.value) : '');
+    if (location.hash !== h) { history.replaceState(null, '', h); }
+  }
+
+  function select(tab, q, push) {
+    cur = tab; limit = 60;
+    tabs.forEach(function (b) {
+      var on = b.getAttribute('data-tab') === tab;
+      b.setAttribute('aria-selected', on ? 'true' : 'false');
+      b.tabIndex = on ? 0 : -1;
+      if (on) { $panel.setAttribute('aria-labelledby', b.id); }
+    });
+    $q.value = q || '';
+    $q.parentNode.style.display = (tab === 'nat' || tab === 'type') ? 'none' : '';
+    if (push !== false) { setHash(); }
+    render();
+  }
+
+  function needs(tab) {
+    var n = { mon: ['misc', 'mon'], ab: ['misc', 'ab', 'mon'], it: ['misc', 'it', 'mon'], nat: ['misc'], type: ['misc'], drop: ['misc', 'mon', 'it'] }[tab];
+    return Promise.all(n.map(load)).then(prep);
+  }
+  function prep() {
+    if (D.mon && !D.monById) {
+      D.monById = {};
+      D.mon.mons.forEach(function (m) { D.monById[m.i] = m; m.k = fold(m.n + ' ' + m.i + ' ' + m.d + ' ' + m.t.map(function (t) { return D.misc ? D.misc.tn[t].join(' ') : ''; }).join(' ')); });
+    }
+    if (D.ab && !D.abById) { D.abById = {}; D.ab.forEach(function (a) { D.abById[a[0]] = a; a.k = fold(a[0] + ' ' + a[1] + ' ' + a[2] + ' ' + a[3]); }); }
+    if (D.it && D.mon && !D.dropBy) {
+      D.dropBy = {};
+      D.mon.mons.forEach(function (m) { (m.dr || []).forEach(function (d) { (D.dropBy[d[0]] = D.dropBy[d[0]] || []).push([m.i, d]); }); });
+      D.itKeys = Object.keys(D.it).map(function (k) { var x = D.it[k]; return [k, fold(k + ' ' + x.v + ' ' + x.e)]; });
+    }
+  }
+
+  function render() {
+    var my = ++token;
+    if (!D.mon && cur !== 'nat' && cur !== 'type') { $count.textContent = S.loading; }
+    needs(cur).then(function () { if (my === token) { draw(); } }).catch(function () { $count.textContent = S.fail; });
+  }
+
+  function match(k, q) {
+    if (!q) { return true; }
+    var w = q.split(' ');
+    for (var i = 0; i < w.length; i++) { if (k.indexOf(w[i]) < 0) { return false; } }
+    return true;
+  }
+
+  function moreBtn(n) { return n > limit ? '<button type="button" class="pdx-more" data-more="1">' + S.more + ' (' + (n - limit) + ')</button>' : ''; }
+
+  function draw() {
+    var q = fold($q.value), html = '', list, all;
+    if (cur === 'mon') {
+      all = D.mon.mons.length;
+      list = D.mon.mons.filter(function (m) { return q === String(m.d) ? true : match(m.k, q); });
+      if (/^\d+$/.test(q)) { list = D.mon.mons.filter(function (m) { return String(m.d) === q; }); }
+      html = '<ul class="pdx-list">' + list.slice(0, limit).map(function (m) {
+        return row('m:' + m.i, '#' + String(m.d).padStart(4, '0'), esc(m.n), m.t.map(tBadge).join(''));
+      }).join('') + '</ul>' + moreBtn(list.length);
+    } else if (cur === 'ab') {
+      all = D.ab.length;
+      list = D.ab.filter(function (a) { return match(a.k, q); });
+      html = '<ul class="pdx-list">' + list.slice(0, limit).map(function (a) {
+        return row('a:' + a[0], '', esc(a[1]), esc((EN ? a[3] : (a[2] || a[3])).slice(0, 110)));
+      }).join('') + '</ul>' + moreBtn(list.length);
+    } else if (cur === 'it') {
+      all = D.itKeys.length;
+      list = D.itKeys.filter(function (x) { return match(x[1], q); });
+      html = '<ul class="pdx-list">' + list.slice(0, limit).map(function (x) {
+        var it = D.it[x[0]], n = (D.dropBy[x[0]] || []).length;
+        return row('i:' + x[0], '', esc(EN ? it.e : it.v), esc(((EN ? it.de : (it.dv || it.de)) || '').slice(0, 110)) + (n ? ' <span class="pdx-tag">' + esc(S.itemDrop(n)) + '</span>' : ''));
+      }).join('') + '</ul>' + moreBtn(list.length);
+    } else if (cur === 'nat') {
+      all = list = D.misc.nat.length;
+      html = '<div class="table-wrapper"><table class="pdx-tbl pdx-nat"><thead><tr><th>' + S.natHead[0] + '</th><th>' + S.natHead[2] + '</th><th>' + S.natHead[3] + '</th></tr></thead><tbody>' +
+        D.misc.nat.map(function (n) {
+          var p = n[3] && n[3] !== n[4];
+          return '<tr><td>' + esc(n[1]) + '</td><td>' + (p ? S.stats[n[3]] : '') + '</td><td>' + (p ? S.stats[n[4]] : '<span class="pdx-note">' + S.neutral + '</span>') + '</td></tr>';
+        }).join('') + '</tbody></table></div>';
+      $count.textContent = S.count(all, all);
+      $out.innerHTML = html; return;
+    } else if (cur === 'type') {
+      $count.textContent = '';
+      $out.innerHTML = typeView(); typeCalc(); return;
+    } else if (cur === 'drop') {
+      $count.textContent = q ? '' : S.dropHelp;
+      $out.innerHTML = q ? dropView(q) : ''; return;
+    }
+    $count.textContent = list.length ? S.count(list.length, all) : S.none;
+    $out.innerHTML = html;
+    if (list.length === 1 && q) { var r1 = $out.querySelector('.pdx-row'); if (r1) { r1.click(); } }
+  }
+
+  function row(key, no, name, sub) {
+    return '<li class="pdx-item"><button type="button" class="pdx-row" aria-expanded="false" data-key="' + esc(key) + '">' + (no ? '<span class="pdx-no">' + no + '</span>' : '') +
+      '<span class="pdx-nm">' + name + (sub ? '<span class="pdx-sub">' + sub + '</span>' : '') + '</span></button></li>';
+  }
+
+  // ---------- chi tiết ----------
+  function detail(key) {
+    var t = key.slice(0, 1), id = key.slice(2);
+    if (t === 'm') { return Promise.all([load('it'), load('ab'), load('sp')]).then(function () { prep(); return monDetail(D.monById[id]); }); }
+    if (t === 'a') { return Promise.resolve(abDetail(D.abById[id])); }
+    if (t === 'i') { return Promise.resolve(itDetail(id)); }
+    return Promise.resolve('');
+  }
+
+  function statsHtml(s) {
+    var tot = 0, h = '<div class="pdx-stats">';
+    s.forEach(function (v, i) { tot += v; h += '<span>' + S.stats[i] + '</span><b>' + v + '</b><span class="pdx-bar" style="width:' + Math.min(100, v / 2.55) + '%"></span>'; });
+    return h + '<span>' + S.total + '</span><b>' + tot + '</b><span></span></div>';
+  }
+  function abilHtml(a) {
+    return a.map(function (x) { var h = x.indexOf('h:') === 0, id = h ? x.slice(2) : x; return link('ab', abName(id), abName(id)) + (h ? ' <span class="pdx-tag">' + S.hidden + '</span>' : ''); }).join(', ');
+  }
+  function dropsHtml(m) {
+    if (!m.dr) { return ''; }
+    var anyB = false;
+    var h = '<h3>' + S.drops + '</h3><ul>' + m.dr.map(function (d) {
+      if (d[3]) { anyB = true; }
+      var txt = link('drop', itemName(d[0]), itemName(d[0])) + ' · ' + num(d[1]) + '%' + (d[2] ? ' · ' + S.qty + ' ' + esc(d[2]) : '');
+      return '<li' + (d[3] ? ' class="pdx-blocked"' : '') + '>' + txt + (d[3] ? ' <span class="pdx-tag pdx-tag--warn">' + S.blockedDrop + '</span>' : '') + '</li>';
+    }).join('') + '</ul>';
+    return h + (anyB ? '<p class="pdx-note">' + S.blockedNote + '</p>' : '');
+  }
+  function biome(b) { if (!b) { return S.any; } return b.split(',').map(function (x) { return EN ? x.replace(/_/g, ' ') : (BIOME_VI[x] || x.replace(/_/g, ' ')); }).join(', '); }
+  function extra(e) {
+    if (!e) { return ''; }
+    return e.split(' ').map(function (x) {
+      if (x.indexOf('t:') === 0) { return S.ex.t[x.slice(2)] || x.slice(2); }
+      if (x.indexOf('struct:') === 0) { return S.ex.struct + x.slice(7).replace(/_/g, ' '); }
+      if (x.indexOf('lure') === 0) { return S.ex.lure + x.slice(4); }
+      return S.ex[x] || x;
+    }).join(', ');
+  }
+  function spawnHtml(m) {
+    var h = '<h3>' + S.spawn + '</h3>';
+    if (m.x === 'L') { h += '<p class="pdx-note">' + S.leg + ' <a href="' + S.legLink + '">→</a></p>'; }
+    if (m.x === 'M') { return h + '<p class="pdx-note">' + S.myth + '</p>'; }
+    var sp = D.sp && D.sp[m.i];
+    if (!sp) { return h + '<p class="pdx-note">' + S.nospawn + '</p>'; }
+    return h + '<ul>' + sp.map(function (s) {
+      var parts = [S.bucket[s[0]] || s[0], S.lv + ' ' + s[1], S.pos[s[2]] || s[2], biome(s[3])];
+      var ex = extra(s[4]); if (ex) { parts.push(ex); }
+      if (s[5]) { parts.push(S.form + ' ' + s[5]); }
+      return '<li>' + esc(parts.join(' · ')) + '</li>';
+    }).join('') + '</ul>';
+  }
+  function evoHtml(m) {
+    var h = '';
+    if (m.p) { h += '<p>' + S.from + ': ' + m.p.map(function (p) { return link('mon', monName(p), monName(p)); }).join(', ') + '</p>'; }
+    if (m.e) { h += '<ul>' + m.e.map(function (e) { return '<li>' + link('mon', monName(e[0]), monName(e[0])) + (e[1] ? ' (' + esc(e[1]) + ')' : '') + (e[EN ? 3 : 2] ? ': ' + esc(e[EN ? 3 : 2]) : '') + '</li>'; }).join('') + '</ul>'; }
+    return h ? '<h3>' + S.evo + '</h3>' + h : '';
+  }
+  function formsHtml(m) {
+    if (!m.f) { return ''; }
+    return '<h3>' + S.forms + '</h3><ul>' + m.f.map(function (f) {
+      var bits = [];
+      if (f.t) { bits.push(f.t.map(tBadge).join('')); }
+      if (f.s) { bits.push(f.s.join('/') + ' (' + S.total + ' ' + f.s.reduce(function (a, b) { return a + b; }, 0) + ')'); }
+      if (f.a) { bits.push(abilHtml(f.a)); }
+      return '<li><b>' + esc(f.n) + '</b>' + (f.b ? ' <span class="pdx-tag">' + S.battle + '</span>' : '') + (bits.length ? ': ' + bits.join(' · ') : '') + '</li>';
+    }).join('') + '</ul>';
+  }
+  function monDetail(m) {
+    return (m.g ? '<p><span class="pdx-tag">' + S.gen + ' ' + esc(m.g) + '</span></p>' : '') + statsHtml(m.s) +
+      '<h3>' + S.abil + '</h3><p>' + abilHtml(m.a) + '</p>' + evoHtml(m) + formsHtml(m) + dropsHtml(m) + spawnHtml(m);
+  }
+  function abDetail(a) {
+    var d = EN ? a[3] : (a[2] || a[3]);
+    return '<p>' + esc(d) + '</p>' + (!EN && a[2] && a[3] ? '<p class="pdx-note">' + esc(a[3]) + '</p>' : '') +
+      '<h3>' + S.users + ' (' + a[4].length + ')</h3><p>' + (a[4].length ? a[4].map(function (u) { return link('mon', monName(u), monName(u)); }).join(', ') : S.none2) + '</p>';
+  }
+  function itDetail(id) {
+    var it = D.it[id], d = EN ? it.de : (it.dv || it.de);
+    var by = D.dropBy[id] || [];
+    return (d ? '<p>' + esc(d) + '</p>' : '') + '<p class="pdx-note"><code>' + esc(id) + '</code></p>' +
+      '<h3>' + S.droppedBy + ' (' + by.length + ')</h3>' + (by.length ? dropList(by) : '<p>' + S.noDrop + '</p>') + (it.b ? '<p class="pdx-note">' + S.blockedNote + '</p>' : '');
+  }
+  function dropList(by) {
+    return '<ul>' + by.map(function (x) { var d = x[1]; return '<li' + (d[3] ? ' class="pdx-blocked"' : '') + '>' + link('mon', monName(x[0]), monName(x[0])) + ' · ' + num(d[1]) + '%' + (d[2] ? ' · ' + S.qty + ' ' + esc(d[2]) : '') + '</li>'; }).join('') + '</ul>';
+  }
+
+  // ---------- Item rơi ----------
+  function dropView(q) {
+    var mons = D.mon.mons.filter(function (m) { return m.dr && match(m.k, q); }).slice(0, 12);
+    var its = D.itKeys.filter(function (x) { return D.dropBy[x[0]] && match(x[1], q); }).slice(0, 12);
+    var h = '';
+    if (its.length) {
+      h += '<h3>' + S.items + '</h3>' + its.map(function (x) {
+        return '<div class="pdx-item" style="padding:.5rem .8rem;margin-bottom:.4rem"><b>' + esc(itemName(x[0])) + '</b>' + (D.it[x[0]].b ? ' <span class="pdx-tag pdx-tag--warn">' + S.blockedDrop + '</span>' : '') + '<br><span class="pdx-note">' + S.droppedBy + ' (' + D.dropBy[x[0]].length + ')</span>' + dropList(D.dropBy[x[0]]) + '</div>';
+      }).join('');
+    }
+    if (mons.length) {
+      h += '<h3>' + S.mons + '</h3>' + mons.map(function (m) {
+        return '<div class="pdx-item" style="padding:.5rem .8rem;margin-bottom:.4rem"><b>' + esc(m.n) + '</b> <span class="pdx-note">#' + m.d + '</span>' + dropsHtml(m).replace(/<h3>[^<]*<\/h3>/, '') + '</div>';
+      }).join('');
+    }
+    return h || '<p>' + S.none + '</p>';
+  }
+
+  // ---------- Hệ ----------
+  function typeView() {
+    var m = D.misc, n = m.types.length, opts = '<option value="">—</option>' + m.types.map(function (t, i) { return '<option value="' + i + '">' + esc(tName(i)) + '</option>'; }).join('');
+    var h = '<p>' + S.typeHelp + '</p><div class="pdx-pick"><select id="pdx-t1" aria-label="' + S.types + ' 1">' + opts.replace('value="1"', 'value="1" selected') + '</select><select id="pdx-t2" aria-label="' + S.types + ' 2">' + opts + '</select></div><div id="pdx-tres"></div>';
+    h += '<p class="pdx-note">' + S.def + ' / ' + S.atk + '</p><div class="pdx-chart-wrap"><table class="pdx-chart"><thead><tr><th class="pdx-r"></th>';
+    for (var i = 0; i < n; i++) { h += '<th scope="col">' + esc(tName(i)) + '</th>'; }
+    h += '</tr></thead><tbody>';
+    for (var d = 0; d < n; d++) {
+      h += '<tr><th scope="row" class="pdx-r">' + tBadge(d) + '</th>';
+      for (var a = 0; a < n; a++) {
+        var v = m.chart[a][d];
+        h += v === 1 ? '<td></td>' : '<td class="' + (v === 2 ? 'pdx-x2' : v === 0 ? 'pdx-x0' : 'pdx-x05') + '">' + (v === 0.5 ? '½' : v) + '</td>';
+      }
+      h += '</tr>';
+    }
+    return h + '</tbody></table></div>';
+  }
+  function typeCalc() {
+    var a = document.getElementById('pdx-t1'), b = document.getElementById('pdx-t2'), out = document.getElementById('pdx-tres');
+    if (!a) { return; }
+    var t1 = a.value === '' ? -1 : +a.value, t2 = b.value === '' ? -1 : +b.value, m = D.misc;
+    if (t1 < 0 && t2 < 0) { out.innerHTML = ''; return; }
+    var w = [], r = [], z = [];
+    m.types.forEach(function (_, at) {
+      var f = 1;
+      [t1, t2].forEach(function (d, k) { if (d >= 0 && !(k === 1 && d === t1)) { f *= m.chart[at][d]; } });
+      if (f === 0) { z.push(at); } else if (f > 1) { w.push([at, f]); } else if (f < 1) { r.push([at, f]); }
+    });
+    function lst(x) { return x.length ? x.map(function (p) { return tBadge(p[0]) + '<span class="pdx-note">×' + num(p[1]) + '</span> '; }).join('') : S.none2; }
+    out.innerHTML = '<p><b>' + S.weak + ':</b> ' + lst(w) + '</p><p><b>' + S.resist + ':</b> ' + lst(r) + '</p><p><b>' + S.immune + ':</b> ' + (z.length ? z.map(tBadge).join('') : S.none2) + '</p>';
+  }
+
+  // ---------- sự kiện ----------
+  var timer;
+  $q.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(function () { limit = 60; setHash(); draw(); }, 120); });
+  root.addEventListener('change', function (e) { if (e.target.id === 'pdx-t1' || e.target.id === 'pdx-t2') { typeCalc(); } });
+  root.addEventListener('click', function (e) {
+    var t = e.target.closest('[data-tab],[data-go],[data-more],.pdx-row');
+    if (!t) { return; }
+    if (t.hasAttribute('data-tab')) { select(t.getAttribute('data-tab'), ''); return; }
+    if (t.hasAttribute('data-go')) { select(t.getAttribute('data-go'), t.getAttribute('data-q')); root.scrollIntoView({ block: 'start' }); return; }
+    if (t.hasAttribute('data-more')) { limit += 120; draw(); return; }
+    var li = t.parentNode, open = t.getAttribute('aria-expanded') === 'true', body = li.querySelector('.pdx-body');
+    if (open) { t.setAttribute('aria-expanded', 'false'); if (body) { body.hidden = true; } return; }
+    t.setAttribute('aria-expanded', 'true');
+    if (body) { body.hidden = false; return; }
+    body = document.createElement('div'); body.className = 'pdx-body'; body.textContent = S.loading; li.appendChild(body);
+    detail(t.getAttribute('data-key')).then(function (h) { body.innerHTML = h; }).catch(function () { body.textContent = S.fail; });
+  });
+  root.addEventListener('keydown', function (e) {
+    if (!e.target.classList.contains('pdx-tab') || (e.key !== 'ArrowRight' && e.key !== 'ArrowLeft')) { return; }
+    var i = tabs.indexOf(e.target) + (e.key === 'ArrowRight' ? 1 : -1);
+    var b = tabs[(i + tabs.length) % tabs.length]; b.focus(); select(b.getAttribute('data-tab'), '');
+  });
+
+  var h = decodeURIComponent((location.hash || '').slice(1)), p = h.indexOf('/');
+  var tab0 = p < 0 ? h : h.slice(0, p), q0 = p < 0 ? '' : h.slice(p + 1);
+  if (!tabs.some(function (b) { return b.getAttribute('data-tab') === tab0; })) { tab0 = 'mon'; q0 = ''; }
+  select(tab0, q0, false);
+})();
