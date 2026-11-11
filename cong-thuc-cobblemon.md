@@ -4,7 +4,7 @@ seo_title: "Công thức Cobblemon: Poké Ball, PC, máy hồi máu"
 description: "Công thức chế tạo trong Cobblemon 1.7.3: Poké Ball, Great Ball, Ultra Ball, PC, Máy Chữa Lành (máy hồi máu), Khối đồng cỏ, Pokédex. Đọc từ file mod."
 nav_order: 8.7
 alt: /en/cobblemon-recipes/
-last_modified_at: 2026-11-11T04:47:50+07:00
+last_modified_at: 2026-11-11T07:21:59+07:00
 ---
 
 # Công thức chế tạo Cobblemon
@@ -94,6 +94,6 @@ Máy hồi máu là Máy Chữa Lành (Healing Machine). Hàng trên: 3 Phôi đ
 
 Đặt 1 Phôi vàng ở giữa, 2 Black Apricorn ở trên và dưới, 2 Yellow Apricorn ở trái và phải: ra 4 Ultra Ball.
 
-**Xem thêm:** [Cobblemon là gì](/cobblemon-la-gi/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Lệnh Cobblemon](/lenh-cobblemon/) · [Cách tải Cobblemon](/cach-tai-cobblemon/)
+**Xem thêm:** [Hoá thạch và máy hồi sinh](/hoa-thach-cobblemon/) · [Cobblemon là gì](/cobblemon-la-gi/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Lệnh Cobblemon](/lenh-cobblemon/) · [Cách tải Cobblemon](/cach-tai-cobblemon/)
 
 *Cập nhật: 11/11/2026.*

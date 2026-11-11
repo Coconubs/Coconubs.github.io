@@ -30,7 +30,7 @@ jsonld: |
       "https://discord.gg/hyspace"
     ]
   }
-last_modified_at: 2026-11-11T07:17:29+07:00
+last_modified_at: 2026-11-11T07:21:59+07:00
 ---
 
 {% include coco_icons.html %}
@@ -139,6 +139,7 @@ Menu, hướng dẫn và thông báo trong game đều bằng tiếng Việt, c�
 - [Cách tiến hoá Mega trong Cobblemon: Mega Bracelet, đá Mega, Rayquaza](/mega-cobblemon/)
 - [Cách cưỡi Pokémon trong Cobblemon: Pokémon nào cưỡi được](/cuoi-pokemon-cobblemon/)
 - [Cách học chiêu cho Pokémon trong Cobblemon: Đổi Đòn, TM](/hoc-chieu-cobblemon/)
+- [Hoá thạch Cobblemon: tìm ở đâu, cách hồi sinh Pokémon hoá thạch](/hoa-thach-cobblemon/)
 - [Cobblemon Việt hoá: chơi bằng tiếng Việt](/cobblemon-viet-hoa/)
 - [Cobblemon PE, Bedrock: có bản cho Minecraft PE không?](/cobblemon-pe/)
 - [Cobblemon trên iPhone, iPad (iOS)](/cobblemon-ios/)

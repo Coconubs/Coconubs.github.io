@@ -90,6 +90,7 @@ Menu, hướng dẫn và thông báo trong game đều bằng tiếng Việt, c�
 - [Cách tiến hoá Mega trong Cobblemon: Mega Bracelet, đá Mega, Rayquaza](https://coconubs.github.io/mega-cobblemon/)
 - [Cách cưỡi Pokémon trong Cobblemon: Pokémon nào cưỡi được](https://coconubs.github.io/cuoi-pokemon-cobblemon/)
 - [Cách học chiêu cho Pokémon trong Cobblemon: Đổi Đòn, TM](https://coconubs.github.io/hoc-chieu-cobblemon/)
+- [Hoá thạch Cobblemon: tìm ở đâu, cách hồi sinh Pokémon hoá thạch](https://coconubs.github.io/hoa-thach-cobblemon/)
 - [Cobblemon Việt hoá: chơi bằng tiếng Việt](https://coconubs.github.io/cobblemon-viet-hoa/)
 - [Cobblemon PE, Bedrock: có bản cho Minecraft PE không?](https://coconubs.github.io/cobblemon-pe/)
 - [Cobblemon trên iPhone, iPad (iOS)](https://coconubs.github.io/cobblemon-ios/)
@@ -2423,7 +2424,7 @@ Máy hồi máu là Máy Chữa Lành (Healing Machine). Hàng trên: 3 Phôi đ
 
 Đặt 1 Phôi vàng ở giữa, 2 Black Apricorn ở trên và dưới, 2 Yellow Apricorn ở trái và phải: ra 4 Ultra Ball.
 
-**Xem thêm:** [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/) · [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/)
+**Xem thêm:** [Hoá thạch và máy hồi sinh](https://coconubs.github.io/hoa-thach-cobblemon/) · [Cobblemon là gì](https://coconubs.github.io/cobblemon-la-gi/) · [Các phím chơi Cobblemon](https://coconubs.github.io/phim-tat-cobblemon/) · [Lệnh Cobblemon](https://coconubs.github.io/lenh-cobblemon/) · [Cách tải Cobblemon](https://coconubs.github.io/cach-tai-cobblemon/)
 
 *Cập nhật: 11/11/2026.*
 
@@ -2881,6 +2882,159 @@ Không. Trong Cobblemon, Đổi Đòn trong Tóm Tắt cho chọn lại mọi ch
 
 ---
 
+Trang: Hoá thạch Cobblemon: tìm ở đâu, cách hồi sinh Pokémon hoá thạch
+URL: https://coconubs.github.io/hoa-thach-cobblemon/
+
+# Hoá thạch Cobblemon: tìm ở đâu, cách hồi sinh Pokémon hoá thạch
+
+Trong Cobblemon 1.7.3, hoá thạch nằm trong **Cát đáng ngờ** và **Sỏi đáng ngờ** ở các công trình hoá thạch; dùng **Chổi quét** để lấy ra. Để hồi sinh, đặt **Màn Hình Dữ Liệu** lên trên **Máy phân tích Hóa thạch** và đặt **Bể Phục Hồi** sát bên, bỏ hoá thạch vào, nạp 128 điểm vật liệu hữu cơ rồi chờ 12 phút. Xong, cầm Poké Ball bấm vào máy để nhận Pokémon.
+
+## Danh sách hoá thạch Cobblemon 1.7.3
+
+Cobblemon 1.7.3 có 15 vật phẩm hoá thạch và 15 công thức hồi sinh. 11 hoá thạch đi một mình. 4 hoá thạch Galar phải ghép đôi: một mảnh đầu (Bird hoặc Dino) với một mảnh đuôi (Fish hoặc Drake). Tên hoá thạch trong game hiện bằng tiếng Anh vì bản tiếng Việt của Cobblemon chưa dịch các tên này.
+
+| Hoá thạch bỏ vào máy | Pokémon hồi sinh |
+|---|---|
+| Helix Fossil | Omanyte |
+| Dome Fossil | Kabuto |
+| Old Amber Fossil | Aerodactyl |
+| Root Fossil | Lileep |
+| Claw Fossil | Anorith |
+| Skull Fossil | Cranidos |
+| Armor Fossil | Shieldon |
+| Cover Fossil | Tirtouga |
+| Plume Fossil | Archen |
+| Jaw Fossil | Tyrunt |
+| Sail Fossil | Amaura |
+| Fossilized Bird + Fossilized Drake | Dracozolt |
+| Fossilized Bird + Fossilized Dino | Arctozolt |
+| Fossilized Fish + Fossilized Drake | Dracovish |
+| Fossilized Fish + Fossilized Dino | Arctovish |
+
+Pokémon hồi sinh có thể nhận dấu **Revival Mark**.
+
+## Tìm hoá thạch ở đâu
+
+Cobblemon 1.7.3 thêm 23 loại công trình hoá thạch mọc tự nhiên. Mỗi công trình có vài khối **Cát đáng ngờ** hoặc **Sỏi đáng ngờ**. Cầm **Chổi quét**, giữ **chuột phải** vào khối đó để quét ra đồ.
+
+- Mỗi công trình có 1 khối chắc chắn ra 1 hoá thạch, theo bảng dưới.
+- Tối đa 5 khối khác có thể ra thêm hoá thạch (loại tuỳ công trình), Everstone, Damp Rock, Heat Rock hoặc vật phẩm cầm khác.
+- Các khối còn lại ra Xương, quặng thô, than, rễ, thảo dược và đá tiến hoá.
+
+| Hoá thạch chắc chắn có | Biome có công trình | Tên công trình trong file |
+|---|---|---|
+| Helix Fossil | Sa mạc | sandy_den |
+| Dome Fossil | Đại dương, Đại dương sâu thẳm (đáy biển) | hydrothermal_vents |
+| Old Amber Fossil | Rừng, Rừng hoa, Đầm lầy, Rừng lộng gió, Rừng cằn cỗi | oak_tree |
+| Old Amber Fossil | Rừng Taiga, Rừng Taiga băng tuyết, Rừng núi phủ tuyết, Rừng Taiga nguyên sinh, Rừng Taiga vân sam nguyên sinh, Rừng lộng gió | spruce_tree |
+| Root Fossil | Đầm lầy, Đầm lầy ngập mặn | rooted_pit |
+| Claw Fossil | Hang động thạch nhũ (dưới lòng đất, Y từ -37 đến 10) | dripstone_oasis |
+| Claw Fossil | Hang động tươi tốt (dưới lòng đất, Y từ -37 đến 10) | mossy_pond |
+| Skull Fossil | Rừng nhiệt đới | mud_pit |
+| Armor Fossil | Vùng đất cằn cỗi (badlands) | sunscorched_den |
+| Cover Fossil | Đại dương băng giá (đáy biển) | submerged_spike |
+| Cover Fossil | Đại dương sâu thẳm (đáy biển) | underwater_fissure |
+| Cover Fossil | Đại dương ấm áp (đáy biển) | vibrant_hydrothermal_vents |
+| Plume Fossil | Rừng gỗ bạch dương, Rừng bạch dương nguyên sinh, Rừng, Rừng hoa | birch_tree |
+| Jaw Fossil | Vùng đất cằn cỗi (badlands) | eroded_pillar |
+| Jaw Fossil | Rừng nhiệt đới | lush_den |
+| Sail Fossil | Đỉnh núi băng giá, Mũi băng | frozen_pond |
+| Sail Fossil | Đồng bằng băng tuyết, Dốc tuyết, Đỉnh núi lởm chởm, Biển băng tuyết và các biome tuyết khác | powdered_deposit |
+| Fossilized Bird | Đồng bằng, Đồng bằng hướng dương | suspicious_mound |
+| Fossilized Fish | Hang động tươi tốt (dưới lòng đất, Y từ -37 đến 10) | enhydro_agate |
+| Fossilized Fish | Đại dương (đáy biển) | submerged_impact |
+| Fossilized Dino | Đỉnh núi băng giá, Mũi băng | frozen_spike |
+| Fossilized Drake | Vùng đất cằn cỗi (badlands) | sunscorched_remains |
+| 1 mảnh đầu (Bird hoặc Dino) và 1 mảnh đuôi (Fish hoặc Drake) | Đại dương băng giá | preserved_skeleton |
+
+Biome ghi theo tên gốc của Minecraft trong tag của Cobblemon; tag có thể gồm cả biome của mod khác. Bài không ghi tỉ lệ gặp công trình vì vị trí công trình phụ thuộc hạt giống thế giới và vùng đất đã sinh.
+
+## Cách dựng máy và hồi sinh hoá thạch
+
+1. Chế tạo **Máy phân tích Hóa thạch**, **Màn Hình Dữ Liệu** và **Bể Phục Hồi** (công thức ở dưới).
+2. Đặt Máy phân tích Hóa thạch xuống, rồi đặt Màn Hình Dữ Liệu ngay trên nó.
+3. Đặt Bể Phục Hồi sát một mặt bên của Máy phân tích Hóa thạch. Bể cao 2 khối. Đủ 3 khối là máy tự ghép.
+4. Cầm hoá thạch, bấm **chuột phải** vào máy để bỏ vào. Hoá thạch Galar phải bỏ đủ 2 mảnh.
+5. Cầm vật liệu hữu cơ, bấm **chuột phải** vào máy, mỗi lần nạp 1 món, tới khi đủ **128 điểm**. Có hoá thạch và đủ 128 điểm là máy tự chạy.
+6. Chờ **12 phút**. Xong, cầm **Poké Ball** bấm chuột phải vào máy. Pokémon vào đội hình, mang loại bóng bạn dùng.
+
+- Bấm vào khối nào trong 3 khối của máy cũng được.
+- Máy chưa chạy thì bấm chuột phải bằng tay không để lấy lại hoá thạch vừa bỏ vào.
+- Máy đang chạy thì không bỏ thêm hoá thạch hay vật liệu hữu cơ được.
+- Hồi sinh xong, 5 phút đầu chỉ người đã bỏ hoá thạch vào mới lấy được Pokémon; người khác bấm sẽ thấy dòng "Hóa thạch này thuộc về [tên]!". Sau 5 phút, ai cầm Poké Ball cũng lấy được.
+
+## Công thức máy hồi sinh hoá thạch
+
+| Khối | Hàng trên | Hàng giữa | Hàng dưới |
+|---|---|---|---|
+| Máy phân tích Hóa thạch | Đá cuội bảng sâu, Mảnh thạch anh tím, Đá cuội bảng sâu | Phôi sắt, Thủy tinh, Phôi sắt | Đá cuội bảng sâu, Bột Redstone, Đá cuội bảng sâu |
+| Màn Hình Dữ Liệu | Phôi sắt, Phôi sắt, Phôi sắt | Phôi đồng, Thủy tinh, Phôi đồng | Phôi sắt, Đuốc Redstone, Phôi sắt |
+| Bể Phục Hồi | Phôi sắt, Phôi sắt, Phôi sắt | Thủy tinh, Revive, Thủy tinh | Thủy tinh, Thùng ủ phân, Thủy tinh |
+
+Cả máy cần tổng cộng 10 Phôi sắt, 2 Phôi đồng, 6 Thủy tinh, 4 Đá cuội bảng sâu, 1 Mảnh thạch anh tím, 1 Bột Redstone, 1 Đuốc Redstone, 1 Revive và 1 Thùng ủ phân.
+
+## Vật liệu hữu cơ: cần 128 điểm
+
+Vật liệu hữu cơ là đồ ăn, cây cỏ và đồ lấy từ sinh vật. Cobblemon 1.7.3 ghi 176 mục (134 mục của Minecraft, 42 mục của Cobblemon), có mục là cả một nhóm như mọi loại hoa, lá cây hay Berry. Mỗi món có số điểm riêng:
+
+| Điểm mỗi món | Ví dụ |
+|---|---|
+| 1 | Hạt lúa mì, Tảo bẹ khô, Lát cắt dưa hấu, Giấy, thuốc nhuộm |
+| 2 | Lúa mì, Cây mía, Quả mọng ngọt, Tảo bẹ, Đường, Bánh quy, hoa, lá cây, cây non, Berry, Apricorn |
+| 4 | Cà rốt, Khoai tây, Củ dền, Táo, Bánh mì, Bột xương, Mắt nhện, thịt và cá đã nấu |
+| 8 | Trứng, Da thuộc, Thịt thối rữa, Bí ngô, Dưa hấu, Bóng nhờn, Bánh bí ngô, Xô sữa, thịt và cá sống |
+| 16 | Kiện rơm, Bánh ngọt, Súp thỏ hầm, Súp củ dền, Khối mật ong, Miếng bọt biển, Trứng rùa |
+| 32 | Táo vàng, Nước mắt Ghast, Tổ ong tự nhiên, Revive, Miracle Seed |
+| 64 | Vỏ ốc anh vũ, Hơi thở của rồng, Trứng kẻ đánh hơi, Max Revive |
+| 256 | Táo vàng được phù phép, Sao Nether, Trứng rồng |
+
+- Cách nhanh: 8 **Kiện rơm** là đủ 128 điểm (16 điểm mỗi kiện).
+- Máy chỉ nhận tới 128 điểm. Điểm dư bị mất, nên đừng bỏ đồ quý khi máy gần đầy.
+- Món đựng trong bát, xô hay chai thì máy trả lại cái bát, cái xô, cái chai.
+- Nạp vật liệu trước hay sau khi bỏ hoá thạch đều được.
+
+## Hồi sinh hoá thạch trên server Coco Cobblemon
+
+- **Hoá thạch thường không mất phí:** 15 Pokémon ở bảng trên không có trong bảng phí của server, nên hồi sinh như Cobblemon gốc (cấu hình server kiểm ngày 11/11/2026).
+- **Cách tìm như bản gốc:** gói dữ liệu COBBLEVERSE trên server không đổi công trình và bảng đồ quét hoá thạch của Cobblemon.
+- **Có thêm Mewtwo và Type: Null:** gói COBBLEVERSE thêm 2 công thức cho máy: **Ancient DNA** + **Cloning Catalyst** ra Mewtwo, **Fossilized Helmet** ra Type: Null.
+- **Phí lấy Mewtwo, Type: Null là 20.000.000$** (CobbleDollars) mỗi con. Server báo phí và hỏi xác nhận trước khi trừ tiền. Không đủ tiền thì không lấy được.
+- **Không phá được máy khi máy đang giữ Mewtwo hay Type: Null:** hãy lấy Pokémon ra bằng Poké Ball trước.
+
+## Hỏi nhanh
+
+### Hoá thạch Cobblemon tìm ở đâu?
+
+Trong Cobblemon, hoá thạch nằm trong Cát đáng ngờ và Sỏi đáng ngờ ở 23 loại công trình hoá thạch: sa mạc, đồng bằng, rừng, đầm lầy, rừng nhiệt đới, vùng đất cằn cỗi, vùng băng tuyết, hang động và đáy biển. Dùng Chổi quét để lấy ra.
+
+### Cách hồi sinh hoá thạch trong Cobblemon?
+
+Đặt Màn Hình Dữ Liệu lên Máy phân tích Hóa thạch, đặt Bể Phục Hồi sát bên. Bỏ hoá thạch vào, nạp 128 điểm vật liệu hữu cơ, chờ 12 phút rồi cầm Poké Ball bấm vào máy.
+
+### Máy hồi sinh hoá thạch Cobblemon gồm những gì?
+
+Gồm 3 khối: Máy phân tích Hóa thạch, Màn Hình Dữ Liệu và Bể Phục Hồi. Cả 3 khối cần tổng 10 Phôi sắt, 2 Phôi đồng, 6 Thủy tinh, 4 Đá cuội bảng sâu, 1 Mảnh thạch anh tím, 1 Bột Redstone, 1 Đuốc Redstone, 1 Revive và 1 Thùng ủ phân.
+
+### Vật liệu hữu cơ trong Cobblemon là gì?
+
+Trong Cobblemon, vật liệu hữu cơ là đồ ăn, cây cỏ và đồ lấy từ sinh vật, mỗi món có điểm riêng. Máy cần 128 điểm, ví dụ 8 Kiện rơm.
+
+### Hồi sinh hoá thạch trên Coco Cobblemon có mất tiền không?
+
+Hoá thạch thường như Omanyte, Kabuto, Aerodactyl, Tyrunt không mất phí. Trên Coco Cobblemon, lấy Mewtwo hoặc Type: Null ra khỏi máy mất 20.000.000$ CobbleDollars.
+
+### Cobblemon có hồi sinh được Mewtwo không?
+
+Cobblemon 1.7.3 gốc không có công thức này. Trên Coco Cobblemon, gói COBBLEVERSE thêm công thức Ancient DNA + Cloning Catalyst ra Mewtwo, phí 20.000.000$.
+
+**Xem thêm:** [Công thức chế tạo Cobblemon](https://coconubs.github.io/cong-thuc-cobblemon/) · [Cách bắt Pokémon](https://coconubs.github.io/cach-bat-pokemon-cobblemon/) · [Cách tiến hoá Pokémon](https://coconubs.github.io/tien-hoa-cobblemon/) · [Cưỡi Pokémon](https://coconubs.github.io/cuoi-pokemon-cobblemon/) · [Legendary trên Coco Cobblemon](https://coconubs.github.io/tinh-nang/legendary/) · [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/)
+
+*Số liệu lấy từ file `Cobblemon-fabric-1.7.3+1.21.1.jar` ngày 11/11/2026; phần Coco Cobblemon theo cấu hình server và gói dữ liệu COBBLEVERSE v31 kiểm ngày 11/11/2026. Bản Cobblemon khác hoặc server có gói dữ liệu riêng có thể khác.*
+
+*Cập nhật: 11/11/2026.*
+
+---
+
 Trang: Cobblemon Việt hoá: cách chơi Cobblemon bằng tiếng Việt
 URL: https://coconubs.github.io/cobblemon-viet-hoa/
 
@@ -3208,6 +3362,7 @@ Yes. Anyone can download CocoLauncher and join. Most players and most of the cha
 - [How to Mega Evolve in Cobblemon: Mega Bracelet, Mega Stones, Rayquaza](https://coconubs.github.io/en/cobblemon-mega/)
 - [How to ride Pokémon in Cobblemon: which Pokémon are rideable](https://coconubs.github.io/en/cobblemon-riding/)
 - [How Pokémon learn moves in Cobblemon: Switch Move, TMs](https://coconubs.github.io/en/cobblemon-moves/)
+- [Cobblemon fossils: where to find them and how to revive fossil Pokémon](https://coconubs.github.io/en/cobblemon-fossils/)
 - [What is Cobblemon, and how many Pokémon it has](https://coconubs.github.io/en/what-is-cobblemon/)
 - [Which launcher for Cobblemon](https://coconubs.github.io/en/cobblemon-launcher/)
 - [Troubleshooting](https://coconubs.github.io/en/troubleshooting/)
@@ -4058,7 +4213,7 @@ Top row: Iron Ingot, Glass, Iron Ingot. Middle row: Iron Ingot, Copper Ingot, Ir
 
 Top row: 3 Copper Ingots. Middle row: Iron Ingot, Max Revive, Iron Ingot. Bottom row: Iron Ingot, Redstone Dust, Iron Ingot.
 
-**See also:** [What is Cobblemon](https://coconubs.github.io/en/what-is-cobblemon/) · [How to evolve Pokémon](https://coconubs.github.io/en/cobblemon-evolution/) · [Cobblemon commands](https://coconubs.github.io/en/cobblemon-commands/) · [Cobblemon controls](https://coconubs.github.io/en/cobblemon-controls/) · [FAQ](https://coconubs.github.io/en/faq/)
+**See also:** [Fossils and the fossil machine](https://coconubs.github.io/en/cobblemon-fossils/) · [What is Cobblemon](https://coconubs.github.io/en/what-is-cobblemon/) · [How to evolve Pokémon](https://coconubs.github.io/en/cobblemon-evolution/) · [Cobblemon commands](https://coconubs.github.io/en/cobblemon-commands/) · [Cobblemon controls](https://coconubs.github.io/en/cobblemon-controls/) · [FAQ](https://coconubs.github.io/en/faq/)
 
 *Updated: 11 November 2026.*
 
@@ -4472,6 +4627,159 @@ You do not need one: in Cobblemon, Switch Move in the Summary lets you pick any 
 **See also:** [How to evolve Pokémon](https://coconubs.github.io/en/cobblemon-evolution/) · [How to catch Pokémon](https://coconubs.github.io/en/cobblemon-catching/) · [Cobblemon controls](https://coconubs.github.io/en/cobblemon-controls/) · [Features of Coco Cobblemon](https://coconubs.github.io/en/features/)
 
 *Read from `Cobblemon-fabric-1.7.3+1.21.1.jar` and the TMCraft 1.4.18 mod on 11 November 2026; the Coco Cobblemon parts follow the in-game Guide of 8 November 2026.*
+
+*Updated: 11 November 2026.*
+
+---
+
+Trang: Cobblemon fossils: where to find them and how to revive fossil Pokémon
+URL: https://coconubs.github.io/en/cobblemon-fossils/
+
+# Cobblemon fossils: where to find them and how to revive fossil Pokémon
+
+In Cobblemon 1.7.3, fossils are buried in **Suspicious Sand** and **Suspicious Gravel** at fossil sites; use a **Brush** to dig them out. To revive one, put a **Data Monitor** on top of a **Fossil Analyzer**, place a **Restoration Tank** next to it, insert the fossil, add 128 points of organic material and wait 12 minutes. Then right-click the machine with a Poké Ball to collect the Pokémon.
+
+## Cobblemon 1.7.3 fossil list
+
+Cobblemon 1.7.3 has 15 fossil items and 15 revival recipes. 11 fossils work on their own. The 4 Galar fossils must be paired: one front half (Bird or Dino) with one back half (Fish or Drake).
+
+| Fossil to insert | Revived Pokémon |
+|---|---|
+| Helix Fossil | Omanyte |
+| Dome Fossil | Kabuto |
+| Old Amber Fossil | Aerodactyl |
+| Root Fossil | Lileep |
+| Claw Fossil | Anorith |
+| Skull Fossil | Cranidos |
+| Armor Fossil | Shieldon |
+| Cover Fossil | Tirtouga |
+| Plume Fossil | Archen |
+| Jaw Fossil | Tyrunt |
+| Sail Fossil | Amaura |
+| Fossilized Bird + Fossilized Drake | Dracozolt |
+| Fossilized Bird + Fossilized Dino | Arctozolt |
+| Fossilized Fish + Fossilized Drake | Dracovish |
+| Fossilized Fish + Fossilized Dino | Arctovish |
+
+A revived Pokémon can get the **Revival Mark**.
+
+## Where to find fossils
+
+Cobblemon 1.7.3 adds 23 kinds of fossil site that generate in the world. Each site has some **Suspicious Sand** or **Suspicious Gravel**. Hold a **Brush** and hold **right-click** on the block to brush out the item.
+
+- Every site has 1 block that always gives 1 fossil, as listed below.
+- Up to 5 more blocks can give another fossil (which ones depends on the site), an Everstone, a Damp Rock, a Heat Rock or another held item.
+- The other blocks give Bones, raw ores, coal, roots, herbs and evolution stones.
+
+| Guaranteed fossil | Biomes with the site | Site name in the files |
+|---|---|---|
+| Helix Fossil | Desert | sandy_den |
+| Dome Fossil | Ocean, Deep Ocean (sea floor) | hydrothermal_vents |
+| Old Amber Fossil | Forest, Flower Forest, Swamp, Windswept Forest, Wooded Badlands | oak_tree |
+| Old Amber Fossil | Taiga, Snowy Taiga, Grove, Old Growth Pine Taiga, Old Growth Spruce Taiga, Windswept Forest | spruce_tree |
+| Root Fossil | Swamp, Mangrove Swamp | rooted_pit |
+| Claw Fossil | Dripstone Caves (underground, Y -37 to 10) | dripstone_oasis |
+| Claw Fossil | Lush Caves (underground, Y -37 to 10) | mossy_pond |
+| Skull Fossil | Jungle | mud_pit |
+| Armor Fossil | Badlands | sunscorched_den |
+| Cover Fossil | Frozen Ocean (sea floor) | submerged_spike |
+| Cover Fossil | Deep Ocean (sea floor) | underwater_fissure |
+| Cover Fossil | Warm Ocean (sea floor) | vibrant_hydrothermal_vents |
+| Plume Fossil | Birch Forest, Old Growth Birch Forest, Forest, Flower Forest | birch_tree |
+| Jaw Fossil | Badlands | eroded_pillar |
+| Jaw Fossil | Jungle | lush_den |
+| Sail Fossil | Frozen Peaks, Ice Spikes | frozen_pond |
+| Sail Fossil | Snowy Plains, Snowy Slopes, Jagged Peaks, Snowy Beach and other snowy biomes | powdered_deposit |
+| Fossilized Bird | Plains, Sunflower Plains | suspicious_mound |
+| Fossilized Fish | Lush Caves (underground, Y -37 to 10) | enhydro_agate |
+| Fossilized Fish | Ocean (sea floor) | submerged_impact |
+| Fossilized Dino | Frozen Peaks, Ice Spikes | frozen_spike |
+| Fossilized Drake | Badlands | sunscorched_remains |
+| 1 front half (Bird or Dino) and 1 back half (Fish or Drake) | Frozen Ocean | preserved_skeleton |
+
+Biomes are the vanilla Minecraft names in Cobblemon's biome tags; the tags can also include biomes from other mods. This page gives no odds for finding a site, because site positions depend on the world seed and on which areas have been generated.
+
+## How to build the machine and revive a fossil
+
+1. Craft a **Fossil Analyzer**, a **Data Monitor** and a **Restoration Tank** (recipes below).
+2. Place the Fossil Analyzer, then place the Data Monitor directly on top of it.
+3. Place the Restoration Tank against one side of the Fossil Analyzer. The tank is 2 blocks tall. Once all 3 blocks are in place, the machine assembles itself.
+4. Hold a fossil and **right-click** the machine to insert it. Galar fossils need both pieces.
+5. Hold organic material and **right-click** the machine, one item per click, until it reaches **128 points**. With a fossil inside and 128 points, the machine starts on its own.
+6. Wait **12 minutes**. When it is done, hold a **Poké Ball** and right-click the machine. The Pokémon joins your party in the ball you used.
+
+- You can right-click any of the 3 blocks.
+- Before the machine starts, right-click with an empty hand to take back the last fossil you inserted.
+- While the machine is running, you cannot add fossils or organic material.
+- For the first 5 minutes after the revival, only the player who inserted the fossil can collect the Pokémon; others see "This fossil belongs to [name]!". After 5 minutes, anyone with a Poké Ball can collect it.
+
+## Fossil machine recipes
+
+| Block | Top row | Middle row | Bottom row |
+|---|---|---|---|
+| Fossil Analyzer | Cobbled Deepslate, Amethyst Shard, Cobbled Deepslate | Iron Ingot, Glass, Iron Ingot | Cobbled Deepslate, Redstone Dust, Cobbled Deepslate |
+| Data Monitor | Iron Ingot, Iron Ingot, Iron Ingot | Copper Ingot, Glass, Copper Ingot | Iron Ingot, Redstone Torch, Iron Ingot |
+| Restoration Tank | Iron Ingot, Iron Ingot, Iron Ingot | Glass, Revive, Glass | Glass, Composter, Glass |
+
+The whole machine takes 10 Iron Ingots, 2 Copper Ingots, 6 Glass, 4 Cobbled Deepslate, 1 Amethyst Shard, 1 Redstone Dust, 1 Redstone Torch, 1 Revive and 1 Composter.
+
+## Organic material: 128 points
+
+Organic material means food, plants and things that come from living creatures. Cobblemon 1.7.3 lists 176 entries (134 from Minecraft, 42 from Cobblemon); some entries cover a whole group, such as every flower, every kind of leaves or every Berry. Each item is worth a set number of points:
+
+| Points per item | Examples |
+|---|---|
+| 1 | Wheat Seeds, Dried Kelp, Melon Slice, Paper, dyes |
+| 2 | Wheat, Sugar Cane, Sweet Berries, Kelp, Sugar, Cookie, flowers, leaves, saplings, Berries, Apricorns |
+| 4 | Carrot, Potato, Beetroot, Apple, Bread, Bone Meal, Spider Eye, cooked meat and fish |
+| 8 | Egg, Leather, Rotten Flesh, Pumpkin, Melon, Slimeball, Pumpkin Pie, Milk Bucket, raw meat and fish |
+| 16 | Hay Bale, Cake, Rabbit Stew, Beetroot Soup, Honey Block, Sponge, Turtle Egg |
+| 32 | Golden Apple, Ghast Tear, Bee Nest, Revive, Miracle Seed |
+| 64 | Nautilus Shell, Dragon's Breath, Sniffer Egg, Max Revive |
+| 256 | Enchanted Golden Apple, Nether Star, Dragon Egg |
+
+- Quick fill: 8 **Hay Bales** make exactly 128 points (16 points each).
+- The machine stops at 128 points. Extra points are lost, so do not feed it valuable items when it is almost full.
+- Items in a bowl, bucket or bottle give the bowl, bucket or bottle back.
+- You can add organic material before or after inserting the fossil.
+
+## Reviving fossils on the Coco Cobblemon server
+
+- **Normal fossils are free:** the 15 Pokémon in the table above are not on the server's fee list, so they revive just like in plain Cobblemon (server config checked 11 November 2026).
+- **Finding fossils works as in the base mod:** the COBBLEVERSE data pack on the server does not change Cobblemon's fossil sites or brushing loot.
+- **Mewtwo and Type: Null can be revived:** the COBBLEVERSE data pack adds 2 machine recipes: **Ancient DNA** + **Cloning Catalyst** gives Mewtwo, and **Fossilized Helmet** gives Type: Null.
+- **Collecting Mewtwo or Type: Null costs 20,000,000$** (CobbleDollars) each. The server shows the fee and asks you to confirm before taking the money. Without enough money you cannot collect it.
+- **You cannot break the machine while it holds Mewtwo or Type: Null:** collect the Pokémon with a Poké Ball first.
+
+## Quick answers
+
+### Where do you find fossils in Cobblemon?
+
+In Cobblemon, fossils are in Suspicious Sand and Suspicious Gravel at 23 kinds of fossil site: deserts, plains, forests, swamps, jungles, badlands, snowy and icy areas, caves and the sea floor. Use a Brush to dig them out.
+
+### How do you revive a fossil in Cobblemon?
+
+Put a Data Monitor on a Fossil Analyzer and place a Restoration Tank next to it. Insert the fossil, add 128 points of organic material, wait 12 minutes, then right-click the machine with a Poké Ball.
+
+### What do you need to build the Cobblemon fossil machine?
+
+Three blocks: a Fossil Analyzer, a Data Monitor and a Restoration Tank. Together they take 10 Iron Ingots, 2 Copper Ingots, 6 Glass, 4 Cobbled Deepslate, 1 Amethyst Shard, 1 Redstone Dust, 1 Redstone Torch, 1 Revive and 1 Composter.
+
+### What counts as organic material in Cobblemon?
+
+In Cobblemon, organic material is food, plants and items from living creatures, each worth a set number of points. The machine needs 128 points, for example 8 Hay Bales.
+
+### Does reviving fossils cost money on Coco Cobblemon?
+
+Normal fossils such as Omanyte, Kabuto, Aerodactyl and Tyrunt are free. On Coco Cobblemon, collecting Mewtwo or Type: Null from the machine costs 20,000,000$ in CobbleDollars.
+
+### Can you revive Mewtwo in Cobblemon?
+
+Plain Cobblemon 1.7.3 has no such recipe. On Coco Cobblemon, the COBBLEVERSE data pack adds Ancient DNA + Cloning Catalyst for Mewtwo, with a 20,000,000$ fee.
+
+**See also:** [Cobblemon recipes](https://coconubs.github.io/en/cobblemon-recipes/) · [How to catch Pokémon](https://coconubs.github.io/en/cobblemon-catching/) · [How to evolve Pokémon](https://coconubs.github.io/en/cobblemon-evolution/) · [Cobblemon riding](https://coconubs.github.io/en/cobblemon-riding/) · [Server features](https://coconubs.github.io/en/features/) · [Vietnam Cobblemon server](https://coconubs.github.io/en/vietnam-cobblemon-server/)
+
+*Data taken from `Cobblemon-fabric-1.7.3+1.21.1.jar` on 11 November 2026; the Coco Cobblemon section follows the server config and the COBBLEVERSE v31 data pack checked on 11 November 2026. Other Cobblemon versions, or servers with their own data packs, can differ.*
 
 *Updated: 11 November 2026.*
 

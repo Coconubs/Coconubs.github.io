@@ -6,7 +6,7 @@ parent: English
 nav_order: 4.87
 permalink: /en/cobblemon-recipes/
 alt: /cong-thuc-cobblemon/
-last_modified_at: 2026-11-11T04:49:26+07:00
+last_modified_at: 2026-11-11T07:21:59+07:00
 ---
 
 # Cobblemon crafting recipes
@@ -92,6 +92,6 @@ Top row: Iron Ingot, Glass, Iron Ingot. Middle row: Iron Ingot, Copper Ingot, Ir
 
 Top row: 3 Copper Ingots. Middle row: Iron Ingot, Max Revive, Iron Ingot. Bottom row: Iron Ingot, Redstone Dust, Iron Ingot.
 
-**See also:** [What is Cobblemon](/en/what-is-cobblemon/) · [How to evolve Pokémon](/en/cobblemon-evolution/) · [Cobblemon commands](/en/cobblemon-commands/) · [Cobblemon controls](/en/cobblemon-controls/) · [FAQ](/en/faq/)
+**See also:** [Fossils and the fossil machine](/en/cobblemon-fossils/) · [What is Cobblemon](/en/what-is-cobblemon/) · [How to evolve Pokémon](/en/cobblemon-evolution/) · [Cobblemon commands](/en/cobblemon-commands/) · [Cobblemon controls](/en/cobblemon-controls/) · [FAQ](/en/faq/)
 
 *Updated: 11 November 2026.*

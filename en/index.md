@@ -32,7 +32,7 @@ jsonld: |
       "https://discord.gg/hyspace"
     ]
   }
-last_modified_at: 2026-11-11T07:17:29+07:00
+last_modified_at: 2026-11-11T07:21:59+07:00
 ---
 
 {% include coco_icons.html %}
@@ -138,6 +138,7 @@ Yes. Anyone can download CocoLauncher and join. Most players and most of the cha
 - [How to Mega Evolve in Cobblemon: Mega Bracelet, Mega Stones, Rayquaza](/en/cobblemon-mega/)
 - [How to ride Pokémon in Cobblemon: which Pokémon are rideable](/en/cobblemon-riding/)
 - [How Pokémon learn moves in Cobblemon: Switch Move, TMs](/en/cobblemon-moves/)
+- [Cobblemon fossils: where to find them and how to revive fossil Pokémon](/en/cobblemon-fossils/)
 - [What is Cobblemon, and how many Pokémon it has](/en/what-is-cobblemon/)
 - [Which launcher for Cobblemon](/en/cobblemon-launcher/)
 - [Troubleshooting](/en/troubleshooting/)
