@@ -1,0 +1,29 @@
+// Coco Cobblemon: màu lấy theo menu trong game (nền xanh navy, điểm hồng tím,
+// vàng cho xu, nút xanh lá). Đây là bản sáng; chế độ tối của hệ điều hành
+// được xử lý bằng biến CSS trong _sass/custom/custom.scss.
+
+$color-scheme: light;
+
+$body-font-family: "Be Vietnam Pro", "Be Vietnam Pro Fallback", system-ui,
+  -apple-system, "Segoe UI", roboto, arial, sans-serif;
+$body-line-height: 1.5;
+$content-line-height: 1.7;
+$body-heading-line-height: 1.3;
+$border-radius: 10px;
+$nav-width: 17.5rem;
+
+$body-background-color: #f7f8fc;
+$body-heading-color: #0d1830;
+$body-text-color: #1e2a44;
+$link-color: #6d28d9;
+$nav-child-link-color: #b4c2dc;
+$sidebar-color: #0e1a2f;
+$base-button-color: #eef1f8;
+$btn-primary-color: #15803d;
+$code-background-color: #f3f1fc;
+$feedback-color: #eef0fa;
+$table-background-color: #fff;
+$search-background-color: #fff;
+$search-result-preview-color: #4a5878;
+$border-color: #e1e6f0;
+$grey-dk-000: #5b6a88;
