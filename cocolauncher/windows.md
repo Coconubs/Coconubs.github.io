@@ -5,12 +5,12 @@ description: "Cách cài CocoLauncher (Coco Launcher) trên Windows: cài từ M
 parent: CocoLauncher
 nav_order: 1
 permalink: /cocolauncher/windows/
-last_modified_at: 2026-11-11T03:48:07+07:00
+last_modified_at: 2026-11-11T10:30:00+07:00
 ---
 
 # Cài CocoLauncher trên Windows
 
-Có hai cách cài CocoLauncher trên Windows 10 hoặc 11 bản 64-bit. Cả hai đều là cùng một launcher của server Coco Cobblemon.
+Cài từ Microsoft Store hoặc file .exe, cùng một launcher. Cần Windows 10 hoặc 11 bản 64-bit.
 
 ## Cách 1: Microsoft Store (khuyên dùng)
 
@@ -18,44 +18,34 @@ Có hai cách cài CocoLauncher trên Windows 10 hoặc 11 bản 64-bit. Cả ha
 2. Bấm **Get** hoặc **Tải**, chờ Store cài xong.
 3. Mở CocoLauncher từ menu Start.
 
-Bản Store đi qua bước kiểm tra của Microsoft trước khi phát hành, nên không gặp cảnh báo SmartScreen như file .exe.
+Bản Store đã qua kiểm tra của Microsoft nên không bị SmartScreen cảnh báo.
 
 ## Cách 2: file .exe
 
 1. Tải [CocoLauncher-Setup.exe](https://github.com/Coconubs/cocolauncher-pack/releases/download/launcher/CocoLauncher-Setup.exe) từ GitHub Releases của Coconubs.
-2. Nên [đối chiếu mã SHA-256](/cocolauncher/an-toan/#sha256) trước khi mở.
-3. Mở file. File .exe chưa có chữ ký số nên SmartScreen có thể hiện "Windows protected your PC". Chỉ bấm **More info** rồi **Run anyway** khi bạn tải đúng từ link trên và mã SHA-256 khớp. Không chắc thì dùng bản Microsoft Store.
+2. Mở file. SmartScreen có thể hiện "Windows protected your PC" vì file chưa ký số. Tải đúng từ link trên thì bấm **More info** rồi **Run anyway**. Không chắc thì dùng bản Store, hoặc [kiểm file trước](/cocolauncher/an-toan/#sha256).
 
 ## Lần đầu mở launcher
 
 1. Nhập tên trong game: 3 đến 16 ký tự, chữ không dấu, số hoặc dấu gạch dưới.
-2. Bấm **Chơi**. Lần đầu launcher tải Java, Minecraft, Fabric và gói mod, nên dùng mạng ổn định. Những lần sau chỉ tải phần thay đổi.
-3. Game mở và tự kết nối tới server `coco.ultramc.co`. Làm theo hướng dẫn đăng ký trên màn hình, rồi gõ `/menu`.
+2. Bấm **Chơi**. Lần đầu tải hơi lâu, nên dùng mạng ổn định.
+3. Game tự vào server. Đăng ký theo màn hình rồi gõ `/menu`.
 
-Các bước trong game ở trang [Cách vào server](/cach-vao-server/).
-
-## Chỉnh RAM
-
-Launcher mặc định cấp cho game 2 đến 4 GB RAM. Đổi mức RAM ở mục cài đặt của launcher. Máy 8 GB RAM nên để mức mặc định và tắt bớt ứng dụng khác khi chơi.
+Xem thêm [Cách vào server](/cach-vao-server/).
 
 ## Cập nhật
 
-- **Gói mod:** tự cập nhật mỗi khi bấm Chơi.
-- **Trong game báo có bản mới:** bấm **Cập nhật**, thoát game rồi mở lại CocoLauncher.
+Gói mod tự cập nhật mỗi lần bấm Chơi. Trong game báo có bản mới thì bấm **Cập nhật**, thoát game rồi mở lại CocoLauncher.
 
 ## Hỏi nhanh
 
 ### Cài CocoLauncher từ Microsoft Store hay file .exe?
 
-Nên cài từ Microsoft Store: nhà phát hành ghi Coconubs, và bản Store đi qua bước kiểm tra của Microsoft nên không gặp cảnh báo SmartScreen như file .exe. File .exe là cùng một launcher, tải ở GitHub Releases của Coconubs.
+Nên dùng Microsoft Store (nhà phát hành Coconubs), không bị SmartScreen cảnh báo. File .exe là cùng launcher, tải ở GitHub của Coconubs.
 
 ### SmartScreen báo "Windows protected your PC" thì làm sao?
 
-File .exe chưa có chữ ký số nên SmartScreen có thể cảnh báo. Chỉ bấm **More info** rồi **Run anyway** khi bạn tải đúng từ link trên và [mã SHA-256](/cocolauncher/an-toan/#sha256) khớp. Không chắc thì dùng bản Microsoft Store.
-
-### CocoLauncher cấp bao nhiêu RAM cho game?
-
-Mặc định 2 đến 4 GB, đổi ở mục cài đặt của launcher. Máy 8 GB RAM nên để mức mặc định và tắt bớt ứng dụng khác khi chơi.
+Do file .exe chưa ký số. Tải đúng từ link trên thì bấm **More info** rồi **Run anyway**. Không chắc thì cài bản Microsoft Store.
 
 ## Gặp lỗi
 

@@ -6,12 +6,12 @@ nav_order: 6
 has_children: true
 has_toc: false
 alt: /en/features/
-last_modified_at: 2026-11-11T05:45:03+07:00
+last_modified_at: 2026-11-11T10:30:00+07:00
 ---
 
 # Tính năng Coco Cobblemon
 
-Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt. Trang này tổng hợp các hệ thống chính của server, lấy từ Hướng dẫn trong game.
+Những gì có trên server, tóm theo Hướng dẫn trong game. Bấm tên tính năng để xem chi tiết.
 {: .fs-5 .fw-300 }
 
 ## Đấu trận

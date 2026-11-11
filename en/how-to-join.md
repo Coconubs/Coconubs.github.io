@@ -6,37 +6,37 @@ parent: English
 nav_order: 2
 permalink: /en/how-to-join/
 alt: /cach-vao-server/
-last_modified_at: 2026-11-11T03:25:48+07:00
+last_modified_at: 2026-11-11T10:30:00+07:00
 ---
 
 # How to join Coco Cobblemon
 
-Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher. In short: download CocoLauncher, enter a player name, press **Play**, follow the on-screen registration, then type `/menu`. The launcher installs Java, Minecraft 1.21.1, Fabric, Cobblemon 1.7.3 and the mod pack, then connects to `coco.ultramc.co` for you, so you do not install mods or type the IP yourself.
+Download CocoLauncher, enter a name, press **Play**. The launcher sets everything up and joins the server for you. No mods to install, no IP to type.
 {: .fs-5 .fw-300 }
 
 | Item | Details |
 |---|---|
 | **Server address (IP)** | `coco.ultramc.co` |
-| **Version** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
+| **Version** | Minecraft Java 1.21.1, Cobblemon 1.7.3 |
 | **Launcher** | [CocoLauncher](/en/cocolauncher/) |
-| **Cost** | Free to download and join. Ranks and the Premium Battle Pass are optional |
+| **Cost** | Free. Ranks and the Premium Battle Pass are optional |
 
 ## 5 steps
 
-1. **Download the launcher** for your system (Windows, macOS, Android or iPhone) from the [CocoLauncher page](/en/cocolauncher/).
+1. **Download the launcher** for Windows, macOS, Android or iPhone from the [CocoLauncher page](/en/cocolauncher/).
 2. **Enter a player name:** 3 to 16 characters, letters without accents, numbers or underscores.
-3. **Press Play:** the first launch downloads Java, Minecraft, Fabric and the modpack, so use a stable connection. Later launches only download what changed.
-4. **Join:** the launcher connects to the server. Follow the on-screen registration.
+3. **Press Play.** The first launch takes a while, so use a stable connection. After that it only downloads what changed.
+4. **Register:** the game joins the server by itself. Follow the registration screen.
 5. **Open the menu:** type `/menu`, or right-click the Menu item in the last hotbar slot. Switch the menu to English with the VI/EN flag or `/ngonngu en`.
 
 ## First day
 
-1. Link your Discord account (`/link` in game, then `/link <code>` on [Discord](https://discord.gg/hyspace)) to unlock daily check-in rewards.
+1. Link Discord (`/link` in game, then `/link <code>` on [Discord](https://discord.gg/hyspace)) for daily check-in rewards.
 2. Open the Battle Pass and do the 10 daily quests.
 3. Take jobs with `/nghenghiep` to earn CobbleDollars.
 4. Send Pokémon on 3 expeditions a day.
 5. Climb the Battle Tower (`/battletower`) for daily BattleTower Points.
-6. Claim land with `/claim` and set a home with `/sethome`. Build within ±30,000 blocks: land outside that range cannot be claimed and is reset every 2 weeks.
+6. Claim land with `/claim` and set a home with `/sethome`. Build within ±30,000 blocks; outside that you cannot claim and the area resets every 2 weeks.
 
 ## Useful commands
 
@@ -52,22 +52,15 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 
 ## How to join any Cobblemon server
 
-Every Cobblemon server runs its own Minecraft version, Cobblemon version and mod set. The general way in:
-
-1. **Check the server details:** address (IP), Minecraft version, Cobblemon version, and whether the server uses a modpack or its own launcher. This is usually on the server's page or Discord.
-2. **Install the exact mod set the server asks for:** a modpack on Modrinth or CurseForge, or the server's own launcher.
-3. **Start the game with that install:** open **Multiplayer**, press **Add Server**, paste the address and join.
-4. **Rejected for wrong mods or version:** your install does not match the server yet; go back to step 2.
-
-For Coco Cobblemon you can skip all of this: CocoLauncher installs the right mods and connects to `coco.ultramc.co` by itself.
+Ask that server for its IP and mod set (usually on its Discord), install that modpack, then open **Multiplayer**, press **Add Server** and paste the IP. A wrong-mods error means your install does not match yet.
 
 ## Can I join with another launcher?
 
-Not recommended. The server needs its exact mod set, so other launchers end up missing mods or on the wrong version. If something goes wrong, see [Troubleshooting](/en/troubleshooting/).
+No. The server has its own mod set, so other launchers end up missing mods and get rejected. If something goes wrong, see [Troubleshooting](/en/troubleshooting/).
 
 ## Bedrock or Pocket Edition?
 
-No. Cobblemon is a Java Edition mod, and packs called "Cobblemon PE" are add-ons made by other people (see [Cobblemon on Bedrock and PE](/en/cobblemon-bedrock/)). On Android phones, CocoLauncher Android is an experimental build that runs Java Edition. iPhone and iPad have an experimental CocoLauncher iOS build, see [Play Cobblemon on Android and iPhone](/en/cobblemon-android/#iphone-and-ipad).
+No. Cobblemon only runs on Java Edition (see [Cobblemon on Bedrock and PE](/en/cobblemon-bedrock/)). On phones, use CocoLauncher Android or CocoLauncher iOS, both experimental. See [Play Cobblemon on Android and iPhone](/en/cobblemon-android/#iphone-and-ipad).
 
 **See also:** [Cobblemon controls](/en/cobblemon-controls/) · [Cobblemon server in Vietnam](/en/vietnam-cobblemon-server/) · [Server features](/en/features/) · [FAQ](/en/faq/)
 

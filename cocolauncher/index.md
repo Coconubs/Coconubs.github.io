@@ -35,12 +35,12 @@ jsonld: |
       "https://github.com/Coconubs/cocolauncher-pack"
     ]
   }
-last_modified_at: 2026-11-11T04:04:24+07:00
+last_modified_at: 2026-11-11T10:30:00+07:00
 ---
 
 # CocoLauncher (Coco Launcher)
 
-CocoLauncher (viết tách: Coco Launcher) là launcher Minecraft Java của server Coco Cobblemon (`coco.ultramc.co`), do Coconubs phát hành. Nhập tên, bấm **Chơi**, launcher tự cài Java, Minecraft 1.21.1, Fabric, Cobblemon 1.7.3 và gói mod rồi vào server. CocoLauncher không phải app giao diện điện thoại cũng tên "Coco Launcher".
+CocoLauncher (hay Coco Launcher) là launcher của server Coco Cobblemon (`coco.ultramc.co`), do Coconubs làm. Nhập tên, bấm **Chơi** là vào game. Launcher tự cài và tự cập nhật hết, bạn không phải đụng tới mod.
 {: .fs-6 .fw-300 }
 
 ## Tải CocoLauncher
@@ -63,34 +63,31 @@ Trên Google Play và các trang tải APK có app giao diện điện thoại c
 
 ## CocoLauncher làm gì
 
-- **Một nút Chơi:** tự tải và kiểm tra Java, Minecraft 1.21.1, Fabric Loader, gói mod và resource pack của server.
-- **Mod tự cập nhật theo server:** người chơi không phải chép file tay. Mỗi lần chạy, launcher kiểm tra lại gói mod.
-- **Cài đặt:** lưu nhiều tên chơi, chỉnh RAM, độ phân giải, thư mục game.
-- **Tiện ích:** xem số người online, giao diện tiếng Việt và tiếng Anh.
+- **Một nút Chơi:** lần đầu tự cài game và gói mod, lần sau tự cập nhật theo server.
+- **Lưu nhiều tên chơi**, xem số người đang online.
+- **Tiếng Việt và tiếng Anh.**
 
-CocoLauncher chỉ dùng để vào server Coco Cobblemon. Muốn chơi Cobblemon một mình hoặc vào server khác, xem [Launcher nào để chơi Cobblemon](/launcher-cobblemon/).
+CocoLauncher chỉ dùng để vào Coco Cobblemon. Muốn chơi một mình hay vào server khác thì xem [Launcher nào để chơi Cobblemon](/launcher-cobblemon/).
 
 CocoLauncher và Coco Cobblemon không phải sản phẩm chính thức và không được xác nhận bởi Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon.
 
 ## Máy cần gì
 
-| Thiết bị | Tối thiểu |
+| Thiết bị | Cần |
 |---|---|
-| Windows | Windows 10 hoặc 11 bản 64-bit |
-| macOS | Máy Mac chip Apple (M1-M4 và mới hơn) hoặc Intel |
-| Android | RAM từ 6 GB (khuyên 8 GB), chip tầm trung trở lên, trống khoảng 2 GB |
-| iPhone, iPad | iOS 14 trở lên, khuyên máy 8 GB RAM. Lần đầu cần máy tính và cáp khoảng 30 phút để cài, xem [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/) |
-| RAM máy tính | Launcher mặc định cấp cho game 2 đến 4 GB, nên máy nên có từ 8 GB RAM |
+| Máy tính | Windows 10, 11 (64-bit) hoặc máy Mac. Nên có từ 8 GB RAM |
+| Android | RAM từ 6 GB (khuyên 8 GB), trống khoảng 2 GB |
+| iPhone, iPad | iOS 14 trở lên, khuyên máy 8 GB RAM. Lần đầu cần máy tính để cài, xem [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/) |
 
 ## Hỏi nhanh
 
 ### CocoLauncher là gì?
 
-CocoLauncher (Coco Launcher) là launcher Minecraft Java của server Coco Cobblemon, do Coconubs phát hành. Nhập tên, bấm **Chơi**, launcher tự cài Java, Minecraft 1.21.1, Fabric, Cobblemon 1.7.3 và gói mod rồi vào server `coco.ultramc.co`. Bản trên Microsoft Store và bản trên GitHub Releases là cùng một launcher.
+Là launcher để vào server Coco Cobblemon. Nhập tên, bấm **Chơi** là vào. Bản Microsoft Store và bản GitHub là cùng một launcher.
 
 ### CocoLauncher có an toàn không?
 
-Không phần mềm nào bảo đảm được tuyệt đối, nên hãy tự kiểm chứng. Trên Windows, cài từ Microsoft Store (nhà phát hành Coconubs) là cách an toàn nhất. File .exe chưa có chữ ký số nên SmartScreen có thể cảnh báo; mỗi file trên GitHub Releases có mã SHA-256 để đối chiếu. Cách kiểm ở trang [CocoLauncher có an toàn không](/cocolauncher/an-toan/).
+Trên Windows, cài từ Microsoft Store là chắc nhất. File .exe chưa ký số nên SmartScreen có thể cảnh báo. Cách tự kiểm file ở trang [CocoLauncher có an toàn không](/cocolauncher/an-toan/).
 
 ### CocoLauncher có phải app "Coco Launcher" trên Google Play không?
 
@@ -98,11 +95,11 @@ Không. App giao diện điện thoại tên "Coco Launcher" trên Google Play l
 
 ### CocoLauncher có miễn phí không?
 
-Có. Tải CocoLauncher và vào server Coco Cobblemon không mất phí. Trong game có Rank và Battle Pass Premium, đều không bắt buộc.
+Có. Rank và Battle Pass Premium trong game là tuỳ chọn.
 
 ### Dùng CocoLauncher chơi Cobblemon một mình hoặc vào server khác được không?
 
-Không. CocoLauncher chỉ dùng để vào server Coco Cobblemon. Muốn chơi Cobblemon một mình, dùng Modrinth App với Cobblemon Official Modpack; so sánh ở trang [Launcher nào để chơi Cobblemon](/launcher-cobblemon/).
+Không, chỉ vào được Coco Cobblemon. Chơi một mình thì dùng Modrinth App với Cobblemon Official Modpack, xem [Launcher nào để chơi Cobblemon](/launcher-cobblemon/).
 
 ## Các trang về CocoLauncher
 

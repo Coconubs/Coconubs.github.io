@@ -3,18 +3,18 @@ title: Hướng dẫn người mới
 seo_title: "Hướng dẫn người mới Coco Cobblemon: việc ngày đầu và lệnh hay dùng"
 description: "Người mới vào Coco Cobblemon nên làm gì: liên kết Discord, Battle Pass, Nghề nghiệp, Viễn Chinh, BattleTower, claim đất. Danh sách lệnh hay dùng: /menu, /sethome, /rtp, /claim, /gts."
 nav_order: 5
-last_modified_at: 2026-11-11T05:28:50+07:00
+last_modified_at: 2026-11-11T10:30:00+07:00
 ---
 
 # Hướng dẫn người mới
 
-Người mới vào Coco Cobblemon nên làm 6 việc ngày đầu: liên kết Discord và điểm danh, làm nhiệm vụ Battle Pass, nhận việc Nghề nghiệp, làm Ải Viễn Chinh, leo BattleTower, rồi claim đất và đặt nhà. Bản đầy đủ có trong game: gõ `/menu`, chọn **HƯỚNG DẪN**.
+Mới vào thì làm 6 việc dưới đây trước. Bản đầy đủ có trong game: gõ `/menu`, chọn **HƯỚNG DẪN**.
 {: .fs-5 .fw-300 }
 
 ## Việc nên làm ngày đầu
 
 1. **Liên kết Discord** (`/link`) và điểm danh mỗi ngày bằng lệnh `;diemdanh` ở kênh Spam Bot trên Discord.
-2. **Mở Battle Pass**, làm 10 nhiệm vụ ngày để lên cấp nhận quà.
+2. **Mở Battle Pass**, làm 10 nhiệm vụ ngày để lên cấp lấy quà.
 3. **Nhận việc Nghề nghiệp** (`/nghenghiep`) để kiếm CobbleDollars mỗi ngày.
 4. **Làm Ải Viễn Chinh** 3 lượt mỗi ngày để có tiền, Tokens, Rare Candy.
 5. **Leo BattleTower** để nhận BattleTower Points mỗi ngày.
@@ -23,13 +23,13 @@ Người mới vào Coco Cobblemon nên làm 6 việc ngày đầu: liên kết 
 ## Dùng Menu
 
 - Mở Menu: gõ `/menu` hoặc cầm vật phẩm **Menu** ở ô cuối thanh công cụ (ô 9) rồi bấm chuột phải.
-- Thanh trên cùng: TRANG CHỦ, POKÉDEX (mô hình 3D, hệ, chỉ số, chiêu, tiến hoá, nơi spawn), TRA CỨU, HƯỚNG DẪN. Nút cờ VI/EN ở góc phải để đổi ngôn ngữ.
+- Thanh trên cùng: TRANG CHỦ, POKÉDEX, TRA CỨU, HƯỚNG DẪN. Nút cờ VI/EN ở góc phải để đổi ngôn ngữ.
 - Menu chính chia 4 nhóm: Hằng ngày, Thi đấu và Bang hội, Pokémon, Mua sắm và Giải trí.
 - Ô có chấm đỏ là đang có quà hoặc việc chờ bạn.
 
 ## HUD góc trái
 
-Cạnh thanh công cụ có các ô nhỏ báo trạng thái: **tỉ lệ Legendary** lúc này, **Giờ Vàng x2** khi đang diễn ra và **Bùa Huyền Thoại** khi Bùa của bạn còn hiệu lực. Bấm F1 để ẩn.
+Các ô nhỏ cạnh thanh công cụ cho biết **tỉ lệ Legendary** lúc này, **Giờ Vàng x2** khi đang chạy và **Bùa Huyền Thoại** của bạn còn hạn hay không. Bấm F1 để ẩn.
 
 ## Các loại tiền
 
@@ -39,7 +39,7 @@ Cạnh thanh công cụ có các ô nhỏ báo trạng thái: **tỉ lệ Legend
 | Tokens | Mua Held Item, thuốc EV, Mint, kẹo IV, Bottle Cap ở Shop Tokens |
 | BattleTower Points (BP) | Nhận mỗi ngày theo tầng BattleTower, dùng ở Shop BattleTower |
 
-Số dư hiện trên scoreboard bên phải màn hình và đầu Menu.
+Số dư hiện ở bảng bên phải màn hình và đầu Menu.
 
 ## Lệnh hay dùng
 
@@ -60,16 +60,16 @@ Lệnh riêng của mod Cobblemon (`/pokespawn`, `/pokegive`...) cần quyền q
 - Đất giữ theo chunk (ô 16×16 khối). Bấm F3 + G để hiện đường kẻ chunk.
 - Tối đa 50 chunk, mỗi bậc rank thêm 5. Chỉ claim ở Overworld, trong vòng 5 chunk quanh chỗ đứng.
 - Mặc định 3 nhà (`/sethome <tên>`), mỗi bậc rank thêm 1.
-- Ngoài ±30.000 (X hoặc Z) không claim được và khu đó reset 2 tuần một lần. Hãy xây nhà trong ±30.000.
+- Xây trong khoảng ±30.000 (X và Z). Ngoài đó không claim được và cứ 2 tuần bị reset.
 - Vào cùng Bang hội là xây được trong đất của nhau. Muốn chỉ mình bạn dùng: `/dat khoa`.
 
 ## Breeding
 
-Cần 1 Pasture Block và 2 Pokémon cùng nhóm trứng (một đực, một cái) hoặc 1 Pokémon với Ditto. Khoảng 4 đến 8 giờ có 1 trứng. Breeding trên server chậm hơn bản gốc 5 lần, đặt Pasture trong đất bang thì bớt 10% thời gian mỗi cấp bang. Chi tiết ở [Breeding](/tinh-nang/breeding/).
+Cần 1 Pasture Block và 2 Pokémon cùng nhóm trứng (một đực, một cái), hoặc 1 con với Ditto. Khoảng 4 đến 8 giờ ra 1 trứng, chậm hơn bản gốc 5 lần. Đặt Pasture trong đất bang thì nhanh hơn 10% mỗi cấp bang. Xem [Breeding](/tinh-nang/breeding/).
 
 ## Học chơi Cobblemon
 
-Các trang hướng dẫn cơ chế của Cobblemon, đọc thẳng từ file mod 1.7.3 và ghi rõ phần riêng của Coco Cobblemon:
+Muốn hiểu kỹ Cobblemon thì đọc thêm:
 
 - [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/): đấu trước rồi ném bóng, tỉ lệ bắt, loại bóng, Legendary.
 - [Cách tiến hoá Pokémon](/tien-hoa-cobblemon/): lên cấp rồi bấm Tiến Hóa, đá tiến hoá, Link Cable, 8 dạng Eevee.
@@ -80,18 +80,10 @@ Các trang hướng dẫn cơ chế của Cobblemon, đọc thẳng từ file mo
 
 ## Hỏi nhanh
 
-### Mở Menu và Hướng dẫn trong game thế nào?
-
-Gõ `/menu` hoặc cầm vật phẩm Menu ở ô cuối thanh công cụ (ô 9) rồi bấm chuột phải, chọn **HƯỚNG DẪN**. Nút cờ VI/EN ở góc phải để đổi ngôn ngữ, hoặc gõ `/ngonngu en` để chuyển sang tiếng Anh.
-
-### Xây nhà ở đâu để không bị mất?
-
-Trong vòng ±30.000 khối (X hoặc Z): ngoài khoảng đó không claim được và khu đó reset 2 tuần một lần. Đứng trong chunk muốn giữ rồi gõ `/claim`, sau đó `/sethome`.
-
 ### Kiếm tiền trên Coco Cobblemon thế nào?
 
 CobbleDollars có từ Nghề nghiệp (`/nghenghiep`, mỗi nhiệm vụ 1.000$ tới 10.000$), Ải Viễn Chinh và bán đồ (`/sell`). Tokens có từ nhiệm vụ Battle Pass, Ải Viễn Chinh và điểm danh. BattleTower Points nhận mỗi ngày theo tầng BattleTower.
 
-**Xem thêm:** [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/) · [Cách tiến hoá Pokémon](/tien-hoa-cobblemon/) · [Cách cưỡi Pokémon](/cuoi-pokemon-cobblemon/) · [Tất cả tính năng](/tinh-nang/) · [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/) · [Việc hằng ngày](/tinh-nang/hang-ngay/) · [Hỏi đáp](/hoi-dap/)
+**Xem thêm:** [Tất cả tính năng](/tinh-nang/) · [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/) · [Việc hằng ngày](/tinh-nang/hang-ngay/) · [Hỏi đáp](/hoi-dap/)
 
-*Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026. Con số có thể đổi theo cập nhật, Menu trong game luôn là bản đúng nhất.*
+*Theo Hướng dẫn trong game ngày 06/11/2026. Số liệu có thể đổi, Menu trong game luôn đúng nhất.*

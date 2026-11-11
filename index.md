@@ -30,14 +30,14 @@ jsonld: |
       "https://discord.gg/hyspace"
     ]
   }
-last_modified_at: 2026-11-11T07:21:59+07:00
+last_modified_at: 2026-11-11T10:30:00+07:00
 ---
 
 {% include coco_icons.html %}
 <div class="coco-hero">
 <div class="coco-hero__text">
 <h1 id="coco-cobblemon">Coco Cobblemon</h1>
-<p class="coco-hero__lead">Server Minecraft Java 1.21.1 chơi mod Cobblemon 1.7.3 cho cộng đồng người Việt, vào game miễn phí bằng CocoLauncher.</p>
+<p class="coco-hero__lead">Server Pokémon Minecraft của người Việt. Java 1.21.1, Cobblemon 1.7.3, vào miễn phí bằng CocoLauncher.</p>
 <div class="coco-ip"><span class="coco-ip__label">Địa chỉ server</span> <code class="coco-ip__addr">coco.ultramc.co</code> <button type="button" class="coco-copy" data-copy="coco.ultramc.co" data-done="Đã chép"><svg aria-hidden="true"><use href="#ci-content-copy"/></svg><span aria-live="polite">Sao chép</span></button></div>
 <div class="coco-cta">
 <a class="coco-btn coco-btn--green" href="/cocolauncher/"><svg aria-hidden="true"><use href="#ci-download"/></svg>Tải CocoLauncher</a>
@@ -69,7 +69,7 @@ document.addEventListener('click', function (e) {
 <li><div class="coco-card"><span class="coco-ico coco-ico--red"><svg aria-hidden="true"><use href="#ci-swords"/></svg></span><div><h3 class="no_anchor"><a href="/tinh-nang/dau-xep-hang/">Đấu Xếp Hạng</a></h3><p>Đấu Đôi 4v4 tính Elo, Đấu Đơn 6v6, ghép trận tự động.</p></div></div></li>
 <li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/chia-khoa-raid.webp" width="32" height="32" alt="Chìa Khoá Raid" loading="lazy"></span><div><h3 class="no_anchor"><a href="/tinh-nang/raid/">Raid Thế Giới</a></h3><p>Boss chung cả server lúc 9:00 và 19:00 mỗi ngày.</p></div></div></li>
 <li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/bua-huyen-thoai.webp" width="32" height="32" alt="Bùa Huyền Thoại" loading="lazy"></span><div><h3 class="no_anchor"><a href="/tinh-nang/legendary/">Legendary tích luỹ</a></h3><p>Càng lâu server chưa có Legendary, tỉ lệ càng tăng.</p></div></div></li>
-<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/tinh-the-shiny.webp" width="32" height="32" alt="Tinh Thể Shiny" loading="lazy"></span><div><h3 class="no_anchor"><a href="/tinh-nang/shiny/">Shiny</a></h3><p>Có Shiny qua Dung hợp, Trứng, Raid và Battle Pass.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/tinh-the-shiny.webp" width="32" height="32" alt="Tinh Thể Shiny" loading="lazy"></span><div><h3 class="no_anchor"><a href="/tinh-nang/shiny/">Shiny</a></h3><p>Lấy Shiny qua Dung hợp, Trứng, Raid và Battle Pass.</p></div></div></li>
 <li><div class="coco-card"><span class="coco-ico coco-ico--blue"><svg aria-hidden="true"><use href="#ci-groups"/></svg></span><div><h3 class="no_anchor"><a href="/tinh-nang/bang-hoi/">Bang hội</a></h3><p>Bang Hội Chiến, Boss Bang mỗi ngày, khoá đất riêng.</p></div></div></li>
 <li><div class="coco-card"><span class="coco-ico coco-ico--orange"><svg aria-hidden="true"><use href="#ci-calendar-month"/></svg></span><div><h3 class="no_anchor"><a href="/tinh-nang/hang-ngay/">Việc hằng ngày</a></h3><p>Battle Pass, Nghề nghiệp, Viễn Chinh, câu cá, điểm danh.</p></div></div></li>
 </ul>

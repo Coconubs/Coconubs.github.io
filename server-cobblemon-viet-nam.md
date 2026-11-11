@@ -4,12 +4,12 @@ seo_title: "Server Cobblemon Việt Nam (Pokémon Minecraft): Coco Cobblemon, IP
 description: "Coco Cobblemon là server Cobblemon Việt Nam trên Minecraft Java 1.21.1, IP coco.ultramc.co, máy chủ Singapore ping khoảng 29 ms từ TP.HCM. Lịch sự kiện, cách chọn server."
 nav_order: 4
 alt: /en/vietnam-cobblemon-server/
-last_modified_at: 2026-11-11T05:11:15+07:00
+last_modified_at: 2026-11-11T10:30:00+07:00
 ---
 
 # Server Cobblemon Việt Nam: Coco Cobblemon
 
-Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đồng người Việt, vào game bằng launcher riêng CocoLauncher. Cobblemon là mod Pokémon cho Minecraft Java, nên server Cobblemon cũng là server Pokémon Minecraft. Địa chỉ `coco.ultramc.co`, chạy Minecraft Java 1.21.1, Fabric và Cobblemon 1.7.3, máy chủ đặt ở Singapore (ping khoảng 29 ms từ TP.HCM, đo 06/11/2026). Menu và hướng dẫn bằng tiếng Việt, có tiếng Anh. Lúc 20:28 Thứ 7, 07/11/2026 có 110 người online. Tải launcher và vào server không mất phí.
+Coco Cobblemon là server Pokémon Minecraft (mod Cobblemon) của người Việt. Vào bằng CocoLauncher, miễn phí. Máy chủ ở Singapore, menu tiếng Việt. Tối Thứ 7 (07/11/2026) có 110 người cùng online.
 {: .fs-5 .fw-300 }
 
 ## Thông số nhanh
@@ -17,7 +17,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 | Mục | Thông tin |
 |---|---|
 | **Địa chỉ** | `coco.ultramc.co` |
-| **Phiên bản** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
+| **Phiên bản** | Minecraft Java 1.21.1, Cobblemon 1.7.3 |
 | **Máy chủ đặt ở** | Singapore. Ping đo ngày 06/11/2026: khoảng 29 ms từ TP.HCM |
 | **Ngôn ngữ** | Tiếng Việt, có tiếng Anh trong launcher và menu (`/ngonngu en`) |
 | **Vào game** | CocoLauncher cho Windows, macOS, Android, iPhone |
@@ -27,7 +27,7 @@ Coco Cobblemon là server Minecraft Java chơi mod Cobblemon dành cho cộng đ
 
 ## Server có đông không
 
-Số người chơi thay đổi theo giờ, nên dưới đây là số đo có ngày, không phải con số cố định.
+Số người đổi theo giờ, đây là vài lần đo:
 
 | Đo lúc | Số liệu |
 |---|---|
@@ -35,7 +35,7 @@ Số người chơi thay đổi theo giờ, nên dưới đây là số đo có 
 | Tối 04/11/2026 | Cao điểm khoảng 120 người online cùng lúc (nhật ký server) |
 | 11/11/2026 | Discord Hyper Space có khoảng 1.860 thành viên |
 
-Buổi tối, nhất là Thứ 7 và Chủ Nhật, là lúc nhiều người online nhất. Lịch bảo trì và sự kiện báo trên Discord.
+Đông nhất là buổi tối, nhất là Thứ 7 và Chủ Nhật. Lịch bảo trì và sự kiện báo trên Discord.
 
 ## Lịch trong tuần (giờ Việt Nam)
 
@@ -50,26 +50,24 @@ Buổi tối, nhất là Thứ 7 và Chủ Nhật, là lúc nhiều người onl
 
 ## Server Cobblemon Việt Nam nào tốt nhất?
 
-Không có bảng xếp hạng chính thức nào cho server Cobblemon Việt Nam. Nên so phiên bản, cách cài mod, ping, ngôn ngữ, thiết bị và chi phí. Coco Cobblemon chạy Minecraft Java 1.21.1 với Cobblemon 1.7.3, cài mod qua CocoLauncher, máy chủ đặt ở Singapore và vào chơi không mất phí.
+Không có bảng xếp hạng chính thức nào. Tốt nhất là vào chơi thử vài hôm. Nếu đang so vài server thì xem bảng dưới.
 
 ## Nên kiểm gì trước khi chọn một server Cobblemon
-
-Nếu đang so vài server, đây là những điểm quyết định bạn chơi có thoải mái không, kèm câu trả lời của Coco Cobblemon.
 
 | Điều nên kiểm | Vì sao | Coco Cobblemon |
 |---|---|---|
 | Phiên bản Minecraft và Cobblemon | Bản ở máy bạn phải khớp server | Java 1.21.1, Cobblemon 1.7.3 |
-| Cách cài mod | Tự cài dễ thiếu mod hoặc lệch bản | CocoLauncher tự cài, mod tự cập nhật theo server |
-| Ping từ Việt Nam | Ping cao làm trận đấu, bay, đào khối bị trễ | Máy chủ Singapore, khoảng 29 ms từ TP.HCM |
-| Ngôn ngữ | Menu, nhiệm vụ, hướng dẫn có đọc được không | Tiếng Việt, có tiếng Anh |
+| Cách cài mod | Tự cài dễ thiếu mod | CocoLauncher tự cài, tự cập nhật |
+| Ping từ Việt Nam | Ping cao thì đánh trận, bay bị trễ | Máy chủ Singapore, khoảng 29 ms từ TP.HCM (06/11/2026) |
+| Ngôn ngữ | Đọc được menu, nhiệm vụ không | Tiếng Việt, có tiếng Anh |
 | Thiết bị | Có server chỉ chơi được trên máy tính | Windows, macOS, Android và iPhone |
-| Việc để làm lâu dài | Chỉ bắt Pokémon thì nhanh chán | Đấu Xếp Hạng, BattleTower, Bang Hội Chiến, Raid, Legendary tích luỹ |
-| Phần phải trả tiền | Biết trước cái gì miễn phí | Vào chơi không mất phí. Rank và Battle Pass Premium là tuỳ chọn |
-| Hỗ trợ | Lỗi launcher, mất đồ cần người xử lý | Hỏi trên Discord Hyper Space |
+| Chơi lâu dài | Chỉ bắt Pokémon thì nhanh chán | Đấu Xếp Hạng, BattleTower, Bang Hội Chiến, Raid |
+| Phần trả tiền | Biết trước cái gì miễn phí | Vào chơi miễn phí. Rank và Battle Pass Premium là tuỳ chọn |
+| Hỗ trợ | Lỗi, mất đồ có người xử lý | Hỏi trên Discord Hyper Space |
 
 ## Chơi gì trên server
 
-Người mới thường bắt đầu bằng bắt Pokémon, sau đó mới đánh trận và vào bang. Các hệ thống chính:
+Mới vào thì cứ bắt Pokémon trước, sau đó đánh trận và vào bang.
 
 - [Đấu Xếp Hạng](/tinh-nang/dau-xep-hang/): Đấu Đôi 4v4 tính Elo và Đấu Đơn 6v6, ghép trận tự động theo Elo.
 - [BattleTower](/tinh-nang/battletower/) 555 tầng, Gym và Tứ Thiên Vương, [Ải Viễn Chinh](/tinh-nang/hang-ngay/#vien-chinh) 3 lượt mỗi ngày.
@@ -78,22 +76,22 @@ Người mới thường bắt đầu bằng bắt Pokémon, sau đó mới đá
 - [Raid Thế Giới](/tinh-nang/raid/) và NPC Tiền Thưởng mỗi ngày.
 - [Việc hằng ngày](/tinh-nang/hang-ngay/): điểm danh, Battle Pass, Nghề nghiệp, Daily Shop, [câu cá](/tinh-nang/cau-ca/).
 
-Danh sách đầy đủ ở trang [Tính năng](/tinh-nang/). Thay đổi mới nhất ghi ở [Nhật ký cập nhật](/cap-nhat/).
+Đủ danh sách ở trang [Tính năng](/tinh-nang/).
 
 ## Khác gì Cobblemon chơi một mình
 
-- **Kinh tế riêng:** CobbleDollars, Tokens và BattleTower Points. Held Item, thuốc EV, Mint, kẹo IV mua ở Shop Tokens thay vì nhặt ngoài thế giới. Xem [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/).
-- **Shiny không xuất hiện tự nhiên:** có Shiny qua Dung hợp, Trứng, Raid, Daily Shop và Battle Pass. Xem [Shiny](/tinh-nang/shiny/).
+- **Có tiền riêng:** CobbleDollars, Tokens và BattleTower Points. Held Item, thuốc EV, Mint, kẹo IV mua ở Shop Tokens. Xem [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/).
+- **Shiny không ra ngoài tự nhiên:** lấy qua Dung hợp, Trứng, Raid, Daily Shop và Battle Pass. Xem [Shiny](/tinh-nang/shiny/).
 - **Breeding chậm hơn bản gốc 5 lần**, nhanh hơn khi đặt Pasture trong đất bang.
 - **Menu tiếng Việt** có Pokédex mô hình 3D, tra cứu và hướng dẫn từng tính năng.
 
-Cobblemon bản gốc là gì, có bao nhiêu Pokémon, phím, lệnh, công thức chế tạo và cách tiến hoá: xem [Cobblemon là gì](/cobblemon-la-gi/), [Các phím chơi Cobblemon](/phim-tat-cobblemon/), [Lệnh Cobblemon](/lenh-cobblemon/), [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/), [Cách tiến hoá Pokémon trong Cobblemon](/tien-hoa-cobblemon/), [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/), [Cách cưỡi Pokémon](/cuoi-pokemon-cobblemon/), [Tiến hoá Mega](/mega-cobblemon/).
+Mới biết Cobblemon thì đọc [Cobblemon là gì](/cobblemon-la-gi/) và [Các phím chơi Cobblemon](/phim-tat-cobblemon/).
 
 ## Vào server thế nào
 
-1. Tải CocoLauncher ở trang [CocoLauncher](/cocolauncher/).
-2. Nhập tên trong game, bấm **Chơi**. Launcher tự cài Java, Minecraft, Fabric và đúng bộ mod của server.
-3. Vào game, làm theo hướng dẫn đăng ký trên màn hình, rồi gõ `/menu` để mở Hướng dẫn tiếng Việt.
+1. Tải [CocoLauncher](/cocolauncher/).
+2. Nhập tên, bấm **Chơi**. Launcher tự cài hết.
+3. Đăng ký theo màn hình, rồi gõ `/menu` để mở Hướng dẫn.
 
 Chi tiết ở [Cách vào server](/cach-vao-server/).
 
@@ -110,28 +108,25 @@ Chi tiết ở [Cách vào server](/cach-vao-server/).
 
 ## Tên khác của server
 
-Trong video hoặc bài cũ, bạn có thể gặp các tên dưới đây. Tất cả là cùng một server, Coco Cobblemon:
-
-- **Hyper Space**: tên server Discord của cộng đồng.
-- **Coco's Hyper Space**, **Coco Cobbleverse**: tên trong vài video và bài Facebook cũ.
+**Hyper Space** là tên server Discord. **Coco's Hyper Space** và **Coco Cobbleverse** là tên trong vài video, bài Facebook cũ. Tất cả đều là Coco Cobblemon.
 
 ## Hỏi nhanh
 
 ### Server Pokémon Minecraft Việt Nam: Coco Cobblemon dùng Cobblemon hay Pixelmon?
 
-Coco Cobblemon dùng mod Cobblemon 1.7.3 trên Minecraft Java 1.21.1, không phải Pixelmon. Hai mod không vào chung server được, nên cài Pixelmon thì không vào được Coco Cobblemon. Dùng CocoLauncher để launcher tự cài đúng Cobblemon và bộ mod của server. So sánh hai mod ở trang [Chơi Pokémon trong Minecraft](/pokemon-trong-minecraft/).
+Cobblemon 1.7.3, không phải Pixelmon. Cài Pixelmon thì không vào được. So sánh hai mod ở trang [Chơi Pokémon trong Minecraft](/pokemon-trong-minecraft/).
 
 ### IP server Coco Cobblemon là gì?
 
-IP (địa chỉ) server Coco Cobblemon là `coco.ultramc.co`, Minecraft Java 1.21.1, Cobblemon 1.7.3. Dùng CocoLauncher thì launcher tự kết nối, không cần nhập địa chỉ. Vào bằng launcher khác mà thiếu bộ mod riêng của server hoặc sai phiên bản thì sẽ bị từ chối khi vào.
+`coco.ultramc.co`. Dùng CocoLauncher thì không cần nhập, launcher tự vào.
 
 ### Có server Cobblemon nói tiếng Việt không?
 
-Có. Coco Cobblemon dùng tiếng Việt cho launcher, menu, hướng dẫn và thông báo. Một số chữ của Cobblemon và mod khác vẫn có thể hiện tiếng Anh.
+Có. Launcher, menu, hướng dẫn và thông báo đều tiếng Việt. Một số chữ của Cobblemon vẫn hiện tiếng Anh.
 
 ### Ping từ Việt Nam tới server bao nhiêu?
 
-Máy chủ đặt ở Singapore. Đo ngày 06/11/2026, ping từ TP.HCM khoảng 29 ms. Ping thật còn tuỳ nhà mạng và nơi bạn ở; trong game, danh sách server của Minecraft có hiện vạch ping.
+Khoảng 29 ms từ TP.HCM (đo 06/11/2026), máy chủ ở Singapore. Còn tuỳ nhà mạng và nơi bạn ở.
 
 ### Server có chạy cả ngày không?
 

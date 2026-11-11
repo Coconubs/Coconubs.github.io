@@ -35,12 +35,12 @@ jsonld: |
       "https://github.com/Coconubs/cocolauncher-pack"
     ]
   }
-last_modified_at: 2026-11-11T03:27:35+07:00
+last_modified_at: 2026-11-11T10:30:00+07:00
 ---
 
 # CocoLauncher (Coco Launcher)
 
-CocoLauncher (sometimes written Coco Launcher) is the Minecraft Java launcher of the Coco Cobblemon server (`coco.ultramc.co`), published by Coconubs. Enter a player name and press **Play**: the launcher installs Java, Minecraft 1.21.1, Fabric, Cobblemon 1.7.3 and the mod pack, then joins the server. It is not the unrelated Android home-screen app called "Coco Launcher".
+CocoLauncher (or Coco Launcher) is the launcher for the Coco Cobblemon server (`coco.ultramc.co`), made by Coconubs. Enter a name, press **Play**, and you are in. It installs and updates everything, so you never touch mods.
 {: .fs-6 .fw-300 }
 
 ## Download
@@ -63,24 +63,23 @@ There is an unrelated Android home-screen app with a similar name, "Coco Launche
 
 ## What it does
 
-- **One Play button:** downloads and checks Java, Minecraft 1.21.1, Fabric Loader, the modpack and the resource pack.
-- **Mods follow the server:** the modpack is checked and updated every time you press Play.
-- **Settings:** several player names, RAM, resolution and game folder.
-- **Extras:** online player count, Vietnamese and English interface.
+- **One Play button:** sets up the game and mods the first time, then keeps them in sync with the server.
+- **Several player names**, and the online player count.
+- **Vietnamese and English.**
 
 CocoLauncher only joins Coco Cobblemon. For single player or other servers, see [Which launcher for Cobblemon](/en/cobblemon-launcher/).
 
 ## Install
 
-**Windows.** Install from the Microsoft Store, or run the .exe. The .exe is not code-signed, so SmartScreen may show "Windows protected your PC"; only choose More info and Run anyway if you downloaded it from the link above and the SHA-256 hash matches.
+**Windows.** Install from the Microsoft Store, or run the .exe. The .exe is not signed, so SmartScreen may show "Windows protected your PC". If you got it from the link above, choose More info, then Run anyway.
 
-**macOS.** Open the .dmg and drag CocoLauncher to Applications. Check the Chip line in About This Mac to pick the right build. On macOS 15 and later, open the app once, choose Done, then go to System Settings > Privacy & Security and press Open Anyway. On macOS 14 and earlier, Control-click the app and choose Open. The Mac build does not update itself: download the new .dmg and drag it over the old app; your game data stays.
+**macOS.** Pick the build that matches the Chip line in About This Mac. Open the .dmg and drag CocoLauncher to Applications. The first time, macOS blocks it: on macOS 15 and later, open it once, choose Done, then press Open Anyway in System Settings > Privacy & Security. On macOS 14 and earlier, Control-click the app and choose Open. The Mac build does not update itself; download the new .dmg and drag it over the old app. Your game data stays.
 
 **Android.** See [Play Cobblemon on Android](/en/cobblemon-android/).
 
 ## Check the download
 
-Every file on [GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases/tag/launcher) shows a `sha256` hash. Compare it with your file:
+Want to be sure the file is the real one? Every file on [GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases/tag/launcher) shows a `sha256` hash. Compare it with yours:
 
 ```powershell
 Get-FileHash CocoLauncher-Setup.exe
@@ -90,23 +89,23 @@ Get-FileHash CocoLauncher-Setup.exe
 shasum -a 256 CocoLauncher-Mac-AppleSilicon.dmg
 ```
 
-If the hashes do not match, do not open the file. Download it again from the official link and report it on [Discord](https://discord.gg/hyspace).
+If they do not match, do not open the file. Download it again and tell us on [Discord](https://discord.gg/hyspace).
 
 ## System requirements
 
-- Windows 10 or 11 (64-bit), or a Mac with Apple silicon or Intel.
-- Android: 6 GB of RAM or more (8 GB recommended). iPhone, iPad: iOS 14 or later, 8 GB of RAM recommended, and a computer once for setup; see [iPhone and iPad](/en/cobblemon-android/#iphone-and-ipad).
-- The launcher gives the game 2 to 4 GB of RAM by default, so 8 GB of RAM or more is recommended.
+- Computer: Windows 10 or 11 (64-bit) or a Mac, ideally with 8 GB of RAM or more.
+- Android: 6 GB of RAM or more (8 GB recommended).
+- iPhone, iPad: iOS 14 or later, 8 GB of RAM recommended, and a computer once for setup; see [iPhone and iPad](/en/cobblemon-android/#iphone-and-ipad).
 
 ## Quick answers
 
 ### What is CocoLauncher?
 
-CocoLauncher (Coco Launcher) is the Minecraft Java launcher of the Coco Cobblemon server, published by Coconubs. Enter a name and press **Play**: it installs Java, Minecraft 1.21.1, Fabric, Cobblemon 1.7.3 and the mod pack, then joins `coco.ultramc.co`. The Microsoft Store version and the GitHub Releases version are the same launcher.
+The launcher for the Coco Cobblemon server. Enter a name, press **Play**, and it joins `coco.ultramc.co`. The Microsoft Store and GitHub versions are the same launcher.
 
 ### Is CocoLauncher free?
 
-Yes. Downloading CocoLauncher and joining Coco Cobblemon are free. Ranks and the Premium Battle Pass in game are optional.
+Yes. Ranks and the Premium Battle Pass in game are optional.
 
 ### Is CocoLauncher the "Coco Launcher" app on Google Play?
 
@@ -114,7 +113,7 @@ No. The home-screen app called "Coco Launcher" on Google Play is a different app
 
 ### Can I use CocoLauncher for single player or other servers?
 
-No. CocoLauncher only joins Coco Cobblemon. For single player, use the Modrinth App with the Cobblemon Official Modpack; see [Which launcher for Cobblemon](/en/cobblemon-launcher/).
+No, it only joins Coco Cobblemon. For single player, use the Modrinth App with the Cobblemon Official Modpack; see [Which launcher for Cobblemon](/en/cobblemon-launcher/).
 
 **See also:** [Troubleshooting](/en/troubleshooting/) · [FAQ](/en/faq/) · [How to join](/en/how-to-join/)
 

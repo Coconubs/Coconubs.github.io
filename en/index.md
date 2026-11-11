@@ -32,14 +32,14 @@ jsonld: |
       "https://discord.gg/hyspace"
     ]
   }
-last_modified_at: 2026-11-11T07:21:59+07:00
+last_modified_at: 2026-11-11T10:30:00+07:00
 ---
 
 {% include coco_icons.html %}
 <div class="coco-hero">
 <div class="coco-hero__text">
 <h1 id="coco-cobblemon-a-cobblemon-server-in-vietnam">Coco Cobblemon: a Cobblemon server in Vietnam</h1>
-<p class="coco-hero__lead">A Vietnamese community server for Minecraft Java 1.21.1 with the Cobblemon 1.7.3 mod, free to join with CocoLauncher.</p>
+<p class="coco-hero__lead">A Vietnamese Pokémon Minecraft server. Java 1.21.1, Cobblemon 1.7.3, free to join with CocoLauncher.</p>
 <div class="coco-ip"><span class="coco-ip__label">Server address</span> <code class="coco-ip__addr">coco.ultramc.co</code> <button type="button" class="coco-copy" data-copy="coco.ultramc.co" data-done="Copied"><svg aria-hidden="true"><use href="#ci-content-copy"/></svg><span aria-live="polite">Copy</span></button></div>
 <div class="coco-cta">
 <a class="coco-btn coco-btn--green" href="/en/cocolauncher/"><svg aria-hidden="true"><use href="#ci-download"/></svg>Download CocoLauncher</a>

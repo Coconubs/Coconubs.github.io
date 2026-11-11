@@ -6,12 +6,12 @@ parent: English
 nav_order: 8
 permalink: /en/vietnam-cobblemon-server/
 alt: /server-cobblemon-viet-nam/
-last_modified_at: 2026-11-11T03:25:48+07:00
+last_modified_at: 2026-11-11T10:30:00+07:00
 ---
 
 # Cobblemon server in Vietnam: Coco Cobblemon
 
-Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobblemon mod, played through its own launcher, CocoLauncher. Key facts: address `coco.ultramc.co`, Minecraft Java 1.21.1, Fabric and Cobblemon 1.7.3, hosted in Singapore with about 29 ms ping from Ho Chi Minh City (measured 6 November 2026). Menus and guides are in Vietnamese, with an English option. At 20:28 Vietnam time on Saturday 7 November 2026, 110 players were online. Joining is free.
+Coco Cobblemon is a Vietnamese Pokémon Minecraft server (Cobblemon mod). You join with CocoLauncher, for free. It is hosted in Singapore, the menus are in Vietnamese with an English option, and 110 players were online on Saturday evening, 7 November 2026.
 {: .fs-5 .fw-300 }
 
 ## Server details
@@ -19,17 +19,17 @@ Coco Cobblemon is a Vietnamese community Minecraft Java server running the Cobbl
 | Item | Details |
 |---|---|
 | **Address** | `coco.ultramc.co` |
-| **Version** | Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3 |
+| **Version** | Minecraft Java 1.21.1, Cobblemon 1.7.3 |
 | **Hosted in** | Singapore. Measured on 6 November 2026: about 29 ms ping from Ho Chi Minh City |
 | **Language** | Vietnamese, with an English option in the launcher and the in-game menu (`/ngonngu en`) |
 | **How to join** | CocoLauncher for Windows, macOS, Android and iPhone |
 | **Event times** | Vietnam time (UTC+7) |
-| **Cost** | Downloading the launcher and joining are free. Ranks and the Premium Battle Pass are optional |
+| **Cost** | Free. Ranks and the Premium Battle Pass are optional |
 | **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace), the Discord server is called Hyper Space |
 
 ## How busy is it
 
-Player numbers change by the hour, so these are dated measurements, not fixed figures.
+Numbers change by the hour. A few measurements:
 
 | Measured | Number |
 |---|---|
@@ -52,22 +52,20 @@ Evenings, especially Saturday and Sunday, are the busiest. Maintenance and event
 
 ## Is there a best Cobblemon server in Vietnam?
 
-There is no official ranking of Cobblemon servers in Vietnam. Compare the version, how mods are installed, ping, language, devices and cost. Coco Cobblemon runs Minecraft Java 1.21.1 with Cobblemon 1.7.3, installs mods through CocoLauncher, is hosted in Singapore and is free to join.
+There is no official ranking. The best test is to play a few days. If you are comparing servers, the table below helps.
 
 ## What to check before you pick a Cobblemon server
-
-If you are comparing a few servers, these are the points that decide whether you will enjoy playing, with Coco Cobblemon's answer for each.
 
 | Check | Why it matters | Coco Cobblemon |
 |---|---|---|
 | Minecraft and Cobblemon version | Your version has to match the server | Java 1.21.1, Cobblemon 1.7.3 |
-| How mods are installed | Installing by hand often misses a mod or a version | CocoLauncher installs everything and keeps mods in sync with the server |
-| Ping | High ping delays battles, flying and mining | Hosted in Singapore, about 29 ms from Ho Chi Minh City |
+| How mods are installed | Installing by hand often misses a mod | CocoLauncher installs and updates everything |
+| Ping | High ping makes battles and flying lag | Hosted in Singapore, about 29 ms from Ho Chi Minh City (6 November 2026) |
 | Language | Menus, quests and guides you can read | Vietnamese, with English |
 | Devices | Many servers are PC only | Windows, macOS, Android and iPhone |
-| Long-term goals | Only catching Pokémon gets old | Ranked battles, Battle Tower, Guild War, World Raids, accumulating Legendary chance |
+| Long-term goals | Only catching Pokémon gets old | Ranked battles, Battle Tower, Guild War, World Raids |
 | What costs money | Know what is free | Free to join. Ranks and the Premium Battle Pass are optional |
-| Support | Launcher errors or lost items need someone to help | Ask on the Hyper Space Discord |
+| Support | Someone to help with errors or lost items | Ask on the Hyper Space Discord |
 
 ## Can I join from outside Vietnam?
 
@@ -86,28 +84,25 @@ Yes. Anyone with CocoLauncher can join. The server is in Singapore, so ping is l
 
 ## How to join
 
-1. Download CocoLauncher from the [CocoLauncher page](/en/cocolauncher/).
-2. Enter a player name and press **Play**. The launcher installs Java, Minecraft, Fabric and the server's mod set.
-3. In game, follow the on-screen registration, then type `/menu` for the guide and `/ngonngu en` for English.
+1. Download [CocoLauncher](/en/cocolauncher/).
+2. Enter a name and press **Play**. The launcher sets everything up.
+3. Register on screen, then type `/menu` for the guide and `/ngonngu en` for English.
 
-The latest Cobblemon Official Modpack (Cobblemon 1.8) cannot join, because the server runs Cobblemon 1.7.3 with its own mods. Details in [How to join](/en/how-to-join/) and [Which launcher for Cobblemon](/en/cobblemon-launcher/).
+Details in [How to join](/en/how-to-join/).
 
 ## Other names you may see
 
-Older videos and posts may use these names. They all mean the same server, Coco Cobblemon:
-
-- **Hyper Space**: the community Discord server.
-- **Coco's Hyper Space**, **Coco Cobbleverse**: names used in a few older videos and Facebook posts.
+**Hyper Space** is the Discord server. **Coco's Hyper Space** and **Coco Cobbleverse** show up in a few older videos and Facebook posts. They are all Coco Cobblemon.
 
 ## Quick answers
 
 ### What is the Coco Cobblemon server IP?
 
-The Coco Cobblemon address is `coco.ultramc.co` (Minecraft Java 1.21.1, Cobblemon 1.7.3). With CocoLauncher you do not need to type it: the launcher connects for you. Joining from another launcher without the server's own mod set gets rejected.
+`coco.ultramc.co`. With CocoLauncher you never type it; the launcher joins for you.
 
 ### Can I play Coco Cobblemon on Android?
 
-Yes. CocoLauncher Android is an experimental build that runs Minecraft Java Edition on the phone and joins the same server as PC players. It needs 6 GB of RAM or more (8 GB recommended). Minecraft Bedrock and Pocket Edition cannot join, because Cobblemon is a Java Edition mod, see [Cobblemon on Bedrock](/en/cobblemon-bedrock/).
+Yes, with CocoLauncher Android (experimental, 6 GB of RAM or more). You join the same server as PC players. Bedrock and Pocket Edition cannot join, see [Cobblemon on Bedrock](/en/cobblemon-bedrock/).
 
 ### Is Coco Cobblemon an official Cobblemon server?
 
