@@ -5,11 +5,11 @@
   if (!root) { return; }
   var EN = root.getAttribute('data-lang') === 'en';
   var BASE = '/assets/pokedex/';
-  var V = '?v=20261112b';
+  var V = '?v=20261112c';
   var IMG = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/';
   var S = EN ? {
     count: function (n, all) { return n === all ? all + ' entries' : n + ' of ' + all; },
-    none: 'Nothing found.', more: 'Show more', loading: 'Loading data…', fail: 'Could not load the data. Reload the page.',
+    none: 'Nothing found.', miss: function (q) { return 'Nothing found for "' + q + '". Showing the full list:'; }, more: 'Show more', loading: 'Loading data…', fail: 'Could not load the data. Reload the page.',
     stats: ['HP', 'Attack', 'Defense', 'Sp. Atk', 'Sp. Def', 'Speed'], total: 'Total',
     types: 'Type', abil: 'Abilities', hidden: 'hidden', evo: 'Evolution', from: 'Evolves from', to: 'Evolves into',
     forms: 'Forms', battle: 'battle only', drops: 'Drops', spawn: 'Where it spawns', nospawn: 'No natural spawn data.',
@@ -29,7 +29,7 @@
     form: 'form'
   } : {
     count: function (n, all) { return n === all ? all + ' mục' : n + ' / ' + all + ' mục'; },
-    none: 'Không thấy kết quả.', more: 'Xem thêm', loading: 'Đang tải dữ liệu…', fail: 'Không tải được dữ liệu. Tải lại trang thử.',
+    none: 'Không thấy kết quả.', miss: function (q) { return 'Không thấy “' + q + '”. Đây là toàn bộ danh sách:'; }, more: 'Xem thêm', loading: 'Đang tải dữ liệu…', fail: 'Không tải được dữ liệu. Tải lại trang thử.',
     stats: ['HP', 'Tấn công', 'Phòng thủ', 'Tấn công đặc biệt', 'Phòng thủ đặc biệt', 'Tốc độ'], total: 'Tổng',
     types: 'Hệ', abil: 'Ability', hidden: 'ẩn', evo: 'Tiến hoá', from: 'Tiến hoá từ', to: 'Tiến hoá thành',
     forms: 'Dạng khác', battle: 'chỉ trong trận', drops: 'Item rơi', spawn: 'Nơi xuất hiện', nospawn: 'Không có dữ liệu xuất hiện tự nhiên.',
@@ -132,33 +132,54 @@
     needs(cur).then(function () { if (my === token) { draw(); } }).catch(function () { $count.textContent = S.fail; });
   }
 
+  // Gõ tiếng Việt vẫn ra tên tiếng Anh: "sắt" -> iron/steel, "đá" -> stone/rock... (khoá đã bỏ dấu).
+  var VI = { 'sat': 'iron steel metal', 'thep': 'steel metal iron', 'lua': 'fire flame', 'nuoc': 'water aqua', 'co': 'grass leaf', 'la': 'leaf',
+    'dien': 'electric thunder', 'set': 'thunder', 'bang': 'ice', 'da': 'stone rock', 'dat': 'ground earth', 'doc': 'poison', 'bay': 'flying',
+    'rong': 'dragon', 'ma': 'ghost', 'tien': 'fairy', 'bo': 'bug', 'vang': 'gold golden', 'bac': 'silver', 'dong': 'copper', 'kim cuong': 'diamond',
+    'ngoc luc bao': 'emerald', 'than': 'coal', 'keo': 'candy', 'bong': 'ball', 'qua': 'berry', 'hat': 'seed', 'long': 'feather', 'vay': 'scale',
+    'xuong': 'bone', 'trung': 'egg', 'mat ong': 'honey', 'sua': 'milk', 'nam': 'mushroom', 'canh': 'wing', 'rang': 'fang tooth', 'mong': 'claw',
+    'mat trang': 'moon', 'mat troi': 'sun', 'nap chai': 'bottle cap', 'thuoc': 'potion', 'da tien hoa': 'stone' };
+  var VIK = Object.keys(VI).sort(function (a, b) { return b.length - a.length; });
+  function terms(q) {
+    var out = [], rest = ' ' + q + ' ';
+    VIK.forEach(function (v) { var i = rest.indexOf(' ' + v + ' '); if (i >= 0) { out.push([' ' + v + ' '].concat(VI[v].split(' ').map(function (x) { return ' ' + x; }))); rest = rest.slice(0, i) + ' ' + rest.slice(i + v.length + 1); } });
+    rest.split(' ').forEach(function (w) { if (w) { out.push([w]); } });
+    return out;
+  }
   function match(k, q) {
     if (!q) { return true; }
-    var w = q.split(' ');
-    for (var i = 0; i < w.length; i++) { if (k.indexOf(w[i]) < 0) { return false; } }
+    var g = terms(q);  // từ trong từ điển: khớp đầu từ ("đá" không dính "adamant")
+    for (var i = 0; i < g.length; i++) {
+      var ok = false;
+      for (var j = 0; j < g[i].length && !ok; j++) { ok = (' ' + k + ' ').indexOf(g[i][j]) >= 0; }
+      if (!ok) { return false; }
+    }
     return true;
   }
 
   function moreBtn(n) { return n > limit ? '<button type="button" class="pdx-more" data-more="1">' + S.more + ' (' + (n - limit) + ')</button>' : ''; }
 
   function draw() {
-    var q = fold($q.value), html = '', list, all;
+    var q = fold($q.value), html = '', list, all, miss = false;
     if (cur === 'mon') {
       all = D.mon.mons.length;
       list = D.mon.mons.filter(function (m) { return q === String(m.d) ? true : match(m.k, q); });
       if (/^\d+$/.test(q)) { list = D.mon.mons.filter(function (m) { return String(m.d) === q; }); }
+      if (!list.length) { miss = true; list = D.mon.mons; }
       html = '<ul class="pdx-list">' + list.slice(0, limit).map(function (m) {
         return row('m:' + m.i, '#' + String(m.d).padStart(4, '0'), esc(m.n), m.t.map(tBadge).join(''), img(stem(m), 48, m.n));
       }).join('') + '</ul>' + moreBtn(list.length);
     } else if (cur === 'ab') {
       all = D.ab.length;
       list = D.ab.filter(function (a) { return match(a.k, q); });
+      if (!list.length) { miss = true; list = D.ab; }
       html = '<ul class="pdx-list">' + list.slice(0, limit).map(function (a) {
         return row('a:' + a[0], '', esc(a[1]), esc((EN ? a[3] : (a[2] || a[3])).slice(0, 110)));
       }).join('') + '</ul>' + moreBtn(list.length);
     } else if (cur === 'it') {
       all = D.itKeys.length;
       list = D.itKeys.filter(function (x) { return match(x[1], q); });
+      if (!list.length) { miss = true; list = D.itKeys; }
       html = '<ul class="pdx-list">' + list.slice(0, limit).map(function (x) {
         var it = D.it[x[0]], n = (D.dropBy[x[0]] || []).length;
         return row('i:' + x[0], '', esc(EN ? it.e : it.v), esc(((EN ? it.de : (it.dv || it.de)) || '').slice(0, 110)) + (n ? ' <span class="pdx-tag">' + esc(S.itemDrop(n)) + '</span>' : ''), itImg(x[0]));
@@ -176,12 +197,13 @@
       $count.textContent = '';
       $out.innerHTML = typeView(); typeCalc(); return;
     } else if (cur === 'drop') {
-      $count.textContent = q ? '' : S.dropHelp;
-      $out.innerHTML = q ? dropView(q) : ''; return;
+      var dv = q ? dropView(q) : '';
+      $count.textContent = !q ? S.dropHelp : dv ? '' : S.miss($q.value.trim());
+      $out.innerHTML = dv || dropIndex(); return;
     }
-    $count.textContent = list.length ? S.count(list.length, all) : S.none;
+    $count.textContent = miss ? S.miss($q.value.trim()) : S.count(list.length, all);
     $out.innerHTML = html;
-    if (list.length === 1 && q) { var r1 = $out.querySelector('.pdx-row'); if (r1) { r1.click(); } }
+    if (list.length === 1 && q && !miss) { var r1 = $out.querySelector('.pdx-row'); if (r1) { r1.click(); } }
   }
 
   function row(key, no, name, sub, pic) {
@@ -289,7 +311,14 @@
         return '<div class="pdx-item" style="padding:.5rem .8rem;margin-bottom:.4rem"><div class="pdx-head">' + img(stem(m), 48, m.n) + '<span><b>' + esc(m.n) + '</b> <span class="pdx-note">#' + m.d + '</span></span></div>' + dropsHtml(m).replace(/<h3>[^<]*<\/h3>/, '') + '</div>';
       }).join('');
     }
-    return h || '<p>' + S.none + '</p>';
+    return h;
+  }
+  // Ô trống / không thấy: lưới ảnh các loài có đồ rơi, bấm để xem.
+  function dropIndex() {
+    var ms = D.mon.mons.filter(function (m) { return m.dr && m.dr.length; });
+    return '<ul class="pdx-grid">' + ms.slice(0, limit).map(function (m) {
+      return '<li><button type="button" class="pdx-cell" data-go="drop" data-q="' + esc(m.n) + '">' + img(stem(m), 56, '') + '<span>' + esc(m.n) + '</span></button></li>';
+    }).join('') + '</ul>' + moreBtn(ms.length);
   }
 
   // ---------- Hệ ----------

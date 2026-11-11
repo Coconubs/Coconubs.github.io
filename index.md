@@ -43,6 +43,7 @@ last_modified_at: 2026-11-11T10:30:00+07:00
 <a class="coco-btn coco-btn--green" href="/cocolauncher/"><svg aria-hidden="true"><use href="#ci-download"/></svg>Tải CocoLauncher</a>
 <a class="coco-btn coco-btn--purple" href="https://discord.gg/hyspace"><svg aria-hidden="true"><use href="#ci-forum"/></svg>Vào Discord</a>
 <a class="coco-btn coco-btn--ghost" href="/cach-vao-server/"><svg aria-hidden="true"><use href="#ci-login"/></svg>Cách vào server</a>
+<a class="coco-btn coco-btn--ghost" href="/pokedex/">Pokédex</a>
 </div>
 </div>
 <div class="coco-hero__art"><img src="/assets/images/coco-cobblemon-logo-256.webp" srcset="/assets/images/coco-cobblemon-logo-176.webp 176w, /assets/images/coco-cobblemon-logo-256.webp 256w" sizes="(min-width: 50rem) 176px, 64px" width="256" height="256" alt="Logo server Coco Cobblemon" fetchpriority="high"></div>
@@ -66,6 +67,7 @@ document.addEventListener('click', function (e) {
 ## Có gì ở Coco Cobblemon
 
 <ul class="coco-cards">
+<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="40" height="40" alt="Pikachu" loading="lazy" style="image-rendering:pixelated;margin:-4px"></span><div><h3 class="no_anchor"><a href="/pokedex/">Pokédex</a></h3><p>Tra Pokémon, Ability, item, tính cách, khắc hệ và đồ rơi đúng như trên server.</p></div></div></li>
 <li><div class="coco-card"><span class="coco-ico coco-ico--red"><svg aria-hidden="true"><use href="#ci-swords"/></svg></span><div><h3 class="no_anchor"><a href="/tinh-nang/dau-xep-hang/">Đấu Xếp Hạng</a></h3><p>Đấu Đôi 4v4 tính Elo, Đấu Đơn 6v6, ghép trận tự động.</p></div></div></li>
 <li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/chia-khoa-raid.webp" width="32" height="32" alt="Chìa Khoá Raid" loading="lazy"></span><div><h3 class="no_anchor"><a href="/tinh-nang/raid/">Raid Thế Giới</a></h3><p>Boss chung cả server lúc 9:00 và 19:00 mỗi ngày.</p></div></div></li>
 <li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/bua-huyen-thoai.webp" width="32" height="32" alt="Bùa Huyền Thoại" loading="lazy"></span><div><h3 class="no_anchor"><a href="/tinh-nang/legendary/">Legendary tích luỹ</a></h3><p>Càng lâu server chưa có Legendary, tỉ lệ càng tăng.</p></div></div></li>
