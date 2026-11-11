@@ -2891,7 +2891,7 @@ Trong Cobblemon 1.7.3, hoá thạch nằm trong **Cát đáng ngờ** và **Sỏ
 
 ## Danh sách hoá thạch Cobblemon 1.7.3
 
-Cobblemon 1.7.3 có 15 vật phẩm hoá thạch và 15 công thức hồi sinh. 11 hoá thạch đi một mình. 4 hoá thạch Galar phải ghép đôi: một mảnh đầu (Bird hoặc Dino) với một mảnh đuôi (Fish hoặc Drake). Tên hoá thạch trong game hiện bằng tiếng Anh vì bản tiếng Việt của Cobblemon chưa dịch các tên này.
+Cobblemon 1.7.3 có 15 vật phẩm hoá thạch và 15 công thức hồi sinh. 11 hoá thạch đi một mình. 4 hoá thạch Galar phải ghép đôi: Fossilized Bird hoặc Fossilized Fish ghép với Fossilized Drake hoặc Fossilized Dino (xem bảng). Tên hoá thạch trong game hiện bằng tiếng Anh vì bản tiếng Việt của Cobblemon chưa dịch các tên này.
 
 | Hoá thạch bỏ vào máy | Pokémon hồi sinh |
 |---|---|
@@ -2945,7 +2945,7 @@ Cobblemon 1.7.3 thêm 23 loại công trình hoá thạch mọc tự nhiên. M�
 | Fossilized Fish | Đại dương (đáy biển) | submerged_impact |
 | Fossilized Dino | Đỉnh núi băng giá, Mũi băng | frozen_spike |
 | Fossilized Drake | Vùng đất cằn cỗi (badlands) | sunscorched_remains |
-| 1 mảnh đầu (Bird hoặc Dino) và 1 mảnh đuôi (Fish hoặc Drake) | Đại dương băng giá | preserved_skeleton |
+| 1 Fossilized Bird hoặc Dino (trong cát) và 1 Fossilized Drake hoặc Fish (trong sỏi) | Đại dương băng giá | preserved_skeleton |
 
 Biome ghi theo tên gốc của Minecraft trong tag của Cobblemon; tag có thể gồm cả biome của mod khác. Bài không ghi tỉ lệ gặp công trình vì vị trí công trình phụ thuộc hạt giống thế giới và vùng đất đã sinh.
 
@@ -4641,7 +4641,7 @@ In Cobblemon 1.7.3, fossils are buried in **Suspicious Sand** and **Suspicious G
 
 ## Cobblemon 1.7.3 fossil list
 
-Cobblemon 1.7.3 has 15 fossil items and 15 revival recipes. 11 fossils work on their own. The 4 Galar fossils must be paired: one front half (Bird or Dino) with one back half (Fish or Drake).
+Cobblemon 1.7.3 has 15 fossil items and 15 revival recipes. 11 fossils work on their own. The 4 Galar fossils must be paired: a Fossilized Bird or Fossilized Fish with a Fossilized Drake or Fossilized Dino (see the table).
 
 | Fossil to insert | Revived Pokémon |
 |---|---|
@@ -4695,7 +4695,7 @@ Cobblemon 1.7.3 adds 23 kinds of fossil site that generate in the world. Each si
 | Fossilized Fish | Ocean (sea floor) | submerged_impact |
 | Fossilized Dino | Frozen Peaks, Ice Spikes | frozen_spike |
 | Fossilized Drake | Badlands | sunscorched_remains |
-| 1 front half (Bird or Dino) and 1 back half (Fish or Drake) | Frozen Ocean | preserved_skeleton |
+| 1 Fossilized Bird or Dino (in sand) and 1 Fossilized Drake or Fish (in gravel) | Frozen Ocean | preserved_skeleton |
 
 Biomes are the vanilla Minecraft names in Cobblemon's biome tags; the tags can also include biomes from other mods. This page gives no odds for finding a site, because site positions depend on the world seed and on which areas have been generated.
 

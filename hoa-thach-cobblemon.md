@@ -55,7 +55,7 @@ Trong Cobblemon 1.7.3, hoá thạch nằm trong **Cát đáng ngờ** và **Sỏ
 
 ## Danh sách hoá thạch Cobblemon 1.7.3
 
-Cobblemon 1.7.3 có 15 vật phẩm hoá thạch và 15 công thức hồi sinh. 11 hoá thạch đi một mình. 4 hoá thạch Galar phải ghép đôi: một mảnh đầu (Bird hoặc Dino) với một mảnh đuôi (Fish hoặc Drake). Tên hoá thạch trong game hiện bằng tiếng Anh vì bản tiếng Việt của Cobblemon chưa dịch các tên này.
+Cobblemon 1.7.3 có 15 vật phẩm hoá thạch và 15 công thức hồi sinh. 11 hoá thạch đi một mình. 4 hoá thạch Galar phải ghép đôi: Fossilized Bird hoặc Fossilized Fish ghép với Fossilized Drake hoặc Fossilized Dino (xem bảng). Tên hoá thạch trong game hiện bằng tiếng Anh vì bản tiếng Việt của Cobblemon chưa dịch các tên này.
 
 | Hoá thạch bỏ vào máy | Pokémon hồi sinh |
 |---|---|
@@ -109,7 +109,7 @@ Cobblemon 1.7.3 thêm 23 loại công trình hoá thạch mọc tự nhiên. M�
 | Fossilized Fish | Đại dương (đáy biển) | submerged_impact |
 | Fossilized Dino | Đỉnh núi băng giá, Mũi băng | frozen_spike |
 | Fossilized Drake | Vùng đất cằn cỗi (badlands) | sunscorched_remains |
-| 1 mảnh đầu (Bird hoặc Dino) và 1 mảnh đuôi (Fish hoặc Drake) | Đại dương băng giá | preserved_skeleton |
+| 1 Fossilized Bird hoặc Dino (trong cát) và 1 Fossilized Drake hoặc Fish (trong sỏi) | Đại dương băng giá | preserved_skeleton |
 
 Biome ghi theo tên gốc của Minecraft trong tag của Cobblemon; tag có thể gồm cả biome của mod khác. Bài không ghi tỉ lệ gặp công trình vì vị trí công trình phụ thuộc hạt giống thế giới và vùng đất đã sinh.
 

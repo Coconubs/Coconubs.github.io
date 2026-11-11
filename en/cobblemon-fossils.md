@@ -57,7 +57,7 @@ In Cobblemon 1.7.3, fossils are buried in **Suspicious Sand** and **Suspicious G
 
 ## Cobblemon 1.7.3 fossil list
 
-Cobblemon 1.7.3 has 15 fossil items and 15 revival recipes. 11 fossils work on their own. The 4 Galar fossils must be paired: one front half (Bird or Dino) with one back half (Fish or Drake).
+Cobblemon 1.7.3 has 15 fossil items and 15 revival recipes. 11 fossils work on their own. The 4 Galar fossils must be paired: a Fossilized Bird or Fossilized Fish with a Fossilized Drake or Fossilized Dino (see the table).
 
 | Fossil to insert | Revived Pokémon |
 |---|---|
@@ -111,7 +111,7 @@ Cobblemon 1.7.3 adds 23 kinds of fossil site that generate in the world. Each si
 | Fossilized Fish | Ocean (sea floor) | submerged_impact |
 | Fossilized Dino | Frozen Peaks, Ice Spikes | frozen_spike |
 | Fossilized Drake | Badlands | sunscorched_remains |
-| 1 front half (Bird or Dino) and 1 back half (Fish or Drake) | Frozen Ocean | preserved_skeleton |
+| 1 Fossilized Bird or Dino (in sand) and 1 Fossilized Drake or Fish (in gravel) | Frozen Ocean | preserved_skeleton |
 
 Biomes are the vanilla Minecraft names in Cobblemon's biome tags; the tags can also include biomes from other mods. This page gives no odds for finding a site, because site positions depend on the world seed and on which areas have been generated.
 
