@@ -18,10 +18,10 @@
 
   <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-head-nav.css' | relative_url }}" id="jtd-head-nav-stylesheet">
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600;700&display=swap" media="print" onload="this.media='all'">
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600;700&display=swap"></noscript>
+  <link rel="preload" href="{{ '/assets/fonts/be-vietnam-pro-400-latin.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+  {%- if page.lang != "en" %}
+  <link rel="preload" href="{{ '/assets/fonts/be-vietnam-pro-400-vietnamese.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+  {%- endif %}
 
   <style id="jtd-nav-activation">
   {% include css/activation.scss.liquid %}
