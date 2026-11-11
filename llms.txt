@@ -37,7 +37,6 @@ Key facts in English (checked 11 November 2026):
 - [Hướng dẫn người mới](https://coconubs.github.io/huong-dan-nguoi-moi/): việc nên làm ngày đầu, lệnh hay dùng
 - [Tính năng](https://coconubs.github.io/tinh-nang/): Đấu Xếp Hạng, BattleTower, bang hội, Raid, Legendary, Shiny, câu cá
 - [Hỏi đáp](https://coconubs.github.io/hoi-dap/): câu hỏi thường gặp
-- [Nhật ký cập nhật](https://coconubs.github.io/cap-nhat/): thay đổi mới nhất của server
 
 ## Hướng dẫn Cobblemon (đọc từ file mod Cobblemon 1.7.3, ghi rõ phần riêng của Coco Cobblemon)
 

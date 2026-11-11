@@ -17,7 +17,6 @@ vi:
         - { title: "Sửa lỗi CocoLauncher", url: "/cocolauncher/sua-loi/" }
         - { title: "CocoLauncher có an toàn không", url: "/cocolauncher/an-toan/" }
         - { title: "Server Cobblemon Việt Nam", url: "/server-cobblemon-viet-nam/" }
-        - { title: "Nhật ký cập nhật", url: "/cap-nhat/" }
     - title: "Cobblemon"
       items:
         - { title: "Cobblemon là gì", url: "/cobblemon-la-gi/" }
