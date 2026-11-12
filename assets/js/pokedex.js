@@ -5,7 +5,7 @@
   if (!root) { return; }
   var EN = root.getAttribute('data-lang') === 'en';
   var BASE = '/assets/pokedex/';
-  var V = '?v=20261112h';
+  var V = '?v=20261112i';
   var IMG = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/';
   var S = EN ? {
     count: function (n, all) { return n === all ? all + ' entries' : n + ' of ' + all; },
@@ -71,9 +71,9 @@
   function num(x) { var s = String(Math.round(x * 100) / 100); return EN ? s : s.replace('.', ','); }
   function tName(i) { var m = D.misc; return m ? m.tn[i][EN ? 1 : 0] : ''; }
   // Icon hệ = texture thật của Cobblemon (gui/types.png, 18 ô 36px, cùng thứ tự misc.tn).
-  // Ảnh hệ: badge PokéAPI (Scarlet/Violet); số thứ tự PokéAPI theo đúng thứ tự misc.tn.
+  // Icon hệ tròn: PokéAPI (types/generation-ix/champions/small), cắt tròn bằng CSS; số PokéAPI theo thứ tự misc.tn.
   var TID = [1, 10, 11, 12, 13, 15, 2, 4, 5, 3, 14, 7, 6, 8, 16, 17, 9, 18];
-  function tBadge(i) { return i < 0 ? '' : '<img class="pdx-t" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/' + TID[i] + '.png" width="90" height="18" loading="lazy" decoding="async" alt="' + esc(tName(i)) + '" title="' + esc(tName(i)) + '">'; }
+  function tBadge(i) { return i < 0 ? '' : '<span class="pdx-t"><img class="pdx-ti" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/champions/small/' + TID[i] + '.png" width="22" height="22" loading="lazy" decoding="async" alt="">' + esc(tName(i)) + '</span>'; }
   function monName(id) { var m = D.monById[id]; return m ? m.n : (D.mon.names[id] || id); }
   function itemName(id) { var it = D.it && D.it[id]; return it ? (EN ? it.e : it.v) : id.split(':').pop().replace(/_/g, ' '); }
   function abName(id) { var a = D.abById && D.abById[id]; return a ? a[1] : id; }
