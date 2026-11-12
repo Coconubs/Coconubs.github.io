@@ -5,7 +5,7 @@
   if (!root) { return; }
   var EN = root.getAttribute('data-lang') === 'en';
   var BASE = '/assets/pokedex/';
-  var V = '?v=20261112q';
+  var V = '?v=20261112r';
   var IMG = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/';
   var S = EN ? {
     count: function (n, all) { return n === all ? all + ' entries' : n + ' of ' + all; },
@@ -13,7 +13,7 @@
     stats: ['HP', 'Attack', 'Defense', 'Sp. Atk', 'Sp. Def', 'Speed'], total: 'Total',
     types: 'Type', abil: 'Abilities', hidden: 'hidden', evo: 'Evolution', from: 'Evolves from', to: 'Evolves into',
     forms: 'Forms', battle: 'battle only', drops: 'Drops', spawn: 'Where it spawns', nospawn: 'No natural spawn data.',
-    chance: 'chance', qty: 'amount', blockedDrop: 'removed on Coco', blockedNote: 'Struck-through items are removed from Pokémon drops by the Coco server rules (held items, vitamins, mints, bottle caps…).',
+    chance: 'chance', qty: 'amount', blockedDrop: 'removed on Coco', pastureNo: 'Not from pastures', pastureTip: 'Pokémon kept in a pasture never drop this item on Coco', blockedNote: 'Struck-through items are removed from Pokémon drops by the Coco server rules (held items, vitamins, mints, bottle caps…).',
     leg: 'Legendaries have their own spawn chance, doubled during Golden Hour. Fishing and Poké Snacks never give Legendaries.',
     myth: 'Mythical: does not spawn naturally on Coco and cannot be summoned with altars.',
     legLink: '/en/features/', users: 'Pokémon with this ability', droppedBy: 'Dropped by', dropsOf: 'Drops of',
@@ -33,7 +33,7 @@
     stats: ['HP', 'Tấn công', 'Phòng thủ', 'Tấn công đặc biệt', 'Phòng thủ đặc biệt', 'Tốc độ'], total: 'Tổng',
     types: 'Hệ', abil: 'Ability', hidden: 'ẩn', evo: 'Tiến hoá', from: 'Tiến hoá từ', to: 'Tiến hoá thành',
     forms: 'Dạng khác', battle: 'chỉ trong trận', drops: 'Item rơi', spawn: 'Nơi xuất hiện', nospawn: 'Không có dữ liệu xuất hiện tự nhiên.',
-    chance: 'tỉ lệ', qty: 'số lượng', blockedDrop: 'Đã bị tắt', blockedNote: 'Món bị gạch là món đã bị tắt khỏi đồ rơi của Pokémon trên server (held item, vitamin, kẹo bạc hà, nắp chai…).',
+    chance: 'tỉ lệ', qty: 'số lượng', blockedDrop: 'Đã bị tắt', pastureNo: 'Không rơi ở Pasture', pastureTip: 'Pokémon thả trong Pasture không rơi món này trên Coco', blockedNote: 'Món bị gạch là món đã bị tắt khỏi đồ rơi của Pokémon trên server (held item, vitamin, kẹo bạc hà, nắp chai…).',
     leg: 'Legendary có tỉ lệ Spawn riêng, Giờ Vàng gấp đôi. Câu cá và Poké Snack không ra Huyền thoại.',
     myth: 'Thần thoại: không xuất hiện tự nhiên trên Coco và bị khoá triệu hồi bằng bàn thờ.',
     legLink: '/tinh-nang/legendary/', users: 'Pokémon có Ability này', droppedBy: 'Rơi từ', dropsOf: 'Đồ rơi của',
@@ -116,6 +116,7 @@
     return Promise.all(n.map(load)).then(prep);
   }
   function prep() {
+    if (D.misc && !D.PB) { D.PB = {}; (D.misc.pl || []).forEach(function (x) { D.PB[x] = 1; }); }
     if (D.mon && !D.monById) {
       D.monById = {};
       var tk = function (t) { return t.map(function (x) { return D.misc ? D.misc.tn[x].join(' ') : ''; }).join(' '); };
@@ -191,7 +192,7 @@
       if (!list.length) { miss = true; list = D.itKeys; }
       html = '<ul class="pdx-list">' + list.slice(0, limit).map(function (x) {
         var it = D.it[x[0]], n = (D.dropBy[x[0]] || []).length;
-        return row('i:' + x[0], '', esc(EN ? it.e : it.v), esc(((EN ? it.de : (it.dv || it.de)) || '').slice(0, 110)) + (n ? ' <span class="pdx-tag">' + esc(S.itemDrop(n)) + '</span>' : ''), itImg(x[0]));
+        return row('i:' + x[0], '', esc(EN ? it.e : it.v), esc(((EN ? it.de : (it.dv || it.de)) || '').slice(0, 110)) + (n ? ' <span class="pdx-tag">' + esc(S.itemDrop(n)) + '</span>' + pTag(x[0], it.b) : ''), itImg(x[0]));
       }).join('') + '</ul>' + moreBtn(list.length);
     } else if (cur === 'nat') {
       all = list = D.misc.nat.length;
@@ -239,13 +240,15 @@
   function abilHtml(a) {
     return a.map(function (x) { var h = x.indexOf('h:') === 0, id = h ? x.slice(2) : x; return link('ab', abName(id), abName(id)) + (h ? ' <span class="pdx-tag">' + S.hidden + '</span>' : ''); }).join(', ');
   }
+  // Món nằm trong item_blacklist của PastureLoot: Pokémon ở Pasture không rơi (món đã tắt hẳn thì không cần nhãn này).
+  function pTag(id, b) { return !b && D.PB && D.PB[id] ? ' <span class="pdx-tag pdx-tag--pasture" title="' + esc(S.pastureTip) + '">' + S.pastureNo + '</span>' : ''; }
   function dropsHtml(m) {
     if (!m.dr) { return ''; }
     var anyB = false;
     var h = '<h3>' + S.drops + '</h3><ul>' + m.dr.map(function (d) {
       if (d[3]) { anyB = true; }
       var txt = itImg(d[0]) + link('drop', itemName(d[0]), itemName(d[0])) + ' · ' + num(d[1]) + '%' + (d[2] ? ' · ' + S.qty + ' ' + esc(d[2]) : '');
-      return '<li class="pdx-dl' + (d[3] ? ' pdx-blocked' : '') + '">' + txt + (d[3] ? ' <span class="pdx-tag pdx-tag--warn">' + S.blockedDrop + '</span>' : '') + '</li>';
+      return '<li class="pdx-dl' + (d[3] ? ' pdx-blocked' : '') + '">' + txt + (d[3] ? ' <span class="pdx-tag pdx-tag--warn">' + S.blockedDrop + '</span>' : '') + pTag(d[0], d[3]) + '</li>';
     }).join('') + '</ul>';
     return h;
   }
@@ -354,7 +357,7 @@
   function itDetail(id) {
     var it = D.it[id], d = EN ? it.de : (it.dv || it.de);
     var by = D.dropBy[id] || [];
-    return (d ? '<p>' + esc(d) + '</p>' : '') + '<p class="pdx-note"><code>' + esc(id) + '</code></p>' +
+    return (d ? '<p>' + esc(d) + '</p>' : '') + '<p class="pdx-note"><code>' + esc(id) + '</code>' + (by.length ? pTag(id, it.b) : '') + '</p>' +
       '<h3>' + S.droppedBy + ' (' + by.length + ')</h3>' + (by.length ? dropList(by) : '<p>' + S.noDrop + '</p>');
   }
   function dropList(by) {
@@ -368,7 +371,7 @@
     var h = '';
     if (its.length) {
       h += '<h3>' + S.items + '</h3>' + its.map(function (x) {
-        return '<div class="pdx-item" style="padding:.5rem .8rem;margin-bottom:.4rem"><div class="pdx-head">' + itImg(x[0]) + '<b>' + esc(itemName(x[0])) + '</b>' + (D.it[x[0]].b ? ' <span class="pdx-tag pdx-tag--warn">' + S.blockedDrop + '</span>' : '') + '</div><span class="pdx-note">' + S.droppedBy + ' (' + D.dropBy[x[0]].length + ')</span>' + dropList(D.dropBy[x[0]]) + '</div>';
+        return '<div class="pdx-item" style="padding:.5rem .8rem;margin-bottom:.4rem"><div class="pdx-head">' + itImg(x[0]) + '<b>' + esc(itemName(x[0])) + '</b>' + (D.it[x[0]].b ? ' <span class="pdx-tag pdx-tag--warn">' + S.blockedDrop + '</span>' : '') + pTag(x[0], D.it[x[0]].b) + '</div><span class="pdx-note">' + S.droppedBy + ' (' + D.dropBy[x[0]].length + ')</span>' + dropList(D.dropBy[x[0]]) + '</div>';
       }).join('');
     }
     if (mons.length) {
