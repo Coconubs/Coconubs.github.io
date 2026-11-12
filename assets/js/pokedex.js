@@ -5,7 +5,7 @@
   if (!root) { return; }
   var EN = root.getAttribute('data-lang') === 'en';
   var BASE = '/assets/pokedex/';
-  var V = '?v=20261112m';
+  var V = '?v=20261112n';
   var IMG = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/';
   var S = EN ? {
     count: function (n, all) { return n === all ? all + ' entries' : n + ' of ' + all; },
@@ -119,14 +119,12 @@
     if (D.mon && !D.monById) {
       D.monById = {};
       var tk = function (t) { return t.map(function (x) { return D.misc ? D.misc.tn[x].join(' ') : ''; }).join(' '); };
-      D.rows = [];
+      D.rows = D.mon.mons;
       D.mon.mons.forEach(function (m) {
-        D.monById[m.i] = m; m.k = fold(m.n + ' ' + m.i + ' ' + m.d + ' ' + tk(m.t)); D.rows.push(m);
-        (m.f || []).forEach(function (f, j) {
-          if (/costume/i.test(f.n) || !(f.t || f.s || f.im)) { return; }
-          var r = { i: m.i + ':' + j, d: m.d, n: formName(m, f), t: f.t || m.t, im: f.im, fb: m, ff: f };
-          r.k = fold(r.n + ' ' + m.i + ' ' + m.d + ' ' + f.n + (/gmax/i.test(f.n) ? ' gigantamax' : '') + ' ' + tk(r.t)); D.rows.push(r);
-        });
+        D.monById[m.i] = m;
+        // Chỉ giữ dạng có thật trên server: có ảnh, hoặc Mega/Primal có đá; bỏ dạng "Bias" (chỉ là thiên hướng tiến hoá) và costume.
+        m.fv = (m.f || []).filter(function (f) { return !/bias|costume/i.test(f.n) && (f.im || f.mv || (f.ms && /^(Mega(-[XY])?|Primal)$/.test(f.n))); });
+        m.k = fold(m.n + ' ' + m.i + ' ' + m.d + ' ' + tk(m.t) + ' ' + m.fv.map(function (f) { return formName(m, f) + (/gmax/i.test(f.n) ? ' gigantamax' : ''); }).join(' '));
       });
     }
     if (D.ab && !D.abById) { D.abById = {}; D.ab.forEach(function (a) { D.abById[a[0]] = a; a.k = fold(a[0] + ' ' + a[1] + ' ' + a[2] + ' ' + a[3]); }); }
@@ -316,15 +314,13 @@
     return '';
   }
   function formsHtml(m) {
-    if (!m.f) { return ''; }
-    return '<h3>' + S.forms + '</h3><ul>' + m.f.map(function (f) {
-      var bits = [];
-      if (f.t) { bits.push(f.t.map(tBadge).join('')); }
-      if (f.s) { bits.push(f.s.join('/') + ' (' + S.total + ' ' + f.s.reduce(function (a, b) { return a + b; }, 0) + ')'); }
-      if (f.a) { bits.push(abilHtml(f.a)); }
-      if (f.ms) { bits.push(itImg(f.ms) + ' ' + esc(itemName(f.ms))); }
-      return '<li class="pdx-fl">' + img(stem(m, f), 48, m.n + ' ' + f.n) + '<span><b>' + esc(f.n) + '</b>' + (f.b ? ' <span class="pdx-tag">' + S.battle + '</span>' : '') + (bits.length ? ': ' + bits.join(' · ') : '') + '</span></li>';
-    }).join('') + '</ul>';
+    if (!m.fv || !m.fv.length) { return ''; }
+    return '<h3>' + S.forms + ' (' + m.fv.length + ')</h3><div class="pdx-forms">' + m.fv.map(function (f) {
+      var how = formHow(m, f), st = f.s ? '<p class="pdx-note">' + S.stats.map(function (n, i) { return n + ' ' + f.s[i]; }).join(' · ') + ' · ' + S.total + ' ' + f.s.reduce(function (a, b) { return a + b; }, 0) + '</p>' : '';
+      return '<div class="pdx-form"><div class="pdx-head">' + img(stem(m, f), 72, formName(m, f), 'pdx-img--big') + '<div><b>' + esc(formName(m, f)) + '</b>' + (f.b ? ' <span class="pdx-tag">' + S.battle + '</span>' : '') +
+        '<div>' + (f.t || m.t).map(tBadge).join('') + '</div></div></div>' + (how ? (how.indexOf('<') === 0 ? how : '<p>' + how + '</p>') : '') + st +
+        (f.a ? '<p class="pdx-note">' + S.abil + ': ' + abilHtml(f.a) + '</p>' : '') + '</div>';
+    }).join('') + '</div>';
   }
   function formName(m, f) {
     var n = f.n;
@@ -340,7 +336,7 @@
       statsHtml(f.s || m.s) + '<h3>' + S.abil + '</h3><p>' + abilHtml(f.a || m.a) + '</p>';
   }
   function monDetail(m) {
-    return '<div class="pdx-head">' + img(stem(m), 96, m.n, 'pdx-img--big') + (m.g ? '<p><span class="pdx-tag">' + S.gen + ' ' + esc(m.g) + '</span></p>' : '') + '</div>' + statsHtml(m.s) +
+    return '<div class="pdx-head">' + img(stem(m), 96, m.n, 'pdx-img--big') + '<p>' + (m.g ? '<span class="pdx-tag">' + S.gen + ' ' + esc(m.g) + '</span> ' : '') + (stem(m) != null ? '<button type="button" class="pdx-shiny" data-shiny="1" aria-pressed="false">✨ Shiny</button>' : '') + '</p></div>' + statsHtml(m.s) +
       '<h3>' + S.abil + '</h3><p>' + abilHtml(m.a) + '</p>' + evoHtml(m) + formsHtml(m) + dropsHtml(m) + spawnHtml(m);
   }
   function abDetail(a) {
@@ -427,8 +423,16 @@
   }, true);
   root.addEventListener('change', function (e) { if (e.target.id === 'pdx-t1' || e.target.id === 'pdx-t2') { typeCalc(); } });
   root.addEventListener('click', function (e) {
-    var t = e.target.closest('[data-tab],[data-go],[data-more],.pdx-row');
+    var t = e.target.closest('[data-tab],[data-go],[data-more],[data-shiny],.pdx-row');
     if (!t) { return; }
+    if (t.hasAttribute('data-shiny')) {
+      var on = t.getAttribute('aria-pressed') !== 'true';
+      t.setAttribute('aria-pressed', on ? 'true' : 'false');
+      [].forEach.call(t.closest('.pdx-body').querySelectorAll('img.pdx-img'), function (im) {
+        im.src = on ? im.src.replace(IMG, IMG + 'shiny/') : im.src.replace(IMG + 'shiny/', IMG);
+      });
+      return;
+    }
     if (t.hasAttribute('data-tab')) { select(t.getAttribute('data-tab'), ''); return; }
     if (t.hasAttribute('data-go')) { select(t.getAttribute('data-go'), t.getAttribute('data-q')); root.scrollIntoView({ block: 'start' }); return; }
     if (t.hasAttribute('data-more')) { limit += 120; draw(); return; }
