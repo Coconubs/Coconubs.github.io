@@ -32,14 +32,14 @@ jsonld: |
       "https://discord.gg/hyspace"
     ]
   }
-last_modified_at: 2026-11-11T10:30:00+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 {% include coco_icons.html %}
 <div class="coco-hero">
 <div class="coco-hero__text">
 <h1 id="coco-cobblemon-a-cobblemon-server-in-vietnam">Coco Cobblemon: a Cobblemon server in Vietnam</h1>
-<p class="coco-hero__lead">A Vietnamese Pokémon Minecraft server. Java 1.21.1, Cobblemon 1.7.3, free to join with CocoLauncher.</p>
+<p class="coco-hero__lead">A Vietnamese Pokémon server on Minecraft Java 1.21.1 with Cobblemon 1.7.3. It's free, and you join through CocoLauncher.</p>
 <div class="coco-ip"><span class="coco-ip__label">Server address</span> <code class="coco-ip__addr">coco.ultramc.co</code> <button type="button" class="coco-copy" data-copy="coco.ultramc.co" data-done="Copied"><svg aria-hidden="true"><use href="#ci-content-copy"/></svg><span aria-live="polite">Copy</span></button></div>
 <div class="coco-cta">
 <a class="coco-btn coco-btn--green" href="/en/cocolauncher/"><svg aria-hidden="true"><use href="#ci-download"/></svg>Download CocoLauncher</a>
@@ -69,11 +69,11 @@ document.addEventListener('click', function (e) {
 ## What you can do on Coco
 
 <ul class="coco-cards">
-<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="40" height="40" alt="Pikachu" loading="lazy" style="image-rendering:pixelated;margin:-4px"></span><div><h3 class="no_anchor"><a href="/en/pokedex/">Pokédex</a></h3><p>Look up Pokémon, abilities, items, natures, type matchups and drops, as they are on the server.</p></div></div></li>
-<li><div class="coco-card"><span class="coco-ico coco-ico--red"><svg aria-hidden="true"><use href="#ci-swords"/></svg></span><div><h3 class="no_anchor"><a href="/en/features/#ranked-battles">Ranked battles</a></h3><p>4v4 Doubles with Elo and 6v6 Singles, with automatic matchmaking.</p></div></div></li>
-<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/chia-khoa-raid.webp" width="32" height="32" alt="Raid Key" loading="lazy"></span><div><h3 class="no_anchor"><a href="/en/features/#world-raids">World Raids</a></h3><p>A shared boss for the whole server at 9:00 and 19:00 every day.</p></div></div></li>
-<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/bua-huyen-thoai.webp" width="32" height="32" alt="Legendary Charm" loading="lazy"></span><div><h3 class="no_anchor"><a href="/en/features/#legendary-and-shiny">Accumulating Legendary chance</a></h3><p>The longer the server goes without a Legendary, the higher the chance.</p></div></div></li>
-<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/tinh-the-shiny.webp" width="32" height="32" alt="Shiny Crystal" loading="lazy"></span><div><h3 class="no_anchor"><a href="/en/features/#legendary-and-shiny">Shiny</a></h3><p>Get Shiny Pokémon from Fusion, Eggs, Raids and the Battle Pass.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="40" height="40" alt="Pikachu" loading="lazy" style="image-rendering:pixelated;margin:-4px"></span><div><h3 class="no_anchor"><a href="/en/pokedex/">Pokédex</a></h3><p>Pokémon, abilities, items, natures, type matchups and drops, using the server's own data.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--red"><svg aria-hidden="true"><use href="#ci-swords"/></svg></span><div><h3 class="no_anchor"><a href="/en/features/#ranked-battles">Ranked battles</a></h3><p>4v4 Doubles with Elo, plus 6v6 Singles. Matchmaking is automatic.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/chia-khoa-raid.webp" width="32" height="32" alt="Raid Key" loading="lazy"></span><div><h3 class="no_anchor"><a href="/en/features/#world-raids">World Raids</a></h3><p>The whole server takes on one boss, every day at 9:00 and 19:00.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/bua-huyen-thoai.webp" width="32" height="32" alt="Legendary Charm" loading="lazy"></span><div><h3 class="no_anchor"><a href="/en/features/#legendary-and-shiny">Accumulating Legendary chance</a></h3><p>The longer the server goes without a Legendary, the better the odds get.</p></div></div></li>
+<li><div class="coco-card"><span class="coco-ico coco-ico--item"><img src="/assets/images/items/tinh-the-shiny.webp" width="32" height="32" alt="Shiny Crystal" loading="lazy"></span><div><h3 class="no_anchor"><a href="/en/features/#legendary-and-shiny">Shiny</a></h3><p>Shinies come from Fusion, Eggs, Raids and the Battle Pass.</p></div></div></li>
 <li><div class="coco-card"><span class="coco-ico coco-ico--blue"><svg aria-hidden="true"><use href="#ci-groups"/></svg></span><div><h3 class="no_anchor"><a href="/en/features/#guilds">Guilds</a></h3><p>Guild Wars, a daily Guild Boss and private land locks.</p></div></div></li>
 <li><div class="coco-card"><span class="coco-ico coco-ico--orange"><svg aria-hidden="true"><use href="#ci-calendar-month"/></svg></span><div><h3 class="no_anchor"><a href="/en/features/#daily-play">Daily play</a></h3><p>Battle Pass, jobs, expeditions, fishing and daily rewards.</p></div></div></li>
 </ul>

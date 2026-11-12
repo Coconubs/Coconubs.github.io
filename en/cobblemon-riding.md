@@ -1,7 +1,7 @@
 ---
 title: Cobblemon riding
 seo_title: "How to ride Pokémon in Cobblemon: which Pokémon are rideable"
-description: "How to ride Pokémon in Cobblemon 1.7.3: send it out, hold Shift, right-click, choose Ride. 84 rideable species: 74 land, 38 flying, 17 swimming."
+description: "How to ride Pokémon in Cobblemon 1.7.3: send it out, hold Shift, right-click, choose Ride. 84 rideable species: 74 on land, 38 flying, 17 swimming."
 parent: English
 nav_order: 4.89
 permalink: /en/cobblemon-riding/
@@ -11,7 +11,7 @@ jsonld: |
     "@context": "https://schema.org",
     "@type": "HowTo",
     "name": "How to ride Pokémon in Cobblemon",
-    "description": "How to ride Pokémon in Cobblemon 1.7.3: send it out, hold Shift, right-click, choose Ride. 84 rideable species: 74 land, 38 flying, 17 swimming.",
+    "description": "How to ride Pokémon in Cobblemon 1.7.3: send it out, hold Shift, right-click, choose Ride. 84 rideable species: 74 on land, 38 flying, 17 swimming.",
     "inLanguage": "en",
     "url": "https://coconubs.github.io/en/cobblemon-riding/",
     "step": [
@@ -23,12 +23,12 @@ jsonld: |
       {
         "@type": "HowToStep",
         "position": 2,
-        "text": "Select it with the up and down arrow keys, then press R to send it out."
+        "text": "Select it with the Up and Down arrow keys and press R to send it out."
       },
       {
         "@type": "HowToStep",
         "position": 3,
-        "text": "Stand next to it, hold Shift (the Sneak key) and right-click the Pokémon. The interaction wheel opens."
+        "text": "Stand next to it, hold Shift (Sneak) and right-click it to open the interaction wheel."
       },
       {
         "@type": "HowToStep",
@@ -38,31 +38,31 @@ jsonld: |
       {
         "@type": "HowToStep",
         "position": 5,
-        "text": "Move with the normal movement keys. Hold Left Alt to look around. Press R to get off."
+        "text": "Move with your normal movement keys. Hold Left Alt to look around. Press R to get off."
       }
     ]
   }
-last_modified_at: 2026-11-11T06:02:04+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # How to ride Pokémon in Cobblemon
 
-Riding arrived in Cobblemon 1.7. To ride: send the Pokémon out with the R key, stand next to it, hold **Shift** and **right-click** it to open the interaction wheel, then choose **Ride**. Press R to get off. Cobblemon 1.7.3 has 84 rideable species: 74 walk on land, 38 fly and 17 swim; many can do two or three of these.
+Riding was added in Cobblemon 1.7. Send the Pokémon out with R, stand next to it, hold **Shift** and **right-click** it to open the interaction wheel, then pick **Ride**. Press R to get off. In 1.7.3 there are 84 rideable species: 74 can go on land, 38 can fly and 17 can swim, and plenty can do more than one.
 {: .fs-5 .fw-300 }
 
 ## Steps to ride a Pokémon
 
 1. Have a rideable Pokémon in your party (list below).
-2. Select it with the up and down arrow keys, then press **R** to send it out.
-3. Stand next to it, hold **Shift** (the Sneak key) and **right-click** the Pokémon. The interaction wheel opens.
+2. Select it with the Up and Down arrow keys and press **R** to send it out.
+3. Stand next to it, hold **Shift** (Sneak) and **right-click** it to open the interaction wheel.
 4. Choose **Ride**.
-5. Move with the normal movement keys. Hold **Left Alt** to look around. Press **R** to get off.
+5. Move with your normal movement keys. Hold **Left Alt** to look around. Press **R** to get off.
 
-If there is no **Ride** option: the species cannot be ridden, the Pokémon is in a Pasture, or you are in a battle.
+No **Ride** option? Either the species can't be ridden, the Pokémon is in a Pasture, or you're in a battle.
 
 ## Which Pokémon can you ride in Cobblemon 1.7.3
 
-Counted on 11 November 2026 from the `riding` data in `Cobblemon-fabric-1.7.3+1.21.1.jar`: a species is rideable when it has a riding style and at least one seat. That gives 84 species, 38 of them with two or more styles.
+Counted on 11 November 2026 from the `riding` data in `Cobblemon-fabric-1.7.3+1.21.1.jar`. A species counts as rideable if it has a riding style and at least one seat. That's 84 species, 38 of which have two or more styles.
 
 **Flying (38):** Aerodactyl, Altaria, Articuno, Blastoise, Braviary, Bronzong, Charizard, Claydol, Corviknight, Dragapult, Dragonite, Drifblim, Dusknoir, Flygon, Forretress, Garchomp, Golurk, Gyarados, Heracross, Ho-Oh, Honchkrow, Hydreigon, Kilowattrel, Klinklang, Latias, Latios, Lugia, Magnezone, Mantine, Metagross, Moltres, Noivern, Salamence, Staraptor, Togekiss, Tropius, Volcarona, Zapdos.
 
@@ -70,21 +70,21 @@ Counted on 11 November 2026 from the `riding` data in `Cobblemon-fabric-1.7.3+1.
 
 **Land only (36):** Arcanine, Ariados, Bastiodon, Bouffalant, Camerupt, Crustle, Cyclizar, Darmanitan, Dudunsparce, Espathra, Farigiraf, Gastrodon, Girafarig, Gogoat, Lickilicky, Mamoswine, Mr. Mime, Mudsdale, Orthworm, Parasect, Piloswine, Revavroom, Rhydon, Rhyhorn, Rhyperior, Scolipede, Serperior, Skiddo, Slaking, Sneasler, Tyrantrum, Ursaluna, Ursaring, Venusaur, Wyrdeer, Zebstrika.
 
-Most flying and swimming species can also walk on land. Rideable Legendaries in the base mod: Articuno, Zapdos, Moltres, Lugia, Ho-Oh, Latias, Latios. Some species, such as Rapidash and Snorlax, have riding stats in the file but no seat, so they cannot be ridden in plain Cobblemon 1.7.3.
+Most of the flyers and swimmers can walk on land too. Rideable Legendaries in the base mod: Articuno, Zapdos, Moltres, Lugia, Ho-Oh, Latias and Latios. A few species, like Rapidash and Snorlax, have riding stats in the files but no seat, so you can't ride them in plain 1.7.3.
 
 ## Riding styles and seats
 
-| Environment | Riding style (species) |
+| Where | Riding style (species) |
 |---|---|
 | Land | Standard (74) |
 | Air | Bird (21), Hover (8), Jet (7), Rocket (2) |
 | Water | Submarine (7), Dolphin (7), Boat (3, including Paldean Aqua Breed Tauros) |
 
-Most species have 1 seat. Species with more seats carry extra riders: Wailord 19, Dondozo 7, Camerupt 6, Metagross and Crustle 4, Mamoswine and Golurk 3. The Pokédex shows **Ride Stats** and the number of **Seats**.
+Most have 1 seat. Some carry passengers: Wailord 19, Dondozo 7, Camerupt 6, Metagross and Crustle 4, Mamoswine and Golurk 3. The Pokédex shows **Ride Stats** and the number of **Seats**.
 
 ## Ride stats and Aprijuice
 
-A rideable Pokémon has 5 ride stats: **Speed**, **Accel.** (acceleration), **Skill** (handling), **Jump** and **Stamina**. Feed it **Aprijuice** to raise them. According to the `apricornStatEffects` table in the 1.7.3 mod file, the colour of the Aprijuice decides which stat goes up and which goes down:
+Rideable Pokémon have 5 ride stats: **Speed**, **Accel.** (acceleration), **Skill** (handling), **Jump** and **Stamina**. Feed them **Aprijuice** to raise these. Going by the `apricornStatEffects` table in the 1.7.3 mod file, the juice colour decides which stat goes up and which goes down:
 
 | Aprijuice | Raises | Lowers |
 |---|---|---|
@@ -98,31 +98,31 @@ A rideable Pokémon has 5 ride stats: **Speed**, **Accel.** (acceleration), **Sk
 
 ## Riding on the Coco Cobblemon server
 
-- **No stamina limit:** the server turns on Infinite Ride Stamina, so the Stamina stat does not matter there (server Cobblemon config, checked 10 November 2026).
-- **No dismounting in mid-air:** the server turns off In-Flight Dismounting, so land first, then press R to get off.
-- **The list differs a little from the base mod:** the server's own data packs add or adjust riding for some species; for example Zacian, Zamazenta and Rayquaza can be ridden on Coco Cobblemon. The sure way to check: send the Pokémon out, hold Shift and right-click; if **Ride** shows up, you can ride it.
-- **Very large or very small Pokémon:** the server has a size-variation mod; a Pokémon much bigger or smaller than normal may not be rideable, and the game tells you when you try.
+- **No stamina limit:** Infinite Ride Stamina is on, so the Stamina stat doesn't matter (server Cobblemon config, checked 10 November 2026).
+- **You can't jump off mid-air:** In-Flight Dismounting is off, so land first, then press R.
+- **The list is a bit different:** the server's data packs add or change riding for some species. Zacian, Zamazenta and Rayquaza, for example, can be ridden here. The easy check: send it out, hold Shift and right-click. If **Ride** shows up, you can ride it.
+- **Really big or really small Pokémon:** the server has a size-variation mod, and a Pokémon much bigger or smaller than normal might not be rideable. The game tells you when you try.
 
 ## Riding on a phone
 
-Cobblemon is a Minecraft Java mod; it is not available on Minecraft Pocket Edition or Bedrock (see [Cobblemon on Bedrock](/en/cobblemon-bedrock/)). On Android, playing Coco Cobblemon through CocoLauncher Android works the same way as on a computer, using the on-screen controls. See [Play Cobblemon on Android](/en/cobblemon-android/).
+Cobblemon is a Java Edition mod, so it's not on Pocket Edition or Bedrock (see [Cobblemon on Bedrock](/en/cobblemon-bedrock/)). On Android, Coco Cobblemon through CocoLauncher Android rides the same as on PC, using the on-screen controls. See [Play Cobblemon on Android](/en/cobblemon-android/).
 
 ## Quick answers
 
 ### How do you ride a Pokémon in Cobblemon?
 
-Since Cobblemon 1.7, send the Pokémon out with R, hold Shift and right-click it, then choose **Ride**. Press R to get off.
+Send it out with R, hold Shift, right-click it and choose **Ride**. R gets you off again. You need Cobblemon 1.7 or newer.
 
-### Which Pokémon can you ride in Cobblemon?
+### Which Pokémon can you ride?
 
-Cobblemon 1.7.3 has 84 rideable species, for example Charizard, Dragonite, Gyarados, Lapras, Wailord, Arcanine, Mudsdale, Garchomp, Salamence and Togekiss. Servers with their own data packs can add more.
+84 species in 1.7.3, including Charizard, Dragonite, Gyarados, Lapras, Wailord, Arcanine, Mudsdale, Garchomp, Salamence and Togekiss. Servers with their own data packs can add more.
 
-### How do you fly on a Pokémon in Cobblemon?
+### How do you fly in Cobblemon?
 
-In Cobblemon, flying Pokémon such as Charizard, Dragonite, Salamence and Corviknight are ridden like any other: hold Shift, right-click, choose **Ride**. On Coco Cobblemon you cannot get off in mid-air, so land first.
+Ride a flying Pokémon such as Charizard, Dragonite, Salamence or Corviknight, the same way as any other mount. On Coco Cobblemon you can't get off in the air, so land first.
 
 **See also:** [Cobblemon controls](/en/cobblemon-controls/) · [How to catch Pokémon](/en/cobblemon-catching/) · [How to evolve Pokémon](/en/cobblemon-evolution/) · [What is Cobblemon](/en/what-is-cobblemon/) · [Play Cobblemon on Android](/en/cobblemon-android/) · [Vietnam Cobblemon server](/en/vietnam-cobblemon-server/)
 
-*Counts taken from `Cobblemon-fabric-1.7.3+1.21.1.jar` on 11 November 2026; the Coco Cobblemon section follows the server config checked on 10 November 2026. Other Cobblemon versions, or servers with their own data packs, can differ.*
+*Counts taken from `Cobblemon-fabric-1.7.3+1.21.1.jar` on 11 November 2026. The Coco Cobblemon section follows the server config checked on 10 November 2026. Other Cobblemon versions, or servers with their own data packs, can differ.*
 
-*Updated: 11 November 2026.*
+*Updated: 12 November 2026.*

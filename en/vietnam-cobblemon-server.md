@@ -6,12 +6,12 @@ parent: English
 nav_order: 8
 permalink: /en/vietnam-cobblemon-server/
 alt: /server-cobblemon-viet-nam/
-last_modified_at: 2026-11-11T10:30:00+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # Cobblemon server in Vietnam: Coco Cobblemon
 
-Coco Cobblemon is a Vietnamese Pokémon Minecraft server (Cobblemon mod). You join with CocoLauncher, for free. The menus are in Vietnamese with an English option, and 110 players were online on Saturday evening, 7 November 2026.
+Coco Cobblemon is a Pokémon server for Minecraft Java (Cobblemon mod), run by a Vietnamese community. It's free, you join with CocoLauncher, and the menus are in Vietnamese with an English option.
 {: .fs-5 .fw-300 }
 
 ## Server details
@@ -24,11 +24,11 @@ Coco Cobblemon is a Vietnamese Pokémon Minecraft server (Cobblemon mod). You jo
 | **How to join** | CocoLauncher for Windows, macOS, Android and iPhone |
 | **Event times** | Vietnam time (UTC+7) |
 | **Cost** | Free. Ranks and the Premium Battle Pass are optional |
-| **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace), the Discord server is called Hyper Space |
+| **Discord** | [discord.gg/hyspace](https://discord.gg/hyspace) (the server is called Hyper Space) |
 
 ## How busy is it
 
-Numbers change by the hour. A few measurements:
+It changes through the day. A few numbers we've recorded:
 
 | Measured | Number |
 |---|---|
@@ -36,13 +36,13 @@ Numbers change by the hour. A few measurements:
 | Evening of 4 November 2026 | Peak of about 120 players online at once (server log) |
 | 11 November 2026 | About 1,860 members on the Hyper Space Discord |
 
-Evenings, especially Saturday and Sunday, are the busiest. Maintenance and events are announced on Discord.
+Evenings are the busiest, especially on Saturday and Sunday. Maintenance and events are announced on Discord.
 
 ## Weekly schedule (Vietnam time, UTC+7)
 
 | When | What |
 |---|---|
-| Every day at 0:00 | Battle Pass, jobs, expeditions and the Daily Shop reset. New Guild Boss, Battle Tower Points paid out |
+| Every day at 0:00 | Battle Pass, jobs, expeditions and the Daily Shop reset. New Guild Boss, and Battle Tower Points are paid out |
 | Every day at 9:00 and 19:00 | World Raid, each lasting 2 hours |
 | Every evening 19:00-22:00 | Fishing golden hour |
 | Monday to Friday, 9:00-22:00 | Guild War, results at 22:00 |
@@ -51,7 +51,7 @@ Evenings, especially Saturday and Sunday, are the busiest. Maintenance and event
 
 ## Is there a best Cobblemon server in Vietnam?
 
-There is no official ranking. The best test is to play a few days. If you are comparing servers, the table below helps.
+There's no official ranking. Honestly, the best test is to play somewhere for a few days. If you're comparing servers, here's what's worth checking.
 
 ## What to check before you pick a Cobblemon server
 
@@ -61,13 +61,13 @@ There is no official ranking. The best test is to play a few days. If you are co
 | How mods are installed | Installing by hand often misses a mod | CocoLauncher installs and updates everything |
 | Language | Menus, quests and guides you can read | Vietnamese, with English |
 | Devices | Many servers are PC only | Windows, macOS, Android and iPhone |
-| Long-term goals | Only catching Pokémon gets old | Ranked battles, Battle Tower, Guild War, World Raids |
+| Long-term goals | Just catching Pokémon gets old after a while | Ranked battles, Battle Tower, Guild War, World Raids |
 | What costs money | Know what is free | Free to join. Ranks and the Premium Battle Pass are optional |
 | Support | Someone to help with errors or lost items | Ask on the Hyper Space Discord |
 
 ## Can I join from outside Vietnam?
 
-Yes. Anyone with CocoLauncher can join. Most players and most of the chat are Vietnamese.
+Yes, anyone with CocoLauncher can join. Just know that most players, and most of the chat, are Vietnamese.
 
 ## Which devices work
 
@@ -82,30 +82,26 @@ Yes. Anyone with CocoLauncher can join. Most players and most of the chat are Vi
 
 ## How to join
 
-1. Download [CocoLauncher](/en/cocolauncher/).
-2. Enter a name and press **Play**. The launcher sets everything up.
-3. Register on screen, then type `/menu` for the guide and `/ngonngu en` for English.
-
-Details in [How to join](/en/how-to-join/).
+Download [CocoLauncher](/en/cocolauncher/), enter a name and press **Play**. The launcher handles the rest. Once you're in, register on screen, then type `/menu` for the guide and `/ngonngu en` for English. Full steps in [How to join](/en/how-to-join/).
 
 ## Other names you may see
 
-**Hyper Space** is the Discord server. **Coco's Hyper Space** and **Coco Cobbleverse** show up in a few older videos and Facebook posts. They are all Coco Cobblemon.
+**Hyper Space** is the Discord server. **Coco's Hyper Space** and **Coco Cobbleverse** show up in some older videos and Facebook posts. They all mean Coco Cobblemon.
 
 ## Quick answers
 
 ### What is the Coco Cobblemon server IP?
 
-`coco.ultramc.co`. With CocoLauncher you never type it; the launcher joins for you.
+`coco.ultramc.co`. With CocoLauncher you never have to type it; the launcher connects for you.
 
 ### Can I play Coco Cobblemon on Android?
 
-Yes, with CocoLauncher Android (experimental, 6 GB of RAM or more). You join the same server as PC players. Bedrock and Pocket Edition cannot join, see [Cobblemon on Bedrock](/en/cobblemon-bedrock/).
+Yes, with CocoLauncher Android (experimental, 6 GB of RAM or more). You play on the same server as people on PC. Bedrock and Pocket Edition can't join, see [Cobblemon on Bedrock](/en/cobblemon-bedrock/).
 
 ### Is Coco Cobblemon an official Cobblemon server?
 
-No. Coco Cobblemon is a community server. It is not an official product of, or endorsed by, Mojang, Microsoft, Nintendo, The Pokémon Company or the Cobblemon team.
+No, it's a community server. It isn't made or endorsed by Mojang, Microsoft, Nintendo, The Pokémon Company or the Cobblemon team.
 
 **See also:** [Server features](/en/features/) · [FAQ](/en/faq/) · [Play on Android and iPhone](/en/cobblemon-android/)
 
-*Updated: 11 November 2026.*
+*Updated: 12 November 2026.*

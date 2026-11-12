@@ -18,87 +18,87 @@ jsonld: |
       {
         "@type": "HowToStep",
         "position": 1,
-        "text": "Press M to open the Summary and pick the Pokémon."
+        "text": "Press M to open the Summary and select the Pokémon."
       },
       {
         "@type": "HowToStep",
         "position": 2,
-        "text": "Open the Moves tab."
+        "text": "Go to the Moves tab."
       },
       {
         "@type": "HowToStep",
         "position": 3,
-        "text": "Pick the move to replace and press Switch Move."
+        "text": "Pick the move you want to replace and press Switch Move."
       },
       {
         "@type": "HowToStep",
         "position": 4,
-        "text": "Pick the new move from the list. To drop a move entirely, use Forget Move."
+        "text": "Pick the new move from the list. To just remove a move, use Forget Move."
       }
     ]
   }
-last_modified_at: 2026-11-11T06:02:04+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # How Pokémon learn moves in Cobblemon
 
-In Cobblemon 1.7.3 a Pokémon learns a new level-up move on its own when it has a free slot (4 moves at most). With 4 moves already, open the **Summary** (M key), go to the **Moves** tab, pick the move to replace and press **Switch Move**: the list holds every move the species learns by level up to its current level, its evolution moves and its benched moves. Plain Cobblemon has no TMs; the Coco Cobblemon server has TMs through the TMCraft mod.
+In Cobblemon 1.7.3, a Pokémon picks up a new level-up move by itself if it has a free slot (max 4 moves). If it already has 4, open the **Summary** (M), go to **Moves**, pick the move to replace and press **Switch Move**. The list has every move the species learns by level up to its current level, plus evolution moves and benched moves. Plain Cobblemon has no TMs; Coco Cobblemon adds them with the TMCraft mod.
 {: .fs-5 .fw-300 }
 
 ## Level-up moves
 
-Every species has a level-up move list. When a Pokémon reaches the level for a move:
+Every species has a level-up move list. When a Pokémon hits the level for a move:
 
-- With fewer than 4 moves: the new move fills the free slot and the game says "**(Pokémon) has learned (move).**"
-- With 4 moves: the new move does not replace an old one. You can still pick it at any time with **Switch Move**.
+- Fewer than 4 moves: the new move goes into the free slot and you see "**(Pokémon) has learned (move).**"
+- 4 moves already: nothing gets replaced, but you can pick the new move any time with **Switch Move**.
 
-Read from the `Pokemon` class in `Cobblemon-fabric-1.7.3+1.21.1.jar` (the experience code only adds a move when the move set has room), 11 November 2026.
+(From the `Pokemon` class in `Cobblemon-fabric-1.7.3+1.21.1.jar`, 11 November 2026: the experience code only adds a move when there's room.)
 
 ## Steps to swap a move
 
-1. Press **M** to open the Summary and pick the Pokémon.
-2. Open the **Moves** tab.
-3. Pick the move to replace and press **Switch Move**.
-4. Pick the new move from the list. To drop a move entirely, use **Forget Move**.
+1. Press **M** to open the Summary and select the Pokémon.
+2. Go to the **Moves** tab.
+3. Pick the move you want to replace and press **Switch Move**.
+4. Pick the new move from the list. To just remove a move, use **Forget Move**.
 
-The Switch Move list has 3 groups (Cobblemon 1.7.3's `getAllAccessibleMoves`):
+The Switch Move list has 3 groups (`getAllAccessibleMoves` in 1.7.3):
 
-| Group | Which moves |
+| Group | What's in it |
 |---|---|
 | Level-up moves | Every move the species learns by level up, from level 1 to its current level |
-| Evolution moves | Moves learned at the moment of evolution, for example Fairy Wind and Disarming Voice when Eevee becomes Sylveon |
-| Benched moves | Moves learned another way (a TM, for example) while the move set was already full |
+| Evolution moves | Moves learned when it evolves, like Fairy Wind and Disarming Voice when Eevee becomes Sylveon |
+| Benched moves | Moves it learned some other way (a TM, say) while all 4 slots were full |
 
-So in Cobblemon there is no need to find a Move Reminder to get back a level-up move you skipped.
+So you never need to hunt down a Move Reminder to get back a level-up move you skipped.
 
 ## TMs in Cobblemon
 
-**Plain Cobblemon 1.7.3 has no TMs:** the mod file contains no TM items. A server needs an extra mod for TMs.
+**Plain Cobblemon 1.7.3 has no TMs.** There are no TM items in the mod, so a server needs an extra mod for them.
 
-**The Coco Cobblemon server uses the TMCraft mod:**
+**Coco Cobblemon uses the TMCraft mod:**
 
-- Buy TMs in **Shop Tokens** (Menu > Shop > Shop Tokens); 40-400 Tokens according to the in-game Guide of 8 November 2026.
-- Hover over a TM to see each Pokémon in your party: **ABLE** (can learn it), **UNABLE** (cannot), **LEARNED** (already knows it).
-- To use one: send the Pokémon out, hold the TM and right-click your Pokémon. Each TM is used up.
-- With a free slot the move goes straight into the move set; with 4 moves it goes to the benched moves, ready for **Switch Move**.
+- Buy TMs in **Shop Tokens** (Menu > Shop > Shop Tokens) for 40-400 Tokens (in-game Guide, 8 November 2026).
+- Hover over a TM to see who in your party can use it: **ABLE**, **UNABLE** or **LEARNED** (already knows it).
+- To use one, send the Pokémon out, hold the TM and right-click the Pokémon. TMs are single-use.
+- With a free slot the move goes straight in. With 4 moves it goes to benched moves, ready for **Switch Move**.
 - TMCraft also has items that teach Egg Moves and Tutor Moves.
 
 ## Quick answers
 
-### How do Pokémon learn moves in Cobblemon?
+### How do Pokémon learn new moves in Cobblemon?
 
-In Cobblemon, Pokémon learn level-up moves on their own when they have a free slot. With 4 moves, press M, open the Moves tab, pick the move to replace, press Switch Move and choose the new one.
+They learn level-up moves by themselves when there's a free slot. With 4 moves, press M, go to Moves, pick one to replace, press Switch Move and choose the new one.
 
 ### Does Cobblemon have TMs?
 
-Not in plain Cobblemon 1.7.3. Coco Cobblemon has TMs from the TMCraft mod, sold in Shop Tokens; hold the TM and right-click the Pokémon to teach it.
+Not plain Cobblemon 1.7.3. Coco Cobblemon has them through TMCraft, sold in Shop Tokens. Hold the TM and right-click the Pokémon to teach it.
 
 ### Is there a Move Reminder in Cobblemon?
 
-You do not need one: in Cobblemon, Switch Move in the Summary lets you pick any move the species learns by level up to its current level.
+You don't need one. Switch Move in the Summary already lets you pick any move the species learns by level up to its current level.
 
 **See also:** [How to evolve Pokémon](/en/cobblemon-evolution/) · [How to catch Pokémon](/en/cobblemon-catching/) · [Cobblemon controls](/en/cobblemon-controls/) · [Features of Coco Cobblemon](/en/features/)
 
-*Read from `Cobblemon-fabric-1.7.3+1.21.1.jar` and the TMCraft 1.4.18 mod on 11 November 2026; the Coco Cobblemon parts follow the in-game Guide of 8 November 2026.*
+*Read from `Cobblemon-fabric-1.7.3+1.21.1.jar` and TMCraft 1.4.18 on 11 November 2026. The Coco Cobblemon parts follow the in-game Guide of 8 November 2026.*
 
-*Updated: 11 November 2026.*
+*Updated: 12 November 2026.*

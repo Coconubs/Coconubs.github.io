@@ -1,71 +1,71 @@
 ---
 title: What is Cobblemon
 seo_title: "What is Cobblemon? How many Pokémon are in Cobblemon 1.7.3"
-description: "Cobblemon is an open-source Pokémon mod for Minecraft Java. Version 1.7.3 has 851 finished Pokémon species out of 1,025 with data. What you need to play it."
+description: "Cobblemon is a free, open-source Pokémon mod for Minecraft Java. Version 1.7.3 has 851 playable species out of 1,025 with data. What you need to play it."
 parent: English
 nav_order: 4.9
 permalink: /en/what-is-cobblemon/
 alt: /cobblemon-la-gi/
-last_modified_at: 2026-11-11T06:15:44+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # What is Cobblemon?
 
-Cobblemon is a Pokémon mod for Minecraft **Java Edition**: catch Pokémon with Poké Balls, send them out into the world, fight turn-based battles like the Pokémon games, evolve them and ride some species. The mod is open source (MPL-2.0 licence), runs on Fabric and NeoForge, and is free to download on Modrinth and CurseForge; its Modrinth page shows about 36.9 million downloads (checked on 11 November 2026). Cobblemon is a community-made mod, not a game from The Pokémon Company or Mojang.
+Cobblemon is a Pokémon mod for Minecraft **Java Edition**. You catch Pokémon with Poké Balls, send them out into the world, fight turn-based battles like in the main games, evolve them, and ride some of them. It's open source (MPL-2.0), runs on Fabric and NeoForge, and is free on Modrinth and CurseForge, where its Modrinth page shows about 36.9 million downloads (as of 11 November 2026). It's made by fans, not by The Pokémon Company or Mojang.
 {: .fs-5 .fw-300 }
 
 ## How many Pokémon are in Cobblemon?
 
-The Cobblemon 1.7.3 file for Fabric contains data for **1,025 species** (National Pokédex numbers 1 to 1,025, all nine generations), and **851 of them** are marked as implemented, meaning they are in the game. These numbers were counted on 11 November 2026 from the `data/cobblemon/species` folder of `Cobblemon-fabric-1.7.3+1.21.1.jar`. Other Cobblemon versions, or servers that add extra packs, can differ.
+The Fabric build of Cobblemon 1.7.3 has data for **1,025 species** (National Dex 1 to 1,025, all nine generations), and **851** of them are marked as implemented, so they actually show up in the game. We counted these on 11 November 2026 from the `data/cobblemon/species` folder in `Cobblemon-fabric-1.7.3+1.21.1.jar`. Other versions, or servers that add their own packs, can have different numbers.
 
 ## What you need to play
 
 | Need | Details |
 |---|---|
-| Game | Minecraft: Java Edition on Windows, macOS or Linux; on Android it runs through a Java launcher if the device is powerful enough |
-| Mod loader | Fabric or NeoForge, matching the Minecraft version of the Cobblemon release |
-| Version | Cobblemon 1.7.3 was released on 31 January 2026; the newest release on Modrinth when checked on 11 November 2026 was 1.8.4 (27 October 2026), both for Minecraft 1.21.1 |
-| Does not run on | Minecraft Bedrock, Pocket Edition (PE) or consoles, see [Cobblemon on Bedrock](/en/cobblemon-bedrock/) |
+| Game | Minecraft: Java Edition on Windows, macOS or Linux. Android works through a Java launcher if the phone is strong enough |
+| Mod loader | Fabric or NeoForge, for the same Minecraft version as the Cobblemon release |
+| Version | Cobblemon 1.7.3 came out on 31 January 2026. The newest release on Modrinth when we checked (11 November 2026) was 1.8.4, from 27 October 2026. Both are for Minecraft 1.21.1 |
+| Doesn't run on | Minecraft Bedrock, Pocket Edition (PE) or consoles. See [Cobblemon on Bedrock](/en/cobblemon-bedrock/) |
 
 ## What you can do
 
-- **Catch Pokémon:** hold a Poké Ball and right-click to throw it, see [How to catch Pokémon in Cobblemon](/en/cobblemon-catching/). Poké Balls are crafted from Apricorns and metal ingots, see [Cobblemon recipes](/en/cobblemon-recipes/).
-- **Turn-based battles:** look at a nearby wild Pokémon and press R; your selected party Pokémon comes out to battle. Battles run on Pokémon Showdown rules.
-- **Party and Summary:** pick a Pokémon with the Up and Down arrow keys and press M to see its stats and moves. All keys are on the [Cobblemon controls](/en/cobblemon-controls/) page.
-- **Evolution and riding:** Pokémon evolve as in the Pokémon games (levels, evolution stones, trades), see [How to evolve Pokémon in Cobblemon](/en/cobblemon-evolution/); since version 1.7 Pokémon can be ridden (84 species in 1.7.3), see [How to ride Pokémon in Cobblemon](/en/cobblemon-riding/).
+- **Catch Pokémon:** hold a Poké Ball and right-click to throw it. More in [How to catch Pokémon in Cobblemon](/en/cobblemon-catching/). You craft Poké Balls from Apricorns and metal ingots, see [Cobblemon recipes](/en/cobblemon-recipes/).
+- **Battle:** look at a wild Pokémon close by and press R. Your selected party Pokémon jumps out and the battle starts. Battles use Pokémon Showdown rules.
+- **Check your party:** pick a Pokémon with the Up and Down arrow keys and press M to see its stats and moves. Every key is listed on [Cobblemon controls](/en/cobblemon-controls/).
+- **Evolve and ride:** evolution works like the main games (levels, stones, trades), see [How to evolve Pokémon in Cobblemon](/en/cobblemon-evolution/). Riding came in 1.7, and 84 species are rideable in 1.7.3, see [How to ride Pokémon in Cobblemon](/en/cobblemon-riding/).
 
 ## Choosing a starter in Cobblemon
 
-When you join a Cobblemon world or server for the first time without a starter, a notice appears: **Check out the starters!** with **Press the "M" key**. Press **M** (the Open Summary key) to open **Starter Selection**, pick a region, pick a Pokémon and press **I choose you!**.
+The first time you join a Cobblemon world or server without a starter, you'll see **Check out the starters!** and **Press the "M" key**. Press **M** (the Open Summary key) to open **Starter Selection**, choose a region, choose a Pokémon and hit **I choose you!**.
 
-With Cobblemon 1.7.3's default config there are 10 groups: Kanto, Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Galar, Hisui and Paldea, each with 3 Pokémon at level 10. The Hisui group is Rowlet, Cyndaquil and Oshawott in their Hisuian forms, in Ancient Poké Balls. Servers can change the list or turn the choice off (config file `config/cobblemon/starters.json`). If you received another Pokémon before choosing, the game tells you to put all your Pokémon in the PC and press M.
+With the default 1.7.3 config there are 10 groups: Kanto, Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Galar, Hisui and Paldea. Each has 3 Pokémon at level 10. The Hisui group is Hisuian Rowlet, Cyndaquil and Oshawott in Ancient Poké Balls. Servers can change the list or turn it off (`config/cobblemon/starters.json`). If you already got another Pokémon before picking, the game asks you to put all your Pokémon in the PC and press M.
 
 ## Play Cobblemon with others
 
-To play together, join a Cobblemon server. Coco Cobblemon is a Vietnamese community Minecraft Java server running Cobblemon 1.7.3 on Minecraft 1.21.1, address `coco.ultramc.co`. Join with [CocoLauncher](/en/cocolauncher/): enter a name and press **Play**, and the launcher installs Java, Minecraft, Fabric and the server's mods. Anyone can join; most players are Vietnamese and the menus have an English option. See [Cobblemon server in Vietnam](/en/vietnam-cobblemon-server/).
+To play with other people, join a Cobblemon server. Coco Cobblemon is a Vietnamese community server on Minecraft Java 1.21.1 with Cobblemon 1.7.3, at `coco.ultramc.co`. The easy way in is [CocoLauncher](/en/cocolauncher/): type a name, press **Play**, and it sets everything up for you. Anyone can join. Most players are Vietnamese, and the menus can be switched to English. More on [Cobblemon server in Vietnam](/en/vietnam-cobblemon-server/).
 
 ## Quick answers
 
 ### Is Cobblemon free?
 
-Yes. The Cobblemon mod is free to download on Modrinth and CurseForge, but you need Minecraft: Java Edition to run it.
+Yes, the mod is free on Modrinth and CurseForge. You still need to own Minecraft: Java Edition.
 
 ### How many Pokémon does Cobblemon have?
 
-Cobblemon 1.7.3 has 851 finished Pokémon species out of the 1,025 species it has data for (counted from the mod file on 11 November 2026).
+Cobblemon 1.7.3 has 851 playable species. The mod has data for 1,025, but the rest aren't finished yet.
 
 ### What are the Shiny odds in Cobblemon?
 
-1 in 8192 by default: that is the default `shinyRate` in the Cobblemon 1.7.3 config (read from the mod file), and servers can change it. On Coco Cobblemon, Shiny Pokémon do not spawn naturally; they come from Shiny Fusion, Eggs, Raids, the Daily Shop and the Battle Pass, see [Features](/en/features/).
+1 in 8192 by default. That's the `shinyRate` in the 1.7.3 config, and servers can change it. On Coco Cobblemon, Shinies don't spawn in the wild; you get them from Shiny Fusion, Eggs, Raids, the Daily Shop and the Battle Pass (see [Features](/en/features/)).
 
-### How do you choose a starter in Cobblemon?
+### How do you pick a starter?
 
-In Cobblemon 1.7.3, press M when the "Check out the starters!" notice appears on your first join, pick a region and a Pokémon, then press "I choose you!". By default there are 10 region groups with 3 Pokémon at level 10 each; servers can change the list.
+When "Check out the starters!" pops up on your first join, press M, pick a region and a Pokémon, then press "I choose you!".
 
-### Is Cobblemon on mobile?
+### Can I play Cobblemon on my phone?
 
-There is no official Cobblemon mobile app. On Android it runs inside Minecraft Java Edition through a Java launcher; it does not run in Minecraft PE. See [Play Cobblemon on Android](/en/cobblemon-android/).
+There's no official mobile app. On Android you can run Minecraft Java Edition through a Java launcher and play Cobblemon that way. It doesn't work in Minecraft PE. See [Play Cobblemon on Android](/en/cobblemon-android/).
 
 **See also:** [Which launcher for Cobblemon](/en/cobblemon-launcher/) · [Cobblemon controls](/en/cobblemon-controls/) · [Cobblemon on Bedrock](/en/cobblemon-bedrock/) · [FAQ](/en/faq/)
 
-*Updated: 11 November 2026.*
+*Updated: 12 November 2026.*

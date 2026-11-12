@@ -1,20 +1,20 @@
 ---
 title: Cobblemon recipes
 seo_title: "Cobblemon recipes: Poké Ball, PC, Healing Machine, Pasture"
-description: "Cobblemon 1.7.3 crafting recipes: Poké Ball, Great Ball, Ultra Ball, PC, Healing Machine, Pasture Block and Pokédex, read from the mod file."
+description: "Cobblemon 1.7.3 crafting recipes for the Poké Ball, Great Ball, Ultra Ball, PC, Healing Machine, Pasture Block and Pokédex, taken from the mod file."
 parent: English
 nav_order: 4.87
 permalink: /en/cobblemon-recipes/
 alt: /cong-thuc-cobblemon/
-last_modified_at: 2026-11-11T07:21:59+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # Cobblemon crafting recipes
 
-Cobblemon 1.7.3 recipes, made at a **Crafting Table**: a **Poké Ball** is 4 Red Apricorns around 1 Copper Ingot (makes 4); a **Great Ball** is 2 Blue Apricorns and 2 Red Apricorns around 1 Iron Ingot; an **Ultra Ball** is 2 Black Apricorns and 2 Yellow Apricorns around 1 Gold Ingot; the **PC** needs Iron Ingots, Copper Ingots, Glass and Smooth Stone; the **Healing Machine** needs Copper Ingots, Iron Ingots, 1 Max Revive and Redstone Dust.
+All of these go in a **Crafting Table**. Quick version: a **Poké Ball** is 4 Red Apricorns around 1 Copper Ingot (makes 4). A **Great Ball** swaps in 2 Blue and 2 Red Apricorns around an Iron Ingot. An **Ultra Ball** is 2 Black and 2 Yellow Apricorns around a Gold Ingot. The **PC** takes Iron Ingots, Copper Ingots, Glass and Smooth Stone, and the **Healing Machine** takes Copper Ingots, Iron Ingots, a Max Revive and Redstone Dust.
 {: .fs-5 .fw-300 }
 
-The recipes below were read from the `data/cobblemon/recipe` folder of `Cobblemon-fabric-1.7.3+1.21.1.jar` on 11 November 2026. Servers can change recipes, so on a server check the in-game recipe book.
+Taken from the `data/cobblemon/recipe` folder in `Cobblemon-fabric-1.7.3+1.21.1.jar` on 11 November 2026. Servers can change recipes, so on a server check the in-game recipe book.
 
 ## Poké Ball (makes 4)
 
@@ -58,7 +58,7 @@ The recipes below were read from the `data/cobblemon/recipe` folder of `Cobblemo
 
 ## Pasture Block
 
-The Pasture Block needs a crafted PC.
+You need a PC first.
 
 | Row | Left | Middle | Right |
 |---|---|---|---|
@@ -66,11 +66,11 @@ The Pasture Block needs a crafted PC.
 | Middle | Planks | PC | Planks |
 | Bottom | Wheat | Hopper | Wheat |
 
-Any type of planks works.
+Any kind of planks works.
 
 ## Pokédex
 
-The red Pokédex uses Red Apricorns; the blue, green, pink, black and white ones use the same layout with an Apricorn of their colour. The middle slot is the screen: one of Bright Powder, Glow Ink Sac, Redstone Dust, Glowstone Dust or Blaze Powder.
+This is the red one. The blue, green, pink, black and white Pokédex use the same layout with Apricorns of that colour. The middle slot is the screen, and it can be Bright Powder, Glow Ink Sac, Redstone Dust, Glowstone Dust or Blaze Powder.
 
 | Row | Left | Middle | Right |
 |---|---|---|---|
@@ -82,16 +82,16 @@ The red Pokédex uses Red Apricorns; the blue, green, pink, black and white ones
 
 ### How do you craft a Poké Ball in Cobblemon?
 
-At a Crafting Table, put 1 Copper Ingot in the centre and 4 Red Apricorns above, below, left and right of it: you get 4 Poké Balls.
+Copper Ingot in the middle, Red Apricorns above, below, left and right. You get 4.
 
-### What is the Cobblemon PC recipe?
+### What is the PC recipe?
 
-Top row: Iron Ingot, Glass, Iron Ingot. Middle row: Iron Ingot, Copper Ingot, Iron Ingot. Bottom row: Smooth Stone, Copper Ingot, Smooth Stone.
+Top: Iron Ingot, Glass, Iron Ingot. Middle: Iron Ingot, Copper Ingot, Iron Ingot. Bottom: Smooth Stone, Copper Ingot, Smooth Stone.
 
 ### What is the Healing Machine recipe?
 
-Top row: 3 Copper Ingots. Middle row: Iron Ingot, Max Revive, Iron Ingot. Bottom row: Iron Ingot, Redstone Dust, Iron Ingot.
+Top: 3 Copper Ingots. Middle: Iron Ingot, Max Revive, Iron Ingot. Bottom: Iron Ingot, Redstone Dust, Iron Ingot.
 
 **See also:** [Fossils and the fossil machine](/en/cobblemon-fossils/) · [What is Cobblemon](/en/what-is-cobblemon/) · [How to evolve Pokémon](/en/cobblemon-evolution/) · [Cobblemon commands](/en/cobblemon-commands/) · [Cobblemon controls](/en/cobblemon-controls/) · [FAQ](/en/faq/)
 
-*Updated: 11 November 2026.*
+*Updated: 12 November 2026.*

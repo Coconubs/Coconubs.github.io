@@ -1,7 +1,7 @@
 ---
 title: CocoLauncher download
 seo_title: "CocoLauncher (Coco Launcher): Minecraft Cobblemon launcher for PC, Android, iPhone"
-description: "Download CocoLauncher (Coco Launcher), the Minecraft launcher of the Coco Cobblemon server, for Windows, macOS, Android and iPhone (experimental). Installs Java, Fabric and the mods."
+description: "Download CocoLauncher (Coco Launcher), the Minecraft launcher of the Coco Cobblemon server, for Windows, macOS, Android and iPhone (experimental). It sets up the game and mods for you."
 parent: English
 nav_order: 1
 permalink: /en/cocolauncher/
@@ -35,12 +35,12 @@ jsonld: |
       "https://github.com/Coconubs/cocolauncher-pack"
     ]
   }
-last_modified_at: 2026-11-11T10:30:00+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # CocoLauncher (Coco Launcher)
 
-CocoLauncher (or Coco Launcher) is the launcher for the Coco Cobblemon server (`coco.ultramc.co`), made by Coconubs. Enter a name, press **Play**, and you are in. It installs and updates everything, so you never touch mods.
+CocoLauncher (or Coco Launcher) is the launcher for the Coco Cobblemon server (`coco.ultramc.co`), made by Coconubs. Enter a name, press **Play**, and you're in. It installs and updates everything, so you never have to deal with mods.
 {: .fs-6 .fw-300 }
 
 ## Download
@@ -56,30 +56,28 @@ CocoLauncher (or Coco Launcher) is the launcher for the Coco Cobblemon server (`
 | iPhone, iPad (experimental) | [CocoLauncher iOS page](https://coconubs.github.io/CocoLauncher-iOS/), see [iPhone and iPad](/en/cobblemon-android/#iphone-and-ipad) |
 | Linux | Not available |
 
-Only download from the Microsoft Store or [Coconubs GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases). Copies on other sites may have been modified.
+Only download it from the Microsoft Store or [Coconubs GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases). Copies on other sites may have been tampered with.
 
 {: .en_note }
-There is an unrelated Android home-screen app with a similar name, "Coco Launcher", on Google Play. It has nothing to do with Minecraft or Coco Cobblemon.
+There's an Android home-screen app called "Coco Launcher" on Google Play. It has nothing to do with Minecraft or Coco Cobblemon.
 
 ## What it does
 
 - **One Play button:** sets up the game and mods the first time, then keeps them in sync with the server.
-- **Several player names**, and the online player count.
+- **Several player names**, and you can see how many people are online.
 - **Vietnamese and English.**
-
-CocoLauncher only joins Coco Cobblemon. For single player or other servers, see [Which launcher for Cobblemon](/en/cobblemon-launcher/).
 
 ## Install
 
-**Windows.** Install from the Microsoft Store, or run the .exe. The .exe is not signed, so SmartScreen may show "Windows protected your PC". If you got it from the link above, choose More info, then Run anyway.
+**Windows.** Install it from the Microsoft Store, or run the .exe. The .exe isn't signed, so SmartScreen may show "Windows protected your PC". If you got it from the link above, click More info, then Run anyway.
 
-**macOS.** Pick the build that matches the Chip line in About This Mac. Open the .dmg and drag CocoLauncher to Applications. The first time, macOS blocks it: on macOS 15 and later, open it once, choose Done, then press Open Anyway in System Settings > Privacy & Security. On macOS 14 and earlier, Control-click the app and choose Open. The Mac build does not update itself; download the new .dmg and drag it over the old app. Your game data stays.
+**macOS.** Pick the build that matches the Chip line in About This Mac. Open the .dmg and drag CocoLauncher into Applications. macOS blocks it the first time: on macOS 15 and later, open it once, choose Done, then press Open Anyway in System Settings > Privacy & Security. On macOS 14 and earlier, Control-click the app and choose Open. The Mac version doesn't update itself, so when there's a new one, download the .dmg and drag it over the old app. Your game data is kept.
 
 **Android.** See [Play Cobblemon on Android](/en/cobblemon-android/).
 
 ## Check the download
 
-Want to be sure the file is the real one? Every file on [GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases/tag/launcher) shows a `sha256` hash. Compare it with yours:
+Want to make sure the file is genuine? Every file on [GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases/tag/launcher) shows a `sha256` hash. Compare it with yours:
 
 ```powershell
 Get-FileHash CocoLauncher-Setup.exe
@@ -89,7 +87,7 @@ Get-FileHash CocoLauncher-Setup.exe
 shasum -a 256 CocoLauncher-Mac-AppleSilicon.dmg
 ```
 
-If they do not match, do not open the file. Download it again and tell us on [Discord](https://discord.gg/hyspace).
+If they don't match, don't open the file. Download it again and let us know on [Discord](https://discord.gg/hyspace).
 
 ## System requirements
 
@@ -101,7 +99,7 @@ If they do not match, do not open the file. Download it again and tell us on [Di
 
 ### What is CocoLauncher?
 
-The launcher for the Coco Cobblemon server. Enter a name, press **Play**, and it joins `coco.ultramc.co`. The Microsoft Store and GitHub versions are the same launcher.
+It's the launcher for the Coco Cobblemon server: enter a name, press **Play**, and it takes you to `coco.ultramc.co`. The Microsoft Store and GitHub versions are the same launcher.
 
 ### Is CocoLauncher free?
 
@@ -109,12 +107,12 @@ Yes. Ranks and the Premium Battle Pass in game are optional.
 
 ### Is CocoLauncher the "Coco Launcher" app on Google Play?
 
-No. The home-screen app called "Coco Launcher" on Google Play is a different app. CocoLauncher Android is only downloaded from [Coconubs GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases).
+No, that's a different app. CocoLauncher Android is only available from [Coconubs GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases).
 
 ### Can I use CocoLauncher for single player or other servers?
 
-No, it only joins Coco Cobblemon. For single player, use the Modrinth App with the Cobblemon Official Modpack; see [Which launcher for Cobblemon](/en/cobblemon-launcher/).
+No, it only joins Coco Cobblemon. For single player, use the Modrinth App with the Cobblemon Official Modpack. See [Which launcher for Cobblemon](/en/cobblemon-launcher/).
 
 **See also:** [Troubleshooting](/en/troubleshooting/) · [FAQ](/en/faq/) · [How to join](/en/how-to-join/)
 
-*Updated: 11 November 2026.*
+*Updated: 12 November 2026.*
