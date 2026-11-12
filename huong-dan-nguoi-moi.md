@@ -1,24 +1,24 @@
 ---
 title: Hướng dẫn người mới
 seo_title: "Hướng dẫn người mới Coco Cobblemon: việc ngày đầu và lệnh hay dùng"
-description: "Người mới vào Coco Cobblemon nên làm gì: liên kết Discord, Battle Pass, Nghề nghiệp, Viễn Chinh, BattleTower, claim đất. Danh sách lệnh hay dùng: /menu, /sethome, /rtp, /claim, /gts."
+description: "Mới vào Coco Cobblemon nên làm gì: liên kết Discord, Battle Pass, Nghề nghiệp, Viễn Chinh, BattleTower, claim đất. Kèm các lệnh hay dùng: /menu, /sethome, /rtp, /claim, /gts."
 nav_order: 5
-last_modified_at: 2026-11-11T10:30:00+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # Hướng dẫn người mới
 
-Mới vào thì làm 6 việc dưới đây trước. Bản đầy đủ có trong game: gõ `/menu`, chọn **HƯỚNG DẪN**.
+Mới vào thì làm trước 6 việc dưới đây. Muốn đọc đủ thì vào game gõ `/menu`, chọn **HƯỚNG DẪN**.
 {: .fs-5 .fw-300 }
 
 ## Việc nên làm ngày đầu
 
-1. **Liên kết Discord** (`/link`) và điểm danh mỗi ngày bằng lệnh `;diemdanh` ở kênh Spam Bot trên Discord.
-2. **Mở Battle Pass**, làm 10 nhiệm vụ ngày để lên cấp lấy quà.
-3. **Nhận việc Nghề nghiệp** (`/nghenghiep`) để kiếm CobbleDollars mỗi ngày.
-4. **Làm Ải Viễn Chinh** 3 lượt mỗi ngày để có tiền, Tokens, Rare Candy.
-5. **Leo BattleTower** để nhận BattleTower Points mỗi ngày.
-6. **Claim đất và đặt nhà:** đứng trong chunk muốn giữ, gõ `/claim`, rồi `/sethome`.
+1. **Liên kết Discord** ([`/link`](/cach-vao-server/#lien-ket-discord)), rồi mỗi ngày vào kênh Spam Bot trên Discord gõ `;diemdanh` để điểm danh.
+2. **Mở Battle Pass**, làm 10 nhiệm vụ ngày để lên cấp nhận quà.
+3. **Nhận việc Nghề nghiệp** (`/nghenghiep`), mỗi ngày kiếm thêm CobbleDollars.
+4. **Đi Ải Viễn Chinh** đủ 3 lượt mỗi ngày, được tiền, Tokens và Rare Candy.
+5. **Leo BattleTower**, mỗi ngày nhận BattleTower Points theo tầng đã leo.
+6. **Giữ đất và đặt nhà:** đứng trong chunk muốn giữ, gõ `/claim`, rồi gõ `/sethome`.
 
 ## Dùng Menu
 
@@ -29,7 +29,7 @@ Mới vào thì làm 6 việc dưới đây trước. Bản đầy đủ có tro
 
 ## HUD góc trái
 
-Các ô nhỏ cạnh thanh công cụ cho biết **tỉ lệ Legendary** lúc này, **Giờ Vàng x2** khi đang chạy và **Bùa Huyền Thoại** của bạn còn hạn hay không. Bấm F1 để ẩn.
+Mấy ô nhỏ cạnh thanh công cụ cho biết **tỉ lệ Legendary** hiện tại, có đang **Giờ Vàng x2** không, và **Bùa Huyền Thoại** của bạn còn hạn không. Bấm F1 để ẩn.
 
 ## Các loại tiền
 
@@ -39,7 +39,7 @@ Các ô nhỏ cạnh thanh công cụ cho biết **tỉ lệ Legendary** lúc n�
 | Tokens | Mua Held Item, thuốc EV, Mint, kẹo IV, Bottle Cap ở Shop Tokens |
 | BattleTower Points (BP) | Nhận mỗi ngày theo tầng BattleTower, dùng ở Shop BattleTower |
 
-Số dư hiện ở bảng bên phải màn hình và đầu Menu.
+Số dư xem ở bảng bên phải màn hình hoặc trên đầu Menu.
 
 ## Lệnh hay dùng
 
@@ -53,23 +53,23 @@ Số dư hiện ở bảng bên phải màn hình và đầu Menu.
 | Hằng ngày | `/nghenghiep` · `/xephang` Đấu Xếp Hạng · `/battletower` · `/cauca` |
 | Khác | `/link` liên kết Discord · `/ngonngu en` đổi sang tiếng Anh · `/help` đủ lệnh |
 
-Lệnh riêng của mod Cobblemon (`/pokespawn`, `/pokegive`...) cần quyền quản trị, xem [Lệnh Cobblemon](/lenh-cobblemon/).
+Các lệnh gốc của Cobblemon như `/pokespawn`, `/pokegive` chỉ quản trị viên dùng được, xem [Lệnh Cobblemon](/lenh-cobblemon/).
 
 ## Đất và nhà
 
 - Đất giữ theo chunk (ô 16×16 khối). Bấm F3 + G để hiện đường kẻ chunk.
 - Tối đa 50 chunk, mỗi bậc rank thêm 5. Chỉ claim ở Overworld, trong vòng 5 chunk quanh chỗ đứng.
 - Mặc định 3 nhà (`/sethome <tên>`), mỗi bậc rank thêm 1.
-- Xây trong khoảng ±30.000 (X và Z). Ngoài đó không claim được và cứ 2 tuần bị reset.
+- Xây trong khoảng ±30.000 (cả X và Z). Ra ngoài vùng đó thì không claim được và cứ 2 tuần bị reset một lần.
 - Vào cùng Bang hội là xây được trong đất của nhau. Muốn chỉ mình bạn dùng: `/dat khoa`.
 
 ## Breeding
 
-Cần 1 Pasture Block và 2 Pokémon cùng nhóm trứng (một đực, một cái), hoặc 1 con với Ditto. Khoảng 4 đến 8 giờ ra 1 trứng, chậm hơn bản gốc 5 lần. Đặt Pasture trong đất bang thì nhanh hơn 10% mỗi cấp bang. Xem [Breeding](/tinh-nang/breeding/).
+Cần 1 Pasture Block và 2 Pokémon cùng nhóm trứng (một đực, một cái), hoặc 1 con với Ditto. Khoảng 4 đến 8 giờ ra 1 trứng, chậm hơn bản gốc 5 lần. Đặt Pasture trong đất bang thì mỗi cấp bang nhanh thêm 10%. Xem [Breeding](/tinh-nang/breeding/).
 
 ## Học chơi Cobblemon
 
-Muốn hiểu kỹ Cobblemon thì đọc thêm:
+Mới chơi Cobblemon lần đầu thì đọc thêm:
 
 - [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/): đấu trước rồi ném bóng, tỉ lệ bắt, loại bóng, Legendary.
 - [Cách tiến hoá Pokémon](/tien-hoa-cobblemon/): lên cấp rồi bấm Tiến Hóa, đá tiến hoá, Link Cable, 8 dạng Eevee.

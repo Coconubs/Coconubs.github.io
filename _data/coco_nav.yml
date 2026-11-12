@@ -16,14 +16,14 @@ vi:
         - { title: "Cài trên macOS", url: "/cocolauncher/macos/" }
         - { title: "Chơi trên điện thoại", url: "/cobblemon-dien-thoai/" }
         - { title: "Sửa lỗi CocoLauncher", url: "/cocolauncher/sua-loi/" }
-        - { title: "CocoLauncher có an toàn không", url: "/cocolauncher/an-toan/" }
+        - { title: "CocoLauncher có an toàn không?", url: "/cocolauncher/an-toan/" }
         - { title: "Server Cobblemon Việt Nam", url: "/server-cobblemon-viet-nam/" }
     - title: "Cobblemon"
       items:
         - { title: "Cobblemon là gì", url: "/cobblemon-la-gi/" }
         - { title: "Launcher Cobblemon", url: "/launcher-cobblemon/" }
         - { title: "Cách tải Cobblemon", url: "/cach-tai-cobblemon/" }
-        - { title: "Phím chơi", url: "/phim-tat-cobblemon/" }
+        - { title: "Phím điều khiển", url: "/phim-tat-cobblemon/" }
         - { title: "Lệnh", url: "/lenh-cobblemon/" }
         - { title: "Công thức chế tạo", url: "/cong-thuc-cobblemon/" }
         - { title: "Bắt Pokémon", url: "/cach-bat-pokemon-cobblemon/" }
@@ -49,19 +49,19 @@ en:
       items:
         - { title: "Play on Android", url: "/en/cobblemon-android/" }
         - { title: "Troubleshooting", url: "/en/troubleshooting/" }
-        - { title: "Cobblemon server in Vietnam", url: "/en/vietnam-cobblemon-server/" }
+        - { title: "Vietnamese Cobblemon server", url: "/en/vietnam-cobblemon-server/" }
     - title: "Cobblemon"
       items:
         - { title: "What is Cobblemon", url: "/en/what-is-cobblemon/" }
-        - { title: "Which launcher", url: "/en/cobblemon-launcher/" }
+        - { title: "Choosing a launcher", url: "/en/cobblemon-launcher/" }
         - { title: "Controls", url: "/en/cobblemon-controls/" }
         - { title: "Commands", url: "/en/cobblemon-commands/" }
         - { title: "Crafting recipes", url: "/en/cobblemon-recipes/" }
-        - { title: "Catching", url: "/en/cobblemon-catching/" }
+        - { title: "Catching Pokémon", url: "/en/cobblemon-catching/" }
         - { title: "Evolution", url: "/en/cobblemon-evolution/" }
         - { title: "Mega Evolution", url: "/en/cobblemon-mega/" }
         - { title: "Riding", url: "/en/cobblemon-riding/" }
-        - { title: "Moves", url: "/en/cobblemon-moves/" }
+        - { title: "Learning moves", url: "/en/cobblemon-moves/" }
         - { title: "Fossils", url: "/en/cobblemon-fossils/" }
         - { title: "Cobblemon on Bedrock", url: "/en/cobblemon-bedrock/" }
         - { title: "Cobblemon on iPhone", url: "/en/cobblemon-ios/" }
