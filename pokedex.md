@@ -34,12 +34,12 @@ jsonld: |
       }
     ]
   }
-last_modified_at: 2026-11-11T22:00:00+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # Pokédex
 
-Tra Pokémon, Ability, item, tính cách và khắc hệ đúng như trên server Coco Cobblemon. Bấm vào một dòng để xem chi tiết. Tab **Item rơi** tra được hai chiều: gõ tên Pokémon để xem nó rơi gì, gõ tên item để xem con nào rơi.
+Tra Pokémon, Ability, item, tính cách và khắc hệ, số liệu y như trên server Coco Cobblemon. Bấm vào một dòng để xem chi tiết. Tab **Item rơi** tra được hai chiều: gõ tên Pokémon để xem nó rơi gì, hoặc gõ tên item để xem con nào rơi ra nó.
 {: .fs-5 .fw-300 }
 
 {% include pokedex_app.html lang="vi" %}

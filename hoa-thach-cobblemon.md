@@ -26,7 +26,7 @@ jsonld: |
       {
         "@type": "HowToStep",
         "position": 3,
-        "text": "Đặt Bể Phục Hồi sát một mặt bên của Máy phân tích Hóa thạch. Bể cao 2 khối. Đủ 3 khối là máy tự ghép."
+        "text": "Đặt Bể Phục Hồi sát một mặt bên của Máy phân tích Hóa thạch. Bể cao 2 khối. Đặt đủ 3 khối là máy tự ghép lại."
       },
       {
         "@type": "HowToStep",
@@ -36,26 +36,26 @@ jsonld: |
       {
         "@type": "HowToStep",
         "position": 5,
-        "text": "Cầm vật liệu hữu cơ, bấm chuột phải vào máy, mỗi lần nạp 1 món, tới khi đủ 128 điểm. Có hoá thạch và đủ 128 điểm là máy tự chạy."
+        "text": "Cầm vật liệu hữu cơ, bấm chuột phải vào máy, mỗi lần nạp 1 món, tới khi đủ 128 điểm. Có hoá thạch và đủ điểm là máy tự chạy."
       },
       {
         "@type": "HowToStep",
         "position": 6,
-        "text": "Chờ 12 phút. Xong, cầm Poké Ball bấm chuột phải vào máy. Pokémon vào đội hình, mang loại bóng bạn dùng."
+        "text": "Chờ 12 phút. Xong thì cầm Poké Ball bấm chuột phải vào máy. Pokémon vào đội, nằm trong loại bóng bạn dùng."
       }
     ]
   }
-last_modified_at: 2026-11-11T07:21:59+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # Hoá thạch Cobblemon: tìm ở đâu, cách hồi sinh Pokémon hoá thạch
 
-Trong Cobblemon 1.7.3, hoá thạch nằm trong **Cát đáng ngờ** và **Sỏi đáng ngờ** ở các công trình hoá thạch; dùng **Chổi quét** để lấy ra. Để hồi sinh, đặt **Màn Hình Dữ Liệu** lên trên **Máy phân tích Hóa thạch** và đặt **Bể Phục Hồi** sát bên, bỏ hoá thạch vào, nạp 128 điểm vật liệu hữu cơ rồi chờ 12 phút. Xong, cầm Poké Ball bấm vào máy để nhận Pokémon.
+Hoá thạch nằm trong **Cát đáng ngờ** và **Sỏi đáng ngờ** ở các công trình hoá thạch, dùng **Chổi quét** để quét ra. Muốn hồi sinh thì đặt **Màn Hình Dữ Liệu** lên **Máy phân tích Hóa thạch**, đặt **Bể Phục Hồi** sát bên, bỏ hoá thạch vào, nạp 128 điểm vật liệu hữu cơ rồi chờ 12 phút. Xong thì cầm Poké Ball bấm vào máy để nhận Pokémon.
 {: .fs-5 .fw-300 }
 
-## Danh sách hoá thạch Cobblemon 1.7.3
+## Hoá thạch nào ra Pokémon nào
 
-Cobblemon 1.7.3 có 15 vật phẩm hoá thạch và 15 công thức hồi sinh. 11 hoá thạch đi một mình. 4 hoá thạch Galar phải ghép đôi: Fossilized Bird hoặc Fossilized Fish ghép với Fossilized Drake hoặc Fossilized Dino (xem bảng). Tên hoá thạch trong game hiện bằng tiếng Anh vì bản tiếng Việt của Cobblemon chưa dịch các tên này.
+Cobblemon 1.7.3 có 15 loại hoá thạch và 15 công thức hồi sinh. 11 loại dùng một mình. 4 hoá thạch Galar phải ghép đôi: Fossilized Bird hoặc Fossilized Fish ghép với Fossilized Drake hoặc Fossilized Dino (xem bảng). Tên hoá thạch trong game để tiếng Anh vì bản tiếng Việt chưa dịch.
 
 | Hoá thạch bỏ vào máy | Pokémon hồi sinh |
 |---|---|
@@ -79,10 +79,10 @@ Pokémon hồi sinh có thể nhận dấu **Revival Mark**.
 
 ## Tìm hoá thạch ở đâu
 
-Cobblemon 1.7.3 thêm 23 loại công trình hoá thạch mọc tự nhiên. Mỗi công trình có vài khối **Cát đáng ngờ** hoặc **Sỏi đáng ngờ**. Cầm **Chổi quét**, giữ **chuột phải** vào khối đó để quét ra đồ.
+Cobblemon 1.7.3 có 23 loại công trình hoá thạch tự sinh trong thế giới. Mỗi công trình có vài khối **Cát đáng ngờ** hoặc **Sỏi đáng ngờ**. Cầm **Chổi quét**, giữ **chuột phải** vào khối đó để quét.
 
-- Mỗi công trình có 1 khối chắc chắn ra 1 hoá thạch, theo bảng dưới.
-- Tối đa 5 khối khác có thể ra thêm hoá thạch (loại tuỳ công trình), Everstone, Damp Rock, Heat Rock hoặc vật phẩm cầm khác.
+- Mỗi công trình có 1 khối chắc chắn ra hoá thạch, loại nào xem bảng dưới.
+- Tối đa 5 khối khác có thể ra thêm hoá thạch (tuỳ công trình), Everstone, Damp Rock, Heat Rock hoặc vật phẩm cầm khác.
 - Các khối còn lại ra Xương, quặng thô, than, rễ, thảo dược và đá tiến hoá.
 
 | Hoá thạch chắc chắn có | Biome có công trình | Tên công trình trong file |
@@ -111,23 +111,23 @@ Cobblemon 1.7.3 thêm 23 loại công trình hoá thạch mọc tự nhiên. M�
 | Fossilized Drake | Vùng đất cằn cỗi (badlands) | sunscorched_remains |
 | 1 Fossilized Bird hoặc Dino (trong cát) và 1 Fossilized Drake hoặc Fish (trong sỏi) | Đại dương băng giá | preserved_skeleton |
 
-Biome ghi theo tên gốc của Minecraft trong tag của Cobblemon; tag có thể gồm cả biome của mod khác. Bài không ghi tỉ lệ gặp công trình vì vị trí công trình phụ thuộc hạt giống thế giới và vùng đất đã sinh.
+Biome ghi theo tên gốc Minecraft trong tag của Cobblemon, tag có thể gồm cả biome của mod khác. Không có tỉ lệ gặp công trình vì chỗ nào có công trình còn tuỳ seed thế giới và vùng đã sinh.
 
-## Cách dựng máy và hồi sinh hoá thạch
+## Dựng máy và hồi sinh
 
 1. Chế tạo **Máy phân tích Hóa thạch**, **Màn Hình Dữ Liệu** và **Bể Phục Hồi** (công thức ở dưới).
 2. Đặt Máy phân tích Hóa thạch xuống, rồi đặt Màn Hình Dữ Liệu ngay trên nó.
-3. Đặt Bể Phục Hồi sát một mặt bên của Máy phân tích Hóa thạch. Bể cao 2 khối. Đủ 3 khối là máy tự ghép.
+3. Đặt Bể Phục Hồi sát một mặt bên của Máy phân tích Hóa thạch. Bể cao 2 khối. Đặt đủ 3 khối là máy tự ghép lại.
 4. Cầm hoá thạch, bấm **chuột phải** vào máy để bỏ vào. Hoá thạch Galar phải bỏ đủ 2 mảnh.
-5. Cầm vật liệu hữu cơ, bấm **chuột phải** vào máy, mỗi lần nạp 1 món, tới khi đủ **128 điểm**. Có hoá thạch và đủ 128 điểm là máy tự chạy.
-6. Chờ **12 phút**. Xong, cầm **Poké Ball** bấm chuột phải vào máy. Pokémon vào đội hình, mang loại bóng bạn dùng.
+5. Cầm vật liệu hữu cơ, bấm **chuột phải** vào máy, mỗi lần nạp 1 món, tới khi đủ **128 điểm**. Có hoá thạch và đủ điểm là máy tự chạy.
+6. Chờ **12 phút**. Xong thì cầm **Poké Ball** bấm chuột phải vào máy. Pokémon vào đội, nằm trong loại bóng bạn dùng.
 
-- Bấm vào khối nào trong 3 khối của máy cũng được.
-- Máy chưa chạy thì bấm chuột phải bằng tay không để lấy lại hoá thạch vừa bỏ vào.
-- Máy đang chạy thì không bỏ thêm hoá thạch hay vật liệu hữu cơ được.
-- Hồi sinh xong, 5 phút đầu chỉ người đã bỏ hoá thạch vào mới lấy được Pokémon; người khác bấm sẽ thấy dòng "Hóa thạch này thuộc về [tên]!". Sau 5 phút, ai cầm Poké Ball cũng lấy được.
+- Bấm vào khối nào trong 3 khối cũng được.
+- Máy chưa chạy thì bấm chuột phải tay không để lấy lại hoá thạch vừa bỏ vào.
+- Máy đang chạy thì không bỏ thêm hoá thạch hay vật liệu được.
+- Hồi sinh xong, 5 phút đầu chỉ người bỏ hoá thạch vào mới lấy được Pokémon. Người khác bấm sẽ thấy "Hóa thạch này thuộc về [tên]!". Qua 5 phút thì ai cầm Poké Ball cũng lấy được.
 
-## Công thức máy hồi sinh hoá thạch
+## Công thức máy hồi sinh
 
 | Khối | Hàng trên | Hàng giữa | Hàng dưới |
 |---|---|---|---|
@@ -135,11 +135,11 @@ Biome ghi theo tên gốc của Minecraft trong tag của Cobblemon; tag có th�
 | Màn Hình Dữ Liệu | Phôi sắt, Phôi sắt, Phôi sắt | Phôi đồng, Thủy tinh, Phôi đồng | Phôi sắt, Đuốc Redstone, Phôi sắt |
 | Bể Phục Hồi | Phôi sắt, Phôi sắt, Phôi sắt | Thủy tinh, Revive, Thủy tinh | Thủy tinh, Thùng ủ phân, Thủy tinh |
 
-Cả máy cần tổng cộng 10 Phôi sắt, 2 Phôi đồng, 6 Thủy tinh, 4 Đá cuội bảng sâu, 1 Mảnh thạch anh tím, 1 Bột Redstone, 1 Đuốc Redstone, 1 Revive và 1 Thùng ủ phân.
+Cả bộ máy tốn 10 Phôi sắt, 2 Phôi đồng, 6 Thủy tinh, 4 Đá cuội bảng sâu, 1 Mảnh thạch anh tím, 1 Bột Redstone, 1 Đuốc Redstone, 1 Revive và 1 Thùng ủ phân.
 
 ## Vật liệu hữu cơ: cần 128 điểm
 
-Vật liệu hữu cơ là đồ ăn, cây cỏ và đồ lấy từ sinh vật. Cobblemon 1.7.3 ghi 176 mục (134 mục của Minecraft, 42 mục của Cobblemon), có mục là cả một nhóm như mọi loại hoa, lá cây hay Berry. Mỗi món có số điểm riêng:
+Vật liệu hữu cơ là đồ ăn, cây cỏ và đồ lấy từ sinh vật. Cobblemon 1.7.3 có 176 mục (134 của Minecraft, 42 của Cobblemon), có mục gồm cả một nhóm như mọi loại hoa, lá cây hay Berry. Mỗi món có điểm riêng:
 
 | Điểm mỗi món | Ví dụ |
 |---|---|
@@ -152,47 +152,39 @@ Vật liệu hữu cơ là đồ ăn, cây cỏ và đồ lấy từ sinh vật.
 | 64 | Vỏ ốc anh vũ, Hơi thở của rồng, Trứng kẻ đánh hơi, Max Revive |
 | 256 | Táo vàng được phù phép, Sao Nether, Trứng rồng |
 
-- Cách nhanh: 8 **Kiện rơm** là đủ 128 điểm (16 điểm mỗi kiện).
-- Máy chỉ nhận tới 128 điểm. Điểm dư bị mất, nên đừng bỏ đồ quý khi máy gần đầy.
-- Món đựng trong bát, xô hay chai thì máy trả lại cái bát, cái xô, cái chai.
+- Nhanh nhất: 8 **Kiện rơm** là đủ 128 điểm (16 điểm mỗi kiện).
+- Máy chỉ nhận tới 128 điểm, dư là mất. Máy gần đầy thì đừng bỏ đồ quý.
+- Món đựng trong bát, xô hay chai thì máy trả lại bát, xô, chai.
 - Nạp vật liệu trước hay sau khi bỏ hoá thạch đều được.
 
-## Hồi sinh hoá thạch trên server Coco Cobblemon
+## Trên Coco Cobblemon
 
-- **Hoá thạch thường không mất phí:** 15 Pokémon ở bảng trên không có trong bảng phí của server, nên hồi sinh như Cobblemon gốc (cấu hình server kiểm ngày 11/11/2026).
-- **Cách tìm như bản gốc:** gói dữ liệu COBBLEVERSE trên server không đổi công trình và bảng đồ quét hoá thạch của Cobblemon.
+- **Hoá thạch thường không mất phí:** 15 Pokémon ở bảng trên không nằm trong bảng phí của server, hồi sinh y như bản gốc (cấu hình server, xem ngày 11/11/2026).
+- **Tìm hoá thạch như bản gốc:** gói dữ liệu COBBLEVERSE trên server không đổi công trình hay đồ quét ra.
 - **Có thêm Mewtwo và Type: Null:** gói COBBLEVERSE thêm 2 công thức cho máy: **Ancient DNA** + **Cloning Catalyst** ra Mewtwo, **Fossilized Helmet** ra Type: Null.
-- **Phí lấy Mewtwo, Type: Null là 20.000.000$** (CobbleDollars) mỗi con. Server báo phí và hỏi xác nhận trước khi trừ tiền. Không đủ tiền thì không lấy được.
-- **Không phá được máy khi máy đang giữ Mewtwo hay Type: Null:** hãy lấy Pokémon ra bằng Poké Ball trước.
+- **Lấy Mewtwo hoặc Type: Null tốn 20.000.000$** (CobbleDollars) mỗi con. Server báo phí và hỏi lại trước khi trừ tiền. Không đủ tiền thì không lấy được.
+- **Máy đang giữ Mewtwo hay Type: Null thì không phá được:** lấy Pokémon ra bằng Poké Ball trước đã.
 
 ## Hỏi nhanh
 
-### Hoá thạch Cobblemon tìm ở đâu?
+### Hoá thạch tìm ở đâu?
 
-Trong Cobblemon, hoá thạch nằm trong Cát đáng ngờ và Sỏi đáng ngờ ở 23 loại công trình hoá thạch: sa mạc, đồng bằng, rừng, đầm lầy, rừng nhiệt đới, vùng đất cằn cỗi, vùng băng tuyết, hang động và đáy biển. Dùng Chổi quét để lấy ra.
+Trong Cát đáng ngờ và Sỏi đáng ngờ ở các công trình hoá thạch. Có ở sa mạc, đồng bằng, rừng, đầm lầy, rừng nhiệt đới, badlands, vùng tuyết, hang động và đáy biển. Dùng Chổi quét để lấy.
 
-### Cách hồi sinh hoá thạch trong Cobblemon?
+### Vật liệu hữu cơ là gì, nạp gì cho nhanh?
 
-Đặt Màn Hình Dữ Liệu lên Máy phân tích Hóa thạch, đặt Bể Phục Hồi sát bên. Bỏ hoá thạch vào, nạp 128 điểm vật liệu hữu cơ, chờ 12 phút rồi cầm Poké Ball bấm vào máy.
-
-### Máy hồi sinh hoá thạch Cobblemon gồm những gì?
-
-Gồm 3 khối: Máy phân tích Hóa thạch, Màn Hình Dữ Liệu và Bể Phục Hồi. Cả 3 khối cần tổng 10 Phôi sắt, 2 Phôi đồng, 6 Thủy tinh, 4 Đá cuội bảng sâu, 1 Mảnh thạch anh tím, 1 Bột Redstone, 1 Đuốc Redstone, 1 Revive và 1 Thùng ủ phân.
-
-### Vật liệu hữu cơ trong Cobblemon là gì?
-
-Trong Cobblemon, vật liệu hữu cơ là đồ ăn, cây cỏ và đồ lấy từ sinh vật, mỗi món có điểm riêng. Máy cần 128 điểm, ví dụ 8 Kiện rơm.
+Là đồ ăn, cây cỏ và đồ lấy từ sinh vật, mỗi món có điểm riêng. Máy cần 128 điểm, nhanh nhất là 8 Kiện rơm.
 
 ### Hồi sinh hoá thạch trên Coco Cobblemon có mất tiền không?
 
-Hoá thạch thường như Omanyte, Kabuto, Aerodactyl, Tyrunt không mất phí. Trên Coco Cobblemon, lấy Mewtwo hoặc Type: Null ra khỏi máy mất 20.000.000$ CobbleDollars.
+Hoá thạch thường như Omanyte, Kabuto, Aerodactyl, Tyrunt thì không. Chỉ Mewtwo và Type: Null tốn 20.000.000$ CobbleDollars khi lấy ra khỏi máy.
 
-### Cobblemon có hồi sinh được Mewtwo không?
+### Hồi sinh Mewtwo được không?
 
-Cobblemon 1.7.3 gốc không có công thức này. Trên Coco Cobblemon, gói COBBLEVERSE thêm công thức Ancient DNA + Cloning Catalyst ra Mewtwo, phí 20.000.000$.
+Bản gốc 1.7.3 thì không. Trên Coco Cobblemon, gói COBBLEVERSE thêm công thức Ancient DNA + Cloning Catalyst ra Mewtwo, phí 20.000.000$.
 
 **Xem thêm:** [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/) · [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/) · [Cách tiến hoá Pokémon](/tien-hoa-cobblemon/) · [Cưỡi Pokémon](/cuoi-pokemon-cobblemon/) · [Legendary trên Coco Cobblemon](/tinh-nang/legendary/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/)
 
-*Số liệu lấy từ file `Cobblemon-fabric-1.7.3+1.21.1.jar` ngày 11/11/2026; phần Coco Cobblemon theo cấu hình server và gói dữ liệu COBBLEVERSE v31 kiểm ngày 11/11/2026. Bản Cobblemon khác hoặc server có gói dữ liệu riêng có thể khác.*
+*Số liệu lấy từ file `Cobblemon-fabric-1.7.3+1.21.1.jar` ngày 11/11/2026. Phần Coco Cobblemon theo cấu hình server và gói dữ liệu COBBLEVERSE v31, xem ngày 11/11/2026. Bản Cobblemon khác hoặc server có gói dữ liệu riêng có thể khác.*
 
-*Cập nhật: 11/11/2026.*
+*Cập nhật: 12/11/2026.*

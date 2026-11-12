@@ -1,18 +1,18 @@
 ---
 title: Công thức chế tạo Cobblemon
 seo_title: "Công thức Cobblemon: Poké Ball, PC, máy hồi máu"
-description: "Công thức chế tạo trong Cobblemon 1.7.3: Poké Ball, Great Ball, Ultra Ball, PC, Máy Chữa Lành (máy hồi máu), Khối đồng cỏ, Pokédex. Đọc từ file mod."
+description: "Công thức chế tạo trong Cobblemon 1.7.3: Poké Ball, Great Ball, Ultra Ball, PC, Máy Chữa Lành (máy hồi máu), Khối đồng cỏ, Pokédex. Lấy từ file mod."
 nav_order: 8.7
 alt: /en/cobblemon-recipes/
-last_modified_at: 2026-11-11T07:21:59+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # Công thức chế tạo Cobblemon
 
-Công thức trong Cobblemon 1.7.3, làm ở **Bàn chế tạo**: **Poké Ball** là 4 Red Apricorn xếp quanh 1 Phôi đồng (ra 4 quả); **Great Ball** là 2 Blue Apricorn, 2 Red Apricorn quanh 1 Phôi sắt; **Ultra Ball** là 2 Black Apricorn, 2 Yellow Apricorn quanh 1 Phôi vàng; **PC** cần Phôi sắt, Phôi đồng, Thủy tinh và Đá mịn; **Máy Chữa Lành** (máy hồi máu) cần Phôi đồng, Phôi sắt, 1 Max Revive và Bột Redstone.
+Mấy món hay làm nhất, đều làm ở **Bàn chế tạo**: **Poké Ball** là 4 Red Apricorn xếp quanh 1 Phôi đồng (ra 4 quả). **Great Ball** là 2 Blue Apricorn, 2 Red Apricorn quanh 1 Phôi sắt. **Ultra Ball** là 2 Black Apricorn, 2 Yellow Apricorn quanh 1 Phôi vàng. **PC** cần Phôi sắt, Phôi đồng, Thủy tinh và Đá mịn. **Máy Chữa Lành** (máy hồi máu) cần Phôi đồng, Phôi sắt, 1 Max Revive và Bột Redstone.
 {: .fs-5 .fw-300 }
 
-Các công thức dưới đây đọc từ thư mục `data/cobblemon/recipe` của file `Cobblemon-fabric-1.7.3+1.21.1.jar`, kiểm ngày 11/11/2026. Tên vật phẩm theo bản tiếng Việt của Minecraft và Cobblemon; vật phẩm nào Cobblemon chưa dịch thì giữ tên tiếng Anh. Server có thể đổi công thức, nên khi chơi trên server hãy xem sách công thức trong game.
+Công thức lấy từ thư mục `data/cobblemon/recipe` trong file `Cobblemon-fabric-1.7.3+1.21.1.jar`, xem ngày 11/11/2026. Tên vật phẩm theo bản tiếng Việt của Minecraft và Cobblemon, món nào Cobblemon chưa dịch thì để tiếng Anh. Server có thể đổi công thức, nên khi chơi server cứ mở sách công thức trong game xem cho chắc.
 
 ## Poké Ball (ra 4 quả)
 
@@ -56,7 +56,7 @@ Các công thức dưới đây đọc từ thư mục `data/cobblemon/recipe` c
 
 ## Khối đồng cỏ (Pasture Block)
 
-Khối đồng cỏ cần 1 PC đã chế tạo ở trên.
+Cần 1 PC đã làm ở trên. Ván gỗ loại nào cũng được.
 
 | Hàng | Trái | Giữa | Phải |
 |---|---|---|---|
@@ -64,11 +64,9 @@ Khối đồng cỏ cần 1 PC đã chế tạo ở trên.
 | Giữa | Ván gỗ | PC | Ván gỗ |
 | Dưới | Lúa mì | Cái phễu | Lúa mì |
 
-Ván gỗ loại nào cũng được.
-
 ## Pokédex
 
-Bản màu đỏ dùng Red Apricorn; các bản xanh dương, xanh lá, hồng, đen, trắng xếp y hệt nhưng dùng Apricorn cùng màu (Blue, Green, Pink, Black, White Apricorn). Ô giữa là phần màn hình, dùng 1 trong các vật phẩm: Bright Powder, Túi mực phát sáng, Bột Redstone, Bột đá phát sáng, Bột quỷ lửa.
+Bản đỏ dùng Red Apricorn. Bản xanh dương, xanh lá, hồng, đen, trắng xếp y hệt, chỉ đổi sang Apricorn cùng màu (Blue, Green, Pink, Black, White Apricorn). Ô giữa là màn hình, dùng 1 trong các món: Bright Powder, Túi mực phát sáng, Bột Redstone, Bột đá phát sáng, Bột quỷ lửa.
 
 | Hàng | Trái | Giữa | Phải |
 |---|---|---|---|
@@ -78,22 +76,18 @@ Bản màu đỏ dùng Red Apricorn; các bản xanh dương, xanh lá, hồng, 
 
 ## Hỏi nhanh
 
-### Cách chế tạo Poké Ball trong Cobblemon?
+### Làm Poké Ball thế nào?
 
-Ở Bàn chế tạo, đặt 1 Phôi đồng ở ô giữa và 4 Red Apricorn ở 4 ô trên, dưới, trái, phải: ra 4 Poké Ball.
+Đặt 1 Phôi đồng ở ô giữa bàn chế tạo, 4 Red Apricorn ở 4 ô trên, dưới, trái, phải. Ra 4 Poké Ball.
 
-### Cách chế tạo PC trong Cobblemon?
+### Máy hồi máu trong Cobblemon tên là gì, làm sao?
 
-Hàng trên: Phôi sắt, Thủy tinh, Phôi sắt. Hàng giữa: Phôi sắt, Phôi đồng, Phôi sắt. Hàng dưới: Đá mịn, Phôi đồng, Đá mịn.
+Tên là Máy Chữa Lành (Healing Machine). Cần 3 Phôi đồng, 4 Phôi sắt, 1 Max Revive và 1 Bột Redstone, cách xếp xem bảng ở trên.
 
-### Cách chế tạo máy hồi máu trong Cobblemon?
+### Làm PC cần gì?
 
-Máy hồi máu là Máy Chữa Lành (Healing Machine). Hàng trên: 3 Phôi đồng. Hàng giữa: Phôi sắt, Max Revive, Phôi sắt. Hàng dưới: Phôi sắt, Bột Redstone, Phôi sắt.
-
-### Cách chế tạo Ultra Ball?
-
-Đặt 1 Phôi vàng ở giữa, 2 Black Apricorn ở trên và dưới, 2 Yellow Apricorn ở trái và phải: ra 4 Ultra Ball.
+5 Phôi sắt, 2 Phôi đồng, 1 Thủy tinh và 2 Đá mịn, cách xếp xem bảng ở trên.
 
 **Xem thêm:** [Hoá thạch và máy hồi sinh](/hoa-thach-cobblemon/) · [Cobblemon là gì](/cobblemon-la-gi/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Lệnh Cobblemon](/lenh-cobblemon/) · [Cách tải Cobblemon](/cach-tai-cobblemon/)
 
-*Cập nhật: 11/11/2026.*
+*Cập nhật: 12/11/2026.*

@@ -16,41 +16,41 @@ jsonld: |
       {
         "@type": "HowToStep",
         "position": 1,
-        "text": "Có Mega Bracelet và đeo vào ô phụ kiện (Accessories) trong túi đồ."
+        "text": "Kiếm Mega Bracelet và đeo vào ô phụ kiện (Accessories) trong túi đồ."
       },
       {
         "@type": "HowToStep",
         "position": 2,
-        "text": "Có đá Mega đúng loài, ví dụ Charizardite X cho Charizard, Greninjite cho Greninja. Trên Coco Cobblemon, đá Mega bán ở Shop Tokens (Menu > Shop > Shop Tokens)."
+        "text": "Kiếm đá Mega đúng loài, ví dụ Charizardite X cho Charizard, Greninjite cho Greninja. Trên Coco Cobblemon, đá Mega bán ở Shop Tokens (Menu > Shop > Shop Tokens)."
       },
       {
         "@type": "HowToStep",
         "position": 3,
-        "text": "Cho Pokémon cầm đá: thả Pokémon ra, giữ Shift và bấm chuột phải vào nó, chọn Đổi vật phẩm cầm tay."
+        "text": "Cho Pokémon cầm đá: thả nó ra, giữ Shift rồi bấm chuột phải vào nó, chọn Đổi vật phẩm cầm tay."
       },
       {
         "@type": "HowToStep",
         "position": 4,
-        "text": "Vào trận, đến lượt chọn chiêu thì bấm nút Mega rồi chọn chiêu. Pokémon tiến hoá Mega ngay trong lượt đó."
+        "text": "Vào trận, tới lượt chọn chiêu thì bấm nút Mega rồi chọn chiêu. Pokémon tiến hoá Mega ngay lượt đó."
       }
     ]
   }
-last_modified_at: 2026-11-11T06:11:26+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # Cách tiến hoá Mega trong Cobblemon
 
-Cobblemon 1.7.3 gốc chưa tiến hoá Mega được: file mod có dữ liệu dạng Mega nhưng không có Mega Bracelet hay đá Mega. Trên server Coco Cobblemon, Mega có nhờ mod **Mega Showdown** (bản 1.9.9): đeo **Mega Bracelet**, cho Pokémon cầm đúng **đá Mega** của nó, vào trận rồi bấm nút **Mega** khi chọn chiêu. Mỗi lúc chỉ 1 Pokémon của bạn được ở dạng Mega.
+Cobblemon 1.7.3 gốc chưa có Mega: file mod có dữ liệu dạng Mega nhưng thiếu Mega Bracelet và đá Mega. Coco Cobblemon có Mega nhờ mod **Mega Showdown** (bản 1.9.9). Bạn đeo **Mega Bracelet**, cho Pokémon cầm đúng **đá Mega** của nó, vào trận rồi bấm nút **Mega** lúc chọn chiêu. Mỗi lúc bạn chỉ có 1 con ở dạng Mega.
 {: .fs-5 .fw-300 }
 
-## Các bước tiến hoá Mega
+## Các bước
 
-1. Có **Mega Bracelet** và đeo vào ô phụ kiện (Accessories) trong túi đồ.
-2. Có đá Mega đúng loài, ví dụ Charizardite X cho Charizard, Greninjite cho Greninja. Trên Coco Cobblemon, đá Mega bán ở Shop Tokens (Menu > Shop > Shop Tokens).
-3. Cho Pokémon cầm đá: thả Pokémon ra, giữ **Shift** và bấm chuột phải vào nó, chọn **Đổi vật phẩm cầm tay**.
-4. Vào trận, đến lượt chọn chiêu thì bấm nút **Mega** rồi chọn chiêu. Pokémon tiến hoá Mega ngay trong lượt đó.
+1. Kiếm **Mega Bracelet** và đeo vào ô phụ kiện (Accessories) trong túi đồ.
+2. Kiếm đá Mega đúng loài, ví dụ Charizardite X cho Charizard, Greninjite cho Greninja. Trên Coco Cobblemon, đá Mega bán ở Shop Tokens (Menu > Shop > Shop Tokens).
+3. Cho Pokémon cầm đá: thả nó ra, giữ **Shift** rồi bấm chuột phải vào nó, chọn **Đổi vật phẩm cầm tay**.
+4. Vào trận, tới lượt chọn chiêu thì bấm nút **Mega** rồi chọn chiêu. Pokémon tiến hoá Mega ngay lượt đó.
 
-Mega Bracelet làm theo công thức mặc định của Mega Showdown (bàn chế tạo):
+Công thức Mega Bracelet mặc định của Mega Showdown (bàn chế tạo):
 
 | Cột 1 | Cột 2 | Cột 3 |
 |---|---|---|
@@ -58,23 +58,23 @@ Mega Bracelet làm theo công thức mặc định của Mega Showdown (bàn ch�
 | White Apricorn | Keystone | White Apricorn |
 | Phôi sắt | Phôi sắt | Phôi sắt |
 
-Đây là công thức mặc định trong file mod; chưa kiểm trên server. Keystone rơi ra khi đào **Keystone Ore**; quặng này nằm trong công trình **Megaroid** dưới lòng đất (theo dữ liệu của mod). Mega Showdown có thêm Mega Bracelet 6 màu khác: đỏ, hồng, vàng, xanh lá, xanh dương, đen.
+Công thức này lấy từ file mod, chưa thử trên server. Keystone có được khi đào **Keystone Ore**, quặng nằm trong công trình **Megaroid** dưới lòng đất (theo dữ liệu mod). Mega Showdown còn có Mega Bracelet 6 màu khác: đỏ, hồng, vàng, xanh lá, xanh dương, đen.
 
 ## Không thấy nút Mega?
 
-- Chưa đeo Mega Bracelet, hoặc Pokémon không cầm đúng đá Mega của loài đó.
-- Còn một Pokémon khác của bạn (trong đội hình hoặc trong PC) đang ở dạng Mega: mỗi lúc chỉ được 1 con.
-- Trận đó cấm Mega: ở BattleTower, từ tầng 15 có tầng cấm Mega (xem nhãn trước trận) và từ tầng 150 cấm mọi cơ chế. Xem [BattleTower](/tinh-nang/battletower/).
+- Chưa đeo Mega Bracelet, hoặc Pokémon không cầm đúng đá của loài đó.
+- Đang có con khác của bạn (trong đội hoặc trong PC) ở dạng Mega. Mỗi lúc chỉ được 1 con.
+- Trận đó cấm Mega. Ở BattleTower, từ tầng 15 có những tầng cấm Mega (xem nhãn trước trận), từ tầng 150 cấm mọi cơ chế. Xem [BattleTower](/tinh-nang/battletower/).
 
-Đấu Đôi xếp hạng (luật Regulation H) cho dùng Mega và Tera; Đấu Đơn có luật riêng ở tab LUẬT trong game, xem [Đấu Xếp Hạng](/tinh-nang/dau-xep-hang/).
+Đấu Đôi xếp hạng (luật Regulation H) cho dùng Mega và Tera. Đấu Đơn có luật riêng, xem tab LUẬT trong game hoặc trang [Đấu Xếp Hạng](/tinh-nang/dau-xep-hang/).
 
-## Cách tiến hoá Mega Rayquaza trong Cobblemon
+## Mega Rayquaza
 
-Trên Coco Cobblemon (mod Mega Showdown 1.9.9), Rayquaza không dùng đá Mega. Rayquaza phải **biết chiêu Dragon Ascent** mới tiến hoá Mega được; chưa có chiêu này thì game báo "Rayquaza doesn't have dragonascent". Các bước còn lại giống loài khác: đeo Mega Bracelet, vào trận, bấm nút Mega.
+Rayquaza không dùng đá Mega. Nó phải **biết chiêu Dragon Ascent** mới Mega được, chưa có chiêu thì game báo "Rayquaza doesn't have dragonascent". Còn lại làm giống các loài khác: đeo Mega Bracelet, vào trận, bấm nút Mega.
 
-## Pokémon nào tiến hoá Mega được
+## Loài nào Mega được
 
-Cobblemon 1.7.3 gốc chỉ có dữ liệu 48 dạng Mega của 46 loài và không dùng được. Mega Showdown 1.9.9 mà Coco Cobblemon cài có 81 viên đá Mega cho **78 loài** (Charizard, Mewtwo và Raichu mỗi loài có 2 dạng X và Y), cộng Rayquaza dùng Dragon Ascent:
+Cobblemon 1.7.3 gốc chỉ có dữ liệu 48 dạng Mega của 46 loài, và không dùng được. Mega Showdown 1.9.9 trên Coco Cobblemon có 81 viên đá Mega cho **78 loài** (Charizard, Mewtwo và Raichu mỗi loài có 2 dạng X và Y), cộng thêm Rayquaza dùng Dragon Ascent:
 
 Abomasnow, Absol, Aerodactyl, Aggron, Alakazam, Altaria, Ampharos, Audino, Banette, Barbaracle, Beedrill, Blastoise, Blaziken, Camerupt, Chandelure, Charizard (X, Y), Chesnaught, Chimecho, Clefable, Crabominable, Delphox, Diancie, Dragalge, Dragonite, Drampa, Eelektross, Emboar, Excadrill, Falinks, Feraligatr, Floette, Froslass, Gallade, Garchomp, Gardevoir, Gengar, Glalie, Glimmora, Golurk, Greninja, Gyarados, Hawlucha, Heracross, Houndoom, Kangaskhan, Latias, Latios, Lopunny, Lucario, Malamar, Manectric, Mawile, Medicham, Meganium, Meowstic, Metagross, Mewtwo (X, Y), Pidgeot, Pinsir, Pyroar, Raichu (X, Y), Sableye, Salamence, Sceptile, Scizor, Scolipede, Scovillain, Scrafty, Sharpedo, Skarmory, Slowbro, Staraptor, Starmie, Steelix, Swampert, Tyranitar, Venusaur, Victreebel.
 
@@ -82,24 +82,20 @@ Tên đá thường là tên loài thêm đuôi "-ite", ví dụ Gengarite, Luca
 
 ## Hỏi nhanh
 
-### Cách tiến hóa Mega trong Cobblemon?
+### Mega Greninja làm thế nào?
 
-Cobblemon gốc chưa có Mega. Trên Coco Cobblemon (mod Mega Showdown): đeo Mega Bracelet, cho Pokémon cầm đá Mega của nó, vào trận và bấm nút Mega khi chọn chiêu.
+Cho Greninja cầm Greninjite, đeo Mega Bracelet rồi bấm nút Mega trong trận. Greninjite có trong Mega Showdown 1.9.9, bản server đang dùng.
 
-### Cách tiến hóa Mega Rayquaza trong Cobblemon?
+### Đá Mega mua ở đâu?
 
-Trên Coco Cobblemon (mod Mega Showdown), Rayquaza không cần đá Mega mà phải biết chiêu Dragon Ascent. Đeo Mega Bracelet, vào trận, bấm nút Mega.
+Trên Coco Cobblemon, đá Mega bán ở Shop Tokens: `/menu` > Shop > Shop Tokens. Tokens kiếm đều nhất từ nhiệm vụ Battle Pass và Viễn Chinh mỗi ngày.
 
-### Cách tiến hóa Mega Greninja trong Cobblemon?
+### Mega được mấy con cùng lúc?
 
-Trên Coco Cobblemon, cho Greninja cầm Greninjite, đeo Mega Bracelet rồi bấm nút Mega trong trận. Greninjite có trong Mega Showdown 1.9.9, bản mod server Coco Cobblemon đang dùng.
-
-### Đá Mega mua ở đâu trên Coco Cobblemon?
-
-Đá Mega trên Coco Cobblemon bán ở Shop Tokens: Menu (`/menu`) > Shop > Shop Tokens. Tokens kiếm đều đặn nhất từ nhiệm vụ Battle Pass và Viễn Chinh mỗi ngày.
+Một con. Nếu một con khác của bạn, kể cả con đang nằm trong PC, còn ở dạng Mega thì nút Mega sẽ không hiện.
 
 **Xem thêm:** [Cách tiến hoá Pokémon](/tien-hoa-cobblemon/) · [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/) · [Đấu Xếp Hạng](/tinh-nang/dau-xep-hang/) · [BattleTower](/tinh-nang/battletower/) · [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/)
 
-*Số liệu đọc từ file mod Mega Showdown 1.9.9 (danh sách đá Mega, công thức, công trình) và Cobblemon 1.7.3 ngày 11/11/2026; phần Coco Cobblemon theo Hướng dẫn trong game ngày 08/11/2026.*
+*Số liệu đọc từ file mod Mega Showdown 1.9.9 và Cobblemon 1.7.3 ngày 11/11/2026. Phần Coco Cobblemon theo Hướng dẫn trong game ngày 08/11/2026.*
 
-*Cập nhật: 11/11/2026.*
+*Cập nhật: 12/11/2026.*
