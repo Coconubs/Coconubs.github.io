@@ -86,7 +86,7 @@ Tên là Máy Chữa Lành (Healing Machine). Cần 3 Phôi đồng, 4 Phôi s�
 
 ### Làm PC cần gì?
 
-5 Phôi sắt, 2 Phôi đồng, 1 Thủy tinh và 2 Đá mịn, cách xếp xem bảng ở trên.
+4 Phôi sắt, 2 Phôi đồng, 1 Thủy tinh và 2 Đá mịn, cách xếp xem bảng ở trên.
 
 **Xem thêm:** [Hoá thạch và máy hồi sinh](/hoa-thach-cobblemon/) · [Cobblemon là gì](/cobblemon-la-gi/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Lệnh Cobblemon](/lenh-cobblemon/) · [Cách tải Cobblemon](/cach-tai-cobblemon/)
 
