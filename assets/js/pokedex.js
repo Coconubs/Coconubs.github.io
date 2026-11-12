@@ -5,7 +5,7 @@
   if (!root) { return; }
   var EN = root.getAttribute('data-lang') === 'en';
   var BASE = '/assets/pokedex/';
-  var V = '?v=20261112r';
+  var V = '?v=20261112s';
   var IMG = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/';
   var S = EN ? {
     count: function (n, all) { return n === all ? all + ' entries' : n + ' of ' + all; },
@@ -248,7 +248,7 @@
     var h = '<h3>' + S.drops + '</h3><ul>' + m.dr.map(function (d) {
       if (d[3]) { anyB = true; }
       var txt = itImg(d[0]) + link('drop', itemName(d[0]), itemName(d[0])) + ' · ' + num(d[1]) + '%' + (d[2] ? ' · ' + S.qty + ' ' + esc(d[2]) : '');
-      return '<li class="pdx-dl' + (d[3] ? ' pdx-blocked' : '') + '">' + txt + (d[3] ? ' <span class="pdx-tag pdx-tag--warn">' + S.blockedDrop + '</span>' : '') + pTag(d[0], d[3]) + '</li>';
+      return '<li class="pdx-dl' + (d[3] ? ' pdx-blocked' : D.PB && D.PB[d[0]] ? ' pdx-pblock' : '') + '">' + txt + (d[3] ? ' <span class="pdx-tag pdx-tag--warn">' + S.blockedDrop + '</span>' : '') + pTag(d[0], d[3]) + '</li>';
     }).join('') + '</ul>';
     return h;
   }
@@ -361,7 +361,7 @@
       '<h3>' + S.droppedBy + ' (' + by.length + ')</h3>' + (by.length ? dropList(by) : '<p>' + S.noDrop + '</p>');
   }
   function dropList(by) {
-    return '<ul>' + by.map(function (x) { var d = x[1]; return '<li class="pdx-dl' + (d[3] ? ' pdx-blocked' : '') + '">' + monImg(x[0], 40) + link('mon', monName(x[0]), monName(x[0])) + ' · ' + num(d[1]) + '%' + (d[2] ? ' · ' + S.qty + ' ' + esc(d[2]) : '') + '</li>'; }).join('') + '</ul>';
+    return '<ul>' + by.map(function (x) { var d = x[1]; return '<li class="pdx-dl' + (d[3] ? ' pdx-blocked' : D.PB && D.PB[d[0]] ? ' pdx-pblock' : '') + '">' + monImg(x[0], 40) + link('mon', monName(x[0]), monName(x[0])) + ' · ' + num(d[1]) + '%' + (d[2] ? ' · ' + S.qty + ' ' + esc(d[2]) : '') + '</li>'; }).join('') + '</ul>';
   }
 
   // ---------- Item rơi ----------
