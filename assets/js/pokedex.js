@@ -5,7 +5,7 @@
   if (!root) { return; }
   var EN = root.getAttribute('data-lang') === 'en';
   var BASE = '/assets/pokedex/';
-  var V = '?v=20261112i';
+  var V = '?v=20261112j';
   var IMG = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/';
   var S = EN ? {
     count: function (n, all) { return n === all ? all + ' entries' : n + ' of ' + all; },
@@ -235,7 +235,8 @@
 
   function statsHtml(s) {
     var tot = 0, h = '<div class="pdx-stats">';
-    s.forEach(function (v, i) { tot += v; h += '<span>' + S.stats[i] + '</span><b>' + v + '</b><span class="pdx-bar" style="width:' + Math.min(100, v / 2.55) + '%"></span>'; });
+    // Màu chỉ số theo game Pokémon: HP đỏ, Tấn công cam, Phòng thủ vàng, TC đặc biệt xanh dương, PT đặc biệt xanh lá, Tốc độ hồng.
+    s.forEach(function (v, i) { tot += v; h += '<span class="pdx-sl pdx-s' + i + '">' + S.stats[i] + '</span><b>' + v + '</b><span class="pdx-bar pdx-s' + i + '" style="width:' + Math.min(100, v / 2.55) + '%"></span>'; });
     return h + '<span>' + S.total + '</span><b>' + tot + '</b><span></span></div>';
   }
   function abilHtml(a) {
