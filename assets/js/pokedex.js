@@ -5,7 +5,7 @@
   if (!root) { return; }
   var EN = root.getAttribute('data-lang') === 'en';
   var BASE = '/assets/pokedex/';
-  var V = '?v=20261112o';
+  var V = '?v=20261112p';
   var IMG = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/';
   var S = EN ? {
     count: function (n, all) { return n === all ? all + ' entries' : n + ' of ' + all; },
@@ -14,7 +14,7 @@
     types: 'Type', abil: 'Abilities', hidden: 'hidden', evo: 'Evolution', from: 'Evolves from', to: 'Evolves into',
     forms: 'Forms', battle: 'battle only', drops: 'Drops', spawn: 'Where it spawns', nospawn: 'No natural spawn data.',
     chance: 'chance', qty: 'amount', blockedDrop: 'removed on Coco', blockedNote: 'Struck-through items are removed from Pokémon drops by the Coco server rules (held items, vitamins, mints, bottle caps…).',
-    leg: 'Legendary: never in the normal spawn table. The server rolls its own chance, doubled during Golden Hour. Fishing and Poké Snacks never give Legendaries.',
+    leg: 'Legendaries have their own spawn chance, doubled during Golden Hour. Fishing and Poké Snacks never give Legendaries.',
     myth: 'Mythical: does not spawn naturally on Coco and cannot be summoned with altars.',
     legLink: '/en/features/', users: 'Pokémon with this ability', droppedBy: 'Dropped by', dropsOf: 'Drops of',
     noDrop: 'No Pokémon drops this item.', itemDrop: function (n) { return 'Dropped by ' + n + ' Pokémon'; },
@@ -34,7 +34,7 @@
     types: 'Hệ', abil: 'Ability', hidden: 'ẩn', evo: 'Tiến hoá', from: 'Tiến hoá từ', to: 'Tiến hoá thành',
     forms: 'Dạng khác', battle: 'chỉ trong trận', drops: 'Item rơi', spawn: 'Nơi xuất hiện', nospawn: 'Không có dữ liệu xuất hiện tự nhiên.',
     chance: 'tỉ lệ', qty: 'số lượng', blockedDrop: 'Đã bị tắt', blockedNote: 'Món bị gạch là món đã bị tắt khỏi đồ rơi của Pokémon trên server (held item, vitamin, kẹo bạc hà, nắp chai…).',
-    leg: 'Huyền thoại: không ra theo bảng spawn thường. Server tự gieo tỉ lệ riêng, Giờ Vàng gấp đôi. Câu cá và Poké Snack không ra Huyền thoại.',
+    leg: 'Legendary có tỉ lệ Spawn riêng, Giờ Vàng gấp đôi. Câu cá và Poké Snack không ra Huyền thoại.',
     myth: 'Thần thoại: không xuất hiện tự nhiên trên Coco và bị khoá triệu hồi bằng bàn thờ.',
     legLink: '/tinh-nang/legendary/', users: 'Pokémon có Ability này', droppedBy: 'Rơi từ', dropsOf: 'Đồ rơi của',
     noDrop: 'Không Pokémon nào rơi món này.', itemDrop: function (n) { return 'Rơi từ ' + n + ' loài'; },
@@ -315,12 +315,11 @@
   }
   function formsHtml(m) {
     if (!m.fv || !m.fv.length) { return ''; }
-    return '<h3>' + S.forms + ' (' + m.fv.length + ')</h3><div class="pdx-forms">' + m.fv.map(function (f) {
-      var how = formHow(m, f), st = f.s ? '<p class="pdx-note">' + S.stats.map(function (n, i) { return n + ' ' + f.s[i]; }).join(' · ') + ' · ' + S.total + ' ' + f.s.reduce(function (a, b) { return a + b; }, 0) + '</p>' : '';
-      return '<div class="pdx-form"><div class="pdx-head">' + img(stem(m, f), 72, formName(m, f), 'pdx-img--big') + '<div><b>' + esc(formName(m, f)) + '</b>' + (f.b ? ' <span class="pdx-tag">' + S.battle + '</span>' : '') +
-        '<div>' + (f.t || m.t).map(tBadge).join('') + '</div></div></div>' + (how ? (how.indexOf('<') === 0 ? how : '<p>' + how + '</p>') : '') + st +
-        (f.a ? '<p class="pdx-note">' + S.abil + ': ' + abilHtml(f.a) + '</p>' : '') + '</div>';
-    }).join('') + '</div>';
+    var card = function (j, name, t, pic) {
+      return '<button type="button" class="pdx-form" data-form="' + j + '" aria-pressed="' + (j < 0 ? 'true' : 'false') + '">' + pic + '<span><b>' + esc(name) + '</b><span class="pdx-ft">' + t.map(tBadge).join('') + '</span></span></button>';
+    };
+    return '<h3>' + S.forms + ' (' + m.fv.length + ')</h3><div class="pdx-forms">' + card(-1, m.n, m.t, img(stem(m), 56, '')) +
+      m.fv.map(function (f, j) { return card(j, formName(m, f), f.t || m.t, img(stem(m, f), 56, '')); }).join('') + '</div>';
   }
   function formName(m, f) {
     var n = f.n;
@@ -335,9 +334,16 @@
       (function () { var h = formHow(m, f); return h ? '<h3>' + S.how + '</h3>' + (h.indexOf('<ul>') === 0 || h.indexOf('<p>') === 0 ? h : '<p>' + h + '</p>') : ''; })() +
       statsHtml(f.s || m.s) + '<h3>' + S.abil + '</h3><p>' + abilHtml(f.a || m.a) + '</p>';
   }
+  // Phần trên (ảnh, chỉ số, Ability) đổi theo dạng đang chọn; j = -1 là dạng thường.
+  function mainHtml(m, j) {
+    var f = j >= 0 ? m.fv[j] : null, how = f ? formHow(m, f) : '';
+    return '<div class="pdx-head">' + img(stem(m, f), 96, f ? formName(m, f) : m.n, 'pdx-img--big') + '<div>' + (f ? '<p><b>' + esc(formName(m, f)) + '</b>' + (f.b ? ' <span class="pdx-tag">' + S.battle + '</span>' : '') + '</p><p>' + (f.t || m.t).map(tBadge).join('') + '</p>' : '') +
+      '<p>' + (m.g ? '<span class="pdx-tag">' + S.gen + ' ' + esc(m.g) + '</span> ' : '') + (stem(m) != null ? '<button type="button" class="pdx-shiny" data-shiny="1" aria-pressed="false">✨ Shiny</button>' : '') + '</p></div></div>' +
+      (how ? '<h3>' + S.how + '</h3>' + (how.indexOf('<') === 0 ? how : '<p>' + how + '</p>') : '') +
+      statsHtml((f && f.s) || m.s) + '<h3>' + S.abil + '</h3><p>' + abilHtml((f && f.a) || m.a) + '</p>';
+  }
   function monDetail(m) {
-    return '<div class="pdx-head">' + img(stem(m), 96, m.n, 'pdx-img--big') + '<p>' + (m.g ? '<span class="pdx-tag">' + S.gen + ' ' + esc(m.g) + '</span> ' : '') + (stem(m) != null ? '<button type="button" class="pdx-shiny" data-shiny="1" aria-pressed="false">✨ Shiny</button>' : '') + '</p></div>' + statsHtml(m.s) +
-      '<h3>' + S.abil + '</h3><p>' + abilHtml(m.a) + '</p>' + evoHtml(m) + formsHtml(m) + dropsHtml(m) + spawnHtml(m);
+    return '<div class="pdx-main" data-mon="' + esc(m.i) + '">' + mainHtml(m, -1) + '</div>' + formsHtml(m) + evoHtml(m) + dropsHtml(m) + spawnHtml(m);
   }
   function abDetail(a) {
     var d = EN ? a[3] : (a[2] || a[3]);
@@ -423,8 +429,17 @@
   }, true);
   root.addEventListener('change', function (e) { if (e.target.id === 'pdx-t1' || e.target.id === 'pdx-t2') { typeCalc(); } });
   root.addEventListener('click', function (e) {
-    var t = e.target.closest('[data-tab],[data-go],[data-more],[data-shiny],.pdx-row');
+    var t = e.target.closest('[data-tab],[data-go],[data-more],[data-shiny],[data-form],.pdx-row');
     if (!t) { return; }
+    if (t.hasAttribute('data-form')) {
+      var box = t.closest('.pdx-body'), main = box.querySelector('.pdx-main'), mm = D.monById[main.getAttribute('data-mon')];
+      var sh = main.querySelector('.pdx-shiny[aria-pressed=true]');
+      main.innerHTML = mainHtml(mm, +t.getAttribute('data-form'));
+      [].forEach.call(box.querySelectorAll('[data-form]'), function (c) { c.setAttribute('aria-pressed', c === t ? 'true' : 'false'); });
+      if (sh) { main.querySelector('.pdx-shiny').click(); }
+      main.scrollIntoView({ block: 'nearest' });
+      return;
+    }
     if (t.hasAttribute('data-shiny')) {
       var on = t.getAttribute('aria-pressed') !== 'true';
       t.setAttribute('aria-pressed', on ? 'true' : 'false');
