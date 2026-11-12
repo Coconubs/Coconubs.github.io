@@ -77,7 +77,7 @@ Mỗi loại đá có quặng riêng sinh trong thế giới, ví dụ Thunder S
 | Cầm vật phẩm, theo giờ | Gligar cầm Razor Fang ban đêm thành Gliscor; Sneasel cầm Razor Claw ban đêm thành Weavile; Happiny cầm Oval Stone ban ngày thành Chansey |
 | Biết một chiêu | Lickitung biết Rollout thành Lickilicky; Tangela biết Ancient Power thành Tangrowth; Aipom biết Double Hit thành Ambipom |
 | Giới tính và đá | Kirlia đực dùng Dawn Stone thành Gallade; Snorunt cái dùng Dawn Stone thành Froslass |
-| Có Pokémon khác trong đội | Mantyke có Remoraid trong đội thành Mantine; Pancham từ cấp 32 có Pokémon hệ Bóng Đêm trong đội thành Pangoro |
+| Có Pokémon khác trong đội | Mantyke có Remoraid trong đội thành Mantine; Pancham từ cấp 32 có Pokémon hệ Bóng Tối trong đội thành Pangoro |
 | Thời tiết | Sliggoo từ cấp 50 lên cấp khi trời mưa thành Goodra |
 | Quãng đường | Pawmo, Bramblin, Rellor đi đủ 1.000 khối thì thành Pawmot, Brambleghast, Rabsca |
 | Dùng chiêu nhiều lần | Primeape dùng Rage Fist 20 lần thành Annihilape |
