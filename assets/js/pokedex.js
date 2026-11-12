@@ -5,7 +5,7 @@
   if (!root) { return; }
   var EN = root.getAttribute('data-lang') === 'en';
   var BASE = '/assets/pokedex/';
-  var V = '?v=20261112n';
+  var V = '?v=20261112o';
   var IMG = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/';
   var S = EN ? {
     count: function (n, all) { return n === all ? all + ' entries' : n + ' of ' + all; },
@@ -249,7 +249,7 @@
     }).join('') + '</ul>';
     return h;
   }
-  function biome(b) { if (!b) { return S.any; } return b.split(',').map(function (x) { return EN ? x.replace(/_/g, ' ') : (BIOME_VI[x] || x.replace(/_/g, ' ')); }).join(', '); }
+  function biome(b) { if (!b) { return S.any; } return b.split(',').map(function (x) { var en = x.replace(/_/g, ' '); en = en.charAt(0).toUpperCase() + en.slice(1); return EN || !BIOME_VI[x] || BIOME_VI[x].toLowerCase() === en.toLowerCase() ? en : en + ' (' + BIOME_VI[x] + ')'; }).join(', '); }
   function extra(e) {
     if (!e) { return ''; }
     return e.split(' ').map(function (x) {
