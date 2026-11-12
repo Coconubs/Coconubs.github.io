@@ -5,7 +5,7 @@
   if (!root) { return; }
   var EN = root.getAttribute('data-lang') === 'en';
   var BASE = '/assets/pokedex/';
-  var V = '?v=20261112p';
+  var V = '?v=20261112q';
   var IMG = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/';
   var S = EN ? {
     count: function (n, all) { return n === all ? all + ' entries' : n + ' of ' + all; },
@@ -71,7 +71,7 @@
   function num(x) { var s = String(Math.round(x * 100) / 100); return EN ? s : s.replace('.', ','); }
   function tName(i) { var m = D.misc; return m ? m.tn[i][EN ? 1 : 0] : ''; }
   // Icon hệ = texture thật của Cobblemon (gui/types.png, 18 ô 36px, cùng thứ tự misc.tn).
-  // Icon hệ = texture thật Cobblemon (gui/types.png, 18 ô 36px) phóng 2x sắc nét -> hiện 24px, nét trên màn hình 2-3x.
+  // Icon hệ = texture thật Cobblemon (gui/types.png, 18 ô 36px; ô 19 = Stellar dựng cùng kiểu) phóng 2x sắc nét -> hiện 24px, nét trên màn hình 2-3x.
   function tBadge(i) { return i < 0 ? '' : '<span class="pdx-t"><span class="pdx-ti" style="background-position:-' + i * 24 + 'px 0" aria-hidden="true"></span>' + esc(tName(i)) + '</span>'; }
   function monName(id) { var m = D.monById[id]; return m ? m.n : (D.mon.names[id] || id); }
   function itemName(id) { var it = D.it && D.it[id]; return it ? (EN ? it.e : it.v) : id.split(':').pop().replace(/_/g, ' '); }
@@ -315,11 +315,11 @@
   }
   function formsHtml(m) {
     if (!m.fv || !m.fv.length) { return ''; }
-    var card = function (j, name, t, pic) {
-      return '<button type="button" class="pdx-form" data-form="' + j + '" aria-pressed="' + (j < 0 ? 'true' : 'false') + '">' + pic + '<span><b>' + esc(name) + '</b><span class="pdx-ft">' + t.map(tBadge).join('') + '</span></span></button>';
+    var card = function (j, name, t, pic, extra) {
+      return '<button type="button" class="pdx-form" data-form="' + j + '" aria-pressed="' + (j < 0 ? 'true' : 'false') + '">' + pic + '<span><b>' + esc(name) + '</b><span class="pdx-ft">' + t.map(tBadge).join('') + (extra || '') + '</span></span></button>';
     };
     return '<h3>' + S.forms + ' (' + m.fv.length + ')</h3><div class="pdx-forms">' + card(-1, m.n, m.t, img(stem(m), 56, '')) +
-      m.fv.map(function (f, j) { return card(j, formName(m, f), f.t || m.t, img(stem(m, f), 56, '')); }).join('') + '</div>';
+      m.fv.map(function (f, j) { return card(j, formName(m, f), f.t || m.t, img(stem(m, f), 56, ''), teraTag(f)); }).join('') + '</div>';
   }
   function formName(m, f) {
     var n = f.n;
@@ -335,9 +335,10 @@
       statsHtml(f.s || m.s) + '<h3>' + S.abil + '</h3><p>' + abilHtml(f.a || m.a) + '</p>';
   }
   // Phần trên (ảnh, chỉ số, Ability) đổi theo dạng đang chọn; j = -1 là dạng thường.
+  function teraTag(f) { return f && f.n === 'Stellar' ? '<span class="pdx-tag">Tera</span> ' + tBadge(18) : ''; }
   function mainHtml(m, j) {
     var f = j >= 0 ? m.fv[j] : null, how = f ? formHow(m, f) : '';
-    return '<div class="pdx-head">' + img(stem(m, f), 96, f ? formName(m, f) : m.n, 'pdx-img--big') + '<div>' + (f ? '<p><b>' + esc(formName(m, f)) + '</b>' + (f.b ? ' <span class="pdx-tag">' + S.battle + '</span>' : '') + '</p><p>' + (f.t || m.t).map(tBadge).join('') + '</p>' : '') +
+    return '<div class="pdx-head">' + img(stem(m, f), 96, f ? formName(m, f) : m.n, 'pdx-img--big') + '<div>' + (f ? '<p><b>' + esc(formName(m, f)) + '</b>' + (f.b ? ' <span class="pdx-tag">' + S.battle + '</span>' : '') + '</p><p>' + (f.t || m.t).map(tBadge).join('') + teraTag(f) + '</p>' : '') +
       '<p>' + (m.g ? '<span class="pdx-tag">' + S.gen + ' ' + esc(m.g) + '</span> ' : '') + (stem(m) != null ? '<button type="button" class="pdx-shiny" data-shiny="1" aria-pressed="false">✨ Shiny</button>' : '') + '</p></div></div>' +
       (how ? '<h3>' + S.how + '</h3>' + (how.indexOf('<') === 0 ? how : '<p>' + how + '</p>') : '') +
       statsHtml((f && f.s) || m.s) + '<h3>' + S.abil + '</h3><p>' + abilHtml((f && f.a) || m.a) + '</p>';
