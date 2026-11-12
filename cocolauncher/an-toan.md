@@ -1,57 +1,57 @@
 ---
 title: CocoLauncher có an toàn không
 seo_title: "CocoLauncher có an toàn không? Cách tự kiểm tra file tải"
-description: "CocoLauncher (Coco Launcher) có an toàn không: tải ở đâu cho đúng, vì sao SmartScreen cảnh báo file .exe, cách đối chiếu mã SHA-256 trên Windows, macOS và Android."
+description: "CocoLauncher (Coco Launcher) có an toàn không: tải ở đâu cho đúng, vì sao SmartScreen cảnh báo file .exe, cách đối chiếu mã SHA-256 trên Windows và macOS."
 parent: CocoLauncher
 nav_order: 5
 permalink: /cocolauncher/an-toan/
-last_modified_at: 2026-11-06T11:30:01+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # CocoLauncher có an toàn không?
 
-Không phần mềm nào được bảo đảm tuyệt đối, nên trang này chỉ cách bạn tự kiểm chứng thay vì hứa hẹn.
+Không phần mềm nào dám nói an toàn tuyệt đối, nên trang này chỉ bạn cách tự kiểm tra thay vì hứa suông.
 
-## Tải đúng nguồn
+## Tải đúng chỗ
 
 CocoLauncher chỉ phát hành ở hai nơi:
 
-1. **Microsoft Store**, nhà phát hành Coconubs: [apps.microsoft.com/detail/9NPG31VS7T2H](https://apps.microsoft.com/detail/9NPG31VS7T2H?cid=docs). Bản Store đi qua bước kiểm tra của Microsoft trước khi phát hành. Đây là cách khuyên dùng trên Windows.
-2. **GitHub Releases** của tài khoản Coconubs: [github.com/Coconubs/cocolauncher-pack/releases](https://github.com/Coconubs/cocolauncher-pack/releases). Các file .exe, .dmg, .apk đều nằm ở đây.
+1. **Microsoft Store**, nhà phát hành Coconubs: [apps.microsoft.com/detail/9NPG31VS7T2H](https://apps.microsoft.com/detail/9NPG31VS7T2H?cid=docs). Bản Store được Microsoft kiểm tra trước khi lên kệ. Trên Windows nên cài bản này.
+2. **GitHub Releases** của Coconubs: [github.com/Coconubs/cocolauncher-pack/releases](https://github.com/Coconubs/cocolauncher-pack/releases). Các file .exe, .dmg, .apk đều ở đây.
 
-Bản đăng lại ở trang tải phần mềm khác, nhóm chat hay link rút gọn có thể đã bị sửa. Đừng dùng.
+File đăng lại ở trang tải phần mềm khác, trong nhóm chat hay qua link rút gọn có thể đã bị sửa. Đừng dùng.
 
 ## Vì sao Windows cảnh báo file .exe
 
-File `CocoLauncher-Setup.exe` chưa có chữ ký số, nên SmartScreen có thể hiện "Windows protected your PC". Cảnh báo này nói Windows chưa biết nhà phát hành, không có nghĩa file có mã độc. Bản Microsoft Store không gặp cảnh báo này.
+File `CocoLauncher-Setup.exe` chưa có chữ ký số, nên SmartScreen có thể hiện "Windows protected your PC". Cảnh báo này chỉ có nghĩa Windows chưa biết nhà phát hành, không phải file có virus. Cài bản Microsoft Store thì không gặp cảnh báo này.
 
 ## Đối chiếu mã SHA-256
 {: #sha256 }
 
-Mỗi file trên [GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases/tag/launcher) có mã `sha256` hiện cạnh tên file. Tính mã của file bạn tải rồi so:
+Trên [GitHub Releases](https://github.com/Coconubs/cocolauncher-pack/releases/tag/launcher), cạnh mỗi file có mã `sha256`. Bạn tính mã của file mình đã tải rồi so với mã đó:
 
-**Windows** (mở PowerShell tại thư mục tải):
+**Windows** (mở PowerShell ở thư mục chứa file):
 
 ```powershell
 Get-FileHash CocoLauncher-Setup.exe
 ```
 
-**macOS** (mở Terminal tại thư mục tải):
+**macOS** (mở Terminal ở thư mục chứa file):
 
 ```bash
 shasum -a 256 CocoLauncher-Mac-AppleSilicon.dmg
 ```
 
-Hai mã phải trùng từng ký tự. Không khớp thì đừng mở file: tải lại từ link chính thức và báo trên [Discord](https://discord.gg/hyspace).
+Hai mã phải giống nhau từng ký tự. Không khớp thì đừng mở file: tải lại từ link chính thức và báo trên [Discord](https://discord.gg/hyspace).
 
 ## Quét thêm
 
-Có thể quét file bằng Microsoft Defender (chuột phải vào file, chọn quét) hoặc tải lên VirusTotal để xem kết quả của nhiều phần mềm diệt virus.
+Bạn có thể quét file bằng Microsoft Defender (chuột phải vào file, chọn quét), hoặc tải lên VirusTotal để xem nhiều phần mềm diệt virus cùng kiểm.
 
 ## Launcher lưu gì trên máy
 
-Launcher lưu Minecraft, Java, gói mod và thiết lập của bạn trong thư mục game. Tên chơi và mức RAM lưu ở máy của bạn để lần sau không phải nhập lại.
+Launcher lưu game, gói mod và thiết lập của bạn trong thư mục game. Tên chơi và mức RAM cũng được lưu trên máy để lần sau không phải nhập lại.
 
 **Xem thêm:** [Tải CocoLauncher](/cocolauncher/) · [Cài trên Windows](/cocolauncher/windows/) · [CocoLauncher cho macOS](/cocolauncher/macos/) · [Sửa lỗi CocoLauncher](/cocolauncher/sua-loi/) · [Hỏi đáp](/hoi-dap/)
 
-*Cập nhật: 06/11/2026.*
+*Cập nhật: 12/11/2026.*

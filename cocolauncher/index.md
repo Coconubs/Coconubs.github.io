@@ -1,7 +1,7 @@
 ---
 title: CocoLauncher
 seo_title: "CocoLauncher (Coco Launcher): launcher Minecraft Cobblemon cho PC, Android, iPhone"
-description: "Tải CocoLauncher (Coco Launcher), launcher Minecraft của server Coco Cobblemon, cho Windows, macOS, Android và iPhone (thử nghiệm). Tự cài Java, Minecraft, Fabric và gói mod."
+description: "Tải CocoLauncher (Coco Launcher), launcher của server Coco Cobblemon, cho Windows, macOS, Android và iPhone (thử nghiệm). Nhập tên, bấm Chơi là vào, launcher tự lo phần còn lại."
 nav_order: 2
 has_children: true
 has_toc: false
@@ -13,7 +13,7 @@ jsonld: |
     "name": "CocoLauncher",
     "alternateName": "Coco Launcher",
     "url": "https://coconubs.github.io/cocolauncher/",
-    "description": "Launcher Minecraft Java của server Coco Cobblemon (coco.ultramc.co), tự cài Java, Minecraft 1.21.1, Fabric và gói mod để vào server chỉ bằng một nút. Không phải app giao diện điện thoại cũng tên Coco Launcher.",
+    "description": "Launcher của server Coco Cobblemon (coco.ultramc.co). Nhập tên, bấm Chơi là vào server; launcher tự cài và tự cập nhật mọi thứ cần thiết. Không phải app giao diện điện thoại cũng tên Coco Launcher.",
     "applicationCategory": "GameApplication",
     "applicationSubCategory": "Minecraft Java launcher",
     "operatingSystem": "Windows 10, Windows 11, macOS, Android, iOS",
@@ -35,12 +35,12 @@ jsonld: |
       "https://github.com/Coconubs/cocolauncher-pack"
     ]
   }
-last_modified_at: 2026-11-11T10:30:00+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # CocoLauncher (Coco Launcher)
 
-CocoLauncher (hay Coco Launcher) là launcher của server Coco Cobblemon (`coco.ultramc.co`), do Coconubs làm. Nhập tên, bấm **Chơi** là vào game. Launcher tự cài và tự cập nhật hết, bạn không phải đụng tới mod.
+CocoLauncher (hay Coco Launcher) là launcher của server Coco Cobblemon (`coco.ultramc.co`), do Coconubs làm. Nhập tên, bấm **Chơi** là vào game. Mọi thứ launcher tự cài, tự cập nhật, bạn không phải đụng tới mod.
 {: .fs-6 .fw-300 }
 
 ## Tải CocoLauncher
@@ -56,16 +56,16 @@ CocoLauncher (hay Coco Launcher) là launcher của server Coco Cobblemon (`coco
 | iPhone, iPad (thử nghiệm) | [Trang CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/) | [Điện thoại](/cobblemon-dien-thoai/#iphone-ipad) |
 | Linux | Chưa có | |
 
-Chỉ tải từ các link trên (Microsoft Store hoặc [GitHub Releases của Coconubs](https://github.com/Coconubs/cocolauncher-pack/releases)). Bản đăng lại ở trang khác có thể đã bị sửa. Cách đối chiếu file ở trang [CocoLauncher có an toàn không](/cocolauncher/an-toan/).
+Chỉ tải từ các link trên (Microsoft Store hoặc [GitHub Releases của Coconubs](https://github.com/Coconubs/cocolauncher-pack/releases)). File đăng lại ở trang khác có thể đã bị sửa. Muốn tự kiểm file thì xem [CocoLauncher có an toàn không](/cocolauncher/an-toan/).
 
 {: .note }
-Trên Google Play và các trang tải APK có app giao diện điện thoại cũng tên "Coco Launcher". Đó là ứng dụng khác, không liên quan tới Minecraft hay server Coco Cobblemon.
+Trên Google Play và các trang tải APK có một app giao diện điện thoại cũng tên "Coco Launcher". App đó không liên quan gì tới Minecraft hay server Coco Cobblemon.
 
-## CocoLauncher làm gì
+## CocoLauncher làm được gì
 
-- **Một nút Chơi:** lần đầu tự cài game và gói mod, lần sau tự cập nhật theo server.
-- **Lưu nhiều tên chơi**, xem số người đang online.
-- **Tiếng Việt và tiếng Anh.**
+- **Một nút Chơi:** lần đầu tự cài hết, những lần sau tự cập nhật theo server.
+- **Lưu nhiều tên chơi**, xem có bao nhiêu người đang online.
+- **Có tiếng Việt và tiếng Anh.**
 
 CocoLauncher chỉ dùng để vào Coco Cobblemon. Muốn chơi một mình hay vào server khác thì xem [Launcher nào để chơi Cobblemon](/launcher-cobblemon/).
 
@@ -83,21 +83,21 @@ CocoLauncher và Coco Cobblemon không phải sản phẩm chính thức và kh�
 
 ### CocoLauncher là gì?
 
-Là launcher để vào server Coco Cobblemon. Nhập tên, bấm **Chơi** là vào. Bản Microsoft Store và bản GitHub là cùng một launcher.
+Launcher riêng để vào server Coco Cobblemon. Bản Microsoft Store và bản tải ở GitHub là cùng một launcher.
 
 ### CocoLauncher có an toàn không?
 
-Trên Windows, cài từ Microsoft Store là chắc nhất. File .exe chưa ký số nên SmartScreen có thể cảnh báo. Cách tự kiểm file ở trang [CocoLauncher có an toàn không](/cocolauncher/an-toan/).
+Trên Windows, cài từ Microsoft Store là yên tâm nhất. File .exe chưa ký số nên SmartScreen có thể cảnh báo. Cách tự kiểm file ở trang [CocoLauncher có an toàn không](/cocolauncher/an-toan/).
 
 ### CocoLauncher có phải app "Coco Launcher" trên Google Play không?
 
-Không. App giao diện điện thoại tên "Coco Launcher" trên Google Play là ứng dụng khác. CocoLauncher Android chỉ tải ở [GitHub Releases của Coconubs](https://github.com/Coconubs/cocolauncher-pack/releases).
+Không, đó là app khác. CocoLauncher Android chỉ tải ở [GitHub Releases của Coconubs](https://github.com/Coconubs/cocolauncher-pack/releases).
 
 ### CocoLauncher có miễn phí không?
 
-Có. Rank và Battle Pass Premium trong game là tuỳ chọn.
+Có. Trong game có Rank và Battle Pass Premium nhưng không bắt buộc mua.
 
-### Dùng CocoLauncher chơi Cobblemon một mình hoặc vào server khác được không?
+### Dùng CocoLauncher chơi một mình hoặc vào server khác được không?
 
 Không, chỉ vào được Coco Cobblemon. Chơi một mình thì dùng Modrinth App với Cobblemon Official Modpack, xem [Launcher nào để chơi Cobblemon](/launcher-cobblemon/).
 
@@ -110,4 +110,4 @@ Không, chỉ vào được Coco Cobblemon. Chơi một mình thì dùng Modrint
 - [Sửa lỗi CocoLauncher](/cocolauncher/sua-loi/)
 - [CocoLauncher có an toàn không? Cách kiểm tra file tải](/cocolauncher/an-toan/)
 
-*Cập nhật: 11/11/2026.*
+*Cập nhật: 12/11/2026.*
