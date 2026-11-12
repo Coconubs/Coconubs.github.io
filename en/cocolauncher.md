@@ -93,7 +93,7 @@ If they don't match, don't open the file. Download it again and let us know on [
 
 - Computer: Windows 10 or 11 (64-bit) or a Mac, ideally with 8 GB of RAM or more.
 - Android: 6 GB of RAM or more (8 GB recommended).
-- iPhone, iPad: iOS 14 or later, 8 GB of RAM recommended, and a computer once for setup; see [iPhone and iPad](/en/cobblemon-android/#iphone-and-ipad).
+- iPhone, iPad: iOS 14 or later, at least 8 GB of RAM, and a computer once for setup; see [iPhone and iPad](/en/cobblemon-android/#iphone-and-ipad).
 
 ## Quick answers
 

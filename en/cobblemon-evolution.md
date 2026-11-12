@@ -83,7 +83,7 @@ Each stone has its own ore, like Thunder Stone Ore. Mine the ore and you get the
 | Weather | Sliggoo at level 50+, levelling up in the rain, to Goodra |
 | Distance | Pawmo, Bramblin and Rellor after walking 1,000 blocks to Pawmot, Brambleghast and Rabsca |
 | Using a move a lot | Primeape after using Rage Fist 20 times to Annihilape |
-| Defeating Pokémon | Bisharp that beats 3 opposing Bisharp holding a King's Rock to Kingambit (on Coco Cobblemon, wild Pokémon don't hold items) |
+| Defeating Pokémon | Bisharp that beats 3 Bisharp to Kingambit (ordinary Bisharp, no held item needed) |
 | Full moon | Ursaring with a Peat Block at night during a full moon to Ursaluna |
 
 Friendship goes up to 255 in Cobblemon; the species above need 160 or more.
@@ -155,6 +155,6 @@ Not on its own. Coco Cobblemon adds it with the Mega Showdown mod: wear a Mega B
 
 **See also:** [How to catch Pokémon](/en/cobblemon-catching/) · [Learning moves](/en/cobblemon-moves/) · [What is Cobblemon](/en/what-is-cobblemon/) · [Cobblemon riding](/en/cobblemon-riding/) · [Cobblemon recipes](/en/cobblemon-recipes/) · [Cobblemon controls](/en/cobblemon-controls/) · [Cobblemon commands](/en/cobblemon-commands/) · [Vietnam Cobblemon server](/en/vietnam-cobblemon-server/)
 
-*Counts taken from `Cobblemon-fabric-1.7.3+1.21.1.jar` on 11 November 2026. The Mega section follows Mega Showdown 1.9.9 and the in-game Guide of 8 November 2026. Other Cobblemon versions, or servers with extra data packs, can differ.*
+*Counts taken from `Cobblemon-fabric-1.7.3+1.21.1.jar` on 11 November 2026. The Mega section follows Mega Showdown and the in-game Guide of 8 November 2026. Other Cobblemon versions, or servers with extra data packs, can differ.*
 
 *Updated: 12 November 2026.*

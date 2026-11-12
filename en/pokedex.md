@@ -11,7 +11,7 @@ jsonld: |
     "@context": "https://schema.org",
     "@type": "Dataset",
     "name": "Coco Cobblemon Pokédex",
-    "description": "Pokémon data on the Coco Cobblemon server: types, base stats, abilities, evolutions, spawns and drops, plus abilities, items, natures and the type chart. Read from Cobblemon 1.7.3, Mega Showdown 1.8.4, COBBLEVERSE and the server's datapacks.",
+    "description": "Pokémon data on the Coco Cobblemon server: types, base stats, abilities, evolutions, spawns and drops, plus abilities, items, natures and the type chart. Read from Cobblemon 1.7.3, Mega Showdown, COBBLEVERSE and the server's datapacks.",
     "url": "https://coconubs.github.io/en/pokedex/",
     "inLanguage": "en",
     "isAccessibleForFree": true,

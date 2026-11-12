@@ -104,7 +104,7 @@ jsonld: |
         "name": "Is there a Cobblemon iOS version for iPhone?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "There's no Cobblemon app on the App Store, and it doesn't run in Minecraft PE. You can join Coco Cobblemon with CocoLauncher iOS, an experimental build that runs Minecraft Java Edition. It needs iOS 14 or later (8 GB of RAM recommended), and the first install takes a computer and about 30 minutes. See Cobblemon on iPhone and iPad."
+          "text": "There's no Cobblemon app on the App Store, and it doesn't run in Minecraft PE. You can join Coco Cobblemon with CocoLauncher iOS, an experimental build that runs Minecraft Java Edition. It needs iOS 14 or later and at least 8 GB of RAM, and the first install takes a computer and about 30 minutes. See Cobblemon on iPhone and iPad."
         }
       },
       {
@@ -227,7 +227,7 @@ Yes, with experimental builds. CocoLauncher Android runs Java Edition and needs 
 
 ### Is there a Cobblemon iOS version for iPhone?
 
-There's no Cobblemon app on the App Store, and it doesn't run in Minecraft PE. You can join Coco Cobblemon with CocoLauncher iOS, an experimental build that runs Minecraft Java Edition. It needs iOS 14 or later (8 GB of RAM recommended), and the first install takes a computer and about 30 minutes. See [Cobblemon on iPhone and iPad](/en/cobblemon-ios/).
+There's no Cobblemon app on the App Store, and it doesn't run in Minecraft PE. You can join Coco Cobblemon with CocoLauncher iOS, an experimental build that runs Minecraft Java Edition. It needs iOS 14 or later and at least 8 GB of RAM, and the first install takes a computer and about 30 minutes. See [Cobblemon on iPhone and iPad](/en/cobblemon-ios/).
 
 ### Can I play on Bedrock or Pocket Edition?
 

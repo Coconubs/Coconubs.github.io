@@ -38,7 +38,7 @@ Emulators need their own build: [CocoLauncher-Android-GiaLap.apk](https://github
 
 There's an experimental **CocoLauncher iOS** build. Download it and follow the install guide on the [CocoLauncher iOS page](https://coconubs.github.io/CocoLauncher-iOS/) (in Vietnamese). iPhones can't install apps from outside the App Store directly, so setup takes longer than on Android:
 
-- iPhone or iPad on iOS 14 or later. 8 GB of RAM is recommended (iPhone 15 Pro, 16, 17); 6 GB devices run on the Low preset.
+- iPhone or iPad on iOS 14 or later, with at least 8 GB of RAM (iPhone 15 Pro, 16, 17).
 - A Windows PC or Mac with a cable, used once for about 30 minutes of setup.
 - An Apple ID (a secondary one is recommended). You'll need to refresh the app in SideStore every 7 days, or it won't open until you do.
 

@@ -19,7 +19,7 @@ Những việc dưới đây làm mới lúc 0h00 mỗi ngày (giờ Việt Nam)
 - Mỗi kỳ Battle Pass dài 60 ngày, có 100 cấp (1.000 XP mỗi cấp).
 - Có 10 nhiệm vụ ngày (làm mới 0h00) và 10 nhiệm vụ tuần (làm mới thứ Hai). Làm xong mỗi nhiệm vụ còn được thêm Tokens: ngày +25, tuần +150.
 - Nhiệm vụ đủ kiểu: chặt gỗ, đào khoáng, thu hoạch, câu cá, bắt hoặc hạ Pokémon, đánh Trainer, tiến hoá, nở trứng, BattleTower, Raid...
-- **Pass thường** (ai cũng có): cứ 5 cấp có quà, gồm tiền, Tokens, Trứng, Chìa Raid, Tinh Thể, Crate Shiny.
+- **Pass thường** (ai cũng có): cứ 5 cấp có quà, gồm tiền, Tokens, Trứng, Chìa Raid, Tinh Thể, chìa khoá Crate Shiny.
 - **Pass Premium** không bắt buộc, cấp nào cũng có thêm quà.
 
 ## Nghề nghiệp

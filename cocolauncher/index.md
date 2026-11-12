@@ -77,7 +77,7 @@ CocoLauncher và Coco Cobblemon không phải sản phẩm chính thức và kh�
 |---|---|
 | Máy tính | Windows 10, 11 (64-bit) hoặc máy Mac. Nên có từ 8 GB RAM |
 | Android | RAM từ 6 GB (khuyên 8 GB), trống khoảng 2 GB |
-| iPhone, iPad | iOS 14 trở lên, khuyên máy 8 GB RAM. Lần đầu cần máy tính để cài, xem [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/) |
+| iPhone, iPad | iOS 14 trở lên, tối thiểu 8 GB RAM. Lần đầu cần máy tính để cài, xem [CocoLauncher iOS](https://coconubs.github.io/CocoLauncher-iOS/) |
 
 ## Hỏi nhanh
 

@@ -46,7 +46,7 @@ Mỗi bang treo **Cờ Chiến** rồi khiêu chiến bang khác để cướp c
 
 **Thưởng mỗi giờ tròn (10h tới 22h):** bang nào đang treo cờ thì mỗi thành viên online nhận 1.000$ và 10 Tokens, 6 Pokémon trong party được +200 EXP. Cứ mỗi cờ cướp được, thưởng tăng thêm 50%.
 
-**Tổng kết 22h:** nếu nhiều bang bằng cờ nhau thì đấu loại trực tiếp cho tới khi còn 1 bang. Thành viên bang Bá chủ (vào bang đủ 24 giờ) nhận Key Crate Shiny, Key Crate Tỷ Phú, 1.000 Tokens và 5 Trứng. Bot báo kết quả lên Discord.
+**Tổng kết 22h:** nếu nhiều bang bằng cờ nhau thì đấu loại trực tiếp cho tới khi còn 1 bang. Thành viên bang Bá chủ (vào bang đủ 24 giờ) nhận chìa khoá Crate Shiny, chìa khoá Crate Tỷ Phú, 1.000 Tokens và 5 Trứng. Bot báo kết quả lên Discord.
 
 **Bị cấm trong trận:** Shedinja; các chiêu Fissure, Guillotine, Horn Drill, Sheer Cold, Destiny Bond; các ability Wonder Guard, Battle Armor, Battle Bond; Dynamax và Z-Move (Mega vẫn dùng được).
 

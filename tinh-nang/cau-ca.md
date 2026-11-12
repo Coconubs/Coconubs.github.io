@@ -41,7 +41,7 @@ Câu tay quá lâu một chỗ thì vùng nước bị ô nhiễm, chỉ còn ra
 
 ## Khung giờ vàng
 
-Mỗi tối **19:00-22:00** trên màn hình có thanh đếm ngược. Ai câu được con cá giá cao nhất trong khung giờ này thì thắng. Tổng kết lúc 22:01, người thắng nhận 100.000$, 3 Trứng Quý, 1 Chìa khoá Crate Shiny, 2.000 Tokens, 1 Tinh Thể Shiny và 1 Bùa Huyền Thoại.
+Mỗi tối **19:00-22:00** trên màn hình có thanh đếm ngược. Ai câu được con cá giá cao nhất trong khung giờ này thì thắng. Tổng kết lúc 22:01, người thắng nhận 100.000$, 3 Trứng Quý, 1 chìa khoá Crate Shiny, 2.000 Tokens, 1 Tinh Thể Shiny và 1 Bùa Huyền Thoại.
 
 ## Danh hiệu câu cá
 

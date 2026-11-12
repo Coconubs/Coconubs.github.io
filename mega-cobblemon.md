@@ -40,7 +40,7 @@ last_modified_at: 2026-11-12T10:00:00+07:00
 
 # Cách tiến hoá Mega trong Cobblemon
 
-Cobblemon 1.7.3 gốc chưa có Mega: file mod có dữ liệu dạng Mega nhưng thiếu Mega Bracelet và đá Mega. Coco Cobblemon có Mega nhờ mod **Mega Showdown** (bản 1.9.9). Bạn đeo **Mega Bracelet**, cho Pokémon cầm đúng **đá Mega** của nó, vào trận rồi bấm nút **Mega** lúc chọn chiêu. Mỗi lúc bạn chỉ có 1 con ở dạng Mega.
+Cobblemon 1.7.3 gốc chưa có Mega: file mod có dữ liệu dạng Mega nhưng thiếu Mega Bracelet và đá Mega. Coco Cobblemon có Mega nhờ mod **Mega Showdown**. Bạn đeo **Mega Bracelet**, cho Pokémon cầm đúng **đá Mega** của nó, vào trận rồi bấm nút **Mega** lúc chọn chiêu. Mỗi lúc bạn chỉ có 1 con ở dạng Mega.
 {: .fs-5 .fw-300 }
 
 ## Các bước
@@ -74,7 +74,7 @@ Rayquaza không dùng đá Mega. Nó phải **biết chiêu Dragon Ascent** mớ
 
 ## Loài nào Mega được
 
-Cobblemon 1.7.3 gốc chỉ có dữ liệu 48 dạng Mega của 46 loài, và không dùng được. Mega Showdown 1.9.9 trên Coco Cobblemon có 81 viên đá Mega cho **78 loài** (Charizard, Mewtwo và Raichu mỗi loài có 2 dạng X và Y), cộng thêm Rayquaza dùng Dragon Ascent:
+Cobblemon 1.7.3 gốc chỉ có dữ liệu 48 dạng Mega của 46 loài, và không dùng được. Mega Showdown trên Coco Cobblemon có 81 viên đá Mega cho **78 loài** (Charizard, Mewtwo và Raichu mỗi loài có 2 dạng X và Y), cộng thêm Rayquaza dùng Dragon Ascent:
 
 Abomasnow, Absol, Aerodactyl, Aggron, Alakazam, Altaria, Ampharos, Audino, Banette, Barbaracle, Beedrill, Blastoise, Blaziken, Camerupt, Chandelure, Charizard (X, Y), Chesnaught, Chimecho, Clefable, Crabominable, Delphox, Diancie, Dragalge, Dragonite, Drampa, Eelektross, Emboar, Excadrill, Falinks, Feraligatr, Floette, Froslass, Gallade, Garchomp, Gardevoir, Gengar, Glalie, Glimmora, Golurk, Greninja, Gyarados, Hawlucha, Heracross, Houndoom, Kangaskhan, Latias, Latios, Lopunny, Lucario, Malamar, Manectric, Mawile, Medicham, Meganium, Meowstic, Metagross, Mewtwo (X, Y), Pidgeot, Pinsir, Pyroar, Raichu (X, Y), Sableye, Salamence, Sceptile, Scizor, Scolipede, Scovillain, Scrafty, Sharpedo, Skarmory, Slowbro, Staraptor, Starmie, Steelix, Swampert, Tyranitar, Venusaur, Victreebel.
 
@@ -84,7 +84,7 @@ Tên đá thường là tên loài thêm đuôi "-ite", ví dụ Gengarite, Luca
 
 ### Mega Greninja làm thế nào?
 
-Cho Greninja cầm Greninjite, đeo Mega Bracelet rồi bấm nút Mega trong trận. Greninjite có trong Mega Showdown 1.9.9, bản server đang dùng.
+Cho Greninja cầm Greninjite, đeo Mega Bracelet rồi bấm nút Mega trong trận. Greninjite có trong Mega Showdown, mod server đang dùng.
 
 ### Đá Mega mua ở đâu?
 
@@ -96,6 +96,6 @@ Một con. Nếu một con khác của bạn, kể cả con đang nằm trong PC
 
 **Xem thêm:** [Cách tiến hoá Pokémon](/tien-hoa-cobblemon/) · [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/) · [Đấu Xếp Hạng](/tinh-nang/dau-xep-hang/) · [BattleTower](/tinh-nang/battletower/) · [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/)
 
-*Số liệu đọc từ file mod Mega Showdown 1.9.9 và Cobblemon 1.7.3 ngày 11/11/2026. Phần Coco Cobblemon theo Hướng dẫn trong game ngày 08/11/2026.*
+*Số liệu đọc từ file mod Mega Showdown và Cobblemon 1.7.3 ngày 11/11/2026. Phần Coco Cobblemon theo Hướng dẫn trong game ngày 08/11/2026.*
 
 *Cập nhật: 12/11/2026.*

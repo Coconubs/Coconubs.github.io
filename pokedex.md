@@ -10,7 +10,7 @@ jsonld: |
     "@context": "https://schema.org",
     "@type": "Dataset",
     "name": "Pokédex Coco Cobblemon",
-    "description": "Dữ liệu Pokémon trên server Coco Cobblemon: hệ, chỉ số gốc, Ability, tiến hoá, nơi xuất hiện, item rơi, cùng danh sách Ability, item, tính cách và bảng khắc hệ. Đọc từ Cobblemon 1.7.3, Mega Showdown 1.8.4, COBBLEVERSE và datapack của server.",
+    "description": "Dữ liệu Pokémon trên server Coco Cobblemon: hệ, chỉ số gốc, Ability, tiến hoá, nơi xuất hiện, item rơi, cùng danh sách Ability, item, tính cách và bảng khắc hệ. Đọc từ Cobblemon 1.7.3, Mega Showdown, COBBLEVERSE và datapack của server.",
     "url": "https://coconubs.github.io/pokedex/",
     "inLanguage": "vi",
     "isAccessibleForFree": true,

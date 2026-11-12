@@ -42,7 +42,7 @@ last_modified_at: 2026-11-12T10:00:00+07:00
 
 # How to Mega Evolve in Cobblemon
 
-Plain Cobblemon 1.7.3 can't Mega Evolve. The mod has Mega form data but no Mega Bracelet and no Mega Stones. On Coco Cobblemon, Mega comes from the **Mega Showdown** mod (1.9.9): wear a **Mega Bracelet**, give the Pokémon its **Mega Stone**, then press the **Mega** button when you pick a move in battle. You can only have 1 Pokémon in Mega form at a time.
+Plain Cobblemon 1.7.3 can't Mega Evolve. The mod has Mega form data but no Mega Bracelet and no Mega Stones. On Coco Cobblemon, Mega comes from the **Mega Showdown** mod: wear a **Mega Bracelet**, give the Pokémon its **Mega Stone**, then press the **Mega** button when you pick a move in battle. You can only have 1 Pokémon in Mega form at a time.
 {: .fs-5 .fw-300 }
 
 ## Steps to Mega Evolve
@@ -72,11 +72,11 @@ Ranked doubles (Regulation H) allow Mega and Tera. Ranked singles has its own ru
 
 ## How to Mega Evolve Rayquaza in Cobblemon
 
-On Coco Cobblemon (Mega Showdown 1.9.9), Rayquaza doesn't use a Mega Stone. It has to **know Dragon Ascent**; without it you get "Rayquaza doesn't have dragonascent". Everything else is the same: wear a Mega Bracelet, start a battle, press the Mega button.
+On Coco Cobblemon, Rayquaza doesn't use a Mega Stone. It has to **know Dragon Ascent**; without it you get "Rayquaza doesn't have dragonascent". Everything else is the same: wear a Mega Bracelet, start a battle, press the Mega button.
 
 ## Which Pokémon can Mega Evolve
 
-Plain Cobblemon 1.7.3 only has data for 48 Mega forms across 46 species, and no way to use them. Mega Showdown 1.9.9, which Coco Cobblemon runs, has 81 Mega Stones for **78 species** (Charizard, Mewtwo and Raichu each have an X and a Y), plus Rayquaza through Dragon Ascent:
+Plain Cobblemon 1.7.3 only has data for 48 Mega forms across 46 species, and no way to use them. Mega Showdown, which Coco Cobblemon runs, has 81 Mega Stones for **78 species** (Charizard, Mewtwo and Raichu each have an X and a Y), plus Rayquaza through Dragon Ascent:
 
 Abomasnow, Absol, Aerodactyl, Aggron, Alakazam, Altaria, Ampharos, Audino, Banette, Barbaracle, Beedrill, Blastoise, Blaziken, Camerupt, Chandelure, Charizard (X, Y), Chesnaught, Chimecho, Clefable, Crabominable, Delphox, Diancie, Dragalge, Dragonite, Drampa, Eelektross, Emboar, Excadrill, Falinks, Feraligatr, Floette, Froslass, Gallade, Garchomp, Gardevoir, Gengar, Glalie, Glimmora, Golurk, Greninja, Gyarados, Hawlucha, Heracross, Houndoom, Kangaskhan, Latias, Latios, Lopunny, Lucario, Malamar, Manectric, Mawile, Medicham, Meganium, Meowstic, Metagross, Mewtwo (X, Y), Pidgeot, Pinsir, Pyroar, Raichu (X, Y), Sableye, Salamence, Sceptile, Scizor, Scolipede, Scovillain, Scrafty, Sharpedo, Skarmory, Slowbro, Staraptor, Starmie, Steelix, Swampert, Tyranitar, Venusaur, Victreebel.
 
@@ -96,6 +96,6 @@ Shop Tokens: Menu (`/menu`) > Shop > Shop Tokens. You earn Tokens from the daily
 
 **See also:** [How to evolve Pokémon](/en/cobblemon-evolution/) · [How to catch Pokémon](/en/cobblemon-catching/) · [Features of Coco Cobblemon](/en/features/) · [Vietnam Cobblemon server](/en/vietnam-cobblemon-server/)
 
-*Read from the Mega Showdown 1.9.9 mod file (Mega Stones, recipe, structures) and Cobblemon 1.7.3 on 11 November 2026. The Coco Cobblemon parts follow the in-game Guide of 8 November 2026.*
+*Read from the Mega Showdown mod file (Mega Stones, recipe, structures) and Cobblemon 1.7.3 on 11 November 2026. The Coco Cobblemon parts follow the in-game Guide of 8 November 2026.*
 
 *Updated: 12 November 2026.*

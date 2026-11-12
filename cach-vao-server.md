@@ -44,7 +44,7 @@ Muốn điểm danh mỗi ngày và dùng một số mã quà thì tài khoản 
 
 ## Dùng launcher khác được không?
 
-Không được. Server có bộ mod riêng, vào bằng launcher khác (Modrinth App, CurseForge, Prism...) sẽ thiếu mod và bị chặn ngay lúc vào. Cobblemon Official Modpack bản mới cũng không vào được.
+Không nên. Server có bộ mod riêng, vào bằng launcher khác (Modrinth App, CurseForge, Prism...) dễ thiếu mod và bị chặn lúc vào. Cobblemon Official Modpack bản mới cũng không vào được.
 
 ## Vào server Cobblemon khác thế nào?
 

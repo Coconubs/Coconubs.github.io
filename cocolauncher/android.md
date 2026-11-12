@@ -42,7 +42,7 @@ Có bản thử nghiệm **CocoLauncher iOS**. File tải và cách cài nằm �
 
 | Cần | Chi tiết |
 |---|---|
-| Máy | iPhone, iPad chạy iOS 14 trở lên. Nên dùng máy 8 GB RAM (iPhone 15 Pro, 16, 17); máy 6 GB chơi được ở cấu hình Thấp |
+| Máy | iPhone, iPad chạy iOS 14 trở lên, tối thiểu 8 GB RAM (iPhone 15 Pro, 16, 17) |
 | Máy tính | Windows hoặc Mac, kèm dây cáp. Chỉ cần một lần, khoảng 30 phút |
 | Tài khoản | Một Apple ID, nên dùng Apple ID phụ |
 | Giữ app mở được | Cứ 7 ngày vào SideStore bấm Refresh. Quá hạn thì app không mở được cho tới khi Refresh |

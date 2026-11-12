@@ -28,8 +28,8 @@ CocoLauncher iOS is a modified version of Angel Aura Amethyst, open source under
 
 | Need | Details |
 |---|---|
-| Device | iPhone or iPad on iOS 14 or later. 8 GB of RAM recommended (iPhone 15 Pro, 16, 17); 6 GB devices run on the Low preset |
-| Game memory | The memory unlock is required. 8 GB devices need at least 3.5 GB (3.8-4 GB runs smoothly), 6 GB devices 2.5 GB |
+| Device | iPhone or iPad on iOS 14 or later, with at least 8 GB of RAM (iPhone 15 Pro, 16, 17) |
+| Game memory | The memory unlock is required. 8 GB devices need at least 3.5 GB (3.8-4 GB runs smoothly) |
 | Computer | A Windows PC or Mac with a cable, once, for about 30 minutes (not needed if you already have your own IPA signing certificate) |
 | Account | An Apple ID; a secondary one is recommended. A free Apple ID can sideload 3 apps: SideStore, CocoLauncher and StikDebug |
 | Network | The first start downloads about 1.5 GB, so use Wi-Fi |
@@ -68,7 +68,7 @@ Once, for about 30 minutes, to install SideStore and CocoLauncher (not needed if
 
 ### Which iPhones work?
 
-Anything on iOS 14 or later. 8 GB of RAM is recommended, like the iPhone 15 Pro, 16 or 17; 6 GB devices run on the Low preset.
+iOS 14 or later with at least 8 GB of RAM, like the iPhone 15 Pro, 16 or 17.
 
 **See also:** [Play Cobblemon on Android and iPhone](/en/cobblemon-android/) · [Cobblemon server in Vietnam](/en/vietnam-cobblemon-server/) · [How to join](/en/how-to-join/) · [FAQ](/en/faq/)
 

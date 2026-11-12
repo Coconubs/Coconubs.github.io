@@ -56,7 +56,7 @@ Get the server's IP and mod list (usually from its Discord), install that modpac
 
 ## Can I join with another launcher?
 
-No. The server runs its own set of mods, so with another launcher you'll be missing some and the server will turn you away. If something goes wrong, see [Troubleshooting](/en/troubleshooting/).
+It's not recommended. The server runs its own set of mods, so with another launcher you'll likely be missing some and get turned away. If something goes wrong, see [Troubleshooting](/en/troubleshooting/).
 
 ## Bedrock or Pocket Edition?
 

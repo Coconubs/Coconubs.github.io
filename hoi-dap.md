@@ -126,7 +126,7 @@ jsonld: |
         "name": "Cobblemon có bản cho iPhone không?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Cobblemon không có trên App Store và không chạy trong Minecraft PE. Muốn chơi Coco Cobblemon trên iPhone, iPad thì dùng CocoLauncher iOS (bản thử nghiệm, chạy Minecraft Java Edition), cần iOS 14 trở lên, nên dùng máy 8 GB RAM. Lần cài đầu cần máy tính, mất khoảng 30 phút. Xem Cobblemon trên iPhone, iPad."
+          "text": "Cobblemon không có trên App Store và không chạy trong Minecraft PE. Muốn chơi Coco Cobblemon trên iPhone, iPad thì dùng CocoLauncher iOS (bản thử nghiệm, chạy Minecraft Java Edition), cần iOS 14 trở lên, tối thiểu 8 GB RAM. Lần cài đầu cần máy tính, mất khoảng 30 phút. Xem Cobblemon trên iPhone, iPad."
         }
       },
       {
@@ -293,7 +293,7 @@ Windows 10 hoặc 11 bản 64-bit, hoặc máy Mac chip Apple hay Intel. Launche
 
 ### Cobblemon có bản cho iPhone không?
 
-Cobblemon không có trên App Store và không chạy trong Minecraft PE. Muốn chơi Coco Cobblemon trên iPhone, iPad thì dùng CocoLauncher iOS (bản thử nghiệm, chạy Minecraft Java Edition), cần iOS 14 trở lên, nên dùng máy 8 GB RAM. Lần cài đầu cần máy tính, mất khoảng 30 phút. Xem [Cobblemon trên iPhone, iPad](/cobblemon-ios/).
+Cobblemon không có trên App Store và không chạy trong Minecraft PE. Muốn chơi Coco Cobblemon trên iPhone, iPad thì dùng CocoLauncher iOS (bản thử nghiệm, chạy Minecraft Java Edition), cần iOS 14 trở lên, tối thiểu 8 GB RAM. Lần cài đầu cần máy tính, mất khoảng 30 phút. Xem [Cobblemon trên iPhone, iPad](/cobblemon-ios/).
 
 ### Chơi bằng Minecraft Bedrock hay PE được không?
 

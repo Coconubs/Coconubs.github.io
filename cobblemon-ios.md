@@ -26,8 +26,8 @@ CocoLauncher iOS được sửa từ Angel Aura Amethyst, mã nguồn mở theo 
 
 | Cần | Chi tiết |
 |---|---|
-| Máy | iPhone, iPad chạy iOS 14 trở lên. Nên dùng máy 8 GB RAM (iPhone 15 Pro, 16, 17); máy 6 GB chơi được ở cấu hình Thấp |
-| RAM cho game | Phải mở khoá RAM. Máy 8 GB cấp ít nhất 3,5 GB (mượt nhất 3,8-4 GB), máy 6 GB cấp 2,5 GB |
+| Máy | iPhone, iPad chạy iOS 14 trở lên, tối thiểu 8 GB RAM (iPhone 15 Pro, 16, 17) |
+| RAM cho game | Phải mở khoá RAM. Máy 8 GB cấp ít nhất 3,5 GB (mượt nhất 3,8-4 GB) |
 | Máy tính | Windows hoặc Mac, kèm dây cáp. Chỉ cần một lần, khoảng 30 phút (không cần nếu bạn đã có chứng chỉ ký IPA riêng) |
 | Tài khoản | Một Apple ID, nên dùng Apple ID phụ. Apple ID miễn phí chỉ cài được 3 app tự ký: SideStore, CocoLauncher, StikDebug |
 | Mạng | Lần đầu app tải khoảng 1,5 GB, nên dùng Wi-Fi |
@@ -66,7 +66,7 @@ Lần đầu thì cần, khoảng 30 phút, để cài SideStore và CocoLaunche
 
 ### iPhone nào chơi được?
 
-Máy chạy iOS 14 trở lên. Nên dùng máy 8 GB RAM như iPhone 15 Pro, 16, 17; máy 6 GB chơi được ở cấu hình Thấp.
+Máy chạy iOS 14 trở lên, tối thiểu 8 GB RAM, như iPhone 15 Pro, 16, 17.
 
 ### Cài lỗi hoặc văng game thì hỏi ở đâu?
 

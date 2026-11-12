@@ -81,7 +81,7 @@ Mỗi loại đá có quặng riêng trong thế giới, ví dụ Thunder Stone 
 | Thời tiết | Sliggoo từ cấp 50 lên cấp lúc trời mưa thành Goodra |
 | Quãng đường | Pawmo, Bramblin, Rellor đi đủ 1.000 khối thành Pawmot, Brambleghast, Rabsca |
 | Dùng chiêu nhiều lần | Primeape dùng Rage Fist 20 lần thành Annihilape |
-| Hạ Pokémon | Bisharp hạ 3 Bisharp đối thủ đang cầm King's Rock thì thành Kingambit (trên Coco Cobblemon, Pokémon hoang dã không cầm vật phẩm) |
+| Hạ Pokémon | Bisharp hạ 3 Bisharp thì thành Kingambit (Bisharp thường, không cần cầm gì) |
 | Trăng tròn | Ursaring dùng Peat Block ban đêm lúc trăng tròn thành Ursaluna |
 
 Độ thân thiết tối đa là 255, các loài trên cần từ 160 trở lên.
@@ -153,6 +153,6 @@ Nhìn vào người đó, bấm R, chọn **Trao đổi**. Người kia đồng 
 
 **Xem thêm:** [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/) · [Cách học chiêu](/hoc-chieu-cobblemon/) · [Cobblemon là gì](/cobblemon-la-gi/) · [Cách cưỡi Pokémon](/cuoi-pokemon-cobblemon/) · [Công thức chế tạo Cobblemon](/cong-thuc-cobblemon/) · [Các phím chơi Cobblemon](/phim-tat-cobblemon/) · [Lệnh Cobblemon](/lenh-cobblemon/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/)
 
-*Số liệu đếm từ file `Cobblemon-fabric-1.7.3+1.21.1.jar` ngày 11/11/2026. Phần Mega theo mod Mega Showdown 1.9.9 và Hướng dẫn trong game ngày 08/11/2026. Bản Cobblemon khác hoặc server cài thêm gói dữ liệu có thể khác.*
+*Số liệu đếm từ file `Cobblemon-fabric-1.7.3+1.21.1.jar` ngày 11/11/2026. Phần Mega theo mod Mega Showdown và Hướng dẫn trong game ngày 08/11/2026. Bản Cobblemon khác hoặc server cài thêm gói dữ liệu có thể khác.*
 
 *Cập nhật: 12/11/2026.*
