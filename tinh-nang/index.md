@@ -6,12 +6,12 @@ nav_order: 6
 has_children: true
 has_toc: false
 alt: /en/features/
-last_modified_at: 2026-11-11T10:30:00+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # Tính năng Coco Cobblemon
 
-Những gì có trên server, tóm theo Hướng dẫn trong game. Bấm tên tính năng để xem chi tiết.
+Tóm tắt những gì có trên server, lấy từ Hướng dẫn trong game. Bấm vào tên để xem chi tiết.
 {: .fs-5 .fw-300 }
 
 ## Đấu trận
@@ -20,9 +20,9 @@ Những gì có trên server, tóm theo Hướng dẫn trong game. Bấm tên t�
 |---|---|
 | [Đấu Xếp Hạng](/tinh-nang/dau-xep-hang/) | Đấu Đôi 4v4 tính Elo (thể thức chính), Đấu Đơn 6v6. Ghép ẩn theo Elo, hạng Đồng tới Cao Thủ, top 5 là Thách Đấu |
 | [BattleTower](/tinh-nang/battletower/) | 555 tầng, đấu 6v6 với NPC, cứ 5 tầng có 1 tầng boss dùng Mega, Dynamax, Tera, Z-Move |
-| [Gym, Tứ Thiên Vương, Champion](/tinh-nang/gym-npc/) | Mỗi trận có mốc cấp riêng, Pokémon cao hơn mốc được hạ về đúng mốc trong trận (bản sao, Pokémon thật không đổi). Đội NPC IV tối đa, AI mạnh nhất |
-| [NPC Tiền Thưởng](/tinh-nang/gym-npc/#npc-tien-thuong) | Mỗi ngày 1 NPC cấp 100 xuất hiện ngẫu nhiên từ 7:00 tới 22:00, đội được chọn để khắc đội bạn. Tra bằng `/tienthuong` |
-| [Raid Thế Giới](/tinh-nang/raid/) | Boss chung cả server lúc 9:00 và 19:00, top 5 sát thương được bắt boss |
+| [Gym, Tứ Thiên Vương, Champion](/tinh-nang/gym-npc/) | Mỗi trận có mốc cấp riêng. Pokémon cao cấp hơn mốc sẽ bị hạ về đúng mốc (chỉ là bản sao trong trận, Pokémon thật không đổi). Đội NPC IV tối đa, AI mạnh nhất |
+| [NPC Tiền Thưởng](/tinh-nang/gym-npc/#npc-tien-thuong) | Mỗi ngày 1 NPC cấp 100 hiện ra ngẫu nhiên trong khoảng 7:00 tới 22:00, mang đội chọn sẵn để khắc đội bạn. Xem bằng `/tienthuong` |
+| [Raid Thế Giới](/tinh-nang/raid/) | Cả server cùng đánh boss lúc 9:00 và 19:00, top 5 sát thương được bắt boss |
 
 ## Bắt Pokémon
 
@@ -33,7 +33,7 @@ Những gì có trên server, tóm theo Hướng dẫn trong game. Bấm tên t�
 | Trứng Pokémon | Ba loại: Thường (cấp 5), Quý (cấp 30), Huyền Thoại (cấp 50) |
 | Trang Phục | Skin đổi ngoại hình Pokémon, không đổi chỉ số. Mở bằng `/trangphuc` |
 
-Cách bắt, tiến hoá, cưỡi Pokémon và dùng Mega trên server: [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/) · [Cách tiến hoá](/tien-hoa-cobblemon/) · [Tiến hoá Mega](/mega-cobblemon/) · [Cách cưỡi Pokémon](/cuoi-pokemon-cobblemon/) · [Cách học chiêu](/hoc-chieu-cobblemon/)
+Cách bắt, tiến hoá, cưỡi Pokémon và dùng Mega: [Cách bắt Pokémon](/cach-bat-pokemon-cobblemon/) · [Cách tiến hoá](/tien-hoa-cobblemon/) · [Tiến hoá Mega](/mega-cobblemon/) · [Cách cưỡi Pokémon](/cuoi-pokemon-cobblemon/) · [Cách học chiêu](/hoc-chieu-cobblemon/)
 
 ## Bang hội
 
@@ -41,7 +41,7 @@ Cách bắt, tiến hoá, cưỡi Pokémon và dùng Mega trên server: [Cách b
 |---|---|
 | [Bang Hội Chiến](/tinh-nang/bang-hoi/#bang-hoi-chien) | Thứ 2 tới Thứ 6, 9h-22h. Treo Cờ Chiến, khiêu chiến cướp cờ, Đấu Đôi 4v4. Giữ nhiều cờ nhất lúc 22h là Bá chủ |
 | [Boss Bang](/tinh-nang/bang-hoi/#boss-bang) | Mỗi ngày 1 boss mới cho mọi bang, mỗi người 3 lượt |
-| [Quà Bang](/tinh-nang/bang-hoi/#qua-bang) | Thành viên bắt Shiny, Legendary hay vượt mốc BattleTower thì cả bang nhận quà |
+| [Quà Bang](/tinh-nang/bang-hoi/#qua-bang) | Một thành viên bắt được Shiny, Legendary hay vượt mốc BattleTower thì cả bang có quà |
 | Khoá đất riêng | `/dat khoa`: chỉ bạn và tối đa 30 người tin cậy dùng được đất của bạn |
 
 ## Việc hằng ngày
@@ -50,9 +50,9 @@ Cách bắt, tiến hoá, cưỡi Pokémon và dùng Mega trên server: [Cách b
 |---|---|
 | [Battle Pass](/tinh-nang/hang-ngay/#battle-pass) | 100 cấp, 10 nhiệm vụ ngày và 10 nhiệm vụ tuần, pass thường có quà mỗi 5 cấp cho mọi người |
 | [Nghề nghiệp](/tinh-nang/hang-ngay/#nghe-nghiep) | 8 nghề, mỗi ngày 5 nhiệm vụ mỗi nghề, thưởng 1.000$ tới 10.000$ |
-| [Ải Viễn Chinh](/tinh-nang/hang-ngay/#vien-chinh) | Gửi Pokémon đi ải 1★ tới 5★, 3 lượt mỗi ngày |
+| [Ải Viễn Chinh](/tinh-nang/hang-ngay/#vien-chinh) | Gửi Pokémon đi ải từ 1★ tới 5★, 3 lượt mỗi ngày |
 | [Daily Shop](/tinh-nang/hang-ngay/#daily-shop) | 7 thẻ Pokémon cấp 50 mỗi ngày, tỉ lệ Shiny 1/2048 |
-| [Điểm danh](/tinh-nang/hang-ngay/#diem-danh) | Chuỗi ngày liên tiếp nhận Tokens, Trứng, Tinh Thể Shiny |
+| [Điểm danh](/tinh-nang/hang-ngay/#diem-danh) | Điểm danh liên tiếp nhiều ngày để nhận Tokens, Trứng, Tinh Thể Shiny |
 | [Câu cá](/tinh-nang/cau-ca/) | 100 loài cá, 7 độ hiếm, sách sưu tập, khung giờ vàng 19:00-22:00 |
 | [Tiền tệ, Shop, Chợ GTS](/tinh-nang/kinh-te/) | CobbleDollars, Tokens, BattleTower Points. Held Item, thuốc EV, Mint, kẹo IV mua bằng Tokens; Chợ GTS mua bán giữa người chơi (`/gts`, `/ah`) |
 | [Breeding](/tinh-nang/breeding/) | Lấy trứng bằng Pasture Block, khoảng 4-8 giờ 1 trứng, nhanh hơn trong đất bang |
@@ -62,7 +62,7 @@ Cách bắt, tiến hoá, cưỡi Pokémon và dùng Mega trên server: [Cách b
 
 ## Tiếng Việt
 
-Launcher, Menu và Hướng dẫn của Coco bằng tiếng Việt, kèm nút chọn tiếng Anh. Một số nội dung của Cobblemon và mod khác vẫn có thể hiện tiếng Anh. Xem thêm [Cobblemon Việt hoá](/cobblemon-viet-hoa/).
+Launcher, Menu và Hướng dẫn của server đều bằng tiếng Việt, có nút đổi sang tiếng Anh. Một số chữ của Cobblemon và các mod khác vẫn còn tiếng Anh. Xem thêm [Cobblemon Việt hoá](/cobblemon-viet-hoa/).
 
 ## Ảnh trong game
 
@@ -78,10 +78,10 @@ Launcher, Menu và Hướng dẫn của Coco bằng tiếng Việt, kèm nút ch
 
 ### Server Coco Cobblemon có những hoạt động nào?
 
-Đấu Xếp Hạng tính Elo, BattleTower 555 tầng, Gym, Tứ Thiên Vương, Champion và NPC Tiền Thưởng; Raid Thế Giới; Legendary tích luỹ và nhiều cách có Shiny (Dung hợp, Trứng, Raid, Daily Shop, Battle Pass); bang hội với Bang Hội Chiến, Boss Bang, Quà Bang; việc hằng ngày: Battle Pass, Nghề nghiệp, Ải Viễn Chinh, Daily Shop, điểm danh; câu cá 100 loài, Breeding, đất và nhà, Chợ GTS.
+Chia ra bốn nhóm: đấu trận (Đấu Xếp Hạng, BattleTower 555 tầng, Gym, Tứ Thiên Vương, NPC Tiền Thưởng, Raid Thế Giới), bắt Pokémon (Legendary tích luỹ, Shiny, Trứng), bang hội (Bang Hội Chiến, Boss Bang, Quà Bang) và việc hằng ngày (Battle Pass, Nghề nghiệp, Ải Viễn Chinh, Daily Shop, điểm danh, câu cá). Ngoài ra còn Breeding, đất và nhà, Chợ GTS.
 
 ### Hoạt động nào có giờ cố định?
 
-Theo giờ Việt Nam: Raid Thế Giới lúc 9:00 và 19:00 mỗi ngày; Bang Hội Chiến Thứ 2 tới Thứ 6, 9h-22h; khung giờ vàng câu cá 19:00-22:00 mỗi tối; Giờ Vàng Legendary Thứ 7 và Chủ Nhật, 20:00-22:00. Boss Bang mới, nhiệm vụ ngày Battle Pass, Nghề nghiệp, Ải Viễn Chinh và Daily Shop làm mới lúc 0h00.
+Theo giờ Việt Nam: Raid Thế Giới lúc 9:00 và 19:00 mỗi ngày; Bang Hội Chiến Thứ 2 tới Thứ 6, 9h-22h; khung giờ vàng câu cá 19:00-22:00 mỗi tối; Giờ Vàng Legendary Thứ 7 và Chủ Nhật, 20:00-22:00. Boss Bang, nhiệm vụ ngày Battle Pass, Nghề nghiệp, Ải Viễn Chinh và Daily Shop làm mới lúc 0:00.
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*

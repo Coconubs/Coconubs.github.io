@@ -5,93 +5,93 @@ description: "Bang hội trên server Coco Cobblemon: tạo bang, Bang Hội Chi
 parent: Tính năng
 nav_order: 3
 permalink: /tinh-nang/bang-hoi/
-last_modified_at: 2026-11-11T03:20:06+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # Bang hội
 
-Bang hội dùng Party của Open Parties and Claims. Tạo bang: `/oparties create`. Mời: `/oparties member invite <tên>`. Lệnh bang: `/banghoi` (info, gop, nangcap, top), `/bangchien`, `/bossbang`.
+Bang hội trên server chính là Party của Open Parties and Claims. Tạo bang bằng `/oparties create`, mời người bằng `/oparties member invite <tên>`. Các lệnh của bang: `/banghoi` (info, gop, nangcap, top), `/bangchien`, `/bossbang`.
 {: .fs-5 .fw-300 }
 
-- **Nâng cấp bang** (5 cấp) bằng GP, tiền và Quỹ Tokens. Cấp càng cao mở thêm công thức chế tạo và quyền lợi.
-- **Hào quang Bang:** bang có từ 3 thành viên online thì mọi thành viên online được +10% EXP trận đấu và +10% tỉ lệ bắt.
-- **Chat bang:** `/banghoi chat` bật, tắt chế độ chat bang.
-- **Quản lý bang bằng lệnh** (từ 07/11/2026): `/banghoi leave` rời bang, `disband` giải tán, `transfer <tên>` chuyển chủ bang, `promote`, `demote` phong, bỏ phó bang, `join` vào bang. Tên tiếng Việt: `roi`, `giaitan`, `chuyenchu`, `phongpho`, `bopho`, `vao`. Gõ `/banghoi help` để xem cách dùng.
-- **Phòng voice Discord:** khi có thành viên online, bot tự tạo phòng voice riêng cho bang.
+- **Nâng cấp bang:** có 5 cấp, nâng bằng GP, tiền và Quỹ Tokens. Cấp càng cao càng mở thêm công thức chế tạo và quyền lợi.
+- **Hào quang Bang:** bang có từ 3 người online thì ai đang online cũng được +10% EXP trận đấu và +10% tỉ lệ bắt.
+- **Chat bang:** `/banghoi chat` để bật hoặc tắt chat bang.
+- **Quản lý bang bằng lệnh** (từ 07/11/2026): `/banghoi leave` rời bang, `disband` giải tán, `transfer <tên>` chuyển chủ bang, `promote`/`demote` phong hoặc bỏ phó bang, `join` vào bang. Gõ tiếng Việt cũng được: `roi`, `giaitan`, `chuyenchu`, `phongpho`, `bopho`, `vao`. Quên thì gõ `/banghoi help`.
+- **Phòng voice Discord:** khi bang có người online, bot tự mở một phòng voice riêng cho bang.
 
 ## Bang Hội Chiến
 {: #bang-hoi-chien }
 
-Các bang treo **Cờ Chiến** rồi khiêu chiến nhau để cướp cờ. Tới 22h, bang giữ nhiều cờ nhất là **Bá chủ** hôm nay.
+Mỗi bang treo **Cờ Chiến** rồi khiêu chiến bang khác để cướp cờ. Đến 22h, bang nào giữ nhiều cờ nhất là **Bá chủ** của ngày hôm đó.
 
 | Mục | Luật |
 |---|---|
 | Thời gian | Thứ 2 tới Thứ 6, 9h-22h (giờ Việt Nam), tổng kết lúc 22h, cờ reset mỗi ngày |
 | Bang | Ít nhất 2 thành viên, tính cả Bang chủ |
-| Người ra trận | Đang online, vào bang từ 24 giờ, có từ 4 Pokémon trong party |
-| Thể thức | Hai bên xem 6 Pokémon của nhau, chọn 4 trong 5 phút, Đấu Đôi 4v4, mọi con về Lv 50 (bản sao) |
+| Người ra trận | Đang online, vào bang đủ 24 giờ, có từ 4 Pokémon trong party |
+| Thể thức | Hai bên xem 6 Pokémon của nhau, có 5 phút để chọn 4, đánh Đấu Đôi 4v4, mọi con về Lv 50 (bản sao) |
 
 **Cách chơi**
 
 1. Mở `/bangchien`, kích hoạt Cờ Chiến.
-2. Chọn một bang đang treo cờ, chọn người ra trận, gửi khiêu chiến.
-3. Bên bị khiêu chiến có 5 phút để đồng ý và cử người. Từ chối hoặc hết giờ tính là thua.
+2. Chọn một bang đang treo cờ, chọn người ra trận rồi gửi lời khiêu chiến.
+3. Bang bị khiêu chiến có 5 phút để đồng ý và cử người. Từ chối hoặc để hết giờ là thua.
 
 **Thắng, thua**
 
-- Thắng: cướp toàn bộ cờ của đối thủ và có khiên miễn nhiễm 5 phút.
-- Thua: mất hết cờ, nhưng không bị loại, được treo cờ lại sau 1 giờ.
-- Trận lỗi do máy chủ (kick, timeout, tắt server) bị huỷ, không ai mất cờ.
-- Bang phụ cố tình thua để nuôi cờ sẽ bị loại.
+- Thắng thì cướp hết cờ của bên kia và có khiên miễn nhiễm 5 phút.
+- Thua thì mất hết cờ nhưng không bị loại, 1 giờ sau được treo cờ lại.
+- Trận hỏng vì lỗi máy chủ (kick, timeout, tắt server) bị huỷ, không bên nào mất cờ.
+- Lập bang phụ rồi cố tình thua để nuôi cờ sẽ bị loại.
 
-**Thưởng mỗi giờ tròn (10h tới 22h):** mỗi thành viên online của bang đang treo cờ nhận 1.000$ và 10 Tokens, 6 Pokémon trong party +200 EXP. Mỗi cờ cướp được +50% thưởng.
+**Thưởng mỗi giờ tròn (10h tới 22h):** bang nào đang treo cờ thì mỗi thành viên online nhận 1.000$ và 10 Tokens, 6 Pokémon trong party được +200 EXP. Cứ mỗi cờ cướp được, thưởng tăng thêm 50%.
 
-**Tổng kết 22h:** nhiều bang bằng cờ nhau thì đấu loại trực tiếp tới khi còn 1. Thành viên bang Bá chủ (vào bang từ 24 giờ) nhận Key Crate Shiny, Key Crate Tỷ Phú, 1.000 Tokens và 5 Trứng. Kết quả được bot báo lên Discord.
+**Tổng kết 22h:** nếu nhiều bang bằng cờ nhau thì đấu loại trực tiếp cho tới khi còn 1 bang. Thành viên bang Bá chủ (vào bang đủ 24 giờ) nhận Key Crate Shiny, Key Crate Tỷ Phú, 1.000 Tokens và 5 Trứng. Bot báo kết quả lên Discord.
 
-**Luật cấm trong trận:** Shedinja; chiêu Fissure, Guillotine, Horn Drill, Sheer Cold, Destiny Bond; đặc tính Wonder Guard, Battle Armor, Battle Bond; không Dynamax và Z-Move (Mega vẫn được).
+**Bị cấm trong trận:** Shedinja; các chiêu Fissure, Guillotine, Horn Drill, Sheer Cold, Destiny Bond; các ability Wonder Guard, Battle Armor, Battle Bond; Dynamax và Z-Move (Mega vẫn dùng được).
 
 ## Boss Bang
 {: #boss-bang }
 
-- Mỗi ngày 0:00 có 1 boss mới cho mọi bang, mỗi bang có thanh máu riêng. Mở bằng `/bossbang`.
-- Thứ 2 tới Thứ 6: Pseudo, Paradox, Ultra Beast. Thứ 7, Chủ Nhật: Legendary. Boss Lv 100, có khiên và buff như Raid Thế Giới.
-- Máu boss tính theo số thành viên bang: Pseudo 250, Paradox 300, Ultra Beast 500, Huyền Thoại 750 mỗi thành viên.
-- Mỗi người 3 lượt mỗi ngày, đánh bằng đội hiện tại, vào bang từ 24 giờ mới được đánh.
-- Thưởng theo top sát thương trong bang: Top 1 được 100 Tokens, 25.000$, 1 Tinh Thể Shiny, 1 Trứng Quý và có tỉ lệ nhận Mảnh loài boss. Bang hạ được boss thì cả bang nhận thêm quà.
-- **Kho Mảnh:** đủ 3 (Pseudo), 5 (Paradox, UB) hoặc 10 (Huyền Thoại) mảnh cùng loài thì Bang chủ đổi được 1 con Lv 50.
+- 0:00 mỗi ngày có 1 boss mới, bang nào cũng đánh được và mỗi bang có thanh máu riêng. Mở bằng `/bossbang`.
+- Thứ 2 tới Thứ 6 là Pseudo, Paradox, Ultra Beast. Thứ 7 và Chủ Nhật là Legendary. Boss Lv 100, có khiên và buff giống Raid Thế Giới.
+- Máu boss tăng theo số thành viên của bang: mỗi thành viên thêm 250 (Pseudo), 300 (Paradox), 500 (Ultra Beast) hoặc 750 (Huyền Thoại).
+- Mỗi người có 3 lượt một ngày, đánh bằng đội đang mang. Phải vào bang đủ 24 giờ mới được đánh.
+- Thưởng theo top sát thương trong bang. Top 1 được 100 Tokens, 25.000$, 1 Tinh Thể Shiny, 1 Trứng Quý và có cơ hội nhận Mảnh loài boss. Bang hạ được boss thì cả bang có thêm quà.
+- **Kho Mảnh:** gom đủ 3 (Pseudo), 5 (Paradox, UB) hoặc 10 (Huyền Thoại) mảnh cùng loài thì Bang chủ đổi được 1 con Lv 50.
 
 ## Quà Bang
 {: #qua-bang }
 
-Khi 1 thành viên làm được việc lớn, các thành viên còn lại nhận 1 hộp quà:
+Khi một người trong bang làm được việc lớn, những người còn lại nhận 1 hộp quà:
 
 | Việc | Quà cho các thành viên khác |
 |---|---|
-| Bắt, nở hoặc dung hợp Shiny | 20.000$ + 50 Tokens |
+| Bắt, nở hoặc dung hợp ra Shiny | 20.000$ + 50 Tokens |
 | Bắt Legendary, Mythical, UB, Paradox | 10.000$ + 75 Tokens |
 | Lần đầu vượt mỗi mốc 50 tầng BattleTower | 5.000$ |
 | Bang lên cấp | 25.000$ + 50 Tokens + Chìa Raid + Chìa Tỷ Phú + Trứng Quý |
 | Hạ Boss Bang | 25.000$ + 100 Tokens |
 
-Điều kiện: vào bang từ 24 giờ, tối đa 15 hộp mỗi ngày. Offline thì quà giữ 72 giờ.
+Phải vào bang đủ 24 giờ mới nhận, tối đa 15 hộp một ngày. Đang offline thì quà được giữ 72 giờ.
 
 ## Hỏi nhanh
 
-### Tạo bang hội trên Coco Cobblemon thế nào?
+### Tạo bang hội thế nào?
 
-Gõ `/oparties create` để tạo bang, rồi `/oparties member invite <tên>` để mời thành viên. Bang hội dùng Party của Open Parties and Claims; lệnh của bang là `/banghoi`, `/bangchien` và `/bossbang`.
+Gõ `/oparties create`, rồi mời bạn bè bằng `/oparties member invite <tên>`.
 
 ### Bang Hội Chiến diễn ra lúc nào?
 
-Thứ 2 tới Thứ 6, từ 9h tới 22h (giờ Việt Nam). Các bang treo Cờ Chiến rồi khiêu chiến nhau để cướp cờ; tới 22h, bang giữ nhiều cờ nhất là Bá chủ hôm nay. Bang cần ít nhất 2 thành viên, tính cả Bang chủ.
+Thứ 2 tới Thứ 6, 9h đến 22h giờ Việt Nam. Bang cần ít nhất 2 người.
 
 ### Thua Bang Hội Chiến có bị loại không?
 
-Không. Thua thì mất hết cờ nhưng không bị loại, được treo cờ lại sau 1 giờ. Trận lỗi do máy chủ (kick, timeout, tắt server) bị huỷ, không ai mất cờ.
+Không, chỉ mất cờ. Chờ 1 giờ là treo cờ lại được.
 
-### Boss Bang đánh thế nào?
+### Mỗi ngày đánh Boss Bang được mấy lần?
 
-Mỗi ngày 0:00 có 1 boss mới cho mọi bang, mở bằng `/bossbang`. Mỗi người có 3 lượt mỗi ngày, đánh bằng đội hiện tại, và phải vào bang từ 24 giờ mới được đánh.
+3 lượt mỗi người, boss đổi lúc 0:00. Người mới vào bang phải chờ đủ 24 giờ.
 
 **Xem thêm:** [Claim đất và khoá đất riêng](/tinh-nang/dat-nha/) · [Breeding nhanh hơn trong đất bang](/tinh-nang/breeding/) · [Legendary tích luỹ](/tinh-nang/legendary/) · [Raid Thế Giới](/tinh-nang/raid/)
 

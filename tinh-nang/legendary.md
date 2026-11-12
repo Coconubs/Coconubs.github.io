@@ -5,34 +5,34 @@ description: "Cách Legendary xuất hiện trên server Coco Cobblemon: tỉ l�
 parent: Tính năng
 nav_order: 5
 permalink: /tinh-nang/legendary/
-last_modified_at: 2026-11-11T06:02:04+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # Legendary tích luỹ
 
-Trên Coco Cobblemon, Legendary xuất hiện tự nhiên theo tỉ lệ **tích luỹ**: server càng lâu chưa có Legendary thì tỉ lệ càng tăng. Tỉ lệ hiện tại luôn hiện ở HUD góc dưới bên trái.
+Legendary trên Coco Cobblemon xuất hiện tự nhiên theo tỉ lệ **tích luỹ**: cả server càng lâu chưa thấy Legendary thì tỉ lệ càng cao. Tỉ lệ hiện tại luôn hiện ở HUD góc dưới bên trái.
 {: .fs-5 .fw-300 }
 
 ## Tỉ lệ tăng thế nào
 
-- Mỗi lượt Pokémon spawn tự nhiên có thể hoá thành 1 Legendary hợp với nơi đó (đúng biome, giờ, thời tiết, công trình của loài đó).
-- Khởi đầu **0,001%**. Cứ **20 phút** cả server chưa có Legendary xuất hiện tự nhiên thì cộng **0,001%**, tối đa **1%**.
-- Có 1 Legendary xuất hiện tự nhiên ở bất kỳ đâu thì tỉ lệ cả server về lại 0,001%.
+- Mỗi lần có Pokémon spawn tự nhiên, con đó có thể hoá thành 1 Legendary hợp với chỗ đó (đúng biome, giờ, thời tiết, công trình mà loài đó cần).
+- Bắt đầu từ **0,001%**. Cứ **20 phút** cả server chưa có Legendary nào xuất hiện tự nhiên thì cộng thêm **0,001%**, tối đa **1%**.
+- Có 1 Legendary xuất hiện tự nhiên ở bất kỳ đâu là tỉ lệ cả server quay về 0,001%.
 - Triệu hồi bằng Altar, đền, câu cá hay Poké Snack không làm mất phần đã tích luỹ.
-- Thời gian tính theo giờ thật, kể cả lúc server khởi động lại.
+- Thời gian tính theo giờ thật, server khởi động lại vẫn tính.
 
 ## Giờ Vàng và Bùa Huyền Thoại
 
 | Cách tăng | Hiệu lực |
 |---|---|
 | **Giờ Vàng** | Thứ 7 và Chủ Nhật, 20:00-22:00 (giờ Việt Nam): tỉ lệ đang tích luỹ x2, tối đa 2%. Có thông báo trước 10 phút |
-| **Bùa Huyền Thoại** | Trong 60 phút, tỉ lệ quanh bạn (96 block) x2, tối đa 2%. Nguồn: Shop Tokens, Shop BattleTower, Viễn Chinh 5★, Battle Pass |
+| **Bùa Huyền Thoại** | Trong 60 phút, tỉ lệ quanh bạn (96 block) x2, tối đa 2%. Có ở Shop Tokens, Shop BattleTower, Viễn Chinh 5★, Battle Pass |
 
-Bùa và Giờ Vàng không cộng dồn, tối đa x2. Nên đứng ở đúng biome của Legendary bạn muốn săn.
+Bùa và Giờ Vàng không cộng dồn, tối đa vẫn là x2. Nhớ đứng đúng biome của con Legendary bạn đang săn.
 
 ## Triệu hồi và hồi sinh
 
-Altar, Shrine, Legendary Monuments và máy hồi sinh hoá thạch vẫn dùng được nhưng tốn thêm CobbleDollars. Tiền bị trừ khi bấm xác nhận triệu hồi; sau 2 phút Pokémon không xuất hiện thì tự hoàn tiền, kể cả lúc bạn offline.
+Altar, Shrine, Legendary Monuments và máy hồi sinh hoá thạch vẫn dùng được, nhưng tốn thêm CobbleDollars. Tiền bị trừ lúc bấm xác nhận triệu hồi. Sau 2 phút mà Pokémon không ra thì tiền tự hoàn lại, kể cả khi bạn đã offline.
 
 | Phí | Ví dụ loài |
 |---|---|
@@ -48,30 +48,30 @@ Altar, Shrine, Legendary Monuments và máy hồi sinh hoá thạch vẫn dùng 
 ## Nguồn Legendary khác
 
 - [Raid Thế Giới](/tinh-nang/raid/): top 5 sát thương được bắt boss Legendary.
-- Trứng Huyền Thoại: chỉ ra Legendary (không Mythical, UB, Paradox), cấp 50.
+- Trứng Huyền Thoại: chỉ ra Legendary (không có Mythical, UB, Paradox), cấp 50.
 - [Boss Bang](/tinh-nang/bang-hoi/#boss-bang): đổi Mảnh loài boss lấy 1 con Lv 50.
 
 ## Hỏi nhanh
 
 ### Legendary trên Coco Cobblemon xuất hiện thế nào?
 
-Legendary xuất hiện tự nhiên theo tỉ lệ tích luỹ: khởi đầu 0,001%, cứ 20 phút cả server chưa có Legendary xuất hiện tự nhiên thì cộng 0,001%, tối đa 1%. Có 1 Legendary xuất hiện tự nhiên ở bất kỳ đâu thì tỉ lệ cả server về lại 0,001%. Tỉ lệ hiện tại luôn hiện ở HUD góc dưới bên trái.
+Tự spawn ngoài thế giới với tỉ lệ tăng dần theo thời gian, từ 0,001% lên tối đa 1%. Có 1 con xuất hiện tự nhiên ở bất kỳ đâu là tỉ lệ cả server về lại từ đầu.
 
 ### Giờ Vàng Legendary là lúc nào?
 
-Thứ 7 và Chủ Nhật, 20:00-22:00 (giờ Việt Nam): tỉ lệ đang tích luỹ x2, tối đa 2%, có thông báo trước 10 phút. Bùa Huyền Thoại cũng x2 trong 60 phút quanh bạn, nhưng Bùa và Giờ Vàng không cộng dồn.
+20:00 đến 22:00 tối Thứ 7 và Chủ Nhật, tỉ lệ được nhân đôi.
 
 ### Triệu hồi Legendary bằng Altar được không?
 
-Được, nhưng tốn thêm CobbleDollars, từ 5.000.000$ tới 20.000.000$ tuỳ loài. Tiền bị trừ khi bấm xác nhận triệu hồi; sau 2 phút Pokémon không xuất hiện thì tự hoàn tiền. Pokémon triệu hồi ra không bao giờ là Shiny, và triệu hồi không làm mất phần tỉ lệ đã tích luỹ.
+Được, phí từ 5.000.000$ tới 20.000.000$ tuỳ loài. Con triệu hồi ra không bao giờ là Shiny.
 
-### Săn và bắt Legendary trên Coco Cobblemon thế nào?
+### Cobblemon gốc có Legendary spawn tự nhiên không?
 
-Cobblemon 1.7.3 gốc không cho Legendary xuất hiện tự nhiên: file mod có 71 loài Legendary và 23 loài Mythical nhưng không loài nào có mục xuất hiện. Trên Coco Cobblemon, Legendary xuất hiện tự nhiên theo tỉ lệ tích luỹ ở trên, ngoài ra có Altar, Raid Thế Giới, Trứng Huyền Thoại và Boss Bang. Khi gặp thì đấu trước, hạ máu, gây Ngủ và dùng Ultra Ball, xem [Cách bắt Pokémon trong Cobblemon](/cach-bat-pokemon-cobblemon/).
+Không. Cobblemon 1.7.3 gốc có 71 loài Legendary và 23 loài Mythical nhưng không loài nào có mục xuất hiện. Coco Cobblemon thêm tỉ lệ tích luỹ ở trên, cùng Altar, Raid Thế Giới, Trứng Huyền Thoại và Boss Bang. Gặp rồi thì đấu cho tụt máu, cho ngủ rồi ném Ultra Ball, xem [Cách bắt Pokémon trong Cobblemon](/cach-bat-pokemon-cobblemon/).
 
-### Mythical như Mew, Arceus có xuất hiện tự nhiên không?
+### Mew, Arceus có xuất hiện tự nhiên không?
 
-Không. Mythical (Mew, Celebi, Deoxys, Darkrai, Arceus...) không xuất hiện tự nhiên và đã bị khoá triệu hồi. Trứng Huyền Thoại cũng chỉ ra Legendary, không ra Mythical, UB hay Paradox. Thẻ [Daily Shop](/tinh-nang/hang-ngay/#daily-shop) có 0,1% là Legendary, Mythical, UB hoặc Paradox.
+Không. Mythical không spawn, không triệu hồi được, Trứng Huyền Thoại cũng không ra. Chỉ có thẻ [Daily Shop](/tinh-nang/hang-ngay/#daily-shop) có 0,1% là Legendary, Mythical, UB hoặc Paradox.
 
 **Xem thêm:** [Cách bắt Pokémon trong Cobblemon](/cach-bat-pokemon-cobblemon/) · [Cách có Pokémon Shiny](/tinh-nang/shiny/) · [Giờ Vàng trong lịch sự kiện tuần](/server-cobblemon-viet-nam/) · [Hỏi đáp](/hoi-dap/)
 

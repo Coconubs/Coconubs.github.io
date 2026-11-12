@@ -5,60 +5,60 @@ description: "Giữ đất và nhà trên server Coco Cobblemon: /claim theo chu
 parent: Tính năng
 nav_order: 12
 permalink: /tinh-nang/dat-nha/
-last_modified_at: 2026-11-07T22:13:02+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # Đất, nhà và dịch chuyển
 
-Trên server Coco Cobblemon, bạn giữ nhà bằng cách claim đất theo chunk, rồi đặt điểm nhà để dịch chuyển về. Đất đã claim thì người ngoài không phá được.
+Muốn giữ nhà thì claim đất theo chunk, rồi đặt điểm nhà để lúc nào cũng dịch chuyển về được. Đất đã claim thì người ngoài không phá được.
 {: .fs-5 .fw-300 }
 
 ## Claim đất
 
-- Đất được giữ theo **chunk**: ô 16×16 khối, từ đáy tới nóc thế giới. Bấm F3 + G để hiện đường kẻ chunk.
-- Đứng trong chunk muốn giữ rồi gõ `/claim`. Bỏ claim: `/unclaim`.
-- Mở bản đồ thế giới (Xaero) để thấy đất đã claim; chuột phải trên bản đồ để claim hoặc bỏ claim nhiều chunk một lúc.
-- Mỗi người tối đa 50 chunk (Rank được thêm). Chỉ claim được trong vòng 5 chunk quanh chỗ đứng và chỉ ở Overworld.
-- **Ngoài ±30.000 (theo X hoặc Z) không claim được** và không đặt được rương, shulker, balo, Pasture; khu đó reset 2 tuần một lần. Muốn xây lâu dài thì chọn chỗ trong ±30.000.
+- Đất giữ theo **chunk**: mỗi ô 16×16 khối, tính từ đáy lên tới nóc thế giới. Bấm F3 + G để hiện đường kẻ chunk.
+- Đứng trong chunk muốn giữ rồi gõ `/claim`. Bỏ claim thì gõ `/unclaim`.
+- Mở bản đồ thế giới (Xaero) để xem đất đã claim. Chuột phải trên bản đồ để claim hoặc bỏ claim nhiều chunk một lúc.
+- Mỗi người được tối đa 50 chunk (có Rank thì thêm). Chỉ claim được trong vòng 5 chunk quanh chỗ đang đứng, và chỉ ở Overworld.
+- **Ra ngoài ±30.000 (theo X hoặc Z) là không claim được**, cũng không đặt được rương, shulker, balo, Pasture. Khu đó 2 tuần reset một lần. Muốn xây lâu dài thì chọn chỗ trong ±30.000.
 
 ## Xây chung và khoá đất riêng
 
-- Vào cùng [Bang hội](/tinh-nang/bang-hoi/) là xây được trong đất của nhau; chủ bang chỉnh quyền ở Cài đặt Bang.
-- **Khoá đất riêng:** Menu Bang hội, tab ĐẤT, hoặc gõ `/dat khoa`. Khi khoá, chỉ bạn và tối đa 30 người tin cậy dùng được đất của bạn; thành viên bang khác, kể cả chủ bang, bị chặn như người ngoài. Mở lại: `/dat mo`.
-- Thêm, bỏ người tin cậy: bấm trong tab ĐẤT hoặc `/dat chophep <tên>`, `/dat bo <tên>` (người ngoài bang cũng được). Người khác vẫn đi ngang qua được, đồ rơi trên đất vẫn nhặt được.
+- Cùng [Bang hội](/tinh-nang/bang-hoi/) thì xây được trong đất của nhau. Chủ bang chỉnh quyền trong Cài đặt Bang.
+- **Khoá đất riêng:** vào Menu Bang hội, tab ĐẤT, hoặc gõ `/dat khoa`. Khoá rồi thì chỉ bạn và tối đa 30 người tin cậy dùng được đất. Thành viên bang khác, kể cả chủ bang, cũng bị chặn như người ngoài. Mở lại bằng `/dat mo`.
+- Thêm hoặc bỏ người tin cậy: bấm trong tab ĐẤT, hoặc gõ `/dat chophep <tên>`, `/dat bo <tên>` (thêm được cả người ngoài bang). Người khác vẫn đi ngang qua và vẫn nhặt được đồ rơi trên đất.
 
 ## Nhà và dịch chuyển
 
 | Lệnh | Việc |
 |---|---|
-| `/sethome`, `/sethome <tên>` | Đặt nhà ở chỗ đang đứng. Mặc định 3 nhà |
+| `/sethome`, `/sethome <tên>` | Đặt nhà ở chỗ đang đứng. Mặc định được 3 nhà |
 | `/home`, `/home <tên>` | Về nhà |
-| `/homes`, `/delhome <tên>` | Xem danh sách, xoá nhà |
+| `/homes`, `/delhome <tên>` | Xem danh sách nhà, xoá nhà |
 | `/spawn` | Về spawn |
-| `/back` | Quay lại chỗ vừa dịch chuyển hoặc chỗ vừa chết |
+| `/back` | Quay lại chỗ vừa dịch chuyển đi hoặc chỗ vừa chết |
 | `/warps` | Các điểm dịch chuyển của server (hoặc Menu, Dịch chuyển) |
-| `/tpa <tên>`, `/tpaccept` | Xin dịch chuyển tới bạn, người kia chấp nhận |
-| `/rtp` | Tới chỗ ngẫu nhiên xa 5.000-25.000 khối, không rơi xuống biển, sông. Dùng lại sau 60 giây |
+| `/tpa <tên>`, `/tpaccept` | Xin dịch chuyển tới chỗ bạn bè, người kia chấp nhận |
+| `/rtp` | Tới một chỗ ngẫu nhiên cách 5.000-25.000 khối, không rơi xuống biển hay sông. 60 giây mới dùng lại được |
 
-Waystone: chuột phải để kích hoạt, rồi dịch chuyển giữa các Waystone đã mở. Ưng chỗ nào sau `/rtp` thì `/sethome` ngay.
+Waystone: chuột phải để kích hoạt, sau đó dịch chuyển qua lại giữa các Waystone đã mở. `/rtp` ra chỗ nào ưng thì `/sethome` luôn.
 
 ## Xây nhà và nội thất
 
-- Trước khi xây: chọn chỗ trong ±30.000, `/claim` đất trước rồi `/sethome`.
-- Nội thất có sẵn trong gói mod: Handcrafted, Cozy Home, CobbleFurnies, Beautify, Comforts (bàn ghế, giường, đèn, kệ, đồ trang trí kiểu Pokémon).
-- Tra công thức bằng REI: rê chuột lên vật phẩm, bấm R để xem cách làm, U để xem dùng làm gì.
-- Đặt Pasture trong nhà cho Pokémon đi lại và [breeding](/tinh-nang/breeding/). Nhà trong đất bang breed nhanh hơn theo cấp bang.
+- Trước khi xây: chọn chỗ trong ±30.000, `/claim` đất rồi `/sethome`.
+- Gói mod có sẵn đồ nội thất: Handcrafted, Cozy Home, CobbleFurnies, Beautify, Comforts (bàn ghế, giường, đèn, kệ, đồ trang trí kiểu Pokémon).
+- Xem công thức bằng REI: rê chuột lên vật phẩm, bấm R để xem cách làm, bấm U để xem nó dùng làm gì.
+- Đặt Pasture trong nhà cho Pokémon đi lại và để [breeding](/tinh-nang/breeding/). Nhà nằm trong đất bang thì breed nhanh hơn theo cấp bang.
 - Mạch redstone chạy liên tục khoảng 30 phút sẽ bị tự gỡ 1 khối, có cảnh báo trước.
 
 ## Hỏi nhanh
 
 ### Làm sao để không ai phá nhà?
 
-`/claim` các chunk quanh nhà. Muốn cả thành viên bang khác cũng không vào được thì dùng `/dat khoa`.
+`/claim` hết các chunk quanh nhà. Muốn chặn luôn cả người trong bang thì `/dat khoa`.
 
-### Xây ở đâu cho an toàn?
+### Nên xây ở đâu?
 
-Trong ±30.000 theo X và Z. Ngoài vùng này không claim được, không đặt được rương, balo, Pasture, và reset 2 tuần một lần.
+Trong ±30.000 theo cả X và Z. Ra ngoài thì không claim được, và khu đó 2 tuần reset một lần.
 
 **Xem thêm:** [Hướng dẫn người mới](/huong-dan-nguoi-moi/) · [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/) · [Hỏi đáp](/hoi-dap/)
 

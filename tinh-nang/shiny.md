@@ -5,12 +5,12 @@ description: "Trên server Coco Cobblemon, Shiny không xuất hiện tự nhiê
 parent: Tính năng
 nav_order: 6
 permalink: /tinh-nang/shiny/
-last_modified_at: 2026-11-11T02:53:44+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # Shiny
 
-Trên Coco Cobblemon, **Shiny không xuất hiện tự nhiên** và không ra từ Altar hay Statue triệu hồi. Thay vào đó có nhiều cách chắc chắn hơn để có Shiny.
+Trên Coco Cobblemon, **Shiny không xuất hiện tự nhiên**, triệu hồi bằng Altar hay Statue cũng không ra. Bù lại có nhiều cách chắc ăn hơn để có Shiny.
 {: .fs-5 .fw-300 }
 
 ## Các cách có Shiny
@@ -28,30 +28,30 @@ Trên Coco Cobblemon, **Shiny không xuất hiện tự nhiên** và không ra t
 
 ## Dung hợp Shiny
 
-- Cần: 1 Pokémon trong party (chưa Shiny) + 5 **Tinh Thể Shiny** + phí (gấp 2 giá thẻ Daily Shop cùng độ hiếm).
-- Thời gian chờ 5 phút. Pokémon được giữ trong lò dung hợp và trả lại khi xong.
-- Mỗi lần thất bại trước đó với Pokémon này, tỉ lệ tăng thêm. Dùng thêm 1 Bột May Mắn được +5%.
-- Thất bại: mất tinh thể và phí, Pokémon vẫn được trả lại nguyên vẹn.
+- Cần 1 Pokémon trong party (chưa phải Shiny), 5 **Tinh Thể Shiny** và phí bằng 2 lần giá thẻ Daily Shop cùng độ hiếm.
+- Chờ 5 phút. Trong lúc chờ, Pokémon nằm trong lò dung hợp và được trả lại khi xong.
+- Pokémon này đã thất bại bao nhiêu lần thì tỉ lệ lần sau càng tăng. Bỏ thêm 1 Bột May Mắn được +5%.
+- Thất bại thì mất tinh thể và phí, còn Pokémon vẫn được trả lại nguyên vẹn.
 
-**Tinh Thể Shiny** có từ mốc điểm danh chia hết cho 10, Raid, Battle Pass, Boss Bang và NPC Tiền Thưởng.
+**Tinh Thể Shiny** lấy từ mốc điểm danh chia hết cho 10, Raid, Battle Pass, Boss Bang và NPC Tiền Thưởng.
 
 ## Breeding có ra Shiny không
 
-Breeding gần như không ra Shiny, và Ditto Shiny không truyền Shiny cho trứng.
+Gần như không, và Ditto Shiny cũng không làm trứng ra Shiny.
 
 ## Hỏi nhanh
 
-### Coco Cobblemon có Shiny xuất hiện ngoài tự nhiên không?
+### Coco Cobblemon có Shiny ngoài tự nhiên không?
 
-Không. Trên Coco Cobblemon, Shiny không xuất hiện tự nhiên và không ra từ Altar hay Statue triệu hồi. Có Shiny qua Dung hợp Shiny, Trứng Pokémon, Raid Thế Giới, Daily Shop, Crate Shiny và Battle Pass.
+Không. Muốn có Shiny thì dung hợp, ấp trứng, đánh Raid, mua Daily Shop, quay Crate Shiny hoặc nhận từ Battle Pass.
 
 ### Trứng nào dễ ra Shiny nhất?
 
-Trứng Huyền Thoại có tỉ lệ Shiny 1/512, Trứng Quý 1/1024, Trứng Pokémon thường 1/4096.
+Trứng Huyền Thoại (1/512), rồi tới Trứng Quý (1/1024), cuối cùng là Trứng Pokémon thường (1/4096).
 
 ### Dung hợp Shiny thất bại có mất Pokémon không?
 
-Không. Thất bại thì mất 5 Tinh Thể Shiny và phí, Pokémon được trả lại nguyên vẹn, và lần sau với Pokémon này tỉ lệ tăng thêm.
+Không. Chỉ mất tinh thể và phí, lần sau tỉ lệ còn cao hơn.
 
 **Xem thêm:** [Breeding: cách lấy trứng Pokémon](/tinh-nang/breeding/) · [Raid Thế Giới](/tinh-nang/raid/) · [Battle Pass và Daily Shop](/tinh-nang/hang-ngay/) · [Legendary tích luỹ](/tinh-nang/legendary/)
 

@@ -5,65 +5,65 @@ description: "Câu cá trên server Coco Cobblemon: 100 loài cá với 7 độ 
 parent: Tính năng
 nav_order: 8
 permalink: /tinh-nang/cau-ca/
-last_modified_at: 2026-11-11T03:20:06+07:00
+last_modified_at: 2026-11-12T10:00:00+07:00
 ---
 
 # Câu cá
 
-Dùng **Cần câu thường** câu ở bất kỳ vùng nước nào sẽ ra **100 loài cá** của server. Cần câu Pokémon vẫn giữ nguyên như Cobblemon gốc.
+Cầm **Cần câu thường** thả ở vùng nước nào cũng câu được **100 loài cá** riêng của server. Cần câu Pokémon thì vẫn như Cobblemon gốc.
 {: .fs-5 .fw-300 }
 
 ## Độ hiếm
 
-7 độ hiếm: Thường, Khá, Hiếm, Cực hiếm, Huyền thoại, Vàng, Cầu Vồng. Cá càng hiếm chờ cắn câu càng lâu. Mỗi con có chiều dài và cân nặng riêng, càng lệch cỡ chuẩn càng hiếm và càng được giá. Hiếm nhất là cá **[Khổng lồ]** và **[Tí hon]**.
+Có 7 độ hiếm: Thường, Khá, Hiếm, Cực hiếm, Huyền thoại, Vàng, Cầu Vồng. Cá càng hiếm càng lâu cắn câu. Mỗi con có chiều dài và cân nặng riêng, càng lệch cỡ chuẩn thì càng hiếm và càng bán được giá. Hiếm nhất là cá **[Khổng lồ]** và **[Tí hon]**.
 
-Cá không ăn, không nấu được: chỉ để bán, khoe trên chat và sưu tầm.
+Cá không ăn hay nấu được, chỉ để bán, khoe trên chat và sưu tầm.
 
 ## Menu Câu cá
 
 | Lệnh | Dùng để |
 |---|---|
-| `/cauca` | Sách cá: loài chưa câu được hiện bóng đen, câu được mới mở tên, giá, kỷ lục server |
+| `/cauca` | Sách cá: loài chưa câu được chỉ hiện bóng đen, câu được rồi mới thấy tên, giá và kỷ lục server |
 | `/khoca` | Kho cá: túi đầy thì cá tự vào đây, không giới hạn |
-| `/banca` | Thu mua cá: bán nhanh cá Thường tới Hiếm, cá quý bỏ vào ô rồi bán |
+| `/banca` | Thu mua cá: bán nhanh cá Thường tới Hiếm, cá quý thì bỏ vào ô rồi bán |
 | `/cauca chetao` | Chế tạo cần câu |
-| `/cauca sukien` | Xem người đang dẫn đầu khung giờ vàng |
+| `/cauca sukien` | Xem ai đang dẫn đầu khung giờ vàng |
 
 ## Cần câu chế tạo
 
-6 loại cần: Đồng, Bạc, Mạ Vàng, Bạch Kim, Kim Cương, Bích Hải. Cần xịn có phù phép cao và chỉ số May mắn từ +1% tới +20%, tăng tỉ lệ ra cá Cực hiếm trở lên.
+Có 6 loại cần: Đồng, Bạc, Mạ Vàng, Bạch Kim, Kim Cương, Bích Hải. Cần càng xịn thì phù phép càng cao, chỉ số May mắn từ +1% tới +20%, giúp dễ ra cá Cực hiếm trở lên.
 
 ## Tự câu ở Lobby
 
-Đứng ở Lobby, quay mặt ra nước, gõ `/autofish`. Chỉ ra cá Thường tới Hiếm. Di chuyển, nhảy hoặc bấm chuột là dừng.
+Đứng ở Lobby, quay mặt ra nước rồi gõ `/autofish`. Tự câu chỉ ra cá Thường tới Hiếm. Di chuyển, nhảy hoặc bấm chuột là dừng.
 
-Câu tay quá lâu ở một chỗ thì vùng nước bị ô nhiễm, chỉ còn ra cá Thường tới Hiếm. Hãy đổi chỗ câu.
+Câu tay quá lâu một chỗ thì vùng nước bị ô nhiễm, chỉ còn ra cá Thường tới Hiếm. Lúc đó đổi chỗ khác mà câu.
 
 ## Khung giờ vàng
 
-Mỗi tối **19:00-22:00** có thanh đếm ngược trên màn hình. Ai câu được con cá giá cao nhất trong khung giờ sẽ thắng. Tổng kết lúc 22:01, thưởng 100.000$, 3 Trứng Quý, 1 Chìa khoá Crate Shiny, 2.000 Tokens, 1 Tinh Thể Shiny và 1 Bùa Huyền Thoại.
+Mỗi tối **19:00-22:00** trên màn hình có thanh đếm ngược. Ai câu được con cá giá cao nhất trong khung giờ này thì thắng. Tổng kết lúc 22:01, người thắng nhận 100.000$, 3 Trứng Quý, 1 Chìa khoá Crate Shiny, 2.000 Tokens, 1 Tinh Thể Shiny và 1 Bùa Huyền Thoại.
 
 ## Danh hiệu câu cá
 
-Câu đủ mọi loài của một độ hiếm sẽ nhận danh hiệu: Cần Thủ, Cần Thủ Đồng, Bạc, Vàng, Bạch Kim, Tinh Anh, Thách Đấu. Câu đủ tất cả các loài được danh hiệu **Đại Hải Trình**.
+Câu đủ mọi loài của một độ hiếm thì được danh hiệu: Cần Thủ, Cần Thủ Đồng, Bạc, Vàng, Bạch Kim, Tinh Anh, Thách Đấu. Câu đủ hết tất cả các loài được danh hiệu **Đại Hải Trình**.
 
 ## Hỏi nhanh
 
-### Câu cá trên Coco Cobblemon ra được gì?
+### Câu cá trên Coco Cobblemon có gì?
 
-Dùng Cần câu thường câu ở bất kỳ vùng nước nào sẽ ra 100 loài cá của server, chia 7 độ hiếm từ Thường tới Cầu Vồng. Cá không ăn, không nấu được: chỉ để bán, khoe trên chat và sưu tầm. Cần câu Pokémon vẫn giữ nguyên như Cobblemon gốc.
+100 loài cá chia 7 độ hiếm, câu bằng Cần câu thường. Cá để bán và sưu tầm, không ăn được.
 
 ### Khung giờ vàng câu cá là lúc nào?
 
-Mỗi tối 19:00-22:00. Ai câu được con cá giá cao nhất trong khung giờ sẽ thắng. Tổng kết lúc 22:01, thưởng 100.000$, 3 Trứng Quý, 1 Chìa khoá Crate Shiny, 2.000 Tokens, 1 Tinh Thể Shiny và 1 Bùa Huyền Thoại.
+19:00 đến 22:00 mỗi tối. Ai câu được con đắt nhất thì thắng.
 
 ### Có tự câu cá được không?
 
-Có, ở Lobby: quay mặt ra nước rồi gõ `/autofish`. Tự câu chỉ ra cá Thường tới Hiếm, và dừng khi bạn di chuyển, nhảy hoặc bấm chuột.
+Có, ở Lobby bằng `/autofish`, nhưng chỉ ra cá Thường tới Hiếm.
 
 ### Bán cá ở đâu?
 
-Gõ `/banca` để mở Thu mua cá: bán nhanh cá Thường tới Hiếm, cá quý thì bỏ vào ô rồi bán. Túi đầy thì cá tự vào Kho cá (`/khoca`), không giới hạn.
+Gõ `/banca`.
 
 **Xem thêm:** [Việc hằng ngày](/tinh-nang/hang-ngay/) · [Tiền tệ, Shop và Chợ GTS](/tinh-nang/kinh-te/) · [Hướng dẫn người mới](/huong-dan-nguoi-moi/) · [Lịch sự kiện trong tuần theo giờ Việt Nam](/server-cobblemon-viet-nam/)
 
