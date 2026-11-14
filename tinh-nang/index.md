@@ -6,7 +6,7 @@ nav_order: 6
 has_children: true
 has_toc: false
 alt: /en/features/
-last_modified_at: 2026-11-12T10:00:00+07:00
+last_modified_at: 2026-11-14T19:30:00+07:00
 ---
 
 # Tính năng Coco Cobblemon
@@ -39,7 +39,7 @@ Cách bắt, tiến hoá, cưỡi Pokémon và dùng Mega: [Cách bắt Pokémon
 
 | Tính năng | Tóm tắt |
 |---|---|
-| [Bang Hội Chiến](/tinh-nang/bang-hoi/#bang-hoi-chien) | Thứ 2 tới Thứ 6, 9h-22h. Treo Cờ Chiến, khiêu chiến cướp cờ, Đấu Đôi 4v4. Giữ nhiều cờ nhất lúc 22h là Bá chủ |
+| [Bang Hội Chiến](/tinh-nang/bang-hoi/#bang-hoi-chien) | Mỗi ngày 9h-22h. Treo Cờ Chiến, khiêu chiến cướp cờ, Đấu Đôi 4v4. Giữ nhiều cờ nhất lúc 22h là Bá chủ |
 | [Boss Bang](/tinh-nang/bang-hoi/#boss-bang) | Mỗi ngày 1 boss mới cho mọi bang, mỗi người 3 lượt |
 | [Quà Bang](/tinh-nang/bang-hoi/#qua-bang) | Một thành viên bắt được Shiny, Legendary hay vượt mốc BattleTower thì cả bang có quà |
 | Khoá đất riêng | `/dat khoa`: chỉ bạn và tối đa 30 người tin cậy dùng được đất của bạn |
@@ -53,7 +53,7 @@ Cách bắt, tiến hoá, cưỡi Pokémon và dùng Mega: [Cách bắt Pokémon
 | [Ải Viễn Chinh](/tinh-nang/hang-ngay/#vien-chinh) | Gửi Pokémon đi ải từ 1★ tới 5★, 3 lượt mỗi ngày |
 | [Daily Shop](/tinh-nang/hang-ngay/#daily-shop) | 7 thẻ Pokémon cấp 50 mỗi ngày, tỉ lệ Shiny 1/2048 |
 | [Điểm danh](/tinh-nang/hang-ngay/#diem-danh) | Điểm danh liên tiếp nhiều ngày để nhận Tokens, Trứng, Tinh Thể Shiny |
-| [Câu cá](/tinh-nang/cau-ca/) | 100 loài cá, 7 độ hiếm, sách sưu tập, khung giờ vàng 19:00-22:00 |
+| [Câu cá](/tinh-nang/cau-ca/) | 100 loài cá, 7 độ hiếm, sách sưu tập, khung giờ vàng 11:00-13:00 và 19:00-22:00 |
 | [Tiền tệ, Shop, Chợ GTS](/tinh-nang/kinh-te/) | CobbleDollars, Tokens, BattleTower Points. Held Item, thuốc EV, Mint, kẹo IV mua bằng Tokens; Chợ GTS mua bán giữa người chơi (`/gts`, `/ah`) |
 | [Breeding](/tinh-nang/breeding/) | Lấy trứng bằng Pasture Block, khoảng 4-8 giờ 1 trứng, nhanh hơn trong đất bang |
 | [Đất, nhà, dịch chuyển](/tinh-nang/dat-nha/) | `/claim` theo chunk, khoá đất riêng `/dat khoa`, `/sethome`, `/rtp`, Waystone. Ngoài ±30.000 không claim được |
@@ -82,6 +82,6 @@ Chia ra bốn nhóm: đấu trận (Đấu Xếp Hạng, BattleTower 555 tầng,
 
 ### Hoạt động nào có giờ cố định?
 
-Theo giờ Việt Nam: Raid Thế Giới lúc 9:00 và 19:00 mỗi ngày; Bang Hội Chiến Thứ 2 tới Thứ 6, 9h-22h; khung giờ vàng câu cá 19:00-22:00 mỗi tối; Giờ Vàng Legendary Thứ 7 và Chủ Nhật, 20:00-22:00. Boss Bang, nhiệm vụ ngày Battle Pass, Nghề nghiệp, Ải Viễn Chinh và Daily Shop làm mới lúc 0:00.
+Theo giờ Việt Nam: Raid Thế Giới lúc 9:00 và 19:00 mỗi ngày; Bang Hội Chiến mỗi ngày, 9h-22h; khung giờ vàng câu cá 11:00-13:00 và 19:00-22:00 mỗi ngày; Giờ Vàng Legendary Thứ 7 và Chủ Nhật, 20:00-22:00. Boss Bang, nhiệm vụ ngày Battle Pass, Nghề nghiệp, Ải Viễn Chinh và Daily Shop làm mới lúc 0:00.
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*

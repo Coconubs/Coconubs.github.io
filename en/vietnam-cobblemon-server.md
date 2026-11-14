@@ -6,7 +6,7 @@ parent: English
 nav_order: 8
 permalink: /en/vietnam-cobblemon-server/
 alt: /server-cobblemon-viet-nam/
-last_modified_at: 2026-11-12T10:00:00+07:00
+last_modified_at: 2026-11-14T19:30:00+07:00
 ---
 
 # Cobblemon server in Vietnam: Coco Cobblemon
@@ -44,8 +44,8 @@ Evenings are the busiest, especially on Saturday and Sunday. Maintenance and eve
 |---|---|
 | Every day at 0:00 | Battle Pass, jobs, expeditions and the Daily Shop reset. New Guild Boss, and Battle Tower Points are paid out |
 | Every day at 9:00 and 19:00 | World Raid, each lasting 2 hours |
-| Every evening 19:00-22:00 | Fishing golden hour |
-| Monday to Friday, 9:00-22:00 | Guild War, results at 22:00 |
+| Every day 11:00-13:00 and 19:00-22:00 | Fishing golden hour |
+| Every day, 9:00-22:00 | Guild War, results at 22:00 |
 | Saturday and Sunday | The Guild Boss is a Legendary, Battle Tower Points x3 |
 | Saturday and Sunday, 20:00-22:00 | Legendary Golden Hours, the current Legendary chance x2 |
 

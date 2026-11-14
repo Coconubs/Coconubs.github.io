@@ -1,11 +1,11 @@
 ---
 title: Câu cá
 seo_title: "Câu cá: 100 loài cá, cần câu, khung giờ vàng | Coco Cobblemon"
-description: "Câu cá trên server Coco Cobblemon: 100 loài cá với 7 độ hiếm, Sách cá, Kho cá, Thu mua cá, 6 loại cần câu chế tạo, khung giờ vàng 19:00-22:00 mỗi tối, danh hiệu câu cá."
+description: "Câu cá trên server Coco Cobblemon: 100 loài cá với 7 độ hiếm, Sách cá, Kho cá, Thu mua cá, 6 loại cần câu chế tạo, khung giờ vàng 11:00-13:00 và 19:00-22:00 mỗi ngày, danh hiệu câu cá."
 parent: Tính năng
 nav_order: 8
 permalink: /tinh-nang/cau-ca/
-last_modified_at: 2026-11-12T10:00:00+07:00
+last_modified_at: 2026-11-14T19:30:00+07:00
 ---
 
 # Câu cá
@@ -41,7 +41,7 @@ Câu tay quá lâu một chỗ thì vùng nước bị ô nhiễm, chỉ còn ra
 
 ## Khung giờ vàng
 
-Mỗi tối **19:00-22:00** trên màn hình có thanh đếm ngược. Ai câu được con cá giá cao nhất trong khung giờ này thì thắng. Tổng kết lúc 22:01, người thắng nhận 100.000$, 3 Trứng Quý, 1 chìa khoá Crate Shiny, 2.000 Tokens, 1 Tinh Thể Shiny và 1 Bùa Huyền Thoại.
+Mỗi ngày có 2 khung **11:00-13:00** và **19:00-22:00**, trên màn hình có thanh đếm ngược. Ai câu được con cá giá cao nhất trong khung giờ thì thắng. Tổng kết lúc 13:01 và 22:01 (mỗi khung 1 người thắng), người thắng nhận 100.000$, 3 Trứng Quý, 1 chìa khoá Crate Shiny, 2.000 Tokens, 1 Tinh Thể Shiny và 1 Bùa Huyền Thoại.
 
 ## Danh hiệu câu cá
 
@@ -55,7 +55,7 @@ Câu đủ mọi loài của một độ hiếm thì được danh hiệu: Cần
 
 ### Khung giờ vàng câu cá là lúc nào?
 
-19:00 đến 22:00 mỗi tối. Ai câu được con đắt nhất thì thắng.
+Mỗi ngày 2 khung: 11:00 đến 13:00 và 19:00 đến 22:00. Ai câu được con đắt nhất trong khung thì thắng.
 
 ### Có tự câu cá được không?
 

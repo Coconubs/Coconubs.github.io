@@ -1,11 +1,11 @@
 ---
 title: Bang hội
 seo_title: "Bang Hội Chiến, Boss Bang, Quà Bang: luật bang hội | Coco Cobblemon"
-description: "Bang hội trên server Coco Cobblemon: tạo bang, Bang Hội Chiến Thứ 2-6 từ 9h tới 22h cướp Cờ Chiến, Boss Bang mỗi ngày, Quà Bang, Hào quang Bang, khoá đất riêng."
+description: "Bang hội trên server Coco Cobblemon: tạo bang, Bang Hội Chiến mỗi ngày từ 9h tới 22h cướp Cờ Chiến, Boss Bang mỗi ngày, Quà Bang, Hào quang Bang, khoá đất riêng."
 parent: Tính năng
 nav_order: 3
 permalink: /tinh-nang/bang-hoi/
-last_modified_at: 2026-11-14T19:00:00+07:00
+last_modified_at: 2026-11-14T19:30:00+07:00
 ---
 
 # Bang hội
@@ -26,8 +26,8 @@ Mỗi bang treo **Cờ Chiến** rồi khiêu chiến bang khác để cướp c
 
 | Mục | Luật |
 |---|---|
-| Thời gian | Thứ 2 tới Thứ 6, 9h-22h (giờ Việt Nam), tổng kết lúc 22h, cờ reset mỗi ngày |
-| Bang | Ít nhất 2 thành viên, tính cả Bang chủ |
+| Thời gian | Mỗi ngày, cả Thứ 7 và Chủ Nhật, 9h-22h (giờ Việt Nam), tổng kết lúc 22h, cờ reset mỗi ngày |
+| Bang | Từ 1 thành viên trở lên (tính cả Bang chủ) là treo cờ được |
 | Người ra trận | Đang online, vào bang đủ 24 giờ, có từ 4 Pokémon trong party |
 | Thể thức | Hai bên xem 6 Pokémon của nhau, có 5 phút để chọn 4, đánh Đấu Đôi 4v4, mọi con về Lv 50 (bản sao) |
 
@@ -83,7 +83,7 @@ Gõ `/oparties create`, rồi mời bạn bè bằng `/oparties member invite <t
 
 ### Bang Hội Chiến diễn ra lúc nào?
 
-Thứ 2 tới Thứ 6, 9h đến 22h giờ Việt Nam. Bang cần ít nhất 2 người.
+Mỗi ngày, cả Thứ 7 và Chủ Nhật, từ 9h đến 22h giờ Việt Nam. Bang chỉ có 1 người cũng treo cờ được.
 
 ### Thua Bang Hội Chiến có bị loại không?
 

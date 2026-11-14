@@ -6,7 +6,7 @@ parent: English
 nav_order: 3
 permalink: /en/features/
 alt: /tinh-nang/
-last_modified_at: 2026-11-12T10:00:00+07:00
+last_modified_at: 2026-11-14T19:30:00+07:00
 ---
 
 # Coco Cobblemon features
@@ -33,7 +33,7 @@ Open it with `/xephang` or the RANKED tile in the main menu.
 
 ## Guilds
 
-- **Guild Wars:** Monday to Friday, 9:00-22:00. Guilds raise a War Flag and challenge each other to 4v4 Doubles at Lv 50 to steal flags. Whoever holds the most flags at 22:00 is the day's Overlord.
+- **Guild Wars:** every day, 9:00-22:00. Guilds raise a War Flag and challenge each other to 4v4 Doubles at Lv 50 to steal flags. Whoever holds the most flags at 22:00 is the day's Overlord.
 - **Guild Boss:** every guild gets a new boss each day at 0:00 (Pseudo, Paradox or Ultra Beast on weekdays, Legendary on weekends), 3 attempts per member.
 - **Guild gifts:** when someone catches a Shiny or a Legendary, or clears a Battle Tower checkpoint, everyone else in the guild gets a gift box.
 - **Guild aura:** with 3 or more members online, everyone online gets +10% battle EXP and +10% catch rate.
@@ -58,7 +58,7 @@ Open it with `/xephang` or the RANKED tile in the main menu.
 - **Jobs** (`/nghenghiep`): 8 jobs, each with 5 quests a day, paying 1,000$ to 10,000$ per quest.
 - **Expeditions:** send Pokémon on 1★ to 5★ missions, 3 runs a day. The timer keeps going at half speed while you're offline.
 - **Daily Shop:** 7 random Lv 50 Pokémon cards every day.
-- **Fishing:** 100 fish species across 7 rarities, a collection book, rods you can craft, and a golden hour contest every evening from 19:00 to 22:00.
+- **Fishing:** 100 fish species across 7 rarities, a collection book, rods you can craft, and a golden hour contest twice a day, 11:00-13:00 and 19:00-22:00.
 - **Mini-games:** Tiến Lên (a Vietnamese card game), a Monopoly-style board game and chess with Elo.
 
 ## In-game screens
@@ -79,7 +79,7 @@ For battling: ranked matches with Elo, the 555-floor Battle Tower and World Raid
 
 ### Which features run at fixed times?
 
-All in Vietnam time (UTC+7): World Raids at 9:00 and 19:00 every day, Guild Wars Monday to Friday from 9:00 to 22:00, the fishing golden hour every evening from 19:00 to 22:00, and Legendary Golden Hours on Saturday and Sunday from 20:00 to 22:00. The Guild Boss, daily Battle Pass quests, jobs, expeditions and the Daily Shop all reset at 0:00.
+All in Vietnam time (UTC+7): World Raids at 9:00 and 19:00 every day, Guild Wars every day from 9:00 to 22:00, the fishing golden hour twice a day (11:00-13:00 and 19:00-22:00), and Legendary Golden Hours on Saturday and Sunday from 20:00 to 22:00. The Guild Boss, daily Battle Pass quests, jobs, expeditions and the Daily Shop all reset at 0:00.
 
 **See also:** [Cobblemon server in Vietnam](/en/vietnam-cobblemon-server/) · [How to join](/en/how-to-join/) · [Download CocoLauncher](/en/cocolauncher/) · [FAQ](/en/faq/)
 

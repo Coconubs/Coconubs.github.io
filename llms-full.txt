@@ -54,7 +54,7 @@ Coco Cobblemon là server cộng đồng, không phải sản phẩm chính th�
 
 - **[Đấu Xếp Hạng](https://coconubs.github.io/tinh-nang/dau-xep-hang/):** Đấu Đôi 4v4 tính Elo, Đấu Đơn 6v6, ghép trận tự động.
 - **[BattleTower](https://coconubs.github.io/tinh-nang/battletower/):** 555 tầng, cứ 5 tầng có 1 tầng boss.
-- **[Bang hội](https://coconubs.github.io/tinh-nang/bang-hoi/):** Bang Hội Chiến từ Thứ 2 tới Thứ 6, Boss Bang mỗi ngày, Quà Bang, khoá đất riêng.
+- **[Bang hội](https://coconubs.github.io/tinh-nang/bang-hoi/):** Bang Hội Chiến mỗi ngày 9h-22h, Boss Bang mỗi ngày, Quà Bang, khoá đất riêng.
 - **[Raid Thế Giới](https://coconubs.github.io/tinh-nang/raid/):** Boss chung cả server lúc 9:00 và 19:00 mỗi ngày.
 - **[Legendary tích luỹ](https://coconubs.github.io/tinh-nang/legendary/):** Server càng lâu chưa có Legendary thì tỉ lệ càng tăng, Giờ Vàng cuối tuần 20h-22h.
 - **[Shiny](https://coconubs.github.io/tinh-nang/shiny/):** Dung hợp Shiny, Trứng Pokémon, Raid, Daily Shop, Battle Pass.
@@ -136,8 +136,8 @@ Số người đổi theo giờ, đây là vài lần đo:
 |---|---|
 | Mỗi ngày 0:00 | Làm mới nhiệm vụ Battle Pass, Nghề nghiệp, Ải Viễn Chinh và Daily Shop. Boss Bang mới, phát BattleTower Points |
 | Mỗi ngày 9:00 và 19:00 | [Raid Thế Giới](https://coconubs.github.io/tinh-nang/raid/), mỗi lượt kéo dài 2 tiếng |
-| Mỗi tối 19:00-22:00 | Khung giờ vàng [câu cá](https://coconubs.github.io/tinh-nang/cau-ca/) |
-| Thứ 2 tới Thứ 6, 9:00-22:00 | [Bang Hội Chiến](https://coconubs.github.io/tinh-nang/bang-hoi/), tổng kết lúc 22:00 |
+| Mỗi ngày 11:00-13:00 và 19:00-22:00 | Khung giờ vàng [câu cá](https://coconubs.github.io/tinh-nang/cau-ca/) |
+| Mỗi ngày 9:00-22:00 | [Bang Hội Chiến](https://coconubs.github.io/tinh-nang/bang-hoi/), tổng kết lúc 22:00 |
 | Thứ 7, Chủ Nhật | Boss Bang là Legendary, BattleTower Points nhân 3 |
 | Thứ 7, Chủ Nhật, 20:00-22:00 | Giờ Vàng [Legendary](https://coconubs.github.io/tinh-nang/legendary/), tỉ lệ đang tích luỹ nhân 2 |
 
@@ -751,7 +751,7 @@ Cách bắt, tiến hoá, cưỡi Pokémon và dùng Mega trên server: [Cách b
 
 | Tính năng | Tóm tắt |
 |---|---|
-| [Bang Hội Chiến](https://coconubs.github.io/tinh-nang/bang-hoi/#bang-hoi-chien) | Thứ 2 tới Thứ 6, 9h-22h. Treo Cờ Chiến, khiêu chiến cướp cờ, Đấu Đôi 4v4. Giữ nhiều cờ nhất lúc 22h là Bá chủ |
+| [Bang Hội Chiến](https://coconubs.github.io/tinh-nang/bang-hoi/#bang-hoi-chien) | Mỗi ngày 9h-22h. Treo Cờ Chiến, khiêu chiến cướp cờ, Đấu Đôi 4v4. Giữ nhiều cờ nhất lúc 22h là Bá chủ |
 | [Boss Bang](https://coconubs.github.io/tinh-nang/bang-hoi/#boss-bang) | Mỗi ngày 1 boss mới cho mọi bang, mỗi người 3 lượt |
 | [Quà Bang](https://coconubs.github.io/tinh-nang/bang-hoi/#qua-bang) | Thành viên bắt Shiny, Legendary hay vượt mốc BattleTower thì cả bang nhận quà |
 | Khoá đất riêng | `/dat khoa`: chỉ bạn và tối đa 30 người tin cậy dùng được đất của bạn |
@@ -765,7 +765,7 @@ Cách bắt, tiến hoá, cưỡi Pokémon và dùng Mega trên server: [Cách b
 | [Ải Viễn Chinh](https://coconubs.github.io/tinh-nang/hang-ngay/#vien-chinh) | Gửi Pokémon đi ải 1★ tới 5★, 3 lượt mỗi ngày |
 | [Daily Shop](https://coconubs.github.io/tinh-nang/hang-ngay/#daily-shop) | 7 thẻ Pokémon cấp 50 mỗi ngày, tỉ lệ Shiny 1/2048 |
 | [Điểm danh](https://coconubs.github.io/tinh-nang/hang-ngay/#diem-danh) | Chuỗi ngày liên tiếp nhận Tokens, Trứng, Tinh Thể Shiny |
-| [Câu cá](https://coconubs.github.io/tinh-nang/cau-ca/) | 100 loài cá, 7 độ hiếm, sách sưu tập, khung giờ vàng 19:00-22:00 |
+| [Câu cá](https://coconubs.github.io/tinh-nang/cau-ca/) | 100 loài cá, 7 độ hiếm, sách sưu tập, khung giờ vàng 11:00-13:00 và 19:00-22:00 |
 | [Tiền tệ, Shop, Chợ GTS](https://coconubs.github.io/tinh-nang/kinh-te/) | CobbleDollars, Tokens, BattleTower Points. Held Item, thuốc EV, Mint, kẹo IV mua bằng Tokens; Chợ GTS mua bán giữa người chơi (`/gts`, `/ah`) |
 | [Breeding](https://coconubs.github.io/tinh-nang/breeding/) | Lấy trứng bằng Pasture Block, khoảng 4-8 giờ 1 trứng, nhanh hơn trong đất bang |
 | [Đất, nhà, dịch chuyển](https://coconubs.github.io/tinh-nang/dat-nha/) | `/claim` theo chunk, khoá đất riêng `/dat khoa`, `/sethome`, `/rtp`, Waystone. Ngoài ±30.000 không claim được |
@@ -792,7 +792,7 @@ Launcher, Menu và Hướng dẫn của Coco bằng tiếng Việt, kèm nút ch
 
 ### Hoạt động nào có giờ cố định?
 
-Theo giờ Việt Nam: Raid Thế Giới lúc 9:00 và 19:00 mỗi ngày; Bang Hội Chiến Thứ 2 tới Thứ 6, 9h-22h; khung giờ vàng câu cá 19:00-22:00 mỗi tối; Giờ Vàng Legendary Thứ 7 và Chủ Nhật, 20:00-22:00. Boss Bang mới, nhiệm vụ ngày Battle Pass, Nghề nghiệp, Ải Viễn Chinh và Daily Shop làm mới lúc 0h00.
+Theo giờ Việt Nam: Raid Thế Giới lúc 9:00 và 19:00 mỗi ngày; Bang Hội Chiến mỗi ngày, 9h-22h; khung giờ vàng câu cá 11:00-13:00 và 19:00-22:00 mỗi ngày; Giờ Vàng Legendary Thứ 7 và Chủ Nhật, 20:00-22:00. Boss Bang mới, nhiệm vụ ngày Battle Pass, Nghề nghiệp, Ải Viễn Chinh và Daily Shop làm mới lúc 0h00.
 
 *Nội dung lấy từ Hướng dẫn trong game ngày 06/11/2026.*
 
@@ -941,8 +941,8 @@ Các bang treo **Cờ Chiến** rồi khiêu chiến nhau để cướp cờ. T�
 
 | Mục | Luật |
 |---|---|
-| Thời gian | Thứ 2 tới Thứ 6, 9h-22h (giờ Việt Nam), tổng kết lúc 22h, cờ reset mỗi ngày |
-| Bang | Ít nhất 2 thành viên, tính cả Bang chủ |
+| Thời gian | Mỗi ngày, cả Thứ 7 và Chủ Nhật, 9h-22h (giờ Việt Nam), tổng kết lúc 22h, cờ reset mỗi ngày |
+| Bang | Từ 1 thành viên trở lên (tính cả Bang chủ) là treo cờ được |
 | Người ra trận | Đang online, vào bang từ 24 giờ, có từ 4 Pokémon trong party |
 | Thể thức | Hai bên xem 6 Pokémon của nhau, chọn 4 trong 5 phút, Đấu Đôi 4v4, mọi con về Lv 50 (bản sao) |
 
@@ -996,7 +996,7 @@ Gõ `/oparties create` để tạo bang, rồi `/oparties member invite <tên>` 
 
 ### Bang Hội Chiến diễn ra lúc nào?
 
-Thứ 2 tới Thứ 6, từ 9h tới 22h (giờ Việt Nam). Các bang treo Cờ Chiến rồi khiêu chiến nhau để cướp cờ; tới 22h, bang giữ nhiều cờ nhất là Bá chủ hôm nay. Bang cần ít nhất 2 thành viên, tính cả Bang chủ.
+Mỗi ngày, cả Thứ 7 và Chủ Nhật, từ 9h tới 22h (giờ Việt Nam). Các bang treo Cờ Chiến rồi khiêu chiến nhau để cướp cờ; tới 22h, bang giữ nhiều cờ nhất là Bá chủ hôm nay. Bang chỉ có 1 người (Bang chủ) cũng treo cờ được.
 
 ### Thua Bang Hội Chiến có bị loại không?
 
@@ -1317,7 +1317,7 @@ Câu tay quá lâu ở một chỗ thì vùng nước bị ô nhiễm, chỉ cò
 
 ## Khung giờ vàng
 
-Mỗi tối **19:00-22:00** có thanh đếm ngược trên màn hình. Ai câu được con cá giá cao nhất trong khung giờ sẽ thắng. Tổng kết lúc 22:01, thưởng 100.000$, 3 Trứng Quý, 1 Chìa khoá Crate Shiny, 2.000 Tokens, 1 Tinh Thể Shiny và 1 Bùa Huyền Thoại.
+Mỗi ngày có 2 khung **11:00-13:00** và **19:00-22:00**, có thanh đếm ngược trên màn hình. Ai câu được con cá giá cao nhất trong khung giờ sẽ thắng. Tổng kết lúc 13:01 và 22:01 (mỗi khung 1 người thắng), thưởng 100.000$, 3 Trứng Quý, 1 Chìa khoá Crate Shiny, 2.000 Tokens, 1 Tinh Thể Shiny và 1 Bùa Huyền Thoại.
 
 ## Danh hiệu câu cá
 
@@ -1331,7 +1331,7 @@ Dùng Cần câu thường câu ở bất kỳ vùng nước nào sẽ ra 100 lo
 
 ### Khung giờ vàng câu cá là lúc nào?
 
-Mỗi tối 19:00-22:00. Ai câu được con cá giá cao nhất trong khung giờ sẽ thắng. Tổng kết lúc 22:01, thưởng 100.000$, 3 Trứng Quý, 1 Chìa khoá Crate Shiny, 2.000 Tokens, 1 Tinh Thể Shiny và 1 Bùa Huyền Thoại.
+Mỗi ngày 2 khung 11:00-13:00 và 19:00-22:00. Ai câu được con cá giá cao nhất trong khung giờ sẽ thắng. Tổng kết lúc 13:01 và 22:01 (mỗi khung 1 người thắng), thưởng 100.000$, 3 Trứng Quý, 1 Chìa khoá Crate Shiny, 2.000 Tokens, 1 Tinh Thể Shiny và 1 Bùa Huyền Thoại.
 
 ### Có tự câu cá được không?
 
@@ -3123,7 +3123,7 @@ Most new players start by catching Pokémon, then move on to battles and guilds.
 
 - **[Ranked battles](https://coconubs.github.io/en/features/#ranked-battles):** 4v4 Doubles with Elo and 6v6 Singles, with automatic matchmaking.
 - **[Battle Tower](https://coconubs.github.io/en/features/#battle-tower):** 555 floors, with a boss floor every 5 floors.
-- **[Guilds](https://coconubs.github.io/en/features/#guilds):** Guild Wars on weekdays, a daily Guild Boss, guild gifts and a private land lock for each member.
+- **[Guilds](https://coconubs.github.io/en/features/#guilds):** Guild Wars every day, a daily Guild Boss, guild gifts and a private land lock for each member.
 - **[World Raids](https://coconubs.github.io/en/features/#world-raids):** A shared boss for the whole server at 9:00 and 19:00 every day.
 - **[Accumulating Legendary chance](https://coconubs.github.io/en/features/#legendary-and-shiny):** The longer the server goes without a Legendary, the higher the chance, shown on the HUD. Legendary Golden Hours run on Saturday and Sunday, 20:00-22:00 Vietnam time.
 - **[Shiny](https://coconubs.github.io/en/features/#legendary-and-shiny):** Shiny Fusion, Pokémon Eggs, Raids, the Daily Shop and the Battle Pass.
@@ -3218,8 +3218,8 @@ Evenings, especially Saturday and Sunday, are the busiest. Maintenance and event
 |---|---|
 | Every day at 0:00 | Battle Pass, jobs, expeditions and the Daily Shop reset. New Guild Boss, Battle Tower Points paid out |
 | Every day at 9:00 and 19:00 | World Raid, each lasting 2 hours |
-| Every evening 19:00-22:00 | Fishing golden hour |
-| Monday to Friday, 9:00-22:00 | Guild War, results at 22:00 |
+| Every day 11:00-13:00 and 19:00-22:00 | Fishing golden hour |
+| Every day, 9:00-22:00 | Guild War, results at 22:00 |
 | Saturday and Sunday | The Guild Boss is a Legendary, Battle Tower Points x3 |
 | Saturday and Sunday, 20:00-22:00 | Legendary Golden Hours, the current Legendary chance x2 |
 
@@ -3457,7 +3457,7 @@ Open with `/xephang` or the RANKED tile in the main menu.
 
 ## Guilds
 
-- **Guild Wars:** Monday to Friday, 9:00-22:00. Guilds raise a War Flag and challenge each other to steal flags in 4v4 Doubles at Lv 50. The guild holding the most flags at 22:00 is the day's Overlord.
+- **Guild Wars:** every day, 9:00-22:00. Guilds raise a War Flag and challenge each other to steal flags in 4v4 Doubles at Lv 50. The guild holding the most flags at 22:00 is the day's Overlord.
 - **Guild Boss:** a new boss for every guild each day at 0:00 (Pseudo, Paradox or Ultra Beast on weekdays, Legendary on weekends), 3 attempts per member.
 - **Guild gifts:** when a member catches a Shiny or a Legendary, or clears a Battle Tower checkpoint, the rest of the guild gets a gift box.
 - **Guild aura:** with 3 or more members online, everyone online gets +10% battle EXP and +10% catch rate.
@@ -3482,7 +3482,7 @@ Open with `/xephang` or the RANKED tile in the main menu.
 - **Jobs** (`/nghenghiep`): 8 jobs with 5 quests each per day, 1,000$ to 10,000$ per quest.
 - **Expeditions:** send Pokémon on 1★ to 5★ missions, 3 runs a day, timers keep running offline at half speed.
 - **Daily Shop:** 7 random Lv 50 Pokémon cards each day.
-- **Fishing:** 100 fish species in 7 rarities, a collection book, craftable rods and a golden hour contest every evening, 19:00-22:00.
+- **Fishing:** 100 fish species in 7 rarities, a collection book, craftable rods and a golden hour contest twice a day, 11:00-13:00 and 19:00-22:00.
 - **Mini-games:** Tiến Lên (a Vietnamese card game), a Monopoly-style board game and chess with Elo.
 
 ## In-game screens
@@ -3501,7 +3501,7 @@ Ranked battles with Elo, a 555-floor Battle Tower and World Raids; an accumulati
 
 ### Which features run at fixed times?
 
-In Vietnam time (UTC+7): World Raids at 9:00 and 19:00 every day; Guild Wars Monday to Friday, 9:00-22:00; the fishing golden hour every evening, 19:00-22:00; Legendary Golden Hours on Saturday and Sunday, 20:00-22:00. The new Guild Boss, daily Battle Pass quests, jobs, expeditions and the Daily Shop reset at 0:00.
+In Vietnam time (UTC+7): World Raids at 9:00 and 19:00 every day; Guild Wars every day, 9:00-22:00; the fishing golden hour twice a day, 11:00-13:00 and 19:00-22:00; Legendary Golden Hours on Saturday and Sunday, 20:00-22:00. The new Guild Boss, daily Battle Pass quests, jobs, expeditions and the Daily Shop reset at 0:00.
 
 **See also:** [Cobblemon server in Vietnam](https://coconubs.github.io/en/vietnam-cobblemon-server/) · [How to join](https://coconubs.github.io/en/how-to-join/) · [Download CocoLauncher](https://coconubs.github.io/en/cocolauncher/) · [FAQ](https://coconubs.github.io/en/faq/)
 

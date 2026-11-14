@@ -4,7 +4,7 @@ seo_title: "Server Cobblemon Việt Nam (Pokémon Minecraft): Coco Cobblemon, IP
 description: "Coco Cobblemon là server Cobblemon Việt Nam trên Minecraft Java 1.21.1, IP coco.ultramc.co, menu tiếng Việt, vào bằng CocoLauncher miễn phí. Lịch sự kiện, cách chọn server."
 nav_order: 4
 alt: /en/vietnam-cobblemon-server/
-last_modified_at: 2026-11-12T10:00:00+07:00
+last_modified_at: 2026-11-14T19:30:00+07:00
 ---
 
 # Server Cobblemon Việt Nam: Coco Cobblemon
@@ -42,8 +42,8 @@ Số người online thay đổi theo giờ. Vài lần đo gần đây:
 |---|---|
 | Mỗi ngày 0:00 | Làm mới nhiệm vụ Battle Pass, Nghề nghiệp, Ải Viễn Chinh và Daily Shop. Boss Bang mới, phát BattleTower Points |
 | Mỗi ngày 9:00 và 19:00 | [Raid Thế Giới](/tinh-nang/raid/), mỗi lượt kéo dài 2 tiếng |
-| Mỗi tối 19:00-22:00 | Khung giờ vàng [câu cá](/tinh-nang/cau-ca/) |
-| Thứ 2 tới Thứ 6, 9:00-22:00 | [Bang Hội Chiến](/tinh-nang/bang-hoi/), tổng kết lúc 22:00 |
+| Mỗi ngày 11:00-13:00 và 19:00-22:00 | Khung giờ vàng [câu cá](/tinh-nang/cau-ca/) |
+| Mỗi ngày 9:00-22:00 | [Bang Hội Chiến](/tinh-nang/bang-hoi/), tổng kết lúc 22:00 |
 | Thứ 7, Chủ Nhật | Boss Bang là Legendary, BattleTower Points nhân 3 |
 | Thứ 7, Chủ Nhật, 20:00-22:00 | Giờ Vàng [Legendary](/tinh-nang/legendary/), tỉ lệ đang tích luỹ nhân 2 |
 
