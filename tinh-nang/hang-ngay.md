@@ -5,7 +5,7 @@ description: "Việc hằng ngày trên server Coco Cobblemon: Battle Pass 100 c
 parent: Tính năng
 nav_order: 7
 permalink: /tinh-nang/hang-ngay/
-last_modified_at: 2026-11-12T10:00:00+07:00
+last_modified_at: 2026-11-14T12:00:00+07:00
 ---
 
 # Việc hằng ngày
@@ -40,11 +40,11 @@ Gõ `/nghenghiep`. Làm nhiệm vụ nghề, xong thì bấm **NHẬN** để l�
 
 | Độ khó | Thưởng chắc chắn |
 |---|---|
-| 1★ | 2.000$ + 3 Tokens |
-| 2★ | 6.000$ + 8 Tokens |
-| 3★ | 15.000$ + 20 Tokens |
-| 4★ | 40.000$ + 45 Tokens |
-| 5★ | 100.000$ + 120 Tokens |
+| 1★ | 2.000$ + 15 Tokens |
+| 2★ | 6.000$ + 30 Tokens |
+| 3★ | 15.000$ + 50 Tokens |
+| 4★ | 40.000$ + 100 Tokens |
+| 5★ | 100.000$ + 500 Tokens |
 
 Có thể rơi thêm: Rare Candy, EXP Candy, Trứng, Ability Capsule, Bottle Cap, Bùa Huyền Thoại...
 
@@ -52,7 +52,7 @@ Có thể rơi thêm: Rare Candy, EXP Candy, Trứng, Ability Capsule, Bottle Ca
 {: #daily-shop }
 
 - 0h00 mỗi ngày bạn được 7 thẻ Pokémon ngẫu nhiên cấp 50. Bấm để lật thẻ, ưng con nào thì mua bằng CobbleDollars và Tokens.
-- Giá: Common 50.000$ + 10 Tokens, Uncommon 100.000$ + 25, Rare 300.000$ + 50, Ultra-rare 1.250.000$ + 125.
+- Giá: Common 50.000$ + 10 Tokens, Uncommon 100.000$ + 100, Rare 300.000$ + 200, Ultra-rare 1.250.000$ + 2.000.
 - 0,1% thẻ là Legendary, Mythical, UB hoặc Paradox. Tỉ lệ ra Shiny là 1/2048.
 
 ## Điểm danh

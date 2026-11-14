@@ -5,7 +5,7 @@ description: "Bang hội trên server Coco Cobblemon: tạo bang, Bang Hội Chi
 parent: Tính năng
 nav_order: 3
 permalink: /tinh-nang/bang-hoi/
-last_modified_at: 2026-11-12T10:00:00+07:00
+last_modified_at: 2026-11-14T19:00:00+07:00
 ---
 
 # Bang hội
@@ -67,11 +67,11 @@ Khi một người trong bang làm được việc lớn, những người còn 
 
 | Việc | Quà cho các thành viên khác |
 |---|---|
-| Bắt, nở hoặc dung hợp ra Shiny | 20.000$ + 50 Tokens |
-| Bắt Legendary, Mythical, UB, Paradox | 10.000$ + 75 Tokens |
-| Lần đầu vượt mỗi mốc 50 tầng BattleTower | 5.000$ |
-| Bang lên cấp | 25.000$ + 50 Tokens + Chìa Raid + Chìa Tỷ Phú + Trứng Quý |
-| Hạ Boss Bang | 25.000$ + 100 Tokens |
+| Bắt, nở hoặc dung hợp ra Shiny | 5.000$ + 25 Tokens |
+| Bắt Legendary, Mythical, UB, Paradox | 5.000$ + 50 Tokens |
+| Lần đầu vượt mỗi mốc 50 tầng BattleTower | 1.000$ |
+| Bang lên cấp | 10.000$ + 50 Tokens + Chìa Raid + Chìa Tỷ Phú + Trứng Quý |
+| Hạ Boss Bang | 2.500$ + 50 Tokens |
 
 Phải vào bang đủ 24 giờ mới nhận, tối đa 15 hộp một ngày. Đang offline thì quà được giữ 72 giờ.
 

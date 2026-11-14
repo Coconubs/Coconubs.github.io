@@ -5,7 +5,7 @@ description: "Kinh tế server Coco Cobblemon: CobbleDollars, Tokens, BattleTowe
 parent: Tính năng
 nav_order: 9
 permalink: /tinh-nang/kinh-te/
-last_modified_at: 2026-11-12T10:00:00+07:00
+last_modified_at: 2026-11-14T19:00:00+07:00
 ---
 
 # Tiền tệ, Shop và Chợ GTS
@@ -23,18 +23,12 @@ Trên Coco Cobblemon, Held Item, thuốc EV, Mint, kẹo IV không nhặt ngoài
 
 Số dư luôn hiện trên scoreboard bên phải màn hình và ở đầu Menu.
 
-## Cách kiếm Tokens
+## Cách kiếm tiền và Tokens
 
-| Nguồn | Tokens |
-|---|---|
-| Điểm danh Discord | Mốc chuỗi 1, 3, 5, 7, 10 rồi cứ 5 ngày một mốc, mỗi mốc khoảng 1,6 × số ngày chuỗi (ngày 10 được 16, ngày 100 được 160) |
-| [Ải Viễn Chinh](/tinh-nang/hang-ngay/#vien-chinh) | 1★ 3 · 2★ 8 · 3★ 20 · 4★ 45 · 5★ 120 |
-| [Raid Thế Giới](/tinh-nang/raid/) | Tham gia 100, kết liễu 200, sát thương cao nhất 500 |
-| [Bang hội](/tinh-nang/bang-hoi/) | Boss Bang (top sát thương 25-100), Bang Hội Chiến (10 mỗi giờ), Quà Bang (tới 100 mỗi hộp) |
-| BattleTower | Lần đầu vượt mốc tầng, và Tokens mỗi giờ online theo mốc cao nhất đã vượt |
-| Battle Pass | Mỗi nhiệm vụ ngày +25, tuần +150, nhiệm vụ Đặc biệt +500, cộng quà theo cấp |
+Đủ mọi nguồn kèm số thật ở 2 trang [Cách kiếm tiền (CobbleDollars)](/tinh-nang/kiem-tien/) và [Cách kiếm Tokens](/tinh-nang/kiem-tokens/). Tóm tắt:
 
-Đều tay nhất là làm nhiệm vụ Battle Pass và Viễn Chinh mỗi ngày.
+- **Tiền ($)**: Nghề nghiệp (tới 10.000$ mỗi việc), Viễn Chinh (tới 100.000$ mỗi ải), Quà Online, bán đồ ở Ngân hàng (`/sell`), bán Pokémon tự bắt (`/banpokemon`).
+- **Tokens**: nhiệm vụ Battle Pass (25 mỗi nhiệm vụ ngày, 150 mỗi nhiệm vụ tuần), Viễn Chinh (15–500 mỗi ải), Quà Online, BattleTower, Raid Thế Giới.
 
 ## Các shop trong Menu
 
@@ -57,6 +51,7 @@ Từ 07/11/2026, Shop CobbleDollars (cả Shop ở dân làng) và Ngân hàng c
 - Vật phẩm bị cấm trên server thì không đăng bán được.
 
 ## Held Item, thuốc EV, Mint, kẹo IV
+{: #held-item }
 
 Trên Coco Cobblemon, **Held Item không rơi ngoài thế giới**. Rương, dungeon, công trình, câu cá, quái, NPC Trainer, Raid Dens và Pokémon hoang dã đều không cho Held Item; Pokémon hoang dã xuất hiện cũng bị bỏ đồ đang cầm. Bóng Pokémon, TM, Plate, đồ ăn, Relic Coin vẫn rơi bình thường.
 
@@ -70,8 +65,8 @@ Trên Coco Cobblemon, **Held Item không rơi ngoài thế giới**. Rương, du
 | Đĩa TM | Shop Tokens, 40-400 Tokens |
 | Thuốc EV (Calcium, Iron, Zinc, Protein, Carbos, HP Up...) | Chỉ mua bằng Tokens, 1,5-30 Tokens (công thức chế đã bị xoá) |
 | Mint (21 loại, đổi Nature) | 50 Tokens mỗi cái |
-| Kẹo IV, Ability Capsule, Ability Patch | 200-3.000 Tokens |
-| Bottle Cap | Silver 5.000 Tokens, Gold 25.000 Tokens; có trong quà Battle Pass Premium và Viễn Chinh 5★ |
+| Kẹo IV, Ability Capsule, Ability Patch | Kẹo tăng 1 IV 800 Tokens, kẹo giảm 1 IV 400 Tokens, Ability Capsule 1.000 Tokens, Ability Patch 2.500 Tokens |
+| Bottle Cap | Silver 7.500 Tokens, Gold 45.000 Tokens; có trong quà Battle Pass Premium và Viễn Chinh 5★ |
 
 Nếu dùng đĩa TM cho Pokémon chỉ học được chiêu đó qua Tutor hoặc Egg Moves, game sẽ báo cần loại đĩa nào. Bấm vào dòng gợi ý là mở Shop Tokens.
 
@@ -81,9 +76,9 @@ Nếu dùng đĩa TM cho Pokémon chỉ học được chiêu đó qua Tutor ho�
 |---|---|---|
 | Tinh Thể Shiny | Nguyên liệu [Dung hợp Shiny](/tinh-nang/shiny/) | Mốc điểm danh chia hết cho 10, Raid, Battle Pass |
 | Bột May Mắn | +5% tỉ lệ Dung hợp | Shop Tokens 150, Raid, Battle Pass |
-| Trứng Pokémon | Chuột phải để mở | Mốc điểm danh chia hết cho 5, Viễn Chinh 3-5★, Shop BattleTower 150 BP, Battle Pass |
-| Chìa Khoá Raid | Vào Raid Thế Giới | Shop BattleTower 800 BP, Battle Pass |
-| Bùa Huyền Thoại | Trong 60 phút, tỉ lệ Legendary tự nhiên quanh bạn (96 block) x2, tối đa 2% | Shop Tokens 2.500, Shop BattleTower 1.500 BP, Viễn Chinh 5★ (3%), Battle Pass |
+| Trứng Pokémon | Chuột phải để mở | Mốc điểm danh chia hết cho 5, Viễn Chinh 3-5★, Shop BattleTower 250 BP, Battle Pass |
+| Chìa Khoá Raid | Vào Raid Thế Giới | Shop BattleTower 100 BP, Battle Pass |
+| Bùa Huyền Thoại | Trong 60 phút, tỉ lệ Legendary tự nhiên quanh bạn (96 block) x2, tối đa 2% | Shop Tokens 2.500, Shop BattleTower 2.500 BP, Viễn Chinh 5★ (3%), Battle Pass |
 
 ## Hỏi nhanh
 

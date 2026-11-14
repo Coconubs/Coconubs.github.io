@@ -3,7 +3,7 @@ title: Hướng dẫn người mới
 seo_title: "Hướng dẫn người mới Coco Cobblemon: việc ngày đầu và lệnh hay dùng"
 description: "Mới vào Coco Cobblemon nên làm gì: liên kết Discord, Battle Pass, Nghề nghiệp, Viễn Chinh, BattleTower, claim đất. Kèm các lệnh hay dùng: /menu, /sethome, /rtp, /claim, /gts."
 nav_order: 5
-last_modified_at: 2026-11-12T10:00:00+07:00
+last_modified_at: 2026-11-14T12:00:00+07:00
 ---
 
 # Hướng dẫn người mới
@@ -19,6 +19,8 @@ Mới vào thì làm trước 6 việc dưới đây. Muốn đọc đủ thì v
 4. **Đi Ải Viễn Chinh** đủ 3 lượt mỗi ngày, được tiền, Tokens và Rare Candy.
 5. **Leo BattleTower**, mỗi ngày nhận BattleTower Points theo tầng đã leo.
 6. **Giữ đất và đặt nhà:** đứng trong chunk muốn giữ, gõ `/claim`, rồi gõ `/sethome`.
+
+Muốn biết đủ các nguồn tiền và Tokens, xem [Cách kiếm tiền](/tinh-nang/kiem-tien/) và [Cách kiếm Tokens](/tinh-nang/kiem-tokens/).
 
 ## Dùng Menu
 
